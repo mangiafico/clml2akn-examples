@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/280"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/280"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="280"/>
+               <FRBRname value="S.S.I. 2019/280"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/280/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/280/made"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/280/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/280/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-10" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-09-12" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-11-25" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1995/46">1995 c.46</ref>. Section 226I was inserted by section 55 of the Criminal Proceedings etc. (Reform) (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2007/6">2007 (asp 6)</ref>. There are amendments to section 226I which are not relevant to this Order.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 253F was inserted by section 26 of the Victims and Witnesses (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2014/1">2014 (asp 1)</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042724"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 280</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Criminal Law</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Enforcement of Fines (Relevant Penalty) (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-10">10th September 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-11-25">25th November 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 226I(1) of the Criminal Procedure (Scotland) Act 1995<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Enforcement of Fines (Relevant Penalty) (Scotland) Order 2019 and comes into force on 25 November 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order, “the Act” means the Criminal Procedure (Scotland) Act 1995.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Relevant penalty</heading>
+            <num>2.</num>
+            <content>
+               <p>The victim surcharge, imposed under section 253F of the Act<noteRef href="#f00002" class="footnote" marker="2"/>, is specified by the Scottish Ministers as a relevant penalty for the purposes of section 226I of the Act.</p>
+            </content>
+         </article>
+         <article eId="article-3">
+            <heading>Relevant court</heading>
+            <num>3.</num>
+            <intro>
+               <p>In relation to the relevant penalty specified in article 2, the Scottish Ministers specify the following courts as relevant courts for the purposes of section 226I of the Act—</p>
+            </intro>
+            <subparagraph eId="article-3-a">
+               <num>(a)</num>
+               <content>
+                  <p>the court which imposed the penalty, or</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-3-b">
+               <num>(b)</num>
+               <content>
+                  <p>where the penalty is transferred to another court, that other court.</p>
+               </content>
+            </subparagraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">HUMZA YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-10">10th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order specifies the victim surcharge as a relevant penalty for the purposes of section 226I of the Criminal Procedure (Scotland) Act 1995. The Order also specifies the court which imposed the victim surcharge or the court to which the victim surcharge is transferred as relevant courts for the purposes of section 226I in relation to the victim surcharge.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

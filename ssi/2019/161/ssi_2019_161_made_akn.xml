@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/161"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/161"/>
+               <FRBRdate date="2019-04-30" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="161"/>
+               <FRBRname value="S.S.I. 2019/161"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/161/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/161/made"/>
+               <FRBRdate date="2019-04-30" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/161/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/161/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-30" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-02" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-28" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1972/11">1972 c.11</ref>; section 7 was amended by the Public Service Pensions Act 2013, schedule 8, paragraph 8; the functions of the Secretary of State under section 7 were transferred to the Scottish Ministers by virtue of <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1999/1750">S.I. 1999/1750</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2013/25">2013 c.25</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2018/141">S.S.I. 2018/141</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2014/233">S.S.I. 2014/233</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2014/164">S.S.I. 2014/164</ref> as amended by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2015/87">S.S.I. 2015/87</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042045"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 161</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Public Service Pensions</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-30">30th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-02">2nd May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-28">28th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 7 of the Superannuation Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and sections 1, 2 and 3 and schedule 2, paragraph 3(b) of the Public Services Pensions Act 2013<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 7(5) of the Superannuation Act 1972, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable, and such representatives of other persons likely to be affected by these Regulations as appeared to them to be appropriate.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 21(1) of the Public Services Pensions Act 2013 , the Scottish Ministers consulted such persons or the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and effect</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019, and come into force on 28 June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>Regulations 2 (other than paragraph (18)(b)) and 3 have effect from 1 June 2018.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>Regulations 2(18)(b) and 4 have effect from 1 April 2015.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Local Government Pension Scheme (Scotland) Regulations 2018</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Local Government Pension Scheme (Scotland) Regulations 2018<noteRef href="#f00003" class="footnote" marker="3"/> are amended in accordance with paragraphs (2) to (28).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 1(2)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after “29(11),” insert “29(13),”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “transfer” substitute “Transfer”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>For regulation 2(1) substitute “These Regulations consolidate with certain amendments the provisions of the Local Government Pension Scheme (Scotland) Regulations 2014, which established a scheme for the payment of pensions and other benefits to or in respect of persons employed by Scheme employers, and constitute “the Scheme””.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 2(2) for “scheme” substitute “Scheme”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 8(1) for “Pension” substitute “Pensions”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In regulation 9—</p>
+               </intro>
+               <subparagraph eId="regulation-2-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (4) for “affect” substitute “affects”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (5) for “meaning of “actual pensionable pay”” substitute “meaning of “pensionable pay””, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-6-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (6) for “on or after” substitute “on or after the day prior to”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-7">
+               <num>(7)</num>
+               <content>
+                  <p>In regulation 10(1) for “scheme” substitute “Scheme”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-8">
+               <num>(8)</num>
+               <content>
+                  <p>In regulation 11, after paragraph (4) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(5)</num>
+                              <content>
+                                 <p>An active member, who is absent from work with permission from the member’s Scheme employer (otherwise than by reason of illness or injury) for a continuous period of less than 31 days and is receiving reduced or no pay, must pay contributions on the pensionable pay the member would have received during that period but for the absence.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-9">
+               <num>(9)</num>
+               <intro>
+                  <p>In regulation 16—</p>
+               </intro>
+               <subparagraph eId="regulation-2-9-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (11)(e) for “29(6)” substitute “29(7)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-9-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (16) after “applies,” insert “an”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-10">
+               <num>(10)</num>
+               <intro>
+                  <p>In regulation 17—</p>
+               </intro>
+               <subparagraph eId="regulation-2-10-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (6)—</p>
+                  </intro>
+                  <clause eId="regulation-2-10-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>remove “(2),”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-10-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “(7)”, substitute “(6), (8),”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-10-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>for “29(6)” substitute “29(7)”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-10-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>in (b)(ii) after “annuity” insert “or additional pension”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (8), after “conditions” insert “; and this provision applies also to members of Earlier Schemes”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-10-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (12)(e) after “annuity” insert “or additional pension”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-11">
+               <num>(11)</num>
+               <intro>
+                  <p>In regulation 21—</p>
+               </intro>
+               <subparagraph eId="regulation-2-11-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (4)(a)(v) for “12 weeks” substitute “3 months”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-11-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (4)(b)(v) for “3 months” substitute “12 weeks”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-12">
+               <num>(12)</num>
+               <intro>
+                  <p>In regulation 22—</p>
+               </intro>
+               <subparagraph eId="regulation-2-12-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (6) in penultimate line for “and” substitute “or”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-12-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (7) in penultimate line for “and” substitute “or”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-13">
+               <num>(13)</num>
+               <content>
+                  <p>In regulation 23(8) for “29(6)” substitute “29(7)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-14">
+               <num>(14)</num>
+               <content>
+                  <p>In regulation 25(8) for “29(6)” substitute “29(7)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-15">
+               <num>(15)</num>
+               <intro>
+                  <p>In regulation 27—</p>
+               </intro>
+               <subparagraph eId="regulation-2-15-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1) for “29(6)” substitute “29(7)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-15-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (5) for “29(6)” substitute “29(7)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-16">
+               <num>(16)</num>
+               <content>
+                  <p>After regulation 29(13) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(14)</num>
+                              <content>
+                                 <p>A deferred member who has attained the age of 55 or over may elect to receive immediate payment of a retirement pension, reduced by the amount shown as appropriate in actuarial guidance issued by the Scottish Ministers, irrespective of whether the deferred pension member is also an employee in local government service.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-17">
+               <num>(17)</num>
+               <content>
+                  <p>In regulation 30(2) after “limit” insert “for the purposes of paragraph (1)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-18">
+               <num>(18)</num>
+               <intro>
+                  <p>In regulation 37—</p>
+               </intro>
+               <subparagraph eId="regulation-2-18-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (7) for “21(6)” substitute “21(8)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-18-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (7) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(8)</num>
+                                 <content>
+                                    <p>For the purposes of this regulation, regulations 38, 39 and 40, in calculating assumed pensionable pay in accordance with regulation 21(4) (assumed pensionable pay), no account is to be taken of any reduction in the pensionable pay the member incurred if the member was working reduced contractual hours as a consequence of ill-health or infirmity of mind or body.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-19">
+               <num>(19)</num>
+               <content>
+                  <p>In regulation 39(4)(a)(iii) after “excluded” insert “any”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-20">
+               <num>(20)</num>
+               <intro>
+                  <p>In regulation 43—</p>
+               </intro>
+               <subparagraph eId="regulation-2-20-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (5)(c) after “30” insert “(award of additional pension)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-20-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (11) for “paragraph (4)(c)” substitute “paragraphs (4)(c), (5)(c), (9)(c) and (10)(c)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-21">
+               <num>(21)</num>
+               <content>
+                  <p>In regulation 61(8)for “paragraph (7)” substitute “paragraph (9)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-22">
+               <num>(22)</num>
+               <content>
+                  <p>In regulation 63(3) for “61(6)” substitute “61(8)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-23">
+               <num>(23)</num>
+               <content>
+                  <p>In regulation 64(2)(b) for “4(6)” substitute “4(4)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-24">
+               <num>(24)</num>
+               <content>
+                  <p>In regulation 98 for “is” substitute “are”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-25">
+               <num>(25)</num>
+               <content>
+                  <p>In regulation 99(3)(a), add at the end—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subparagraph>
+                              <num>(iii)</num>
+                              <content>
+                                 <p>
+                                    <abbr class="acronym" title="United Kingdom">UK</abbr> Parliamentary elections;</p>
+                              </content>
+                           </subparagraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-26">
+               <num>(26)</num>
+               <intro>
+                  <p>In schedule 1—</p>
+               </intro>
+               <subparagraph eId="regulation-2-26-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the definition of “co-habiting partner” in paragraph (a) for “(b)” substitute “(b)(i), and the conditions in (b)(ii) to (iv)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-26-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after the definition of “dependant” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Earlier Schemes” has the meaning in regulation 1(4) of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2014/233">S.S.I. 2014/233</ref>).</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-27">
+               <num>(27)</num>
+               <content>
+                  <p>For paragraph 2 of schedule 4, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>2.</num>
+                              <content>
+                                 <p>The Scottish Ministers may, on the application of a Scheme employer, by a written direction substitute a different administering authority as the appropriate administering authority for a person or class of persons.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-28">
+               <num>(28)</num>
+               <intro>
+                  <p>In schedule 4 —</p>
+               </intro>
+               <subparagraph eId="regulation-2-28-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for paragraph 2, substitute “Scottish Ministers may, on application by a Scheme employer, by a written direction substitute a different administering authority as the appropriate administering authority for a person or class of person”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-28-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit paragraph 3, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-28-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph 4 for “3” substitute “2”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with paragraphs (2) to (4).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 1(4)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after the definition of the 2015 Scheme, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the 2018 Regulations” means the Local Government Pension Scheme (Scotland) Regulations 2018 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2018/141">S.S.I. 2018/141</ref>),</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the definition of “the Earlier Schemes” for “and the 2009” substitute “, the 2009 and the 2015”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>After regulation 3(12) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(13)</num>
+                              <content>
+                                 <p>A person who is a deferred member of one of the Earlier Schemes whose benefits under those Schemes have not come into payment and the member is not an active member in local government service in employment from which the benefits arise and who has attained the age of 55 or over may elect to receive immediate payment of a retirement pension, reduced by the amount shown as appropriate in actuarial guidance issued by the Scottish Ministers, irrespective of whether the deferred pension member is also an employee in local government service.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In schedule 2—</p>
+               </intro>
+               <subparagraph eId="regulation-3-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph 1(1)(b) after “2014 Regulations” insert “or regulation 29(6) (retirement benefits: early retirement) of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph 1(1)(c) after “2014 Regulations” insert “or regulation 29(6) (retirement benefits: early retirement) of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph 1(1)(d) after “2014 Regulations” insert “or regulation 29(7) (retirement benefits: flexible retirement) of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in paragraph 1(3)(a) after “2014 Regulations” insert “or regulation 29(6) or (7) of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in paragraph 2(2) after “2014 Regulations” insert “or regulation 58 of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>in paragraph 4(2)(a)(ii) after “2014 Regulations” insert “or regulations 9 or 10 of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>in paragraph 4(2)(a)(iii) after “2014 Regulations” insert “or regulation 16 of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>in paragraph 4(2)(b)(iii) after “2014 Regulations” insert “or regulation 31(4) of the 2018 Regulations”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>in paragraph 5(1) after “2014 Regulations” insert “or regulation 29(7) of the 2018 Regulations”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>in paragraph 6(2) after “2014 Regulations” insert “or regulation 22 of the 2018 Regulations”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Local Government Pension Scheme (Scotland) Regulations 2014</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Local Government Pension Scheme (Scotland) Regulations 2014<noteRef href="#f00005" class="footnote" marker="5"/> are amended in accordance with paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 37 after paragraph (7) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(8)</num>
+                              <content>
+                                 <p>For the purposes of this regulation, regulations 38, 39 and 40, in calculating assumed pensionable pay in accordance with regulation 21(4) (assumed pensionable pay), no account is to be taken of any reduction in the pensionable pay the member received if the member was working reduced contractual hours as a consequence of ill-health or infirmity of mind or body.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-30">30th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend a) the Local Government Pension Scheme (Scotland) Regulations 2018 (“the 2018 regulations”); b) the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (“the transitional regulations”); and c) the Local Government Pension Scheme (Scotland) Regulations 2014 (“the 2014 regulations”). The 2018 regulations were a consolidation with some limited amendments of the 2014 regulations and this is stated for clarification purposes only by an amendment to regulation 2(1) the 2018 regulations by regulation 2(3) of these Regulations.</p>
+            <p>There are two principal substantive amendments to the 2018 regulations. First there is an amendment to regulation 29 by regulation 2(16) which provides that a deferred member who has attained the age of 55 or over may elect to receive immediate payment of a retirement pension, reduced by the amount shown as appropriate in actuarial guidance issued by the Scottish Ministers, irrespective of whether the deferred pension member is also an employee in local government service. Secondly there is an amendment to schedule 4 of the 2018 regulations which widens the scope of the direction making power of Scottish Ministers to determine by direction which local government pension fund any members or class of members should belong to. The other amendments to the 2018 regulations are of a minor nature including ones to correct drafting errors in those regulations.</p>
+            <p>The main amendment to the transitional regulations is by regulation 3(3) which provides that a person who is a deferred member of one of the Earlier Schemes(as defined in those Regulations) whose benefits under those Schemes have not come into payment and the member is not an active member in local government service in employment from which the benefits arise and who has attained the age of 55 or over may elect to receive immediate payment of a retirement pension, reduced by the amount shown as appropriate in actuarial guidance issued by the Scottish Ministers, irrespective of whether the deferred pension member is also an employee in local government service.</p>
+            <p>Regulation 4 of these Regulations amends retrospectively the 2014 regulations to provide that in the various provisions of the 2014 regulations that deal with assumed pensionable pay no account is to be taken of any reduction in the pensionable pay the member received if the member was working reduced contractual hours as a consequence of ill-health or infirmity of mind or body.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

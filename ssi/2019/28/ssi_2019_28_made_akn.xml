@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/28"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/28"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="28"/>
+               <FRBRname value="S.S.I. 2019/28"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/28/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/28/made"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/28/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/28/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-07" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-29" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote table" eId="f01000">
+               <num>(i)</num>
+               <p>Initial fee per consignment for cut flowers (up to 20,000 in number) and fruit and vegetables (up to 25,000 <abbr title="Kilogrammes">kg</abbr> in weight). Corresponding fees are set in the principal Regulations for additional quantities, maximum price per consignment and inspections carried out outside normal working hours.</p>
+            </note>
+            <note class="footnote table" eId="f01001">
+               <num>(ii)</num>
+               <p>Consignments subject to an inspection rate of 100% are excluded from the reduced rate inspection scheme and are subject to the import inspection fees specified in Schedule 1 to the principal Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1973/51">1973 c.51</ref>. The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the Scotland Act 1998 (Consequential Modifications) (<abbr title="Number">No.</abbr> 2) Order 1999 (<ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1999/1820">S.I. 1999/1820</ref>) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>. The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998. Section 56(1) was amended by article 6(1)(e) of the Treaty of Lisbon (Changes of Terminology) Order 2011 (<ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2014/338">S.S.I. 2014/338</ref>, as amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2015/392">S.S.I. 2015/392</ref>, <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2017/6">S.S.I. 2017/6</ref> and <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2018/22">S.S.I. 2018/22</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2018/22">S.S.I. 2018/22</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040768"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 28</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Plant Health</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-05">5th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-07">7th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-29">29th March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2019 and come into force on 29 March 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014</heading>
+            <num>2.</num>
+            <content>
+               <p>In the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014<noteRef href="#f00002" class="footnote" marker="2"/> for schedule 2 (import inspection fees for applicable checks (reduced rates)), substitute—<mod>
+                     <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                        <hcontainer name="schedule">
+                           <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>2<authorialNote class="referenceNote">
+                                 <p>Regulations 3 and 4(2)</p>
+                              </authorialNote>
+                           </num>
+                           <heading>REDUCED IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS</heading>
+                           <content>
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+                                       <colgroup>
+                                          <col width="58.5pt"/>
+                                          <col width="72pt"/>
+                                          <col width="103.5pt"/>
+                                          <col width="85.5pt"/>
+                                          <col width="54pt"/>
+                                          <col width="49.5pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Item</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Product</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Quantity</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Country of Origin</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="2" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Fees*</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Normal working hours</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Outside normal working hours</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="30" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Cut Flowers</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Aster</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 20,000 in number</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Zimbabwe</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£37.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£57.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000 units</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.15</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.23</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">maximum price</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£132.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£246.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="9" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Dianthus</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 20,000 in number</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.10</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador, Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£26.70</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£35.40</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000 units</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.01</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.01</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador, Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.03</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.05</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.01</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.02</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">maximum price</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£38.70</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador, Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£45.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£73.20</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£31.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£44.40</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Phoenix</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 20,000 in number</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Costa Rica</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000 units</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.10</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">maximum price</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£96.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£174.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="15" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Rosa</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="5" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 20,000 in number</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.10</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£30.40</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ethiopia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya, Zambia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Tanzania</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="5" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000 units</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.01</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.01</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.01</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.01</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ethiopia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.01</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.02</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya, Zambia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.02</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.03</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Tanzania</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.10</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="5" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">maximum price</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£38.70</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£32.90</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ethiopia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£31.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£44.40</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya, Zambia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£38.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£58.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Tanzania</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£96.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£174.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="46" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Fruit</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="8" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Egypt, Tunisia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£37.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£57.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco, Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.10</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Peru</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <abbr xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" class="acronym" title="United States of America">USA</abbr>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£39.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Egypt, Tunisia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£1.13</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco, Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.03</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.05</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Peru</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.08</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">USA</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.38</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus limon, C. aurantiifolid</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Israel</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£39.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.38</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="8" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Malus</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£42.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Brazil</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Chile, South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">New Zealand</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.28</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.53</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Brazil</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.75</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Chile, South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.04</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.08</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">New Zealand</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.08</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Mangifera</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Brazil</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.75</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="8" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Passiflora</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.30</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£32.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya, Vietnam</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£39.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£42.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Zimbabwe</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Colombia</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.06</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.11</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya, Vietnam</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.38</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.28</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.53</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Zimbabwe</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.75</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="8" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Prunus</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£37.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£57.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Chile</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco, USA</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£42.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.60</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£1.13</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Chile</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.08</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco, USA</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.75</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.28</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.53</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Prunus</i> – other than<i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">. P. persica</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.04</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.08</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="6" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Pyrus</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina, Chile</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£26.70</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£35.40</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">China</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.00</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£48.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.60</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argentina, Chile</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.12</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.23</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">China</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.40</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.75</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Africa</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.08</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.15</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Vaccinium</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Argentina</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£39.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.38</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="5" colspan="1" valign="middle" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vegetables</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Solanum lycopersicon</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Canary Islands, Morocco</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£31.80</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.04</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.08</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Solanum melongena</i>
+                                             </td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">up to 25,000kg in weight</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" valign="middle" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Turkey</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£39.00</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">for each additional 1,000kg</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£0.20</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£0.38</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="6" valign="bottom">*Fee includes: a documentary check; an identity check; travel costs (weekday/weekend based on average costs) and the cost of physical inspection, which depends on the type and size of import and the country of origin.</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="6" valign="bottom">Note: Fees are rounded up to the nearest decimal point, with the exception of the additional quantity values, which are rounded up to the nearest penny.</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </content>
+                        </hcontainer>
+                     </quotedStructure>
+                  </mod>
+                  <inline name="AppendText">.</inline>
+               </p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Revocation</heading>
+            <num>3.</num>
+            <content>
+               <p>Regulation 2 of the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018<noteRef href="#f00003" class="footnote" marker="3"/> is revoked.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-05">5th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 (“the principal Regulations”).</p>
+            <p>Article 13d of Council <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/2000/0029">Directive 2000/29/EC</ref> (<abbr class="acronym" title="Official Journal">OJ</abbr> L 169, 10.7.2000, p.1) (“the Directive”) requires a Member State to ensure the collection of fees to cover the costs occasioned by the documentary checks, identity checks and plant health checks of certain imports of plants, plant products and other objects from third countries which are required by Article 13a(1) of the Directive. Pursuant to Article 2 of Commission Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2004/1756">(<abbr class="acronym" title="European Community">EC</abbr>) 1756/2004</ref> (OJ L 313, 12.10.2004, p.6), the European Commission notifies Member States of plants and plant products which should be subject to reduced inspection and of the rate of such inspection. Regulation 2 substitutes schedule 2 of the principal Regulations to take account of the most recent Commission Notification on reduced inspection rates as published on the following website: <a href="http://ec.europa.eu/food/plant/plant_health_biosafety/trade_non_eu/reduced_frequency_checks_en.htm">http://ec.europa.eu/food/plant/plant_health_biosafety/trade_non_eu/reduced_frequency_checks_en.htm</a>.</p>
+            <p>The table provides a comparison of changes made to the fees in schedule 2 of the principal Regulations:</p>
+            <tblock class="tabular" ukl:Orientation="portrait">
+               <num>TABLE</num>
+               <foreign>
+                  <table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+                     <colgroup>
+                        <col width="71.05pt"/>
+                        <col width="71.05pt"/>
+                        <col width="71.05pt"/>
+                        <col width="71.05pt"/>
+                        <col width="71.05pt"/>
+                        <col width="71.05pt"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Genus</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Country of origin</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Previous rate of inspection</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Previous fee<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f01000" class="footnote" marker="(i)"/>
+                           </th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">New rate of inspection</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">New fee, specified in Schedule 2</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="6" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">PART 1</th>
+                        </tr>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="6" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Cut Flowers</th>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Phoenix</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Costa Rica</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">35%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Rosa</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Ecuador</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">3%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.60</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£24.20</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Rosa</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">5%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">10%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£25.80</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Rosa</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Tanzania</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£26.70</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="6" valign="bottom" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Fruit</th>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Egypt</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£42.00</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">75%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£37.50</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">5%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">3%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£24.60</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Tunisia</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£42.00</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">75%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£37.50</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Citrus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">USA</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£26.70</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">25%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£28.50</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Malus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Brazil</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">75%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£37.50</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Mangifera</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Brazil</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£42.00</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Passiflora</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vietnam</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">35%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">25%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£28.50</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Prunus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">25%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Prunus</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">USA</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">25%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£28.50</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">50%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£33.00</td>
+                        </tr>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="6" valign="bottom" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Vegetables</th>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Capsicum</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Morocco</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">5%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£24.90</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f01001" class="footnote" marker="(ii)"/>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">-</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Momordica</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Surinam</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">35%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£30.30</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f01001" class="footnote" marker="(ii)"/>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">-</td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                              <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Solanum melongena</i>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Kenya</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">10%</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£25.80</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">100%<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f01001" class="footnote" marker="(ii)"/>
+                           </td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">-</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </foreign>
+            </tblock>
+            <p>Regulation 3 revokes regulation 2 of the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2018.</p>
+            <p>No business and regulatory impact assessment has been prepared for this instrument as it has limited impact on the cost of business.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

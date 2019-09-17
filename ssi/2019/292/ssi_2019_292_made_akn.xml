@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/292"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/292"/>
+               <FRBRdate date="2019-09-12" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="292"/>
+               <FRBRname value="S.S.I. 2019/292"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/292/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/292/made"/>
+               <FRBRdate date="2019-09-12" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/292/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/292/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-12" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2018/9">2018 asp 9</ref>. The regulation-making powers conferred by the Act include the power to make different provision for different purposes by virtue of section 96(1). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>. These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1965/49">1965 c.49</ref>, which is amended by section 1(2) of the Still-Birth (Definition) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1992/29">1992 (c.29)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1971/80">1971 c.80</ref>. Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the St Andrew’s Day Bank Holiday (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/asp/2007/2">2007 (asp 2)</ref>, section 1.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/asp/2016/20">2016 asp 20</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/2005/3061">S.I. 2005/3061</ref>. There are amendments that are not relevant to this regulation.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/2005/506">S.I. 2005/506</ref>. There are amendments that are not relevant to this regulation.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>O.J. L.158, 30.4.2004, p.77.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1999/33">1999 c.33</ref>. There are amendments to section 115 that are not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/uksi/2000/636">S.I. 2000/636</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/2002/16">2002 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/1995/18">1995 c.18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/uksi/2002/2005">S.I. 2002/2005</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 c.21</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00019" href="http://www.legislation.gov.uk/id/ukpga/2007/5">2007 c.5</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ukpga/2012/5">2012 c.5</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00021" href="http://www.legislation.gov.uk/id/uksi/2002/618">S.I. 2002/618</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042830"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 292</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Security</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Funeral Expense Assistance (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 34, 41(4)(a), 43(5) and 52 of the Social Security (Scotland) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 98 of that Act, no consultation with the Scottish Commission on Social Security was required.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introductory</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Funeral Expense Assistance (Scotland) Regulations 2019 and come into force on the first Monday after the day on which they are made.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>Interpretation</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Interpretation</heading>
+               <num>2.</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“applicant” means a person who has applied for funeral expense assistance,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“backdated award” means an award of assistance for a day, or a period that begins on a day, that falls before the day the decision to make the award was taken,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“burial” does not include burial of ashes, where a person’s remains have been cremated,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“determination” means a determination of an individual’s entitlement under section 37 of the Social Security (Scotland) Act 2018,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“funeral” means a burial or a cremation of a deceased person or of a still-born child,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“partner” means—</p>
+                     <blockContainer>
+                        <blockList>
+                           <item>
+                              <num>(i)</num>
+                              <p>where a person is living together with a spouse or civil partner, that other person,</p>
+                           </item>
+                           <item>
+                              <num>(ii)</num>
+                              <p>where a person is living together with a person as a married couple, that other person,</p>
+                           </item>
+                        </blockList>
+                     </blockContainer>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“still-born child” has the meaning given by section 56(1)<span ukl:Name="NonBreakingSpace"> </span>of the Registration of Births, Deaths and Marriages (Scotland) Act 1965<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“working day” means a day other than a Saturday, a Sunday or a bank holiday in Scotland under the Banking and Financial Dealings Act 1971<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Procedural matters</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Applications</heading>
+               <num>3.</num>
+               <paragraph eId="regulation-3-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>A person who applies for funeral expense assistance is entitled to receive it if that person—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>applies within the period described in regulation 5, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>meets the eligibility conditions prescribed in these Regulations.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Regulation 4 sets out circumstances in which the Scottish Ministers are to determine an individual’s entitlement to funeral expense assistance without receiving an application.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Regulations 7 and 8 describe eligibility conditions relating to the applicant’s relationship to the deceased person and multiple applications.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>Regulation 9 describes eligibility conditions relating to the applicant’s residence, the last residence of the deceased person and the place where the funeral takes place.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>Regulations 10 and 11 describe eligibility conditions relating to the financial means of the applicant, based on receipt of income related benefits, and of the estate of the deceased person.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-6">
+                  <num>(6)</num>
+                  <intro>
+                     <p>An application is to be treated as made—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-6-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>on the day it is received by the Scottish Ministers, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-6-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if applicable, on the day nominated by the Scottish Ministers under regulation 5(5).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-7">
+                  <num>(7)</num>
+                  <intro>
+                     <p>For the avoidance of doubt, a thing that purports to be an application is not an application unless it is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-7-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>made to the Scottish Ministers in the form, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-7-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>accompanied by the evidence,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>required by the Scottish Ministers under section 38(1) of the Social Security (Scotland) Act 2018.</p>
+                  </wrapUp>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Determinations without application</heading>
+               <num>4.</num>
+               <paragraph eId="regulation-4-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The Scottish Ministers are to make a determination of an individual’s entitlement to funeral expense assistance without receiving an application where—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>they have previously made a determination of the individual’s entitlement to that assistance (“the original determination”),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>they establish that due to an official error the original determination was wrongly made resulting in the individual—</p>
+                     </intro>
+                     <clause eId="regulation-4-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>not being given funeral expense assistance for which the individual was eligible, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-4-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>being given less such assistance than that to which the individual was entitled,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>the Scottish Ministers are not considering a request for re-determination of the individual’s entitlement to such assistance, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>the individual has not appealed to the First-tier Tribunal for Scotland against the Scottish Ministers’ determination of the individual’s entitlement to such assistance.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-4-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The Scottish Ministers are also to determine an individual’s entitlement to funeral expense assistance without receiving an application where—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>a determination has previously been made that the individual is not entitled to that assistance (“the original determination”), and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-2-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>the Scottish Ministers establish that—</p>
+                     </intro>
+                     <clause eId="regulation-4-2-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>following an appeal, a backdated award of assistance described in regulation 10(1) has been made, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-4-2-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>had that award been made before the original determination, a determination that the individual is entitled to funeral expense assistance would have been made instead.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-4-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In making a determination required by paragraph (1) or (2) the Scottish Ministers are to use—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the information provided in the application that led to the original determination, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>any other information they obtained in connection with that application.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-4-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>Where a determination is to be, or has been, made without an application by virtue of this regulation, references in these Regulations to the day the application is made are to be read as references to the day the application that led to the original determination was made.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>In paragraph (1) “official error” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone not so acting.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Period for applications</heading>
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>A person is not entitled to funeral expense assistance unless an application for that assistance is made within a period starting when the person whose funeral is being arranged dies and ending as calculated in paragraphs (3) and (4) (“the period for applications”).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No application for funeral expense assistance may be made while the person whose funeral is being arranged is alive.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>No application for funeral expense assistance may be made after the day falling six months after the day on which the funeral takes place, unless paragraph (5) applies.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>In calculating the end of the period for applications where the day of the month on which the funeral takes place is the 29th, 30th or 31st, and the month falling six months after that month does not have such a date, the period ends on the last day of the later month.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>The Scottish Ministers may nominate the date on which an application will be treated as made for the purposes of regulation 3(6)(b) if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the award of assistance described in regulation 10(1) that the applicant is relying on to meet that eligibility condition is a backdated award,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-5-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>the backdated award is an award of assistance for—</p>
+                     </intro>
+                     <clause eId="regulation-5-5-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>a day that falls within the period for applications, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-5-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>a period that includes at least 1 day that falls within the period for applications, and</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-5-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>the application is received by the Scottish Ministers—</p>
+                     </intro>
+                     <clause eId="regulation-5-5-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>not more than 20 working days after the last day of the period for applications, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-5-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>within 3 months of the applicant being informed of the backdated award by or on behalf of the public authority who made it.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-6">
+                  <num>(6)</num>
+                  <intro>
+                     <p>The date nominated by the Scottish Ministers under paragraph (5)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-6-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>must be a day for which the backdated award is made, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>must not be a day that falls outside the period for applications.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <heading>Periods for redetermination requests</heading>
+               <num>6.</num>
+               <paragraph eId="regulation-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The period for requesting a re-determination of entitlement to funeral expense assistance, under section 41 of the Social Security (Scotland) Act 2018, is 31 days beginning with the day that the applicant is informed, in accordance with section 40 of that Act, of the right to make the request.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-6-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>Where such a request is validly made, the period allowed for re-determination (within the meaning of section 43 of that Act) is 16 working days beginning with—</p>
+                  </intro>
+                  <subparagraph eId="regulation-6-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the day the request is received by the Scottish Ministers, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>where the request is received by the Scottish Ministers later than the period prescribed by paragraph (1), the day on which the Scottish Ministers, or on appeal the First-tier Tribunal for Scotland, decide that the applicant has a good reason for not requesting the re-determination sooner.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Eligibility</heading>
+            <hcontainer name="regulation" eId="regulation-7">
+               <heading>Relationship to deceased person</heading>
+               <num>7.</num>
+               <paragraph eId="regulation-7-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>To qualify for funeral expense assistance the applicant, or the partner of the applicant, must have accepted responsibility for the expenses of the funeral, and the Scottish Ministers must consider it to be reasonable for that responsibility to have been accepted.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In determining whether it was reasonable to accept responsibility, the Scottish Ministers must consider—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>whether someone other than the applicant, or the partner of the applicant, would be the nearest relative of the deceased person in terms of section 65(3) to (6) (arrangements on death of adult) of the Burial and Cremation (Scotland) Act 2016<noteRef href="#f00004" class="footnote" marker="4"/>, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>any other relevant circumstances that the applicant brings to their attention.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-7-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>For the purposes of paragraph (2)(a), instead of section 65(3) to (6) of that Act regard is to be had to—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>section 66(3) to (5) (arrangements on death of a child) where the deceased person was under 16 years of age on the day of his or her death,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>section 74(3), (7) and (8) in relation to a still-born child.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <heading>Multiple applications</heading>
+               <num>8.</num>
+               <paragraph eId="regulation-8-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Where two or more persons accept responsibility for the expenses of the funeral, and each applies for funeral expense assistance, the Scottish Ministers must consider which of the persons is the nearer (or nearest) relative of the deceased person, applying the approach described in regulation 7(2)(a).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Scottish Ministers must determine the application by the nearer relative before they determine any other application for assistance.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Where, in applying paragraph (1), two or more applicants for assistance rank equally as the nearer relative and are not in agreement as to which application is to be progressed, the Scottish Ministers must decide which application is to be progressed first.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>Where a determination is made to give a person funeral expense assistance in respect of a funeral, only that person is eligible for such assistance in respect of the expenses of a funeral of the deceased person.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>Where the Secretary of State decides to make a funeral payment within the meaning of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005<noteRef href="#f00005" class="footnote" marker="5"/> or the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005<noteRef href="#f00006" class="footnote" marker="6"/>, no person is eligible for funeral expense assistance to meet, or help meet, expenses of a funeral in respect of the deceased person.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <heading>Residence conditions, place of funeral and status</heading>
+               <num>9.</num>
+               <paragraph eId="regulation-9-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>To qualify for funeral expense assistance, the applicant must be ordinarily resident in Scotland at the date of their application for that assistance.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The applicant is not entitled to that assistance unless—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the deceased person was ordinarily resident in the United Kingdom at the date of his or her death, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the place of the funeral is in the United Kingdom, or in a case where paragraph (3) applies, in a member state of the EU, Iceland, Liechtenstein, Norway or Switzerland.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>This paragraph applies where the applicant is, or has a partner who is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>a worker or a self-employed person for the purposes of <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/2004/0038">Directive 2004/38/EC</ref> of the European Parliament and of the Council on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States<noteRef href="#f00007" class="footnote" marker="7"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a person who retains the status of a worker or a self-employed person pursuant to Article 7(3) of that Directive,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>a person who is a family member of a person referred to in sub-paragraph (a) or (b) within the meaning of Article 2 of that Directive, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-3-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>a person who has the right to reside permanently in the United Kingdom by virtue of Article 17 of that Directive.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>In paragraph (3) the references to <ref eId="c00002" href="http://www.legislation.gov.uk/european/directive/2004/0038">Directive 2004/38/EC</ref> are to be read as references to that Directive as it forms part of domestic law.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>A person is not entitled to funeral expense assistance if, at the time the application is made, the person is subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999<noteRef href="#f00008" class="footnote" marker="8"/>, unless the person falls within a category or description of persons specified in Part 2 of the schedule of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (persons not excluded under section 115 of that Act from entitlement to various social security benefits)<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>Paragraph (2)(a) does not apply in respect of the funeral of a still-born child.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <heading>Qualifying benefits</heading>
+               <num>10.</num>
+               <paragraph eId="regulation-10-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>To qualify for funeral expense assistance the applicant, or the partner of the applicant, must have been properly awarded in respect of the relevant day—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>income support under section 124 of the Social Security Contributions and Benefits Act 1992<noteRef href="#f00010" class="footnote" marker="10"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>state pension credit within the meaning given by section 1(1) of the State Pension Credit Act 2002<noteRef href="#f00011" class="footnote" marker="11"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>income-based jobseeker’s allowance within the meaning of the Jobseekers Act 1995<noteRef href="#f00012" class="footnote" marker="12"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002<noteRef href="#f00013" class="footnote" marker="13"/> is included in the award,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>child tax credit within the meaning of the Tax Credits Act 2002<noteRef href="#f00014" class="footnote" marker="14"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>housing benefit within the meaning of section 123 of the Social Security Contributions and Benefits Act 1992,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007<noteRef href="#f00015" class="footnote" marker="15"/>, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-h">
+                     <num>(h)</num>
+                     <content>
+                        <p>universal credit under Part 1 of the Welfare Reform Act 2012<noteRef href="#f00016" class="footnote" marker="16"/>.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>An applicant, or the partner of the applicant, is not to be regarded as having been properly awarded assistance if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the award for the relevant day was made in error (whether or not induced by the individual),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the award for the relevant day or the period that includes the relevant day is £0.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In this paragraph “the relevant day” is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the day the application is received by the Scottish Ministers, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if applicable, the day nominated by the Scottish Ministers under regulation 5(5).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>For the purpose of paragraph (1)(h), the applicant, or the partner of the applicant, is awarded universal credit in respect of the relevant day if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the assessment period for their award includes the relevant day, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>they had an award of universal credit for the assessment period that ended immediately before the start of the assessment period mentioned in sub-paragraph (a).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>In calculating the sum awarded for the purpose of paragraph (2)(b) where a deduction has been made from the award in respect of any liability to another person or by way of a sanction, the sum awarded is the sum that would have been awarded had the deduction not been made.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <heading>Estate of deceased person</heading>
+               <num>11.</num>
+               <paragraph eId="regulation-11-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>A person is not entitled to funeral expense assistance if assets of the deceased person are available and sufficient to meet the costs of a funeral.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No regard is to be had to the assets of a deceased person for the purpose of paragraph (1) if that person was under the age of 18 on the day of his or her death.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>For the purpose of paragraph (1) any lump sums due to the applicant or others by virtue of any insurance policy, occupational pension scheme, burial club, or similar scheme are to be considered an asset of the deceased person.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-5">
+            <num>PART 5</num>
+            <heading>Assistance to be given</heading>
+            <hcontainer name="regulation" eId="regulation-12">
+               <heading>Calculation and form of funeral expense assistance</heading>
+               <num>12.</num>
+               <paragraph eId="regulation-12-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The funeral expense assistance to be given is an amount calculated in accordance with regulation 13, less any applicable deductions provided for by regulation 14.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-12-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Funeral expense assistance is to be given as money (subject to paragraph <ref href="#regulation-12-3">(3)</ref>).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-12-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>If—</p>
+                  </intro>
+                  <subparagraph eId="regulation-12-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the Scottish Ministers offer to give an individual some or all of the value of funeral assistance in a form other than money, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-12-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the individual accepts the offer,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>the assistance is to be given in the form offered.</p>
+                  </wrapUp>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-13">
+               <heading>Amount of funeral expense assistance</heading>
+               <num>13.</num>
+               <paragraph eId="regulation-13-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The amount of funeral expense assistance is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>an amount calculated by reference to the costs which the person assisted incurs in arranging the funeral, so far as reasonable and of the types described in paragraphs (2) to (4),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a payment of £700, except where paragraph (6) applies, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>transport costs, so far as reasonable and of the types described in paragraph (7).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The types of funeral costs for which assistance is given are the costs of—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>burial (see paragraph (3)) or cremation (see paragraph (4)),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if required, any medical references and certificates from a registered medical practitioner, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>obtaining any documents to release assets of the deceased person for the purposes of regulation 14 (deductions from an award).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>For a burial, the costs are—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the cost of a new burial plot with a right of burial in it,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>fees levied by the local authority or person responsible for the operation of burials in the area where the burial takes place,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>the cost of grave-digging.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>For a cremation, the costs are—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>fees levied by the local authority or person responsible for the operation of crematoriums in the area where the cremation takes place,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the fee for removal of any active implantable medical device, within the meaning of the Medical Devices Regulations 2002<noteRef href="#f00017" class="footnote" marker="17"/>, subject to a limit of £20 where the removal is not carried out by a registered medical practitioner.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>Where a deceased person is not buried or cremated in the area in which they were ordinarily resident, and the costs of their burial or cremation (including transport costs) exceed those that would have applied had the burial or, as the case may be, cremation taken place in that area, no assistance is to be given for those additional costs.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-13-6">
+                  <num>(6)</num>
+                  <intro>
+                     <p>The payment in paragraph (1)(b) is £120 where the deceased person—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-6-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>has left provision of the type described in regulation 11(3), and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-6-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>was aged 18 or over on the day of his or her death.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-7">
+                  <num>(7)</num>
+                  <intro>
+                     <p>The types of transport costs for which assistance is given are the costs of—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-7-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>transport within the United Kingdom from the place where the body is situated to a funeral director’s premises, to the deceased person’s last residence, or to another place where it is appropriate for the body to lie prior to the funeral, plus a return journey, but not including the first 80 kilometres of travel,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-7-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>subject to paragraph (8), vehicular transport for the coffin and bearers, and one additional vehicle, from the funeral director’s premises or place where the body is lying to the funeral, plus a return journey, but not including the first 80 kilometres of travel,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-7-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>one return journey by the person assisted either for the purpose of making arrangements for the funeral or for attendance at the funeral, but not exceeding the cost of a return journey from the person’s home to the place of burial or cremation.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-8">
+                  <num>(8)</num>
+                  <intro>
+                     <p>Where assistance is given under paragraph (2)(a) for the costs of a burial or cremation, no assistance is to be given for transport costs under paragraph (7)(b) unless—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-8-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the distance travelled necessarily exceeds 80 kilometres, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-8-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in the case of a burial, where no costs have been incurred for purchase of a burial plot, the distance travelled exceeds 80 kilometres.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-14">
+               <heading>Deductions from an award of funeral expense assistance</heading>
+               <num>14.</num>
+               <paragraph eId="regulation-14-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>There is to be deducted from the amount of funeral expense assistance calculated in accordance with regulation 13 any funds or contributions which are available towards meeting the expense of the funeral from—</p>
+                  </intro>
+                  <subparagraph eId="regulation-14-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>any assets of the deceased person which are available without confirmation having been granted, or (elsewhere in the United Kingdom) without probate or letters of administration, but ignoring any assets described in paragraph (3),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-14-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>any pre-paid funeral plan, insurance policy, burial club, occupational pension scheme, or any similar scheme or arrangement, unless the Scottish Ministers have made a contribution into that plan, policy, club, scheme or arrangement,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-14-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>a funeral grant, made out of public funds, in respect of the deceased person having been entitled to a war disablement pension within the meaning of section 17 of the State Pension Credit Act 2002.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-14-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No deduction is to be made under paragraph (1) if the deceased person was under the age of 18 on the day of his or her death.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>For the purposes of paragraph (1)(a), the following sums payable to the estate of the deceased person are to be ignored—</p>
+                  </intro>
+                  <subparagraph eId="regulation-14-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>arrears of any benefit under any enactment relating to social security in any part of the United Kingdom,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-14-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>arrears of any assistance provided for by regulations under Parts 2 or 3 of the Social Security (Scotland) Act 2018, or under section 81 (carer’s allowance supplement) of that Act.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">SHIRLEY-ANNE SOMERVILLE</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-12">12th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for payments to be made to help eligible persons to meet funeral expenses. They are made under the Social Security (Scotland) Act 2018.</p>
+            <p>Regulation 3 provides that applications are required, except as set out in regulation 4.</p>
+            <p>Regulation 5 describes the period within which applications can be made.</p>
+            <p>Regulation 6 provides for re-determination requests, where a person wishes a determination of their entitlement to be looked at again. It sets out the timescales for dealing with such requests.</p>
+            <p>Part 4 sets out eligibility rules. These rules are based on the closeness of the relationship the applicant had with the deceased person, whether anyone else is seeking assistance and conditions relating to the place of the funeral and whether the applicant or the applicant’s partner is in receipt of a qualifying benefit on a date (as described in regulation 10). Regulation 11 provides that no assistance will be provided if the deceased person left assets that are available to cover the cost of the funeral, unless the person was under 18 years old when he or she died.</p>
+            <p>Part 5 sets out how the amount of funeral expense assistance is to be calculated. It describes deductions that can be made from an award of assistance and sets out circumstances in which no such deduction is to be made.</p>
+            <p>A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Social Security Directorate, and online at <a href="http://www.legislation.gov.uk">www.legislation.gov.uk</a>.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

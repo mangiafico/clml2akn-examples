@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/195"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/195"/>
+               <FRBRdate date="2019-05-30" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="195"/>
+               <FRBRname value="S.S.I. 2019/195"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/195/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/195/made"/>
+               <FRBRdate date="2019-05-30" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/195/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/195/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-30" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-06-03" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-09-16" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2004/8">2004 asp 8</ref>. Section 83 was relevantly amended by <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2005/650">S.S.I. 2005/650</ref>, section 176(3)(b) and paragraph 1 of schedule 7 of the Housing (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 (asp 1)</ref>, <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2009/33">S.S.I. 2009/33</ref>, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2011/211">S.S.I. 2011/211</ref> and paragraph 8(2) of schedule 2 of the Land Reform (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/asp/2016/18">2016 (asp 18)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2008/309">S.S.I. 2008/309</ref> amended by <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2012/208">S.S.I. 2012/208</ref> and <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2013/12">S.S.I. 2013/12</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 asp 1</ref>. Section 125 was amended by section 13 of the Private Rented Housing (Scotland) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/asp/2011/14">2011 (asp 14)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/asp/2004/11">2004 asp 11</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref> was amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2006/28">S.S.I. 2006/28</ref>, <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2008/403">S.S.I. 2008/403</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2012/38">S.S.I. 2012/38</ref>, <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref>, <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2018/292">S.S.I. 2018/292</ref> and <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2019/160">S.S.I. 2019/160</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00022" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 asp 10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00023" href="http://www.legislation.gov.uk/id/ukpga/1970/41">1970 c.41</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/ukpga/1975/65">1975 c.65</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00025" href="http://www.legislation.gov.uk/id/ukpga/1976/74">1976 c.74</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00026" href="http://www.legislation.gov.uk/id/ukpga/1995/50">1995 c.50</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/2010/15">2010 c.15</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>
+                  <ref eId="c00028" href="http://www.legislation.gov.uk/id/uksi/2003/1661">S.I. 2003/1661</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00029" href="http://www.legislation.gov.uk/id/uksi/2003/1660">S.I. 2003/1660</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00030" href="http://www.legislation.gov.uk/id/ukpga/1987/26">1987 c.26</ref>. Section 86(1) was amended by section 102(1) of the Housing (Scotland) Act <ref eId="c00031" href="http://www.legislation.gov.uk/id/asp/2001/10">2001 (asp 10)</ref> and section 11 of the Housing (Scotland) Act <ref eId="c00032" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 asp 1</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00033" href="http://www.legislation.gov.uk/id/uksi/1998/2451">S.I. 1998/2451</ref> amended by <ref eId="c00034" href="http://www.legislation.gov.uk/id/uksi/2018/139">S.I. 2018/139</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2017/282">S.S.I. 2017/282</ref> amended by <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2017/321">S.S.I. 2017/321</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2008/309">S.S.I. 2008/309</ref> amended by <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2008/389">S.S.I. 2008/389</ref>, <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2012/190">S.S.I. 2012/190</ref>, <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2012/208">S.S.I. 2012/208</ref>, <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2012/315">S.S.I. 2012/315</ref>, <ref eId="c00042" href="http://www.legislation.gov.uk/id/ssi/2013/12">S.S.I. 2013/12</ref>, <ref eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2015/386">S.S.I. 2015/386</ref> and <ref eId="c00044" href="http://www.legislation.gov.uk/id/ssi/2017/225">S.S.I. 2017/225</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00045" href="http://www.legislation.gov.uk/id/uksi/1998/2451">S.I. 1998/2451</ref> was relevantly amended by <ref eId="c00046" href="http://www.legislation.gov.uk/id/uksi/2018/139">S.I. 2018/139</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>
+                  <ref eId="c00047" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 asp 1</ref>. Section 19A was inserted by section 23(2) of the Housing (Scotland) Act <ref eId="c00048" href="http://www.legislation.gov.uk/id/asp/2014/14">2014 (asp 14)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>Health and Safety Executive, “Legionnaires’ disease. The control of legionella bacteria in water systems,” L8 (Fourth Edition), published 2013, ISBN: 9780717666157.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>
+                  <ref eId="c00049" href="http://www.legislation.gov.uk/id/ssi/2011/176">S.S.I. 2011/176</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>
+                  <ref eId="c00050" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref> was amended by <ref eId="c00051" href="http://www.legislation.gov.uk/id/ssi/2006/28">S.S.I. 2006/28</ref>, <ref eId="c00052" href="http://www.legislation.gov.uk/id/ssi/2008/403">S.S.I. 2008/403</ref>, <ref eId="c00053" href="http://www.legislation.gov.uk/id/ssi/2012/38">S.S.I. 2012/38</ref>, <ref eId="c00054" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref>, S.S.I 2018/292 and partially revoked by <ref eId="c00055" href="http://www.legislation.gov.uk/id/ssi/2019/160">S.S.I. 2019/160</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>
+                  <ref eId="c00056" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref> was partially revoked by <ref eId="c00057" href="http://www.legislation.gov.uk/id/ssi/2019/160">S.S.I. 2019/160</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042335"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 195</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Housing</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Private Landlord Registration (Information) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-30">30th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-06-03">3rd June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-09-16">at 9.00 a.m. on 16th September 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 83(1)(d) and 141(2)(b) of the Antisocial Behaviour etc. (Scotland) Act 2004<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Private Landlord Registration (Information) (Scotland) Regulations 2019 and come into force at 0900 hours on 16 September 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2004 Act” means the Antisocial Behaviour etc. (Scotland) Act 2004,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“advertisement in commercial media” means any of the following—</p>
+                     <blockList>
+                        <item>
+                           <num>(a)</num>
+                           <p>an advertisement in a newspaper or magazine,</p>
+                        </item>
+                        <item>
+                           <num>(b)</num>
+                           <p>an advertisement transmitted electronically, including by means of the internet, or</p>
+                        </item>
+                        <item>
+                           <num>(c)</num>
+                           <p>an advertisement by way of written particulars or written description, including particulars or description given or made available electronically, which includes at least 2 of the following—</p>
+                           <blockList>
+                              <item>
+                                 <num>(i)</num>
+                                 <p>a photograph of the house, part of the house or room in the house to be let,</p>
+                              </item>
+                              <item>
+                                 <num>(ii)</num>
+                                 <p>a floor plan of the house to be let,</p>
+                              </item>
+                              <item>
+                                 <num>(iii)</num>
+                                 <p>the size of the rooms in the house,</p>
+                              </item>
+                              <item>
+                                 <num>(iv)</num>
+                                 <p>the proposed rent,</p>
+                              </item>
+                           </blockList>
+                        </item>
+                     </blockList>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“energy performance certificate” means a certificate which complies with regulation 6 of the Energy Performance of Buildings (Scotland) Regulations 2008<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“energy performance indicator” has the meaning given in regulation 2 of the Energy Performance of Buildings (Scotland) Regulations 2008,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“house in multiple occupation” has the meaning given in section 125 of the Housing (Scotland) Act 2006<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“joint owner” means an owner of a house which is owned by two or more persons, either equally between them or in pro indiviso shares,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“lead owner” means the person, where applicable, who is designated as such in the application for registration made under section 83 of the 2004 Act, and</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“tenement building” has the meaning given in section 26 of the Tenements (Scotland) Act 2004<noteRef href="#f00004" class="footnote" marker="4"/>.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Application for registration – prescribed information</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to paragraph (2), an application for registration under section 83 of the 2004 Act must contain, in addition to the information listed there, the information prescribed in the schedule.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>Where the schedule prescribes information which is not applicable to a relevant person, the relevant person should indicate on the application for registration that the information is not applicable to the relevant person.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Revocations</heading>
+            <num>3.</num>
+            <content>
+               <p>Subject to regulation 4, the enactments specified in column 1 of the table in Part 2 of the schedule are revoked to the extent set out in the corresponding entry in column 3 of that table.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Saving provision</heading>
+            <num>4.</num>
+            <intro>
+               <p>Notwithstanding the revocation of the Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005<noteRef href="#f00005" class="footnote" marker="5"/>, they continue to apply in relation to—</p>
+            </intro>
+            <subparagraph eId="regulation-4-a">
+               <num>(a)</num>
+               <content>
+                  <p>an application for registration under section 83,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-b">
+               <num>(b)</num>
+               <content>
+                  <p>a notice of a change to information under section 87(2),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-c">
+               <num>(c)</num>
+               <content>
+                  <p>a notice of appointment of an agent under section 88(2),</p>
+               </content>
+            </subparagraph>
+            <wrapUp>
+               <p>of the 2004 Act, received by a local authority before 0900 hours on 16 September 2019.</p>
+            </wrapUp>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-30">30th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation 2</p>
+                  </authorialNote>
+               </num>
+               <part eId="schedule-part-1">
+                  <num>PART 1</num>
+                  <heading>Prescribed information for application for registration</heading>
+                  <paragraph eId="schedule-paragraph-1">
+                     <num>1.</num>
+                     <content>
+                        <p>The date of birth of the applicant.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-2">
+                     <num>2.</num>
+                     <content>
+                        <p>Details of any licence, voluntary accreditation or registration in connection with letting houses in the UK held by the applicant, including any which were refused or revoked.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-3">
+                     <num>3.</num>
+                     <intro>
+                        <p>A declaration of—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-3-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>any convictions of the applicant relating to offences involving the matters listed in section 85(2)(a) or (aa) of the 2004 Act,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-3-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>any convictions of the applicant relating to offences in connection with any matter relating to the provisions referred to in section 85(2)(c) of the 2004 Act and any finding of a court or tribunal that the applicant has contravened any of those provisions, and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-3-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>any antisocial behaviour order (or interim order) within the meaning of Part 2 of the 2004 Act, and of any antisocial behaviour notice within the meaning of Part 7 of the 2004 Act, that relate to matters provided for by section 85(3) of the 2004 Act.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-4">
+                     <num>4.</num>
+                     <content>
+                        <p>The identity of any other joint owner or owners in relation to any property declared by the applicant under section 83(1)(b) of the 2004 Act, and which one of the joint owners is the lead owner for the purposes of applying the appropriate application fee.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-5">
+                     <num>5.</num>
+                     <content>
+                        <p>Whether the applicant is registered as a charity in the Scottish Charity Register kept under section 3 of the Charities and Trustee Investment (Scotland) Act 2005<noteRef href="#f00006" class="footnote" marker="6"/> and the relevant charity registration number.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-6">
+                     <num>6.</num>
+                     <content>
+                        <p>Other names by which the applicant has been known.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-7">
+                     <num>7.</num>
+                     <content>
+                        <p>Where the applicant has not been resident for 5 years or more at the address provided under section 83(1)(a) of the 2004 Act, all previous addresses of the applicant in the last 5 years.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-8">
+                     <num>8.</num>
+                     <content>
+                        <p>Where the applicant is a company, the company registration number.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-9">
+                     <num>9.</num>
+                     <intro>
+                        <p>Any court or tribunal judgements against the applicant under—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-9-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>the Equal Pay Act 1970<noteRef href="#f00007" class="footnote" marker="7"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>the Sex Discrimination Act 1975<noteRef href="#f00008" class="footnote" marker="8"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>the Race Relations Act 1976<noteRef href="#f00009" class="footnote" marker="9"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-d">
+                        <num>(d)</num>
+                        <content>
+                           <p>the Disability Discrimination Act 1995<noteRef href="#f00010" class="footnote" marker="10"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-e">
+                        <num>(e)</num>
+                        <content>
+                           <p>the Equality Act 2010<noteRef href="#f00011" class="footnote" marker="11"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-f">
+                        <num>(f)</num>
+                        <content>
+                           <p>the Employment Equality (Sexual Orientation) Regulations 2003<noteRef href="#f00012" class="footnote" marker="12"/>, or</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-9-g">
+                        <num>(g)</num>
+                        <content>
+                           <p>the Employment Equality (Religion or Belief) Regulations 2003<noteRef href="#f00013" class="footnote" marker="13"/>.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-10">
+                     <num>10.</num>
+                     <content>
+                        <p>The email address (if any) and contact telephone number of the applicant.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-11">
+                     <num>11.</num>
+                     <intro>
+                        <p>A declaration that the applicant complies with other legal requirements relating to their lettings which should include confirmation whether or not each property specified by the applicant under section 83(1)(b) of the 2004 Act meets—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-11-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>the tolerable standard as defined in section 86(1) of the Housing (Scotland) Act 1987<noteRef href="#f00014" class="footnote" marker="14"/>,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-11-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>the repairing standard as defined in section 13 of the Housing (Scotland) Act 2006 where such house is subject to that standard under section 12 of that Act,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-11-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>the requirements set out in regulation 36 of the Gas Safety (Installation and Use) Regulations 1998<noteRef href="#f00015" class="footnote" marker="15"/>, and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-11-d">
+                        <num>(d)</num>
+                        <content>
+                           <p>where the property has a private water supply, the requirements set out in the Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017<noteRef href="#f00016" class="footnote" marker="16"/>.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-12">
+                     <num>12.</num>
+                     <content>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is subject to the Energy Performance of Buildings (Scotland) Regulations 2008<noteRef href="#f00017" class="footnote" marker="17"/>, confirmation that the applicant has provided a copy of the current energy performance certificate to the tenant of any such property.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-13">
+                     <num>13.</num>
+                     <content>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is subject to the Gas Safety (Installation and Use) Regulations 1998<noteRef href="#f00018" class="footnote" marker="18"/>, confirmation that the applicant has provided a copy of the Gas Safe record to the tenant of any such property.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-14">
+                     <num>14.</num>
+                     <content>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is subject to section 19A of the Housing (Scotland) Act 2006<noteRef href="#f00019" class="footnote" marker="19"/>, confirmation that the applicant has provided a copy of the electrical inspection condition report to the tenant of any such property.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-15">
+                     <num>15.</num>
+                     <intro>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act has been subject to advertisement in commercial media, confirmation that such advertisement included—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-15-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>details of the landlord registration status of any such property; and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-15-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>the energy performance indicator applicable to any such property as specified on the current energy performance certificate.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-16">
+                     <num>16.</num>
+                     <intro>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is within a tenement building, a declaration by the applicant confirming that—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-16-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>the applicant has complied with the obligation to insure contained in section 18 of the Tenements (Scotland) Act 2004; and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-16-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>the applicant is aware of their obligations in relation to the common repairs in the tenement building under any relevant tenement burden or, where applicable, the Tenement Management Scheme which is set out in Schedule 1 to the Tenements (Scotland) Act 2004.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-17">
+                     <num>17.</num>
+                     <content>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is a house in multiple occupation, a declaration by the applicant confirming that each such property is subject to an HMO licence within the meaning of section 124 of the Housing (Scotland) Act 2006.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-18">
+                     <num>18.</num>
+                     <content>
+                        <p>Information from the applicant relating to the legionella risk assessment conducted in accordance with the Health and Safety Executive’s Approved Code of Practice “Legionnaires’ disease. The control of legionella bacteria in water systems.”<noteRef href="#f00020" class="footnote" marker="20"/> and details of any necessary steps taken by the applicant in relation to each property declared by the applicant under section 83(1)(b) of the 2004 Act as a result of that assessment.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-19">
+                     <num>19.</num>
+                     <intro>
+                        <p>Where any property declared by the applicant under section 83(1)(b) of the 2004 Act is subject to a relevant tenancy within the meaning of regulation 3 of the Tenancy Deposit Scheme (Scotland) Regulations 2011<noteRef href="#f00021" class="footnote" marker="21"/>, confirmation that the deposit taken for that tenancy—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-19-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>has been entered into an approved tenancy deposit scheme within the meaning of those regulations, or</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-19-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>will be entered into such a scheme before the expiry of the period mentioned in regulation 3(1) of those Regulations.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+               </part>
+               <part eId="schedule-part-2">
+                  <num>PART 2</num>
+                  <heading>Revocations</heading>
+                  <content>
+                     <tblock class="tabular" ukl:Orientation="portrait">
+                        <foreign>
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                              <colgroup>
+                                 <col width="142.15pt"/>
+                                 <col width="142.15pt"/>
+                                 <col width="142.15pt"/>
+                              </colgroup>
+                              <thead>
+                                 <tr>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 3</th>
+                                 </tr>
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref>
+                                       <noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00022" class="footnote" marker="22"/>
+                                    </td>
+                                    <td rowspan="1" colspan="1">All remaining provisions</td>
+                                 </tr>
+                                 <tr>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2012</td>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref>
+                                       <noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00023" class="footnote" marker="23"/>
+                                    </td>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">All remaining provisions</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </foreign>
+                     </tblock>
+                  </content>
+               </part>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations prescribe the information that a person must provide in order to make a valid application for registration as a landlord or for details of a person’s registration to be amended. The information prescribed is in addition to that prescribed in the Antisocial Behaviour etc. (Scotland) Act 2004 and will not be available to members of the public.</p>
+            <p>Regulation 2 and Part 1 of the schedule prescribe the information.</p>
+            <p>Regulation 3 revokes the instruments set out in Part 2 of the schedule. Regulation 4 makes saving provision in relation to applications and notices received by a local authority before 0900 hours on 16 September 2019.</p>
+            <p>A Business and Regulatory Impact Assessment has been prepared for this instrument and will be placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Directorate for Housing and Social Justice, Victoria Quay, Edinburgh EH6 6QQ.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

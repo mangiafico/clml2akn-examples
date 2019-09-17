@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/217"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/217"/>
+               <FRBRdate date="2019-06-11" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="217"/>
+               <FRBRname value="S.S.I. 2019/217"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/217/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/217/made"/>
+               <FRBRdate date="2019-06-11" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/217/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/217/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-11" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2020-08-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1980/44">1980 c.44</ref> (“the 1980 Act”). Section 2 was amended by section 36 and schedule 6 of the Education (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1996/43">1996 (c.43)</ref> and section 69(1) of the Self-Governing Schools etc. (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1989/39">1989 (c.39)</ref> (“the 1989 Act”). Section 74(1) was amended by section 82(1) and schedule 10 of the 1989 Act. Section 90A of the 1980 Act was inserted by section 28(1) of the Education (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2016/8">2016 (asp 8)</ref> (“the 2016 Act”). The functions of the Secretary of State under sections 2 and 74(1) of the 1980 Act were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 133(2BA) was inserted into the 1980 Act by section 28(3) of the 2016 Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2011/215">S.S.I. 2011/215</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042489"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 217</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Education</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Head Teachers Education and Training Standards (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-11">11th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2020-08-01">1st August 2020</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2, 74(1) and 90A(1), (2) and (3)(a) of the Education (Scotland) Act 1980<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 133(2BA)(a) of that Act<noteRef href="#f00002" class="footnote" marker="2"/>, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Head Teachers Education and Training Standards (Scotland) Regulations 2019 and come into force on 1 August 2020.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the GTCS” means the body corporate known as the General Teaching Council for Scotland as referred to in article 4 of the Public Services Reform (General Teaching Council for Scotland) Order 2011<noteRef href="#f00003" class="footnote" marker="3"/> (“the 2011 Order”),</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the Standard for Headship” means the professional standard awarded to a person by the GTCS pursuant to the GTCS’s functions under article 6 of the 2011 Order and rules made under article 15 of the 2011 Order,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1980 Act” means the Education (Scotland) Act 1980.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Head teachers: education and training standards</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to regulation 3, only persons falling within section 90A(2) of the 1980 Act may be appointed by education authorities or managers of grant-aided schools as head teachers of schools.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>A person falls within section 90A(2) of the 1980 Act if the person has achieved the Standard for Headship.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Exemptions</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>Regulation 2 does not apply to a person who on or before 1 August 2020 held a permanent appointment as a head teacher of a public school, a grant-aided school or an independent school.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>Regulation 2 does not prevent the appointment of a person as a head teacher by an education authority or manager of a grant aided school on or after 1 August 2020 where that person has not yet achieved the Standard for Headship, provided the appointment does not exceed 30 months.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOHN SWINNEY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-06-11">11th June 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>Regulation 2(1) provides that only persons falling within section 90A(2) of the Education (Scotland) Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1980/44">1980 (c.44)</ref> (“the 1980 Act”) may be appointed by education authorities or managers of grant-aided schools as head teachers of schools.</p>
+            <p>Regulation 2(2) provides that a person falls within section 90A(2) of the 1980 Act if the person has achieved the Standard for Headship.</p>
+            <p>“The Standard for Headship” is defined in regulation 1(2) as meaning the professional standard awarded to a person by the General Teaching Council for Scotland (“the GTCS”), pursuant to the GTCS’s functions under article 6 of the Public Services Reform (General Teaching Council for Scotland) Order 2011 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2011/215">S.S.I. 2011/215</ref>) and rules made under article 15 of that Order.</p>
+            <p>This instrument comes into force on 1 August 2020 and regulation 2 applies to appointments made on or after that date.</p>
+            <p>Regulation 3 provides for exemptions from the general requirement in regulation 2(1) that only persons who have achieved the Standard for Headship may be appointed as head teachers by education authorities or managers of grant-aided schools.</p>
+            <p>Regulation 3(1) provides that the general requirement does not apply to a person who on or before 1 August 2020 held a permanent appointment as a head teacher of a public school, a grant-aided school or an independent school.</p>
+            <p>Regulation 3(2) provides that the general requirement in regulation 2(1) does not prevent the appointment of a person as a head teacher, by an education authority or manager of a grant aided school, on or after the 1 August 2020 where that person has not yet achieved the Standard for Headship provided the appointment does not exceed 30 months.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

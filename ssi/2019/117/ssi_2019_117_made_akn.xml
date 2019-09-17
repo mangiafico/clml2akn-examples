@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/117"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/117"/>
+               <FRBRdate date="2019-03-21" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="117"/>
+               <FRBRname value="S.S.I. 2019/117"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/117/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/117/made"/>
+               <FRBRdate date="2019-03-21" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/117/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/117/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-21" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2018/6">2018 asp 6</ref>, as amended by <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2018/363">S.S.I. 2018/363</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041734"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 117</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Public Finance And Accountability</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Budget (Scotland) Act 2018 Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-21">21st March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1(1)</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 7(1) of the Budget (Scotland) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 7(2) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Budget (Scotland) Act 2018 Amendment Regulations 2019 and come into force on the day after the day on which they are made.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In these Regulations, “the Act” means the Budget (Scotland) Act 2018.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of amounts specified in section 4 (overall cash authorisations)</heading>
+            <num>2.</num>
+            <intro>
+               <p>In section 4 of the Act, for the amount specified—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>in subsection (2) (the Scottish Administration), substitute “£36,060,588,000”,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>in subsection (3)(a) (the Forestry Commissioners), substitute “£68,773,000”, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>in subsection (3)(b) (the Scottish Parliamentary Corporate Body), substitute “£89,878,000”.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of schedule 1 (the Scottish Administration)</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The table in schedule 1 to the Act is amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In column 1 (purposes)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in relation to purpose 2—</p>
+                  </intro>
+                  <clause eId="regulation-3-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after the words “Accountant in Bankruptcy”, insert “the Building Scotland Fund;”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>at the end, insert “; Digital Strategy; expenditure in relation to the Office of the Chief Statistician; funding for employment support programmes, learning opportunities, workforce development and supporting fair work principles.”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in relation to purpose 4—</p>
+                  </intro>
+                  <clause eId="regulation-3-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “childcare, including care for vulnerable children” substitute “funding expansion of early learning and childcare; child protection and care for looked after and vulnerable children;”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after the words “associated social work services”, insert “early intervention funding for the third sector through the Children, Young People and Families Early Intervention and Adult Learning and Empowering Communities Fund; running costs of the Scottish Child Abuse Inquiry; running costs of the Care Review;”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>after the words “Chief Scientific Adviser for Scotland”, insert “and the promotion of science;”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>in relation to purpose 7—</p>
+                  </intro>
+                  <clause eId="regulation-3-2-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “expenditure in relation to the Office of the Chief Statistician;”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “central government grants to local authorities;” substitute “city region and growth deals;”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>In relation to purpose 8, for the text of the purpose substitute “Through their Communities and Local Government portfolio, for use by the Scottish Ministers on: operational and administrative costs; financial support to local authorities in Scotland including the guaranteed combined general revenue grant and non-domestic rates income and a general capital grant; other local authority capital grants for specific purposes including Vacant and Derelict Land Fund (VDLF) and spend-to-save scheme; housing support grant; other services, including discretionary payments under the Bellwin scheme covering floods, storms and other emergencies; grant assistance and funding of strategic contracts to increase the resilience and capacity of third sector organisations; planning; architecture; building standards; housing subsidies and guarantees; funding for domestic energy efficiency, insulation and refurbishment projects; repayment of debt and associated costs; other expenditure, contributions and grants relating to housing; activities relating to homelessness; research and publicity and other portfolio services; grants to local authorities and registered social landlords; loans to individuals; community engagement; regeneration programmes; community empowerment; participatory budgeting; social justice activities including tackling poverty and inequality; loans to organisations; expenditure and grant assistance in relation to public service reform and efficiency; funding for advice and advocacy services.”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in relation to purpose 9 for “funding to tackle food poverty; expenditure relating to equality issues;” substitute “funding to support the development, design and implementation of our devolved social security powers and the Executive Agency, Social Security Scotland; funding to establish the Scottish Commission on Social Security; funding of payments of social security assistance; funding to tackle poverty; grant assistance; funding of strategic contracts and expenditure relating to equality and human rights issues; expenditure relating to tackling Hate Crime, community support and engagement;”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>in relation to purpose 12 at the end insert “and delivery of Scotland’s Census.”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-g">
+                  <num>(g)</num>
+                  <intro>
+                     <p>in relation to purpose 13—</p>
+                  </intro>
+                  <clause eId="regulation-3-2-g-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit the words “(and the office of Queen’s and Lord Treasurer’s Remembrancer),”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-g-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “associated with Crown prosecutions”, insert “, the investigation of deaths, extradition proceedings”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-2-g-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>after “Proceeds of Crime Act 2002;” insert “and for use by the Crown Agent for the Office of the Queen’s and Lord Treasurer’s Remembrancer”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>in relation to purpose 21—</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>for “expenditure on protocol; costs associated with referendum,” substitute “operational and administrative costs; funding to support electoral administration; funding of the Local Government Boundary Commission for Scotland; funding to support social research and analysis; funding to support Royal and ceremonial activity;”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>omit “; funding to support delivery of parliamentary elections; funding of the Local Government Boundary Commission for Scotland; funding to support delivery of local government elections;”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In column 2 (amount of resources (other than accruing resources)), for the amount specified—</p>
+               </intro>
+               <subparagraph eId="regulation-3-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in relation to purpose 1, substitute “297,283,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in relation to purpose 2, substitute “525,246,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in relation to purpose 3, substitute “13,895,065,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in relation to purpose 4, substitute “4,470,251,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in relation to purpose 5, substitute “2,638,035,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>in relation to purpose 6, substitute “451,633,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>in relation to purpose 7, substitute “2,736,458,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>in relation to purpose 8, substitute “11,147,170,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>in relation to purpose 9, substitute “288,729,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>in relation to purpose 10, substitute “6,785,000,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-k">
+                  <num>(k)</num>
+                  <content>
+                     <p>in relation to purpose 11, substitute “197,266,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-l">
+                  <num>(l)</num>
+                  <content>
+                     <p>in relation to purpose 12, substitute “35,689,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-m">
+                  <num>(m)</num>
+                  <content>
+                     <p>in relation to purpose 13, substitute “121,573,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-n">
+                  <num>(n)</num>
+                  <content>
+                     <p>in relation to purpose 14, substitute “128,300,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-o">
+                  <num>(o)</num>
+                  <content>
+                     <p>in relation to purpose 17, substitute “7,810,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-p">
+                  <num>(p)</num>
+                  <content>
+                     <p>in relation to purpose 18, substitute “16,785,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-q">
+                  <num>(q)</num>
+                  <content>
+                     <p>in relation to purpose 20, substitute “134,394,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-r">
+                  <num>(r)</num>
+                  <content>
+                     <p>in relation to purpose 21, substitute “11,479, 000”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-s">
+                  <num>(s)</num>
+                  <content>
+                     <p>in the final row, in relation to the total amounts of resources, substitute “<b>43,897,556,000</b>”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In column 3 (amount of accruing resources), for the amount specified—</p>
+               </intro>
+               <subparagraph eId="regulation-3-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in relation to purpose 11, substitute “30,000,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the final row, in relation to the total amounts of resources, substitute “<b>6,620,500,000</b>”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of schedule 2 (Direct Funded Bodies)</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The table in schedule 2 of the Act is amended in accordance with paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In column 2 (amount of resources (other than accruing resources)), for the amount specified—</p>
+               </intro>
+               <subparagraph eId="regulation-4-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in relation to purpose 1, substitute “69,198,000”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in relation to purpose 2, substitute “105,048,000”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in relation to purpose 3, substitute “10,066,000”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-21">21st March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Budget (Scotland) Act 2018 (“the Act”).</p>
+            <p>Regulation 2 amends the overall cash authorisations specified in section 4(2) and (3) of the Act in relation to the Scottish Administration, the Forestry Commissioners and the Scottish Parliamentary Corporate Body.</p>
+            <p>Regulation 3(2) amends purposes 2, 4, 7, 8, 9, 12, 13 and 21 for which the Scottish Ministers may use resources in financial year 2018/19.</p>
+            <p>Regulation 3(3) and (4) amend and insert the amount of resources (other than accruing resources) that may be used for purposes 1 to 14, 17 to 18, 20 and 21. Regulation 3(4) also amends the amount of accruing resources that may be used for purpose 11 and the total amount of those resources for all the purposes in that schedule.</p>
+            <p>Regulation 4(2) amends the amount of resources (other than accruing resources) that may be used for purposes 1 to 3 in schedule 2 of the Act relating to direct-funded bodies.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

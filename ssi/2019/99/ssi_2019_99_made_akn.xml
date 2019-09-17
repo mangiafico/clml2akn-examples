@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/99"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/99"/>
+               <FRBRdate date="2019-03-19" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="99"/>
+               <FRBRname value="S.S.I. 2019/99"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/99/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/99/made"/>
+               <FRBRdate date="2019-03-19" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/99/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/99/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-19" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-21" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-26" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00067" href="http://www.legislation.gov.uk/id/asp/2015/10">2015 asp 10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00068" href="http://www.legislation.gov.uk/id/ukpga/1968/54">1968 c.54</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00069" href="http://www.legislation.gov.uk/id/ukpga/1982/45">1982 c.45</ref>. There are no amendments to section 9 of the 1982 Act which are relevant to this Order.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Section 41(2) of the 1982 Act was amended by the Criminal Justice and Licensing (Scotland) Act <ref eId="c00070" href="http://www.legislation.gov.uk/id/asp/2010/13">2010 (asp 13)</ref>, section 176. There are no other amendments to section 41 which are relevant to this Order.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041611"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 99 (C. 2)</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Licences And Licensing</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Air Weapons and Licensing (Scotland) Act 2015 (Commencement No. 9 and Transitional Provisions) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-19">19th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-21">21st March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-26">26th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers, in exercise of the powers conferred by section 88(2) and (3) of the Air Weapons and Licensing (Scotland) Act 2015<noteRef href="#f00001" class="footnote" marker="1"/>, make the following Order.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Air Weapons and Licensing (Scotland) Act 2015 (Commencement No. 9 and Transitional Provisions) Order 2019 and comes into force on 26 April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In this Order—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1968 Act” means the Theatres Act 1968<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2015 Act” means the Air Weapons and Licensing (Scotland) Act 2015.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Appointed days</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <intro>
+                  <p>26 April 2019 is the day appointed for the coming into force of the following provisions of the 2015 Act—</p>
+               </intro>
+               <subparagraph eId="article-2-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 74(1) (licensing of theatres etc.), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 76 (licensing of sexual entertainment venues), in so far as not already in force.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>27 January 2021 is the day appointed for the coming into force of section 74 of the 2015 Act insofar as it is not brought into force by paragraph (1).</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Transitional provisions</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>Any licence granted under the 1968 Act for the use of premises for the public performance of any play will cease to have effect on 27 January 2021.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>Paragraph (3) applies to a resolution, made by a local authority under section 9 of the Civic Government (Scotland) Act 1982<noteRef href="#f00003" class="footnote" marker="3"/>, that the requirements of section 41<noteRef href="#f00004" class="footnote" marker="4"/> of that Act will apply to the use of premises for the public performance of any play.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>A resolution may be made by a local authority on or after 26 April 2019 but no resolution may come into effect prior to 27 January 2021.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-4">
+               <num>(4)</num>
+               <content>
+                  <p>For the purposes of this article, “the use of premises for the public performance of any play” means the use of any premises which, prior to 27 January 2021, would require a licence under the 1968 Act.</p>
+               </content>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ASH DENHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-19">19th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order brings into force sections 74 and 76 of the provisions of the Air Weapons and Licensing (Scotland) Act 2015 (“the 2015 Act”). In a prior commencement order section 76 was commenced but only for the purpose of allowing certain orders to be made.</p>
+            <p>The Theatres Act 1968 (“the 1968 Act”) provides a licensing regime for premises which are used for the public performance of plays. Section 41 of the Civic Government (Scotland) Act 1982 (“the 1982 Act”) provides a discretionary licensing regime for places of public entertainment and the definition of “place of public entertainment” in section 41(2) specifically excludes premises which are licensed under the 1968 Act. Prior to the commencement of section 74 of the 2015 Act, theatres require to be licensed under the 1968 Act and cannot be brought into the public entertainment licensing regime under the 1982 Act.</p>
+            <p>Section 74 of the 2015 Act amends the 1968 Act so as to repeal the theatre licensing regime under that Act. Section 74 also amends section 41 of the 1982 Act so as to remove the exclusion of theatres from the definition of “place of public entertainment” thereby enabling a local authority to resolve under section 9 of the 1982 Act to license theatres under its public entertainment licensing regime.</p>
+            <p>Article 2(1) of this Order brings section 74(1) into force on 26 April 2019, amending section 41 of the 1982 Act and thereby enabling local authorities to make a resolution under section 9 of the 1982 Act to license theatres under their public entertainment licensing regime if they so choose. Article 2(2) of this Order brings the remainder of section 74 into force on 27 January 2021, repealing the theatre licensing regime in the 1968 Act. This will enable local authorities to introduce a public entertainment licensing regime for theatres, be that through the variation of an existing public entertainment licensing regime or otherwise.</p>
+            <p>Article 3 of this Order makes transitional provision to ensure that the introduction of a public entertainment licensing regime for theatres under the 1982 Act cannot take place before the 1968 Act licensing regime comes to a complete end. This will prevent any overlap between theatre licences granted under the 1968 Act and public entertainment licences granted under the 1982 Act.</p>
+            <p>Section 16 of the Interpretation Act 1978 (read alongside section 23A of that Act) provides that the repeal of an enactment does not affect any right, privilege, obligation or liability acquired under that enactment. This means that the repeal of the 1968 licensing regime does not result in the automatic cessation of the licences granted under that regime. Article 3(1) of this Order makes transitional provision which states that all theatre licences granted under the 1968 Act will cease to have effect on the same day as the 1968 Act licensing regime is repealed.</p>
+            <p>The delayed repeal of the 1968 Act licensing regime could create the possibility of a resolution to license theatres via the public entertainment licensing regime being brought into force prior to the repeal of the 1968 Act licensing regime. Article 3(2) of this Order makes transitional provision which states that a resolution made under section 9 to require a licence for the use of premises for the public performance of any play cannot come into effect prior to the repeal of the 1968 Act licensing regime on 27 January 2021.</p>
+            <p>Section 76 of the 2015 Act adds new sections 45A to 45C to the 1982 Act in order to introduce a discretionary licensing regime for sexual entertainment venues. Section 76 also amends section 41 of the 1982 Act to specifically exclude sexual entertainment venues from the definition of places of public entertainment so that a public entertainment licence cannot also be required for those venues. Article 2(1) of this Order brings section 76 into force on 26 April 2019. A sexual entertainment venue licence will only be required where a local authority makes a resolution in these terms under new section 45B of the 1982 Act. Accordingly, no transitional provisions are considered necessary.</p>
+            <p>The Bill for the 2015 Act received Royal Assent on 4 August 2015. Sections 60(1) and (2), 84, 85, 86, 88 and 89 of the 2015 Act came into force on the following day.</p>
+         </blockContainer>
+         <blockContainer class="earlierOrders">
+            <heading>NOTE AS TO EARLIER COMMENCEMENT ORDERS</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>The following provisions of the 2015 Act have been brought into force by commencement orders made before the date of this Order.</p>
+            <tblock class="tabular" ukl:Orientation="portrait">
+               <foreign>
+                  <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                     <colgroup>
+                        <col width="204.15pt"/>
+                        <col width="116.25pt"/>
+                        <col width="90pt"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Provision</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Date of Commencement</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">S.S.I. No.</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 1</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 2 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 2 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 3–5</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 6(1) to (3)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 6 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 7, 8(1), 9(1) and (2), 10 and 11(1) to (4) and (7)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 8, 9 and 11 in so far not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 12, 13, 14, 15(1) to (3), 16(1) to (5) and (8) and 17(1), (2), (6) and (7)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 15,16 and 17 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 18-22</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 23-27</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 28</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 29 and 30</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 31(1) and (3)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 31 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 32, 33 and 34 (other than subsection(2)(n))</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 34 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 35(1), (2), and (4)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 35(3)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 36</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 37</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 38</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 39(1)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 July 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 39(2) and (3)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 40</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 41</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 42</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">30 September 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2016/132">2016/132</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 43-48</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 50 and 51</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 53 and 54</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 55</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">30 September 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2016/132">2016/132</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 56 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 56 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 56 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">20 December 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2017/424">2017/424</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 57 and 58</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 59</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">29 June 2018</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2018/102">2018/102</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 60</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 62</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 63</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 64</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 65(1), (2), (4) and (5)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00042" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Sections 66-69</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 September 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2016/85">2016/85</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 70(1) and (3) (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00044" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 70 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 September 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00045" href="http://www.legislation.gov.uk/id/ssi/2016/85">2016/85</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 71</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00046" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 72 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">16 March 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00047" href="http://www.legislation.gov.uk/id/ssi/2016/85">2016/85</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 72 in so far as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 September 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00048" href="http://www.legislation.gov.uk/id/ssi/2016/85">2016/85</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 73</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00049" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 75</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00050" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 76(1) and (3) (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00051" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 77</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00052" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 78</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00053" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 79</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00054" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 80(1) and (2) (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 December 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00055" href="http://www.legislation.gov.uk/id/ssi/2015/382">2015/382</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 80 (so far as not already in force)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00056" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 81</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00057" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 82</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00058" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 83</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1 November 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00059" href="http://www.legislation.gov.uk/id/ssi/2016/307">2016/307</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 87 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00060" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 87 (partially)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00061" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Section 87 insofar as not already in force</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">20 December 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00062" href="http://www.legislation.gov.uk/id/ssi/2017/424">2017/424</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Schedule 1</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00063" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Schedule 2 part 1</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">31 December 2016</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00064" href="http://www.legislation.gov.uk/id/ssi/2016/130">2016/130</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Schedule 2 part 2 (except paragraph 4(2), (4) and (6)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">15 May 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00065" href="http://www.legislation.gov.uk/id/ssi/2017/119">2017/119</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Schedule 2 part 3</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">20 December 2017</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00066" href="http://www.legislation.gov.uk/id/ssi/2017/424">2017/424</ref>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </foreign>
+            </tblock>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

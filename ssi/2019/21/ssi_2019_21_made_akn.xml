@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/21"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/21"/>
+               <FRBRdate date="2019-01-29" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="21"/>
+               <FRBRname value="S.S.I. 2019/21"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/21/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/21/made"/>
+               <FRBRdate date="2019-01-29" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/21/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/21/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-29" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-01-31" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-08" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>. The function of prescribing the circumstances in which a person is or is not to be treated as gainfully employed, for the purpose of section 70(1)(b) of the Social Security Contributions and Benefits Act 1992, transferred to the Scottish Ministers on the commencement of section 81 of the Social Security (Scotland) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2018/9">2018 (asp 9)</ref>, dealing with Carer’s Allowance Supplement. The same applies to exercising the power in section 175 of the Social Security Contributions and Benefits Act 1992 to make regulations setting out earnings limits in relation to entitlement to Child Dependency Increase. In both cases the transfer is in terms of regulation 4 of the Scotland Act 2016 (Transitional) Regulations 2017 (<ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2017/444">S.I. 2017/444</ref>), which causes section 53(1) and (2) of the Scotland Act 1998 (c.46 ) to have effect upon commencement of a provision which relies on the exception in relation to carer’s benefits in Section F1 of Part 2 of schedule 5 of the Scotland Act 1998. Section 81 was commenced on 3 September 2018 by article 3 of <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2018/250">S.S.I. 2018/250</ref>. Accordingly, responsibility for the exercise of the functions exercisable by the Secretary of State for Work and Pensions in relation to Carer’s Allowance as provided for under section 70 of the Social Security Contributions and Benefits Act 1992 has transferred to the Scottish Ministers as regards provision of Carer’s Allowance to people residing in Scotland. The setting of relevant earnings limits falls within that responsibility. The requirement to consult the Social Security Advisory Committee is removed by section 33 of the Scotland Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref>. Section 90 of the Social Security Contributions and Benefits Act 1992 was relevantly amended by paragraph 26 of schedule 8 of the Welfare Reform and Pensions Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1999/30">1999 (c.30)</ref> and by article 2 of, and paragraphs 1 and 2 of the schedule of, <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2002/1457">S.I. 2002/1457</ref>. Section 90 was repealed by schedule 6 of the Tax Credits Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 (c.21)</ref> in respect of Child Dependency Increase, subject to savings by article 3 of <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/2003/938">S.I. 2003/938</ref>. Section 90 was repealed for remaining purposes, namely in relation to Adult Dependency Increase, by Part 2 of schedule 7 of the Welfare Reform Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/2009/24">2009 (c.24)</ref>, subject to a saving by section 15(2)(b) of that Act. Section 122(1) is cited for the meaning assigned to the word “prescribed.” An amendment was made to section 175(1) which is not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/uksi/1976/409">S.I. 1976/409</ref>. Regulation 8(1) was amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/uksi/1996/2744">S.I. 1996/2744</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2002/2497">S.I. 2002/2497</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/2018/280">S.I. 2018/280</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/uksi/1977/343">S.I. 1977/343</ref>. Paragraph 2B was inserted by <ref eId="c00021" href="http://www.legislation.gov.uk/id/uksi/1984/1699">S.I. 1984/1699</ref>. Paragraph 2B was amended by <ref eId="c00022" href="http://www.legislation.gov.uk/id/uksi/2018/332">S.I. 2018/332</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040683"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 21</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Security</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Carer’s Allowance Up-rating (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-29">29th January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-01-31">31st January 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-08">8th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 70(8), 90, 122(1) and 175(1) and (3) of the Social Security Contributions and Benefits Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Carer’s Allowance Up-rating (Scotland) Regulations 2019 and come into force on 8 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Social Security (Invalid Care Allowance) Regulations 1976</heading>
+            <num>2.</num>
+            <content>
+               <p>In regulation 8(1) of the Social Security (Invalid Care Allowance) Regulations 1976<noteRef href="#f00002" class="footnote" marker="2"/> (circumstances in which a person is or is not to be treated as gainfully employed) for “£120”, in both places where it occurs, substitute “£123”.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Social Security Benefit (Dependency) Regulations 1977</heading>
+            <num>3.</num>
+            <intro>
+               <p>In paragraph 2B of schedule 2 of the Social Security Benefit (Dependency) Regulations 1977<noteRef href="#f00003" class="footnote" marker="3"/> (increase of carer’s allowance for child dependants)—</p>
+            </intro>
+            <subparagraph eId="regulation-3-a">
+               <num>(a)</num>
+               <content>
+                  <p>for “£235”, in both places where it occurs, substitute “£240”, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-3-b">
+               <num>(b)</num>
+               <content>
+                  <p>for “£31” substitute “£32”.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">SHIRLEY-ANNE SOMERVILLE</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-29">29th January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend earnings limits used to determine entitlement to Carer’s Allowance and to additional payments payable to Carer’s Allowance recipients, so far as payment is the responsibility of the Scottish Ministers. This adjustment relates to the up-rating, by the Scottish Ministers, of the weekly rate of payment of Carer’s Allowance (see the Carer’s Allowance Up-rating (Scotland) Order 2019 (<abbr class="acronym" title="Scottish Statutory Instrument">S.S.I.</abbr> 2019/<span ukl:Name="EmSpace"> </span>)).</p>
+            <p>Regulation 2 of these Regulations amends regulation 8 of the Social Security (Invalid Care Allowance) Regulations 1976 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/uksi/1976/409">S.I. 1976/409</ref>) (“the 1976 Regulations”). It increases the amount which a person eligible for payment of Carer’s Allowance from the Scottish Ministers can earn in a given week without being deemed to be gainfully employed and, therefore, losing their entitlement to Carer’s Allowance. The Social Security Amendment (Carer’s Allowance) Regulations 2002 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/uksi/2002/2497">S.I. 2002/2497</ref>) replace references to “Invalid Care Allowance” with references to “Carer’s Allowance” in certain legislative provisions, but “Invalid Care Allowance” remains part of the title of the 1976 Regulations for statutory purposes.</p>
+            <p>Regulation 3 of these Regulations amends schedule 2 of the Social Security Benefit (Dependency) Regulations 1977 (<ref eId="c00003" href="http://www.legislation.gov.uk/id/uksi/1977/343">S.I. 1977/343</ref>). The effect is to increase the amount which the partner of a person eligible for payment of Carer’s Allowance from the Scottish Ministers can earn in a given week without the person receiving Carer’s Allowance losing any entitlement to what is payable by way of an additional payment where a recipient is entitled to receive Child Benefit in relation to a child or children. This addition is known as Child Dependency Increase and is payable only to those with transitional protection. Child Dependency Increase was abolished by section 1(3)(e) and schedule 6 of the Tax Credits Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 (c.21)</ref> but saved for transitional cases by article 3 of the Tax Credits Act 2002 (Commencement <abbr title="Number">No.</abbr> 3 and Transitional Provisions and Savings) Order 2003 (<ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2003/938">S.I. 2003/938</ref>).</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

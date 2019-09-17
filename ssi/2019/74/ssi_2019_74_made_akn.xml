@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/74"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/74"/>
+               <FRBRdate date="2019-02-27" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="rule"/>
+               <FRBRnumber value="74"/>
+               <FRBRname value="S.S.I. 2019/74"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/74/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/74/made"/>
+               <FRBRdate date="2019-02-27" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/74/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/74/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-27" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-01" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-29" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2013/3">2013 asp 3</ref>. Section 4 was amended by the Courts Reform (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule 5, paragraph 31(3), and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2016/2">2016 (asp 2)</ref>, schedule 1, paragraph 1(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1975/47">1975 c.47</ref>. Section 1(2) was last amended by the Tribunals, Courts and Enforcement Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2007/15">2007 (c.15)</ref>, schedule 8, paragraph<span ukl:Name="NonBreakingSpace"> </span>6(2).</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>. Sections 105 and 106 were modified by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2018/158">S.S.I. 2018/158</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>The Ordinary Cause Rules 1993 are in schedule 1 of the Sheriff Courts (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1907/51">1907 (c. 51)</ref>. Schedule 1 was substituted by <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/1993/1956">S.I. 1993/1956</ref> and last amended by <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2017/186">S.S.I. 2017/186</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Rule 27A was inserted by <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2017/52">S.S.I. 2017/52</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Rule 32.1A was inserted by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2004/197">S.S.I. 2004/197</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2002/494">S.S.I. 2002/494</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (<ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/1994/1443">S.I. 1994/1443</ref>), last amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2018/348">S.S.I. 2018/348</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Rule 34A.1 was inserted by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2017/52">S.S.I. 2017/52</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Rule 34A.9 was inserted by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2017/52">S.S.I. 2017/52</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Rule 42.1(2) was substituted by <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2008/123">S.S.I. 2008/123</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>Rule 42.2 was substituted by <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2011/402">S.S.I 2011/402</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Rule 42.3 was amended by <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2011/402">S.S.I. 2011/402</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Rule 42.4 was amended by <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2011/402">S.S.I. 2011/402</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Rule 42.7 was amended by <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2011/402">S.S.I. 2011/402</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2015/356">S.S.I. 2015/356</ref>, last amended by <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2017/186">S.S.I. 2017/186</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>Rule 19.2A was inserted by <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2015/419">S.S.I. 2015/419</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2002/494">S.S.I. 2002/494</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>
+                  <ref eId="c00028" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>
+                  <ref eId="c00029" href="http://www.legislation.gov.uk/id/uksi/1976/1606">S.I. 1976/1606</ref>, last amended by <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2015/419">S.S.I. 2015/419</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>
+                  <ref eId="c00031" href="http://www.legislation.gov.uk/id/uksi/1992/1878">S.I. 1992/1878</ref>, last amended by <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2018/126">S.S.I. 2018/126</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>
+                  <ref eId="c00033" href="http://www.legislation.gov.uk/id/uksi/1993/3080">S.I. 1993/3080</ref>, last amended by <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2018/186">S.S.I. 2018/186</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00024">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2009/162">S.S.I. 2009/162</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00025">
+               <p>
+                  <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2011/404">S.S.I. 2011/404</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00026">
+               <p>
+                  <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2015/387">S.S.I. 2015/387</ref>, last amended by <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2018/186">S.S.I. 2018/186</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00027">
+               <p>
+                  <ref eId="c00039" href="http://www.legislation.gov.uk/id/ukpga/1971/58">1971 c.58</ref>. Section 35 is repealed by the Courts Reform (Scotland) Act <ref eId="c00040" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule 5, paragraph 6(2) which was brought into force in part by <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2016/291">S.S.I. 2016/291</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041291"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 74</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Court Of Session</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Appeal Court</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-27">27th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-01">1st March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-29">29th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<noteRef href="#f00001" class="footnote" marker="1"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.</p>
+         <formula name="enactingText">
+            <p>The Court of Session therefore makes this Act of Sederunt under the powers conferred by section<span ukl:Name="NonBreakingSpace"> </span>1(2) of the Litigants in Person (Costs and Expenses) Act 1975<noteRef href="#f00002" class="footnote" marker="2"/>, sections 103(1), 104(1), 105(1) and 106(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00003" class="footnote" marker="3"/> and all other powers enabling it to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <rule eId="article-1">
+            <heading>Citation and commencement, <abbr title="et cetera" xml:lang="la">etc.</abbr>
+            </heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>It comes into force on 29th April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>A certified copy is to be inserted in the Books of Sederunt.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-2">
+            <heading>Application</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to sub-paragraphs (2) and (3), the amendments effected by this Act of Sederunt apply in respect of proceedings commenced on or after the coming into force of this Act of Sederunt.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>The amendments effected by paragraphs 3(6) and 5(3) apply in respect of proceedings where the date of the final judgment (as defined in those provisions) is on or after the coming into force of this Act of Sederunt.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>The amendments effected by paragraphs 3(7), 4(6), 4(7), 4(8), 4(9), 4(10), 4(11), 4(13) and 5(4) apply in respect of accounts lodged for taxation on or after the coming into force of this Act of Sederunt.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-4">
+               <num>(4)</num>
+               <intro>
+                  <p>For the purpose of sub-paragraph (1)—</p>
+               </intro>
+               <subparagraph eId="article-2-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>proceedings in the Sheriff Appeal Court; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>proceedings in the Inner House of the Court of Session under Chapters 38, 39 or 40 of the Rules of the Court of Session 1994, other than on a remit from the Sheriff Appeal Court,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>are distinct proceedings.</p>
+               </wrapUp>
+            </paragraph>
+         </rule>
+         <rule eId="article-3">
+            <heading>Amendment of the Ordinary Cause Rules 1993</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Ordinary Cause Rules 1993<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In rule 7.4 (decree for expenses)—</p>
+               </intro>
+               <subparagraph eId="article-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the existing rule becomes paragraph (1);</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (1), insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>Where the pursuer elects, in the minute for decree, to claim expenses comprising—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the inclusive charges set out in Part 1 of Table 1 in schedule 4 of the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>outlays comprising only—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>the court fee for warranting the initial writ;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>postal charges incurred in effecting, or attempting to effect, service of the initial writ by post; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>where applicable, a sheriff officer’s fee for service of the initial writ,</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <wrapUp>
+                                    <p>the sheriff may grant decree for payment of such expenses without the necessity of taxation.</p>
+                                 </wrapUp>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>In rule 27A.1 (pursuers’ offers – interpretation)<noteRef href="#f00005" class="footnote" marker="5"/>, for the definition of “fees” substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“charges” means charges for work carried out by the pursuer’s solicitor, and includes any additional charge;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-4">
+               <num>(4)</num>
+               <content>
+                  <p>In rule 27A.9 (extent of defender’s liability), for “fees” in both places where it appears substitute “charges”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In rule 32.1 (taxation before decree for expenses)—</p>
+               </intro>
+               <subparagraph eId="article-3-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the existing rule becomes paragraph (1);</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (1) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Paragraph (1) applies subject to rule 7.4(2).</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-6">
+               <num>(6)</num>
+               <content>
+                  <p>For rule 32.1A (order to lodge account of expenses)<noteRef href="#f00006" class="footnote" marker="6"/>, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>32.1A.</num>
+                              <heading>Time for lodging account of expenses</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A party found entitled to expenses must lodge an account of expenses in process—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>not later than four months after the final judgment; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>at any time with permission of the sheriff, but subject to such conditions, if any, as the sheriff thinks fit to impose.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Where an account of expenses is lodged by the Scottish Legal Aid Board in reliance on regulation 39(2)(a) of the Civil Legal Aid (Scotland) Regulations 2002<noteRef href="#f00007" class="footnote" marker="7"/>, paragraph<span ukl:Name="NonBreakingSpace"> </span>(1)(a)<span ukl:Name="NonBreakingSpace"> </span>applies as if the period specified there is 8 months.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>In this rule, “final judgment” has the meaning assigned by section 136(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00008" class="footnote" marker="8"/>.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-7">
+               <num>(7)</num>
+               <content>
+                  <p>For rule 32.3 (procedure for taxation) and rule 32.4 (objections to auditor’s report), substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>32.3.</num>
+                              <heading>Diet of taxation</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>Where an account of expenses awarded in a cause is lodged for taxation, the sheriff clerk must transmit the account and the process to the auditor of court.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>Subject to paragraph (3), the auditor of court must fix a diet of taxation on receipt of—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the account of expenses;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the process;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>vouchers in respect of all outlays claimed in the account, including counsel’s fees; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <intro>
+                                       <p>a letter addressed to the auditor of court—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>confirming that the items referred to in sub-paragraph (c) have been intimated to the party found liable in expenses; and</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>providing such information as is required to enable the auditor of court to give intimation to the party found liable in expenses in accordance with paragraph (4)(b).</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>The auditor of court must fix a diet of taxation where paragraph (2)(c) or (d), or both, have not been complied with.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>The auditor of court shall intimate the diet of taxation to—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the party found entitled to expenses; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the party found liable in expenses.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>The party found liable in expenses may, not later than 4.00 pm on the fourth business day before the diet of taxation, intimate to the auditor of court and to the party found entitled to expenses particular points of objection, specifying each item objected to and stating concisely the nature and ground of objection.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>Subject to paragraph (7), if the party found liable in expenses fails to intimate points of objection under paragraph (5) within the time limit set out there, the auditor of court must not take account of them at the diet of taxation.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <content>
+                                    <p>Where a failure to comply with the requirement contained in paragraph (5) was due to mistake, oversight or other excusable cause, the auditor of court may relieve a party of the consequences of such failure on such conditions, if any, as the auditor thinks fit.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(8)</num>
+                                 <content>
+                                    <p>At the diet of taxation, or within such reasonable period of time thereafter as the auditor of court may allow, the party found entitled to expenses must make available to the auditor of court all documents, drafts or copies of documents sought by the auditor and relevant to the taxation.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(9)</num>
+                                 <content>
+                                    <p>In this rule, “business day” means any day other than a Saturday, Sunday or public or court holiday.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                           <article>
+                              <num>32.3A.</num>
+                              <heading>Auditor’s statement</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>The auditor of court must—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>prepare a statement of the amount of expenses as taxed;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>transmit the process, the taxed account and the statement to the sheriff clerk; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>on the day on which the documents referred to in sub-paragraph (b) are transmitted, intimate that fact and the date of the statement to each party to whom the auditor intimated the diet of taxation.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The party found entitled to expenses must, within 7 days after the date of receipt of intimation under paragraph (1)(c), send a copy of the taxed account to the party found liable in expenses.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Where no objections are lodged under rule 32.4 (objections to taxed account), the sheriff may grant decree for the expenses as taxed.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                           <article>
+                              <num>32.4.</num>
+                              <heading>Objections to taxed account</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>A party to a cause who has appeared or been represented at a diet of taxation may object to the auditor of court’s statement by lodging in process a note of objection within 14 days after the date of the statement.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The party lodging a note of objection is referred to in this rule as “the objecting party”.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>On lodging the note of objection the objecting party must apply by motion for an order—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>allowing the note of objection to be received; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>allowing a hearing on the note of objection.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>On the granting of the order mentioned in paragraph (3), the objecting party must intimate to the auditor of court—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the note of objection; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the interlocutor containing the order.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>Within 14 days after receipt of intimation of the items mentioned in paragraph (4) the auditor of court must lodge in process a statement of reasons in the form of a minute stating the reasons for the auditor’s decision in relation to the items to which objection is taken in the note.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>On the lodging of the statement of reasons the sheriff clerk must fix a hearing on the note of objection.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <intro>
+                                    <p>At the hearing, the sheriff may—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>sustain or repel any objection or remit the account of expenses to the auditor of court for further consideration; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>find any party liable in the expenses of the procedure on the note of objection.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </article>
+                           <article>
+                              <num>32.5.</num>
+                              <heading>Interest on expenses</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>Paragraph (2) applies where the sheriff grants decree for payment of—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>expenses as taxed; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>interest thereon.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Without prejudice to the sheriff’s other powers in relation to interest, the decree pronounced may require the party decerned against to pay interest on the taxed expenses, or any part thereof, from a date no earlier than 28 days after the date on which the account of expenses was lodged.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-4">
+            <heading>Amendment of the Rules of the Court of Session 1994</heading>
+            <num>4.</num>
+            <paragraph eId="article-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Rules of the Court of Session 1994<noteRef href="#f00009" class="footnote" marker="9"/> are amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In rule 19.1 (decrees in absence)—</p>
+               </intro>
+               <subparagraph eId="article-4-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (3)(b)(ii), for “under Part I of Chapter <abbr class="acronym" title="3">III</abbr> of the Table of Fees in rule 42.16” substitute “in accordance with paragraph (3A)”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (3), insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3A)</num>
+                                 <intro>
+                                    <p>Where the pursuer elects to claim expenses comprising—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the inclusive charge set out in Part 1 of Table 1 in schedule 2 of the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>outlays not exceeding £471.50 (excluding value added tax),</p>
+                                    </content>
+                                 </paragraph>
+                                 <wrapUp>
+                                    <p>the court may grant decree for payment of such expenses without the necessity of taxation.</p>
+                                 </wrapUp>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>In rule 34A.1 (pursuers’ offers – interpretation)<noteRef href="#f00010" class="footnote" marker="10"/>, for the definition of “fees” substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“charges” means charges for work carried out by the pursuer’s solicitor, and includes any additional charge;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-4">
+               <num>(4)</num>
+               <content>
+                  <p>In rule 34A.9 (extent of defender’s liability)<noteRef href="#f00011" class="footnote" marker="11"/>, for “fees”, in both places where it appears substitute “charges”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-5">
+               <num>(5)</num>
+               <content>
+                  <p>The heading of Chapter 42 (taxation of accounts and fees of solicitors) becomes “TAXATION OF ACCOUNTS, <abbr title="et cetera" xml:lang="la">ETC.</abbr>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In rule 42.1(2) (remit to the Auditor)<noteRef href="#f00012" class="footnote" marker="12"/>—</p>
+               </intro>
+               <subparagraph eId="article-4-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of sub paragraph (a) add “or”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-6-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in sub-paragraph (b)—</p>
+                  </intro>
+                  <clause eId="article-4-6-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “if he has failed to comply with sub paragraph (a),”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-4-6-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “impose; and”, substitute “impose.”; and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-4-6-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit sub-paragraph(c).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-7">
+               <num>(7)</num>
+               <content>
+                  <p>After rule 42.1(2) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(2A)</num>
+                              <content>
+                                 <p>On lodging an account under paragraph (2)(a) or (b), any party found entitled to expenses must intimate a copy of it forthwith to the party found liable to pay those expenses.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-8">
+               <num>(8)</num>
+               <content>
+                  <p>In rule 42.2 (diet of taxation)<noteRef href="#f00013" class="footnote" marker="13"/>, in paragraph (7) after “diet of taxation”, insert “or within such reasonable period of time thereafter as the Auditor may allow,”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-9">
+               <num>(9)</num>
+               <content>
+                  <p>In rule 42.3 (report of taxation)<noteRef href="#f00014" class="footnote" marker="14"/>, for paragraph (1) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(1)</num>
+                              <intro>
+                                 <p>The Auditor must—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>prepare a statement of the amount of expenses as taxed;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>transmit the process of the cause, the taxed account and the statement to the appropriate Department of the Office of Court; and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>on the day on which the documents mentioned in sub-paragraph (b) are transmitted, intimate that fact and the date of the statement to each party to whom the Auditor intimated the diet of taxation.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-10">
+               <num>(10)</num>
+               <intro>
+                  <p>In rule 42.4 (objections to report of the auditor)<noteRef href="#f00015" class="footnote" marker="15"/>, in paragraph (1)—</p>
+               </intro>
+               <subparagraph eId="article-4-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “report of the Auditor” substitute “Auditor’s statement”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “date of the report” substitute “date of the statement”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-11">
+               <num>(11)</num>
+               <content>
+                  <p>After rule 42.4, insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>42.4A.</num>
+                              <heading>Interest on expenses</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>At any time before extract of a decree for payment of expenses as taxed by the Auditor the court may, on the application of the party to whom expenses are payable, grant decree against the party decerned against for payment of interest on the taxed expenses, or any part thereof, from a date no earlier than 28 days after the date on which the account of expenses was lodged.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Paragraph (1) is without prejudice to the court’s other powers in relation to expenses.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-12">
+               <num>(12)</num>
+               <content>
+                  <p>In rule 42.5 (modification or disallowance of expenses), omit paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-13">
+               <num>(13)</num>
+               <intro>
+                  <p>In rule 42.7 (taxation of solicitors’ own accounts)<noteRef href="#f00016" class="footnote" marker="16"/>—</p>
+               </intro>
+               <subparagraph eId="article-4-13-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for paragraph (7), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(7)</num>
+                                 <intro>
+                                    <p>The Auditor must—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>prepare a statement of the fees and outlays as taxed;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>transmit the statement and the taxed account to the appropriate Department of the Office of Court; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>send a copy of the statement to the solicitor and the client.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-13-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (7A), for “report” substitute “statement”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-13-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (8), for “report of the Auditor” substitute “Auditor’s statement”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-14">
+               <num>(14)</num>
+               <content>
+                  <p>Omit Part II of Chapter 42 (fees of solicitors).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-15">
+               <num>(15)</num>
+               <content>
+                  <p>After Part III of Chapter 42 (fees in speculative causes), insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <part>
+                              <num>PART<span ukl:Name="NonBreakingSpace"> </span>IV</num>
+                              <heading>REMUNERATION OF REPORTERS</heading>
+                              <article>
+                                 <num>42.18.</num>
+                                 <heading>Remuneration of reporters</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>This rule applies where any matter in a cause is remitted by the court, at its own instance or on the motion of a party, to a reporter or other person to report to the court.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>The party liable to the reporter or other person for payment of that person’s fee, and reimbursement of that person’s outlays, is—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>where the court makes the remit at its own instance, the party so ordained by the court;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>where the court makes the remit on the motion of a party, that party.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>The solicitor for the liable party is personally liable in the first instance for payment of such fee and outlays.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(4)</num>
+                                    <intro>
+                                       <p>This rule applies subject to—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>any other provision in these Rules;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>any order of the court; or</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>any agreement between a party and that party’s solicitor.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </article>
+                           </part>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-5">
+            <heading>Amendment of the Sheriff Appeal Court Rules</heading>
+            <num>5.</num>
+            <paragraph eId="article-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Sheriff Appeal Court Rules) 2015<noteRef href="#f00017" class="footnote" marker="17"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>Omit rule 19.2 (additional fee) and rule 19.2A (sanction for the employment of counsel)<noteRef href="#f00018" class="footnote" marker="18"/>.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>For rule 19.3 (order to lodge account of expenses), substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>19.3.</num>
+                              <heading>Time for lodging account of expenses</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A party found entitled to expenses must lodge an account of expenses in process—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>not later than 4 months after the final judgment; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>at any time with permission of the court, but subject to such conditions, if any, as the court thinks fit to impose.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Where an account of expenses is lodged by the Scottish Legal Aid Board in reliance on regulation 39(2)(a) of the Civil Legal Aid (Scotland) Regulations 2002<noteRef href="#f00019" class="footnote" marker="19"/>, paragraph<span ukl:Name="NonBreakingSpace"> </span>(1)(a) applies as if the period specified there is 8 months.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>In this rule, “final judgment” has the meaning assigned by section 136(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00020" class="footnote" marker="20"/>.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-4">
+               <num>(4)</num>
+               <content>
+                  <p>For rule 19.4 (procedure for taxation of expenses) and rule 19.5 (objections to taxed account), substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>19.4.</num>
+                              <heading>Diet of taxation</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>Where an account of expenses is lodged for taxation, the clerk must transmit the account and the process to the auditor of court.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>Subject to paragraph (3), the auditor of court must fix a diet of taxation on receipt of—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the account of expenses;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the process;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>vouchers in respect of all outlays claimed in the account, including counsel’s fees; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <intro>
+                                       <p>a letter addressed to the auditor of court—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>confirming that the items referred to in sub-paragraph (c) have been intimated to the party found liable in expenses; and</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>providing such information as is required to enable the auditor of court to give intimation to the party found liable in expenses in accordance with paragraph (4)(b).</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>The auditor of court may fix a diet of taxation where paragraph (2)(c) or (d), or both, have not been complied with.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>The auditor of court must intimate the diet of taxation to—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the party found entitled to expenses; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the party found liable in expenses.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>The party found liable in expenses must, not later than 4.00 pm on the fourth business day before the diet of taxation, intimate to the auditor of court and to the party found entitled to expenses particular points of objection, specifying each item objected to and stating concisely the nature and ground of objection.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>Subject to paragraph (7), if the party found liable in expenses fails to intimate points of objection under paragraph (5) within the time limit set out there, the auditor of court must not take account of them at the diet of taxation.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <content>
+                                    <p>Where a failure to comply with the requirement contained in paragraph (5) was due to mistake, oversight or other excusable cause, the auditor of court may relieve a party of the consequences of such failure on such conditions, if any, as the auditor thinks fit.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(8)</num>
+                                 <content>
+                                    <p>At the diet of taxation, or within such reasonable period of time thereafter as the auditor of court may allow, the party found entitled to expenses must make available to the auditor of court all documents, drafts or copies of documents sought by the auditor and relevant to the taxation.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(9)</num>
+                                 <content>
+                                    <p>In this rule, a “business day” means any day other than a Saturday, Sunday or public or court holiday.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                           <article>
+                              <num>19.4A.</num>
+                              <heading>Auditor’s statement</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>The auditor of court must—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>prepare a statement of the amount of expenses as taxed;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>transmit the process, the taxed account and the statement to the clerk; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>on the day on which the documents referred to in sub-paragraph (b) are transmitted, intimate that fact and the date of the report to each party to whom the auditor intimated the diet of taxation.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The party found entitled to expenses must, within 7 days after the date of receipt of intimation under paragraph (1)(c), send a copy of the taxed account to the party found liable in expenses.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Where no objections are lodged under rule 19.5 (objections to taxed account), the court may grant decree for the expenses as taxed.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                           <article>
+                              <num>19.5.</num>
+                              <heading>Objections to taxed account</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>A party to an appeal who has appeared or been represented at a diet of taxation may object to the auditor of court’s statement by lodging in process a note of objection within 14 days after the date of the statement.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The party lodging a note of objection is referred to in this rule as “the objecting party”.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>On lodging the note of objection the objecting party must apply by motion for an order—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>allowing the note to be received; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>allowing a hearing on the note of objection.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>On the granting of the order mentioned in paragraph (3), the objecting party must intimate to the auditor of court—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the note of objection; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the interlocutor containing the order.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>Within 14 days after receipt of intimation of the items mentioned in paragraph<span ukl:Name="NonBreakingSpace"> </span>(4) the auditor of court must lodge in process a statement of reasons in the form of a minute stating the reasons for the auditor’s decision in relation to the items to which objection is taken in the note.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>On the lodging of the statement of reasons the clerk must fix a hearing on the note of objection.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <intro>
+                                    <p>At the hearing, the court may—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>sustain or repel any objection in the note of objection or remit the account of expenses to the auditor of court for further consideration; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>find any party liable in the expenses of the procedure on the note of objection.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-6">
+            <heading>Revocation</heading>
+            <num>6.</num>
+            <intro>
+               <p>The following Acts of Sederunt are revoked—</p>
+            </intro>
+            <subparagraph eId="article-6-a">
+               <num>(a)</num>
+               <content>
+                  <p>Act of Sederunt (Expenses of Party Litigants) 1976<noteRef href="#f00021" class="footnote" marker="21"/>;</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-6-b">
+               <num>(b)</num>
+               <content>
+                  <p>Act of Sederunt (Fees of Witnesses and Shorthand Writers in the Sheriff Court) 1992<noteRef href="#f00022" class="footnote" marker="22"/>;</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-6-c">
+               <num>(c)</num>
+               <content>
+                  <p>Act of Sederunt (Fees of Solicitors in the Sheriff Court) (Amendment and Further Provisions) 1993<noteRef href="#f00023" class="footnote" marker="23"/>;</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-6-d">
+               <num>(d)</num>
+               <content>
+                  <p>Act of Sederunt (Fees of Members of the Association of Commercial Attorneys in the Sheriff Court) 2009<noteRef href="#f00024" class="footnote" marker="24"/>;</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-6-e">
+               <num>(e)</num>
+               <content>
+                  <p>Act of Sederunt (Sanction for the Employment of Counsel in the Sheriff Court) 2011<noteRef href="#f00025" class="footnote" marker="25"/>;</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-6-f">
+               <num>(f)</num>
+               <content>
+                  <p>Act of Sederunt (Fees of Solicitors in the Sheriff Appeal Court) 2015<noteRef href="#f00026" class="footnote" marker="26"/>.</p>
+               </content>
+            </subparagraph>
+         </rule>
+         <rule eId="article-7">
+            <heading>Saving</heading>
+            <num>7.</num>
+            <paragraph eId="article-7-1">
+               <num>(1)</num>
+               <intro>
+                  <p>The Acts of Sederunt revoked by paragraph 6 are saved in so far as they apply to—</p>
+               </intro>
+               <subparagraph eId="article-7-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>any proceedings commenced before the coming into force of this Act of Sederunt; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>summary cause proceedings in the sheriff court commenced on or after the coming into force of this Act of Sederunt.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-7-2">
+               <num>(2)</num>
+               <intro>
+                  <p>For the purpose of sub-paragraph (1)—</p>
+               </intro>
+               <subparagraph eId="article-7-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>proceedings in the Sheriff Appeal Court; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>proceedings in the Inner House of the Court of Session under Chapters 38, 39 or 40 of the Rules of the Court of Session 1994, other than on a remit from the Sheriff Appeal Court,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>are distinct proceedings.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="article-7-3">
+               <num>(3)</num>
+               <content>
+                  <p>In sub-paragraph (1)(b) the reference to summary cause proceedings is to proceedings subject to the procedure introduced by section 35 of the Sheriff Courts (Scotland) Act 1971<noteRef href="#f00027" class="footnote" marker="27"/>.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">CJM SUTHERLAND</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Lord President</role>
+                  </block>
+                  <block name="department">
+                     <organization refersTo="#">I.P.D.</organization>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-27">27th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Act of Sederunt)</block>
+            <p>This Act of Sederunt makes provision for—</p>
+            <blockList>
+               <item>
+                  <p>revocations of, and amendments to, rules consequential on the coming into force of the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019; and</p>
+               </item>
+               <item>
+                  <p>amendments to the rules of procedure governing the taxation of accounts of expenses in civil proceedings in the Court of Session, Sheriff Appeal Court and sheriff court.</p>
+               </item>
+            </blockList>
+            <p>In this note—</p>
+            <tblock class="tabular" ukl:Orientation="portrait">
+               <foreign>
+                  <table xmlns="http://www.w3.org/1999/xhtml" cols="1">
+                     <colgroup>
+                        <col width="403.05pt"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td rowspan="1" colspan="1">“the Ordinary Cause Rules” means the Ordinary Cause Rules 1993 in schedule 1 of the Sheriff Courts (Scotland) Act 1907;</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="1" colspan="1">“the Rules of the Court of Session” means the Rules of the Court of Session 1994 in schedule 2 of Act of Sederunt (Rules of the Court of Session 1994) 1994;</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="1" colspan="1">“the Sheriff Appeal Court Rules” means Act of Sederunt (Sheriff Appeal Court Rules) 2015; and</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="1" colspan="1">“the Taxation of Judicial Expenses Rules” means Act of Sederunt (Taxation of Judicial Expenses Rules) 2019.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </foreign>
+            </tblock>
+            <p>
+               <i>Amendments and revocations consequential on the Taxation of Judicial Expenses Rules</i>
+            </p>
+            <p>Paragraph 3(2) amends rule 7.4 of the Ordinary Cause Rules to allow the requirement for taxation to be dispensed with when decree has been granted in absence, and where the expenses claimed comprise only the inclusive charge provided for the purpose in the Taxation of Judicial Expenses Rules, a court fee, postal charges, and, where applicable, a sheriff officer’s fee for service.</p>
+            <p>Paragraph 4(2) amends rule 19.1 of the Rules of the Court of Session to allow the requirement for taxation to be dispensed with when decree has been granted in absence, and when the expenses claimed comprise only the inclusive charge provided for the purpose in the Taxation of Judicial Expenses Rules and outlays not exceeding £471.50.</p>
+            <p>Paragraphs 3(3) and (4), and 4(3) and (4) replace various references to fees with references to charges, consistent with the Taxation of Judicial Expenses Rules.</p>
+            <p>Paragraphs 4(5), 4(12) and 4(14), 5(2) and 6 provide for the omission of rules and tables, and for the revocation of Acts of Sederunt that are superseded by the Taxation of Judicial Expenses Rules.</p>
+            <p>Paragraph 4(15) amends the Rules of the Court of Session by inserting rule 42.18 in substitution for the provisions previously set out in rule 42.15. The rule makes provision regarding the remuneration of reporters appointed at the instance of the court.</p>
+            <p>In terms of paragraph 2(1), the foregoing amendments have effect only in respect of proceedings commenced on or after the coming into force of this Act of Sederunt. In terms of paragraph 7, the Acts of Sederunt revoked by paragraph 6 are saved for the purposes of proceedings commenced before the coming into force of this Act of Sederunt, and for the purposes of summary causes commenced subsequently.</p>
+            <p>
+               <i>Modification of taxation procedure</i>
+            </p>
+            <p>Paragraphs 3(6) and 5(3) amend the Ordinary Cause Rules and the Sheriff Appeal Court Rules by inserting rules that require a party found entitled to expenses to lodge an account of expenses for taxation not later than four months after the date of the final judgment, unless the court orders otherwise. The time limit is extended to eight months where the account is lodged by the Scottish Legal Aid Board in reliance on regulation 39(2)(a) of the Civil Legal Aid (Scotland) Regulations 2002.</p>
+            <p>The rules inserted replace rule 32.1A of the Ordinary Cause Rules and rule 19.3 of the Sheriff Appeal Court Rules. In terms of paragraph 2(2), the rules inserted have effect when the date of the final judgment is on or after the coming into force of this Act of Sederunt.</p>
+            <p>The amendments set out in paragraphs 3(7) and 5(4) provide for the modification of taxation procedure in sheriff court ordinary causes and in the Sheriff Appeal Court. Paragraph 3(7) omits existing rules 32.3 and 32.4 of the Ordinary Cause Rules and substitutes new rules 32.3, 32.3A, 32.4 and 32.5. Paragraph 5(4) omits existing rules 19.4 and 19.5 of the Sheriff Appeal Court Rules and substitutes new rules 19.4, 19.4A and 19.5.</p>
+            <p>New rules 32.3 and 19.4 make provision regarding the fixing and intimation of diets of taxation, the provision of vouching and information, and the intimation of points of objection. On receipt of an account of expenses remitted from the court the Auditor is not obliged to fix a diet of taxation until the party lodging the account has also provided vouchers in respect of all outlays claimed, and a letter that both confirms that the vouchers have been intimated to the paying party, and provides the Auditor with such information as is required to enable the Auditor to intimate the diet of taxation on the paying party.</p>
+            <p>Under the new rules it is for the Auditor to intimate the diet of taxation on both the party lodging the account and the paying party. The paying party must intimate particular points of objection to the account by 4.00 pm on the fourth business day before the diet of taxation. Where a failure to do so was due to mistake or oversight the Auditor may relieve the paying party of the consequences of the failure. Otherwise, the Auditor must not take account of a point of objection that has not been intimated in advance.</p>
+            <p>In place of the requirement to prepare a report, new rules 32.3A and 19.4A require the Auditor to prepare a statement of the amount of expenses as taxed.</p>
+            <p>New rules 32.4 and 19.5 introduce more detailed provision regarding the procedure to be followed where a party challenges decisions taken by the Auditor at taxation by way of note of objection. A note of objection must be lodged within fourteen days of the date of the Auditor’s statement. The party lodging the note must apply for an order allowing the note to be received, and allowing a hearing on the note. It is for the objecting party to intimate the note and the interlocutor allowing a hearing to the Auditor.</p>
+            <p>Within fourteen days of intimation the Auditor must lodge a statement of reasons. The sheriff clerk or clerk to the Sheriff Appeal Court then fixes a hearing on the note of objections.</p>
+            <p>New rule 32.5 of the Ordinary Cause Rules makes provision concerning the payment of interest on expenses by allowing the court to award interest from a date before the date of the Auditor’s statement. The earliest date from which interest may be awarded is 28 days after the date on which the account of expenses was lodged.</p>
+            <p>Paragraphs 4(6), 4(7), 4(8), 4(9), 4(10) and 4(11) provide for amendments to the Rules of the Court of Session relating to taxation procedure. Paragraphs 4(6) and 4(7) amend rule 42.1(2) to allow a party to apply to the court for an extension of the period allowed for the lodging of an account of expenses before that period has expired. Paragraph 4(8) amends rule 42.2(7) to make it possible for the Auditor to allow a party a reasonable period following the diet of taxation to produce documents or information sought in the course of the diet.</p>
+            <p>Paragraphs 4(9), 4(10) and 4(13) provide for references to the Auditor’s report to be replaced with references to a statement of the amount of expenses as taxed. Paragraph 4(11) inserts rule 42.4A which makes provision for awards of interest on expenses to be backdated to a date no earlier than 28 days after the lodging of the account.</p>
+            <p>In terms of paragraph 2(3), the foregoing amendments have effect in relation to proceedings where the account of expenses is lodged for taxation on or after the coming into force of this Act of Sederunt.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

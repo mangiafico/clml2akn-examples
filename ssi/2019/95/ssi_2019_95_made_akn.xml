@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/95"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/95"/>
+               <FRBRdate date="2019-03-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="95"/>
+               <FRBRname value="S.S.I. 2019/95"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/95/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/95/made"/>
+               <FRBRdate date="2019-03-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/95/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/95/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1972/11">1972 c.11</ref>. Section 9 was relevantly amended by the Pensions (Miscellaneous Provisions) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1990/7">1990 (c.7)</ref>, sections 4(1), 8(3) and (4) and 11, the Pension Schemes Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1993/48">1993 (c.48)</ref>, section 190 and schedule 8, paragraph 7, <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/2001/3649">S.I. 2001/3649</ref>, <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2010/1158">S.I. 2010/1158</ref> and the Public Service Pensions Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/2013/25">2013 (c.25)</ref>, schedule 8, paragraphs 6 and 9. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999, article 2 and schedule 1 (<ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/1999/1750">S.I. 1999/1750</ref>).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/2013/25">2013 c.25</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The function of the Minister under section 9(1) of the Superannuation Act 1972 was transferred to the Treasury by the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (<ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/1981/1670">S.I. 1981/1670</ref>) and remains exercisable by virtue of <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1999/1750">S.I. 1999/1750</ref>, article 2 and schedule 1.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2019/48">S.S.I. 2019/48</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041567"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 95</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Pensions</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-14">14th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-18">18th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 9 and schedule 3 of the Superannuation Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and sections 1(1) and (2)(d) and paragraph 4(b) of schedule 2 of the Public Service Pensions Act 2013<noteRef href="#f00002" class="footnote" marker="2"/>, and all other powers enabling them to do so.</p>
+         <p>In accordance with section 9(5) of the Superannuation Act 1972, the Scottish Ministers have consulted with representatives of education authorities and of teachers and with such representatives of other persons likely to be affected by these Regulations as appear to them to be appropriate.</p>
+         <p>In accordance with section 21(1) of the Public Service Pensions Act 2013, the Scottish Ministers consulted the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) of the Public Service Pensions Act 2013, these Regulations are made with the consent of the Treasury<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d10764e219">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 and come into force on 1<span ukl:Name="NonBreakingSpace"> </span>April 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d10764e239">
+            <heading>Amendment to the Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with regulations 3 to 5.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <content>
+                  <p>For regulation 1, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>1.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>These Regulations may be cited as the Teachers’ Superannuation and Pension Scheme (Miscellaneous Amendments) Regulations 2019.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Subject to paragraph (3), these regulations come into force on 1 April 2019.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Regulations 2 and 3 come into force on 1 September 2019.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <content>
+                  <p>In regulation 3 for “22.4%” substitute “23.0%”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <intro>
+                  <p>In regulation 5—</p>
+               </intro>
+               <subparagraph eId="regulation-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “31 March 2019” substitute “31 August 2019”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “22.4% from 1 April 2019” substitute “23% from 1 September 2019”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signatureGroup">
+               <hcontainer name="signature">
+                  <content>
+                     <block name="signee">
+                        <person refersTo="#">KATE FORBES</person>
+                     </block>
+                     <block name="jobTitle">
+                        <role refersTo="#">A member of the Scottish Government</role>
+                     </block>
+                     <blockContainer uk:name="address" class="address">
+                        <p>
+                           <location refersTo="#">St Andrew’s House,</location>
+                        </p>
+                        <p>
+                           <location refersTo="#">Edinburgh</location>
+                        </p>
+                     </blockContainer>
+                     <block name="date">
+                        <date date="2019-03-12">12th March 2019</date>
+                     </block>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+            <hcontainer name="signatureGroup">
+               <intro>
+                  <p>We consent</p>
+               </intro>
+               <hcontainer name="signature">
+                  <content>
+                     <block name="signee">
+                        <person refersTo="#">CRAIG WHITTAKER</person>
+                     </block>
+                     <block name="signee">
+                        <person refersTo="#">REBECA HARRIS</person>
+                     </block>
+                     <block name="jobTitle">
+                        <role refersTo="#">Two of the Lords Commissioners of her Majesty’s Treasury</role>
+                     </block>
+                     <block name="date">
+                        <date date="2019-03-14">14th March 2019</date>
+                     </block>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>Regulations 2 to 5 make amendments to the Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019. Regulations 3, 4 and 5 amend those Regulations to increase the employers’ contribution rate from 1 September 2019 in line with HM Treasury Directions.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

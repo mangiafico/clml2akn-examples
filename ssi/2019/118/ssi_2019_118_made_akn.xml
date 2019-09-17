@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/118"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/118"/>
+               <FRBRdate date="2019-03-26" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="118"/>
+               <FRBRname value="S.S.I. 2019/118"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/118/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/118/made"/>
+               <FRBRdate date="2019-03-26" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/118/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/118/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-26" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-28" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-05-23" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 c.68</ref>. Section 2(2) was amended by paragraph 15(3) of schedule 8 of the Scotland Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/2006/51">2006 (c.51)</ref> (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by section 3(3) and Part 1 of the schedule of the European Union (Amendment) Act <ref eId="c00017" href="http://www.legislation.gov.uk/id/ukpga/2008/7">2008 (c.7)</ref>. The functions conferred upon the Minister of the Crown under section 2(2), insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, schedule, Part 1.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>OJ L 031 1.2.2002, p.1.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2010/177">S.S.I. 2010/177</ref> amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2011/171">S.S.I. 2011/171</ref>, <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2013/307">S.S.I. 2013/307</ref> and <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>OJ L 314, 29.11.2011, p.12.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>OJ L 285, 01.11.2017, p.8.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>OJ L 9, 11.1.2019, p.77.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>OJ L 94, 7.4.2017, p.1.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041741"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 118</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Animals</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-26">26th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-28">28th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-05-23">23rd May 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2), and paragraph 1A of schedule 2, of the European Communities Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>The Scottish Ministers have carried out a consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No. 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matter of food safety<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d12949e206">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 and come into force on 23 May 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d12949e224">
+            <heading>Amendment of the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010<noteRef href="#f00003" class="footnote" marker="3"/> are amended in accordance with regulations 3 to 10.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <paragraph eId="regulation-3-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>In regulation 2 (interpretation), paragraph (1) is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In the definition of “Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2004/0853">(EC) No. 853/2004</ref>”—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (b), at the end insert “, as last amended by <ref eId="c00003" href="http://www.legislation.gov.uk/european/regulation/2011/1223">Commission Implementing Regulation (EU) No 1223/2011</ref>
+                           <noteRef href="#f00004" class="footnote" marker="4"/>”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (c), for “and” substitute “, as last amended by <ref eId="c00004" href="http://www.legislation.gov.uk/european/regulation/2017/1980">Commission Regulation (EU) 2017/1980</ref>
+                           <noteRef href="#f00005" class="footnote" marker="5"/>”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>omit paragraph (d).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In the definition of “Regulation <ref eId="c00005" href="http://www.legislation.gov.uk/european/regulation/2004/0882">(EC) No. 882/2004</ref>”—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (a), insert at the end “, as last amended by <ref eId="c00006" href="http://www.legislation.gov.uk/european/regulation/2017/1980">Commission Regulation (EU) 2017/1980</ref>; and”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>omit paragraph (b),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>in paragraph (c), insert at the end “, as last amended by <ref eId="c00007" href="http://www.legislation.gov.uk/european/regulation/2019/0035">Commission Implementing Regulation (EU) 2019/35</ref>
+                           <noteRef href="#f00006" class="footnote" marker="6"/>”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>In the definition of “Regulation <ref eId="c00008" href="http://www.legislation.gov.uk/european/regulation/2009/1069">(EC) No 1069/2009</ref>” insert at the end “, as last amended by <ref eId="c00009" href="http://www.legislation.gov.uk/european/regulation/2017/0625">Regulation (EU) No 2017/625</ref>
+                        <noteRef href="#f00007" class="footnote" marker="7"/>”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>In the definition of “<ref eId="c00010" href="http://www.legislation.gov.uk/european/regulation/2011/0142">Regulation (EU) No 142/2011</ref>” omit “as last amended by <ref eId="c00011" href="http://www.legislation.gov.uk/european/regulation/2013/0717">Commission Regulation (EU) No 717/2013</ref>”.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <content>
+                  <p>In regulation 3 (appointment of competent authority) after “to” insert “paragraphs 1 to 18 of”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Regulation 15 (notices) is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In paragraph (1)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the word “or” following sub-paragraph (c) is omitted,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after sub-paragraph (d) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <subparagraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>the occupier or person in charge of any holding, vehicle or container to which the these Regulations apply; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(f)</num>
+                                    <content>
+                                       <p>the occupier of a slaughterhouse.</p>
+                                    </content>
+                                 </subparagraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In paragraph (3)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the word “or” at the end of sub-paragraph (g) is omitted,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after sub-paragraph (h) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <subparagraph>
+                                    <num>(i)</num>
+                                    <content>
+                                       <p>require that a person does not feed any animal protein or feedingstuffs that may contain animal protein to livestock;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(j)</num>
+                                    <content>
+                                       <p>require that all or any part of the holding, vehicle, vessel or container (and any associated equipment) is cleansed and disinfected where the inspector suspects there is a risk to animal or human health; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(k)</num>
+                                    <intro>
+                                       <p>require an occupier of a slaughterhouse—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>to take a sample from any bovine animal in accordance with paragraph 8 of Part 1 of schedule 2, or</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>to permit an official veterinarian to take brain stem samples from an bovine animal in accordance with paragraph 8 of Part 1 of schedule 2.</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <num>6.</num>
+               <paragraph eId="regulation-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Schedule 2 (<abbr class="acronym" title="Transmissible Spongiform Encephalopathy">TSE</abbr> monitoring) is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-6-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In Part 1 (monitoring for TSE) omit—</p>
+                  </intro>
+                  <subparagraph eId="regulation-6-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>paragraph 1 (notification of the body of a goat),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>paragraph 12 (slaughter of bovine animals).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-6-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Omit Part 2 (contents of the <abbr class="acronym" title="Required Methods of Operation">RMOP</abbr>).</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <num>7.</num>
+               <paragraph eId="regulation-7-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Schedule 4 (control and eradication of TSE in sheep and goats) is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In paragraph 4 (movement restrictions), for “Chapter A” in each place where it occurs substitute “Chapter B”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In paragraph 6 (action following confirmation of TSE in sheep)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in sub-paragraph (1)(a) for “Article 2.3(b) of, and point 1(b) of Chapter A” substitute “point 2.2 of Chapter B”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in sub-paragraph (1), and in sub-paragraph (2), for “point 2.3(b)(i) or (ii) of Chapter A” substitute “point 2.2 of Chapter B”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-7-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>In paragraph 7 (confirmation of TSE in goats), in sub-paragraph (2)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>for “point 1(b) of Chapter A” substitute “point 2.2 of Chapter B”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>for “point 2.3(b)(i) of Chapter A” substitute “point 2.2 of Chapter B”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-7-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>In paragraph 9 (inability to exclude <abbr class="acronym" title="Bovine Spongiform Encephalopathy">BSE</abbr> in sheep or goats), in sub-paragraph (2)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>for “point 1(b) of Chapter A” substitute “point 2.2 of Chapter B”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>for “point 2(3)(a) of Chapter A” substitute “point 2.2.1 of Chapter B”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-7-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>For paragraph 10 (confirmation of atypical scrapie in sheep or goats) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph>
+                                 <heading>Confirmation of atypical scrapie in sheep or goats</heading>
+                                 <num>10.</num>
+                                 <content>
+                                    <p>If the TSE is confirmed in a suspect sheep or goat as atypical scrapie, but BSE is excluded, the Scottish Ministers, after carrying out an inquiry, must serve a notice informing the occupier that the holding will be subject to intensified TSE monitoring in accordance with Annex 7 to the <abbr class="acronym" title="European Union">EU</abbr> TSE Regulation.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-7">
+                  <num>(7)</num>
+                  <content>
+                     <p>In paragraph 13 (killing and destruction following confirmation), in sub-paragraph (1) for “, 9(2) or 10(4)” substitute “or 9(2)”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-8">
+                  <num>(8)</num>
+                  <content>
+                     <p>In paragraph 14 (animals from another holding) for “point 2.4 of Chapter A” substitute “point 2.2 of Chapter B”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-9">
+                  <num>(9)</num>
+                  <content>
+                     <p>For paragraph 15 (common grazing) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph>
+                                 <heading>Common grazing</heading>
+                                 <num>15.</num>
+                                 <content>
+                                    <p>In the case of any animal with a TSE on common grazing, the Scottish Ministers may limit movement restrictions and killing to an individual flock or herd.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-10">
+                  <num>(10)</num>
+                  <content>
+                     <p>For paragraph 16 (multiple flocks on a holding) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph>
+                                 <heading>Multiple flocks on a holding</heading>
+                                 <num>16.</num>
+                                 <content>
+                                    <p>Where more than one flock or herd is kept on a single holding, the Scottish Ministers may limit movement restrictions and killing to an individual flock or herd.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-11">
+                  <num>(11)</num>
+                  <content>
+                     <p>In paragraph 18 (introduction of animals onto a holding) for “point 3.1 of Chapter A” substitute “point 3.2 of Chapter B”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-12">
+                  <num>(12)</num>
+                  <content>
+                     <p>In paragraph 19 (use of ovine germinal products) for “point 3.2 of Chapter A” substitute “point 3.3 of Chapter B”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-13">
+                  <num>(13)</num>
+                  <content>
+                     <p>In paragraph 20 (movement of animals from a holding) for “point 3.3 of Chapter A” substitute “point 3.4 of Chapter B”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-7-14">
+                  <num>(14)</num>
+                  <content>
+                     <p>In paragraph 21 (period of movement restrictions) for “point 3.4 of Chapter A” substitute “point 3.5 of Chapter B”.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <num>8.</num>
+               <content>
+                  <p>For schedule 6 (feedingstuffs) substitute the schedule which is set out in the schedule of these Regulations.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <num>9.</num>
+               <paragraph eId="regulation-9-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Schedule 7 (specified risk material, mechanically separated meat and slaughtering techniques) is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>For paragraph 2 (training) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph>
+                                 <heading>Training</heading>
+                                 <num>2.</num>
+                                 <content>
+                                    <p>The occupier of any slaughterhouse or cutting plant where specified risk material is removed must ensure that staff receive any training necessary to comply with the occupier’s duties under this schedule; and failure to do so is an offence.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>In paragraph 6 (head meat harvesting), after “point 8.1” insert “or point 9”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>In paragraph 8 (bovine animals in a slaughterhouse)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-4-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in sub-paragraph (1)—</p>
+                     </intro>
+                     <clause eId="regulation-9-4-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>after “specified risk material”, in the first place where it occurs, insert “from the carcase”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-4-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>omit “and specified risk material contained in or attached to offal”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in sub-paragraph (2)(b) at the end insert “from the remaining offal”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-4-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>omit sub-paragraph (4),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-4-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>for sub-paragraph (5) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                                 <subparagraph>
+                                    <num>(5)</num>
+                                    <content>
+                                       <p>In accordance with point 11.3(a) of Annex V to the EU TSE Regulation, when the removal of the vertebral column is required, carcases or wholesale cuts of carcases of bovine animals containing vertebral column must be identified by a clearly visible red stripe on the label referred to in that point.</p>
+                                    </content>
+                                 </subparagraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>In paragraph 9 (sheep and goats in a slaughterhouse)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-5-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in sub-paragraph (1)—</p>
+                     </intro>
+                     <clause eId="regulation-9-5-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>after “specified risk material”, in the first place where it occurs, insert “from the carcase”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-5-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>omit “and specified risk material contained in or attached to offal”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in sub-paragraph (2)(b), at the end insert “from the remaining offal”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>In paragraph 11 (young lamb and goat stamps), in paragraph (2)(a), for “MHS” substitute “FSS”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-7">
+                  <num>(7)</num>
+                  <intro>
+                     <p>In paragraph 12 (removal of spinal cord material from sheep and goats)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-7-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in sub-paragraph (a) omit “or”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-7-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after sub-paragraph (b) insert—<mod>
+                              <quotedText startQuote="“">or</quotedText>
+                              <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>an alternative method authorised in accordance with paragraph 12A.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Authorisation of alternative method of removal</heading>
+                                    <num>12A.</num>
+                                    <intro>
+                                       <p>Food Standards Scotland may authorise an alternative method of removal at specified premises provided that the occupier of those premises demonstrates to the satisfaction of Food Standards Scotland that—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the method is appropriate to achieve the objectives of the EU TSE Regulation;</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the equipment used to carry out the removal is fully effective; and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>the persons using the equipment are properly trained and skilled in its use and maintenance.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-8">
+                  <num>(8)</num>
+                  <content>
+                     <p>In paragraph 13 (authorisation of cutting plants by Food Standards Scotland), for sub-paragraph (1), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <subparagraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>If Food Standards Scotland is satisfied that the provisions of Annex 5 to the EU TSE Regulation and this schedule will be complied with, Food Standards Scotland may authorise a cutting plant to:</p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>remove those parts of the vertebral column of bovine animals that are specified risk material;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>remove the spinal cord from sheep and goats aged over 12 months at slaughter, or that have a permanent incisor erupted through the gum; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>harvest the head meat from bovine animals in accordance with point 9 of<span ukl:Name="EmSpace"> </span>Annex<span ukl:Name="NonBreakingSpace"> </span>
+                                          <abbr class="acronym" title="5">V.</abbr>
+                                       </p>
+                                    </content>
+                                 </paragraph>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-9">
+                  <num>(9)</num>
+                  <content>
+                     <p>In paragraph 16 (staining and disposal of specified risk material), for sub-paragraph (2)(a), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph class="para1">
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>indelible staining must involve treating the material (whether by immersion, spraying or other application) with a blue colouring agent using a solution of such a strength that the staining is clearly visible and remains visible after the specified risk material has been chilled or frozen; and</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-9-10">
+                  <num>(10)</num>
+                  <content>
+                     <p>After paragraph 18 (prohibition on the sale, supply or possession for sale or supply of specified risk material for human consumption) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                              <paragraph>
+                                 <heading>Determination of the age of sheep or goats</heading>
+                                 <num>19.</num>
+                                 <content>
+                                    <p>For the purposes of this schedule, “aged over 12 months” means that the age of the animal has been determined to be over 12 months in accordance with a method of ageing approved by the Scottish Ministers.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <num>10.</num>
+               <content>
+                  <p>In schedule 8 (restrictions on placing on the market and export), in paragraph 1(2) after “point 1 (a) of” insert “Chapter B of”.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+               </content>
+            </hcontainer>
+            <hcontainer name="signature">
+               <content>
+                  <block name="date">
+                     <date date="2019-03-26">26th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation 8</p>
+                  </authorialNote>
+               </num>
+               <content>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>6<authorialNote class="referenceNote">
+                                    <p>Regulation 5(e)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Feedingstuffs</heading>
+                              <paragraph>
+                                 <heading>Killing of animals that have had access to unlawful feedingstuffs</heading>
+                                 <num>1.</num>
+                                 <subparagraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>Where an inspector has reasonable grounds to believe that an animal has been fed or has had access to any material prohibited by Article 7 of, and listed in Annex 4 to, the EU TSE Regulation (referred to in this schedule as unlawful feedingstuffs), that inspector may serve a notice on the owner or person in charge of the animal in accordance with sub-paragraph (2).</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>The notice may require the owner or person in charge of the animal to—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>kill the animal and dispose of it, as specified in the notice; or</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>keep the animal on such holding and in such manner as the notice provides.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>Where a bovine animal is required by notice to be killed an inspector must ensure that the relevant cattle passport is stamped “Not for human consumption”.</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(4)</num>
+                                    <content>
+                                       <p>Any animal the cattle passport for which has been stamped under sub-paragraph (2) must not be consigned for slaughter for human consumption.”.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <heading>Compensation</heading>
+                                 <num>2.</num>
+                                 <subparagraph>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>Where an animal is killed because an inspector has reasonable grounds to believe that a TSE susceptible animal has been fed or has had access to unlawful feedingstuffs which consist of—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>specified risk material,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>any material that the inspector has reasonable grounds to believe carries the risk of TSE infectivity, or</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>animal protein for which the inspector cannot establish the origin of the TSE infectivity risk,</p>
+                                       </content>
+                                    </paragraph>
+                                    <wrapUp>
+                                       <p>the Scottish Ministers may pay compensation in accordance with sub-paragraph (4) if the Scottish Ministers consider it appropriate in all the circumstances.</p>
+                                    </wrapUp>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>The Scottish Ministers must give notice of any decision to pay compensation in writing to the owner of the animal.</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>The appeal procedure in regulation 10 applies in relation to any such decision.</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(4)</num>
+                                    <intro>
+                                       <p>The compensation for—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>a bovine animal is the value established in accordance with schedule 3;</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>an ovine or caprine animal is the value established in accordance with paragraph 24 of schedule 4; and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>an animal that is not bovine, ovine or caprine, is the market value of the animal calculated in accordance with paragraph 4 of schedule 5.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <heading>Restriction and disposal of unlawful feedingstuffs</heading>
+                                 <num>3.</num>
+                                 <subparagraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>Where unlawful feedingstuffs have been identified by an inspector as suspected of containing material prohibited by Article 7 of, and listed Annex 4 to, the EU TSE Regulation, an inspector may serve a notice on the owner or person in possession of the feedingstuffs.</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>The notice may require the owner or person in possession of the feedingstuffs to—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>restrict access by animals to the area where the feedingstuffs are stored;</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>prevent the feedingstuffs being fed to animals generally, or prevent it being fed to those animals specified in the notice;</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>require disposal of the feedingstuffs by the owner or person in possession of the feedingstuffs in accordance with instructions contained in the notice, with the cost of such disposal being borne by the recipient of the notice.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subparagraph>
+                              </paragraph>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make amendments to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (<ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2010/177">S.S.I. 2010/177</ref>) (“the 2010 Regulations”). The 2010 Regulations implement Regulation <ref eId="c00013" href="http://www.legislation.gov.uk/european/regulation/2001/0999">(EC) No 999/2001</ref> of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (<abbr class="acronym" title="Official Journal">OJ</abbr> No L 147, 31.5.2001, p.1) (“the EU TSE Regulation”).</p>
+            <p>The EU TSE Regulation has been subsequently updated and so these Regulations make consequential amendments to the 2010 Regulations and fix out of date references.</p>
+            <p>Regulation 3 amends regulation 2 of the 2010 Regulation (interpretation) so that the definitions of certain EU instruments are up to date.</p>
+            <p>Regulation 4 amends regulation 3 of the 2010 Regulations (appointment of competent authority) to provide that the Scottish Ministers are the competent authority for the purposes of paragraph (19) of schedule 7.</p>
+            <p>Regulation 5 amends regulation 15 of the 2010 Regulation (notices) to make provision for the serving of notices under that regulation.</p>
+            <p>Regulations 6, 7, 8, 9 and 10 make consequential amendments to schedules 2, 4, 6, 7 and 8 of the 2010 Regulations.</p>
+            <p>Regulation 9(10) inserts a new paragraph (19) into schedule 7 of the 2010 Regulations. This provides that the term “aged over 12 months”, when it appears in that schedule, means that the age of the animal in question has been determined in accordance with a method which has been approved by the Scottish Ministers.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

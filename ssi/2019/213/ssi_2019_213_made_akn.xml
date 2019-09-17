@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/213"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/213"/>
+               <FRBRdate date="2019-06-13" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="213"/>
+               <FRBRname value="S.S.I. 2019/213"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/213/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/213/made"/>
+               <FRBRdate date="2019-06-13" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/213/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/213/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-13" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-06-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-10-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1992/37">1992 c.37</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2007/116">S.S.I. 2007/116</ref>, amended by <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2015/305">S.S.I. 2015/305</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2016/15">2016 asp 15</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Queen Margaret University, Edinburgh is a company limited by guarantee registered in Scotland under company number SC007335.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Article 4 was amended by article 3 of <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2015/305">S.S.I. 2015/305</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Article 5 was substituted by article 4 of <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2015/305">S.S.I. 2015/305</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Article 4(2)(za) was inserted by article 3(2) of <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2015/305">S.S.I. 2015/305</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042458"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 213</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Education</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Queen Margaret University, Edinburgh (Scotland) Amendment Order of Council 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-13">13th June 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-06-18">18th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-10-01">1st October 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <container name="royalPresence">
+            <p>At the Council Chamber, Whitehall, the 13th day of June 2019</p>
+            <p>By the Lords of Her Majesty’s Most Honourable Privy Council</p>
+         </container>
+         <formula name="enactingText">
+            <p>Their Lordships make the following Order in exercise of the powers conferred by sections 45 and 60(3) of the Further and Higher Education (Scotland) Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Queen Margaret University, Edinburgh (Scotland) Amendment Order of Council 2019 and comes into force on 1 October 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order, “the 2007 Order” means the Queen Margaret University, Edinburgh (Scotland) Order of Council 2007<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Amendment of the 2007 Order</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The 2007 Order is amended in accordance with the following paragraphs.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In article 2(1) (interpretation)—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for the definition of “all other staff”, substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the 2016 Act” means the Higher Education Governance (Scotland) Act 2016<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Articles of Association” means the Articles of Association of the University<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Chair” means the person referred to in article 4(2)(a),</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit the definitions of “Memorandum of Association” and “Articles of Association”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>for the definition of “the objects of the University”, substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the objects of the University” means the objects set out in the Articles of<span ukl:Name="EmSpace"> </span>Association,</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In article 4 (the court)<noteRef href="#f00005" class="footnote" marker="5"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for paragraph (2), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>The membership of the Court is to be composed of—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the Chair, being the member appointed by the Court to the position of senior lay member by virtue of section 8 of the 2016 Act,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the Principal,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the Vice-Principal, or if there are two Vice-Principals, both of them, or if there are more than two Vice-Principals, such two Vice-Principals as are nominated by the Principal,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>one member appointed by being nominated by the Senate from among its members who are academic staff,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>two members appointed by being elected by the staff of the University from among their own number,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(f)</num>
+                                    <content>
+                                       <p>one member appointed by being nominated by a trade union from among the academic staff of the University who are members of a branch of a trade union that has connection with the University,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(g)</num>
+                                    <content>
+                                       <p>one member appointed by being nominated by a trade union from among the support staff of the University who are members of a branch of a trade union that has a connection with the University,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(h)</num>
+                                    <content>
+                                       <p>two members appointed by being nominated by the students’ association of the University from among the students of the University, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(i)</num>
+                                    <content>
+                                       <p>11 to 15 lay members appointed by the Court from time to time in accordance with its rules and procedures with the aim of the Court having a broad range of skills and experience.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit paragraphs (3) and (4),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>for paragraph (5), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>The Court is to make rules for the election of members to be appointed under paragraph (2)(e) in accordance with section 11 of the 2016 Act.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in paragraph (6), omit “academic” and “or all other staff of the University, as the case may be,”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in paragraph (7), for “(2)(d)(ii) or (iii)”, substitute “(2)(e)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>after paragraph (7), insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <p>
+                                 <i>Nomination of certain members</i>
+                              </p>
+                              <subsection>
+                                 <num>(7ZA)</num>
+                                 <content>
+                                    <p>The Court is to make rules for the nomination of members appointed under paragraph (2)(f) to (h) in accordance with section 12 of the 2016 Act.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>After article 4, insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>4A.</num>
+                              <heading>Chair of the Court</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>The Chair is to be appointed in accordance with sections 3 to 8 of the 2016 Act and an appointment process prescribed by the Court.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Subject to article 6, the Court is to prescribe the duties, responsibilities and terms and conditions of the Chair which may include such remuneration and allowances as the Court considers to be reasonable in accordance with section 9 of the 2016 Act.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In article 5 (vice-chair of the court)<noteRef href="#f00006" class="footnote" marker="6"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraphs (1) and (4), for “4(2)(a)”, substitute “4(2)(i)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2)(d), after “article 6(7)”, insert “or resigns as a member or is removed as a member in accordance with rules made under article 6(8A)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In article 6 (members of the court)—</p>
+               </intro>
+               <subparagraph eId="article-2-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “ex officio”, substitute “under article 4(2)(b) or (c)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (6), for “ex officio or a member appointed in accordance with article 4(2)(d)”, substitute “appointed in accordance with article 4(2)(b) to (g)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-6-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>in paragraph (7)—</p>
+                  </intro>
+                  <clause eId="article-2-6-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit sub-paragraphs (a) to (e) and (g),</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-6-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>omit “or” following sub-paragraph (h),</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-6-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>omit sub-paragraph (i),</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-2-6-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>after paragraph (8), insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <p>
+                                 <i>Resignation and removal of members</i>
+                              </p>
+                              <subsection>
+                                 <num>(8A)</num>
+                                 <content>
+                                    <p>The Court may make rules about the procedure for the resignation and removal of its members in accordance with section 13 of the 2016 Act.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-6-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>in paragraph (9)—</p>
+                  </intro>
+                  <clause eId="article-2-6-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “under paragraph (7)”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-6-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>omit “or elected”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-7">
+               <num>(7)</num>
+               <content>
+                  <p>In article 9(1) (allowances to members of the court), after “member”, insert “appointed under article 4(2)(b) to (i)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-8">
+               <num>(8)</num>
+               <content>
+                  <p>In article 14(1) (senate), after “Principal”, insert “, provided that the constitution of the Senate is in accordance with Chapter 2 of Part 1 of the 2016 Act.”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-9">
+               <num>(9)</num>
+               <content>
+                  <p>Omit article 15 and the schedule (variation and revocation of articles of association).</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Transitional Provision</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Chair appointed under article 4(2)(za) of the 2007 Order<noteRef href="#f00007" class="footnote" marker="7"/> who is in office immediately before 1 October 2019 is to be regarded, for the remainder of that Chair’s period in office, as if appointed to the position of Chair in accordance with articles 4(2)(a) and 4A of the 2007 Order as amended by this Order.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>The persons appointed as members of the Court under article 4(2)(e) of the 2007 Order who are in office immediately before 1 October 2019 are to be regarded, for the remainder of their periods in office, as if appointed to the Court in accordance with article 4(2)(h) of the 2007 Order as amended by this Order.</p>
+               </content>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">Richard Tilbrook</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Clerk of the Privy Council</role>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order amends the Queen Margaret University, Edinburgh (Scotland) Order of Council 2007 (“the 2007 Order”). The 2007 Order was amended by the Queen Margaret University, Edinburgh (Scotland) Amendment Order of Council 2015. The 2007 Order remains the principal governance Order in relation to the Queen Margaret University, Edinburgh (“the University”).</p>
+            <p>Article 1 of the Order provides that the Order comes into force on 1 October 2019 and provides a definition of the 2007 Order for the purposes of this Order.</p>
+            <p>Article 2 of the Order amends the 2007 Order. Article 2(2) amends article 2(1) of the 2007 Order which sets out relevant definitions. It omits the definitions of “all other staff”, and “Memorandum of Association” and “Articles of Association”. It also inserts definitions of “the 2016 Act”, “Articles of Association” and “Chair”.</p>
+            <p>Article 2(3) of the Order amends article 4 of the 2007 Order, which makes provision for the Court. Sub-paragraph (a) substitutes a new article 4(2), which sets out the composition of the Court. Sub-paragraph (b) omits paragraphs (3) and (4) which are no longer necessary and sub-paragraphs (c) to (e) make amendments that are consequential to the changes to the composition of the Court made by sub-paragraph (a). Sub-paragraph (f) inserts a new paragraph (7ZA) to provide that the Court is to make rules for the nomination of members appointed under article 4(2)(f) to (h).</p>
+            <p>Article 2(4) of the Order inserts a new article 4A (Chair of the Court) into the 2007 Order. Article 4A(1) provides that the Chair is to be appointed in accordance with sections 3 to 8 of the Higher Education Governance (Scotland) Act 2016 (“the 2016 Act”) and an appointment process prescribed by the Court. Article 4A(2) provides that the Court is to prescribe the duties, responsibilities, and terms and conditions of the Chair, which may include reasonable remuneration and allowances.</p>
+            <p>Article 2(5) of the Order makes amendments to article 5 of the 2007 Order (Vice-Chair of the Court) that are consequential to the changes to the composition of the Court, to the amendment of article 6(7) of the 2007 Order (vacation of office of member) and the insertion of article 6(8A) by article 2(6)(c) and (d) of this Order.</p>
+            <p>Article 2(6) of the Order makes amendments to article 6 of the 2007 Order (members of the Court). Sub-paragraphs (a), (b) and (e)(ii) are consequential to the changes to the composition of the Court. Sub-paragraph (c) omits sub-paragraphs (a) to (e), (g) and (i) of paragraph (7) of the 2007 Order and, in place of those provisions, sub-paragraph (d) inserts a new paragraph (8A), which provides the Court with the power to make rules regarding the procedure for the resignation and removal of Court members in accordance with section 13 of the 2016 Act; and sub-paragraph (e)(i) amends article 6(9) of the 2007 Order in consequence of those amendments.</p>
+            <p>Article 2(7) of the Order amends article 9(1) of the 2007 Order (allowances to members of the Court) to provide that the Court’s power to reimburse members for expenses does not apply to the Chair as that power is now included in new article 4A.</p>
+            <p>Article 2(8) of the Order amends article 14(1) of the 2007 Order (Senate) to provide that the Senate is to be constituted in accordance with Chapter 2 of Part 1 of the 2016 Act.</p>
+            <p>Article 2(9) of the Order omits the schedule of the 2007 Order which made amendments to the Articles of Association of the University.</p>
+            <p>Article 3(1) of the Order makes transitional provision to provide that the Chair appointed under article 4(2)(za) of the 2007 Order who is in office immediately before commencement of this Order is treated as if appointed in accordance with articles 4(2)(a) and 4A of the 2007 Order as amended by this Order. Article 3(2) makes transitional provision to ensure that student members of the Court appointed under article 4(2)(e) of the 2007 Order who are in office immediately before the commencement of this Order are treated as if appointed in accordance with article 4(2)(h) of the 2007 Order as amended by this Order.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

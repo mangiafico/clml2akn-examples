@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/64"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/64"/>
+               <FRBRdate date="2019-02-20" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="64"/>
+               <FRBRname value="S.S.I. 2019/64"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/64/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/64/made"/>
+               <FRBRdate date="2019-02-20" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/64/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/64/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-20" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-22" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-05-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 c.68</ref>. Section 2(2) was amended by the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/2006/51">2006 (c.51)</ref> (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2008/7">2008 (c.7)</ref>, schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/1994/2716">S.I. 1994/2716</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041208"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 64</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Wildlife</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Conservation (Natural Habitats, &amp;c.) Amendment (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-20">20th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-22">22nd February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-05-01">1st May 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Conservation (Natural Habitats, &amp;c.) Amendment (Scotland) Regulations 2019 and come into force on 1 May 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Conservation (Natural Habitats, &amp;c.) Regulations 1994</heading>
+            <num>2.</num>
+            <intro>
+               <p>Schedule 2 (European protected species of animals) of the Conservation (Natural Habitats, &amp;c.) Regulations 1994<noteRef href="#f00002" class="footnote" marker="2"/> is amended as follows—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>in the first column (common name) of the table, immediately below “Bats, Typical (all species)”, insert “Beaver, Eurasian or European”, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>in the second column (scientific name) of the table, immediately below “Vespertilionidae”, insert “Castor fiber”.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ROSEANNA CUNNINGHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-20">20th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Conservation (Natural Habitats, &amp;c.) Regulations 1994 (“the 1994 Regulations”), which make provision for the transposition of Council <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/1992/0043">Directive 92/43/EEC</ref> on the conservation of natural habitats and of wild fauna and flora (<abbr class="acronym" title="Official Journal">OJ</abbr> L 206, 22.7.1992, p.7).</p>
+            <p>Regulation 2 amends schedule 2 of the 1994 Regulations to add the Eurasian Beaver (otherwise known as the European Beaver) to the list of European Protected Species of Animals that are given protection under the 1994 Regulations.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

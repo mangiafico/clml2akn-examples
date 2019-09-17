@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/212"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/212"/>
+               <FRBRdate date="2019-06-13" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="212"/>
+               <FRBRname value="S.S.I. 2019/212"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/212/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/212/made"/>
+               <FRBRdate date="2019-06-13" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/212/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/212/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-13" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-06-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-10-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1992/37">1992 c.37</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2016/15">2016 asp 15</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The 1954 Scheme was framed and confirmed by the Secretary of State and approved by Order in Council of 19 October 1954 under section 123 of the Education (Scotland) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1946/72">1946 (c.72)</ref>. The 1954 Scheme was amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/1973/1811">S.I. 1973/1811</ref>, <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/1988/1715">1988/1715</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1992/1093">1992/1093</ref> and <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/1993/558">1993/558</ref> and <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2007/426">S.S.I. 2007/426</ref>. <ref eId="c00013" href="http://www.legislation.gov.uk/id/uksi/1988/1715">S.I. 1988/1715</ref> insofar as it applied to the University and <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/1992/1093">S.I. 1992/1093</ref> were revoked by article 14 of <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/1993/558">S.I. 1993/558</ref>, and the amendments made to the 1954 Scheme by those instruments ceased to have effect.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Section 44 was amended by paragraph 6(1)(c) of schedule 3 of the Further and Higher Education (Scotland) Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/asp/2005/6">2005 (asp 6)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>The name of the University was changed to the University of the West of Scotland in accordance with section 49 of the Further and Higher Education (Scotland) Act 1992 by resolution of the Court dated 17 October 2006 and consent of the Privy Council dated 18 July 2007 with effect from 30 November 2007.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/1993/558">S.S.I. 1993/558</ref>. Article 6(1)(b) was amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2009/194">S.S.I. 2009/194</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2015/209">2015/209</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Article 6(1)(a) was amended by <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2009/194">S.S.I. 2009/194</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 1 was amended by paragraph 1 of schedule 3 of S.1. 1993/358.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Section 3 was substituted by paragraph 3 of schedule 3 of S.1. 1993/358.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042441"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 212</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Education</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The University of the West of Scotland Order of Council 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-13">13th June 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-06-18">18th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-10-01">1st October 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <container name="royalPresence">
+            <p>At the Council Chamber, Whitehall, the 13th day of June 2019</p>
+            <p>By the Lords of Her Majesty’s Most Honourable Privy Council</p>
+         </container>
+         <formula name="enactingText">
+            <p>Their Lordships make the following Order in exercise of the powers conferred by sections 45 and 60(3) of the Further and Higher Education (Scotland) Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Citation, commencement and interpretation</heading>
+            <article eId="article-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>This Order may be cited as the University of the West of Scotland Order of Council 2019 and comes into force on 1 October 2019.</p>
+               </content>
+            </article>
+            <article eId="article-2">
+               <heading>Interpretation</heading>
+               <num>2.</num>
+               <intro>
+                  <p>In this Order—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2016 Act” means the Higher Education Governance (Scotland) Act 2016<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1954 Scheme” means the Paisley College of Technology Scheme 1954<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Chair of Court” means the person referred to in article 7(a),</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Court” means the governing body of the University constituted and incorporated by the 1954 Scheme, and renamed as narrated in article 3,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“objects of the University” means the objects of the University as set out in article 4,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Principal” means the Principal and Vice-Chancellor referred to in article 15 or any person authorised, whether for the purposes of this Order or otherwise, for the time being to act as Principal and Vice-Chancellor of the University,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Senate” means the body referred to in article 16,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“University” means the University of the West of Scotland, a designated institution under section 44 of the Further and Higher Education (Scotland) Act 1992<noteRef href="#f00004" class="footnote" marker="4"/> and renamed in accordance with section 49 of that Act as narrated in article 3.</p>
+                  </content>
+               </hcontainer>
+            </article>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>The University</heading>
+            <article eId="article-3">
+               <heading>Name</heading>
+               <num>3.</num>
+               <paragraph eId="article-3-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The name of the University, previously “University of Paisley”, “Paisley College of Technology” and “Paisley Technical College”, is “University of the West of Scotland”<noteRef href="#f00005" class="footnote" marker="5"/>.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-3-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The name of the governing body, previously “Court of the University of Paisley”, “Governors of Paisley College of Technology” and “Governors of Paisley Technical College”, is “Court of the University of the West of Scotland”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-3-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>The change of names effected by paragraphs (1) and (2) does not affect the rights or obligations of any person or render defective any legal proceedings and any reference in any agreement, instrument, document or other writing in force or in existence immediately before the coming into force of this Order to—</p>
+                  </intro>
+                  <subparagraph eId="article-3-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the University of Paisley, Paisley College of Technology or Paisley Technical College,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-3-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the Court of the University of Paisley, Governors of Paisley College of Technology or Governors of Paisley Technical College,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>is to be read as a reference to the University of the West of Scotland or the Court of the University of the West of Scotland as appropriate.</p>
+                  </wrapUp>
+               </paragraph>
+            </article>
+            <article eId="article-4">
+               <heading>Objects of the University</heading>
+               <num>4.</num>
+               <content>
+                  <p>The objects of the University are to provide education, to undertake and carry out research and to promote teaching, scholarship, research and innovation.</p>
+               </content>
+            </article>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>The Court</heading>
+            <article eId="article-5">
+               <heading>Powers and functions of the Court</heading>
+               <num>5.</num>
+               <paragraph eId="article-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Court is to conduct the affairs of the University and carry out and promote the objects of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In particular, the Court is to—</p>
+                  </intro>
+                  <subparagraph eId="article-5-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>ensure the effective management of the University,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>plan the strategic direction of the University,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-5-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>plan the future development of the University in order to advance the objects of the University.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="article-5-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Subject to the 1954 Scheme, the Court has all the rights, powers and privileges necessary and expedient for the purposes of, or in connection with, the performance of its functions and in particular has the powers and functions set out in schedule 1.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-5-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The Court is to adopt and publish a statement of its primary responsibilities.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-6">
+               <heading>Delegation of powers, functions and duties of the Court</heading>
+               <num>6.</num>
+               <paragraph eId="article-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Subject to paragraph (2), the Court may delegate any of its powers, functions or duties to any person or body in accordance with a scheme made by the Court.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-6-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The Court is not to delegate any matter it considers to be material to—</p>
+                  </intro>
+                  <subparagraph eId="article-6-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the solvency of the University,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the determination of the strategic direction of the University,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>the appointment of the Principal under article 15,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>the appointment of the Secretary to the Court under paragraph 4 of schedule 1,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>the consideration of any amendment or revocation of this Order,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>the approval of the annual business plan and annual budget,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>the arrangements for risk management,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-h">
+                     <num>(h)</num>
+                     <content>
+                        <p>the review and monitoring of the performance of the University,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the approval of the University’s annual audited accounts,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-j">
+                     <num>(j)</num>
+                     <content>
+                        <p>safeguarding the property or assets or the University.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </article>
+            <article eId="article-7">
+               <heading>The composition of the Court</heading>
+               <num>7.</num>
+               <intro>
+                  <p>The membership of the Court is to be composed of—</p>
+               </intro>
+               <subparagraph eId="article-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the Chair of Court, being the person appointed by the Court to the position of senior lay member by virtue of section 8 of the 2016 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the Principal,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>one person having the role of Deputy Principal, however named,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>two persons appointed by being elected by the staff of the University from among their own number,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>one person appointed by being nominated by a trade union from among the academic staff of the University who are members of a branch of a trade union that has a connection with the University,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>one person appointed by being nominated by a trade union from among the support staff of the University who are members of a branch of a trade union that has a connection with the University,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>two persons appointed by being nominated by the students’ association of the University from among the students of the University,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>one person appointed by being nominated by the Senate from among its elected academic members,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-7-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>11 to 15 persons appointed by the Court from time to time in accordance with its rules and procedures with the aim of the membership having such skills and experience as the Court determines to be relevant, but who may not be members of staff or students of the University.</p>
+                  </content>
+               </subparagraph>
+            </article>
+            <article eId="article-8">
+               <heading>Appointment of Chair of Court</heading>
+               <num>8.</num>
+               <paragraph eId="article-8-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Chair of Court is to be appointed in accordance with sections 3 to 8 of the 2016 Act and an appointment process prescribed by the Court.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-8-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Subject to article 11, the Court is to prescribe the duties, responsibilities and terms and conditions of the Chair of Court, which may include such remuneration and allowances as the Court considers to be reasonable in accordance with section 9 of the 2016 Act.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-9">
+               <heading>Appointment and role of Vice-Chair</heading>
+               <num>9.</num>
+               <paragraph eId="article-9-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Court is to make rules for the appointment of a Vice-Chair from among the members appointed under article 7(i).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-9-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Vice-Chair is to preside at meetings of the Court and is to exercise the functions of the Chair of Court in the absence of the Chair of Court or while the position is vacant.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-9-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>In the absence of both the Chair of Court and the Vice-Chair at any meeting, the members of the Court present may appoint a chair from among the members appointed under article 7(i) who are present at the meeting.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-10">
+               <heading>Elections and nominations to Court</heading>
+               <num>10.</num>
+               <paragraph eId="article-10-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The members of the Court referred to in article 7(d) are to be elected in accordance with rules made by the Court in accordance with section 11 of the 2016 Act.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-10-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The members of the Court referred to in article 7(e), (f) and (g) are to be nominated in accordance with rules made by the Court in accordance with section 12 of the 2016 Act.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-10-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>The member of the Court referred to in article 7(h) is to be nominated in accordance with rules made by the Senate and approved by the Court.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-11">
+               <heading>Term of office of members</heading>
+               <num>11.</num>
+               <paragraph eId="article-11-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Court is to make rules relating to the term of office of members appointed under article 7(a) and (d) to (i) and the rules may make different provision for different categories of member.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-11-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>Rules made under paragraph (1) are to prescribe (in particular)—</p>
+                  </intro>
+                  <subparagraph eId="article-11-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the term of office, but no term is to be longer than 4 years,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-11-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>eligibility for re-appointment or extension of term of office,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-11-2-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>the maximum term of office when aggregated with any previous term of office but the term of office—</p>
+                     </intro>
+                     <clause eId="article-11-2-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>is to include any term served before the coming into force of this Order, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="article-11-2-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>is not to include any term of office served by a member under article 7(b) or (c).</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+            </article>
+            <article eId="article-12">
+               <heading>Resignation and removal of members from office</heading>
+               <num>12.</num>
+               <content>
+                  <p>The Court may make rules about the procedure for the resignation and removal of its members in accordance with section 13 of the 2016 Act.</p>
+               </content>
+            </article>
+            <article eId="article-13">
+               <heading>Conflicts of interest</heading>
+               <num>13.</num>
+               <content>
+                  <p>The Court may make rules in relation to identifying and managing conflicts of interests of its members and of the members of its committees.</p>
+               </content>
+            </article>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Appointment of Chancellor and Principal</heading>
+            <article eId="article-14">
+               <heading>Appointment of Chancellor</heading>
+               <num>14.</num>
+               <paragraph eId="article-14-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Chancellor is the titular head of the University and is to confer degrees, diplomas and other academic awards and distinctions.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-14-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Chancellor is to be appointed by the Court for such term of office as the Court may determine.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-15">
+               <heading>Appointment of Principal and Vice-Chancellor and discharge of functions</heading>
+               <num>15.</num>
+               <paragraph eId="article-15-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Principal and Vice-Chancellor is the chief academic and administrative officer of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-15-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Principal is to be appointed by the Court in a manner to be determined by the Court from time to time.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-15-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>The Principal is to discharge the functions of the Court relating to the organisation, management and discipline of the University in accordance with arrangements made by the Court and subject to the general control and direction of the Court.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-15-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>In the absence of or during any vacancy in the office of the Chancellor, the Principal has the powers confer degrees, diplomas and other academic awards and distinctions, and to appoint a person who has all powers of conferment in the absence of both the Chancellor and the Principal.</p>
+                  </content>
+               </paragraph>
+            </article>
+         </part>
+         <part eId="part-5">
+            <num>PART 5</num>
+            <heading>The Senate</heading>
+            <article eId="article-16">
+               <heading>Composition of Senate</heading>
+               <num>16.</num>
+               <paragraph eId="article-16-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Subject to paragraph (2), the Court is to appoint and maintain by further appointment a Senate constituted and appointed in accordance with Chapter 2 of Part 1 of the 2016 Act.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-16-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Court is to make rules relating to the term of office of members of the Senate, and the rules may make different provision for different categories of member.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-16-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>Rules made under paragraph (2) are to prescribe (in particular)—</p>
+                  </intro>
+                  <subparagraph eId="article-16-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the term of office, but no term is to be longer than 4 years,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-16-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>eligibility for re-appointment.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="article-16-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The Principal is the chair of the Senate.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-17">
+               <heading>Functions of the Senate</heading>
+               <num>17.</num>
+               <paragraph eId="article-17-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The Court is to delegate to the Senate—</p>
+                  </intro>
+                  <subparagraph eId="article-17-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the powers and functions of the Court relating to the overall planning, co-ordination, development and supervision of the academic work of the University, particularly those functions set out in paragraphs 6 to 8 of schedule 1,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-17-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>any other functions of the Court that the Court may determine,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>provided that all such functions are subject to the general control and direction of the Court.</p>
+                  </wrapUp>
+               </paragraph>
+               <paragraph eId="article-17-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In discharging the functions specified in paragraph (1), the Senate has all the powers and duties of the Court in relation to those functions and has the power to make any recommendation to the Court on any matters relating to those functions as the Senate thinks fit.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-18">
+               <heading>Proceedings of Senate</heading>
+               <num>18.</num>
+               <intro>
+                  <p>The proceedings of the Senate are to be regulated by rules made by the Senate and approved by the Court, and the rules—</p>
+               </intro>
+               <subparagraph eId="article-18-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>must provide for—</p>
+                  </intro>
+                  <clause eId="article-18-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a minimum number of meetings of the Senate each year,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-18-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the appointment of a Vice-Chair,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-18-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>may provide for—</p>
+                  </intro>
+                  <clause eId="article-18-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the appointment by the Senate of any committees as it considers appropriate,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-18-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>any other matters connected with the functions of the Senate.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </article>
+         </part>
+         <part eId="part-6">
+            <num>PART 6</num>
+            <heading>Miscellaneous</heading>
+            <article eId="article-19">
+               <heading>Transitional provisions</heading>
+               <num>19.</num>
+               <paragraph eId="article-19-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The governor appointed to chair the Court under article 6(1)(b)(iv) of the University of Paisley (Scotland) Order of Council 1993<noteRef href="#f00006" class="footnote" marker="6"/> who is in office immediately before 1 October 2019 is to be regarded, for the remainder of that governor’s period in office, as if appointed to the position of Chair of Court in accordance with articles 7(a) and 8(1) of this Order.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-19-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The president of the students’ association appointed as a governor under article 6(1)(a)(iii) of the University of Paisley (Scotland) Order of Council 1993<noteRef href="#f00007" class="footnote" marker="7"/> and the person appointed as a governor of the Court under article 6(1)(b)(ii) of that Order who are in office immediately before 1<span ukl:Name="NonBreakingSpace"> </span>October 2019 are to be regarded, for the remainder of their periods in office, as if appointed to the Court in accordance with article 7(g) of this Order.</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-20">
+               <heading>Amendments and revocations</heading>
+               <num>20.</num>
+               <content>
+                  <p>Schedule 2 has effect.</p>
+               </content>
+            </article>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">Richard Tilbrook</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Clerk of the Privy Council</role>
+                  </block>
+               </content>
+            </hcontainer>
+            <hcontainer name="signature">
+               <content/>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Article 5(3)</p>
+                  </authorialNote>
+               </num>
+               <heading>Powers and functions of the Court</heading>
+               <paragraph eId="schedule-1-paragraph-1">
+                  <num>1.</num>
+                  <content>
+                     <p>The Court has the powers and functions set out in the following paragraphs.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-2">
+                  <num>2.</num>
+                  <content>
+                     <p>To make rules, regulations, standing orders, policies and procedures for the exercise of the functions and duties of the Court acting on behalf of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-3">
+                  <num>3.</num>
+                  <content>
+                     <p>To appoint and regulate committees of its own members, and to invite persons from outside the Court to join such committees as the Court considers appropriate.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-4">
+                  <num>4.</num>
+                  <content>
+                     <p>To appoint a Secretary to the Court.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-5">
+                  <num>5.</num>
+                  <content>
+                     <p>To admit students, and to manage all aspects of their education at, and relationship with, the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-6">
+                  <num>6.</num>
+                  <content>
+                     <p>To grant higher education awards including degrees, diplomas, certificates and other academic awards or distinctions, including honorary degrees and titles.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-7">
+                  <num>7.</num>
+                  <content>
+                     <p>To deprive a recipient of a degree, diploma, certificate or other academic award or distinction, including honorary degrees and titles, previously conferred by the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-8">
+                  <num>8.</num>
+                  <content>
+                     <p>To create and maintain codes of conduct and regulations required for the maintenance of standards and good order within the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-9">
+                  <num>9.</num>
+                  <content>
+                     <p>To establish and monitor systems of control and accountability including financial and operational controls and risk management.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-10">
+                  <num>10.</num>
+                  <content>
+                     <p>To review and monitor the performance of the University and its performance and to comply with any conditions imposed by the Scottish Funding Council for the payment of any grant.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-11">
+                  <num>11.</num>
+                  <content>
+                     <p>To receive and spend recurrent and capital funds, lend money, borrow or raise money, offer security and invest University monies and assets as the Court sees fit.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-12">
+                  <num>12.</num>
+                  <content>
+                     <p>To enter into contracts.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-13">
+                  <num>13.</num>
+                  <content>
+                     <p>To defend and conduct legal proceedings.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-14">
+                  <num>14.</num>
+                  <content>
+                     <p>To create and own intellectual property and make discoveries and inventions of any type and exploit these commercially.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-15">
+                  <num>15.</num>
+                  <content>
+                     <p>To merge with or to form relationships, associations or affiliations with other educational institutions and other bodies both public and private.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-16">
+                  <num>16.</num>
+                  <content>
+                     <p>To initiate, establish, maintain, acquire or dispose of any companies, or any other legal entities, whether charitable or commercial, alone or in association with any other persons or entities, to hold or continue to hold shares and interests in such companies, and to carry on any trade or business whatsoever to carry out the objects of or to be for the benefit of or to advance the interest or well-being of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-17">
+                  <num>17.</num>
+                  <content>
+                     <p>To charge fees for any service provided by the University and to raise, generate and receive income from any sources to further the objects of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-18">
+                  <num>18.</num>
+                  <content>
+                     <p>To acquire, hold, dispose of and deal with property or any interest in property or any assets of the University, provided that the name “W B Barbour” is retained in connection with a part of the University’s buildings.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-19">
+                  <num>19.</num>
+                  <content>
+                     <p>Subject to article 15, to employ staff and other contractors and regulate their employment.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-20">
+                  <num>20.</num>
+                  <content>
+                     <p>To make pension arrangements for staff and to provide benefits to staff, their spouses, partners, dependants and others.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-21">
+                  <num>21.</num>
+                  <content>
+                     <p>To approve the constitution of, to maintain and liaise with an association representing the students of the University and to grant such sums of monies to the association as the Court considers appropriate.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-22">
+                  <num>22.</num>
+                  <content>
+                     <p>To keep a register of graduates of the University and to establish and maintain an alumni association.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-23">
+                  <num>23.</num>
+                  <content>
+                     <p>To create, maintain and award fellowships, scholarships, studentships and other prizes, and to discontinue all such awards, provided that the name of William Bow is associated with one or more such awards.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-24">
+                  <num>24.</num>
+                  <content>
+                     <p>To receive donations, legacies and other gifts to further the objects of the University.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-25">
+                  <num>25.</num>
+                  <content>
+                     <p>To reimburse any member of Court appointed under article 7(b) to (i) for reasonable travel and subsistence expenses.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-26">
+                  <num>26.</num>
+                  <content>
+                     <p>To provide any facilities and to carry on any activities which are necessary or desirable to enable the University to fulfil its objectives.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Article 20</p>
+                  </authorialNote>
+               </num>
+               <heading>Amendments and revocations</heading>
+               <part eId="schedule-2-part-1">
+                  <num>PART 1</num>
+                  <heading>Amendment of the 1954 Scheme</heading>
+                  <paragraph eId="schedule-2-paragraph-1">
+                     <num>1.</num>
+                     <intro>
+                        <p>In section 1 of the 1954 Scheme (interpretation)<noteRef href="#f00008" class="footnote" marker="8"/>—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-2-paragraph-1-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>in the definition of “governing body”, for “article 4 of the 1993 Order”, substitute—</p>
+                        </content>
+                     </paragraph>
+                     <hcontainer name="definition">
+                        <content>
+                           <p>“article 3(2) of the University of the West of Scotland Order of Council 2019”,</p>
+                           <blockList>
+                              <item>
+                                 <num>(a)</num>
+                                 <p>omit the definition of “the 1993 Order”.</p>
+                              </item>
+                           </blockList>
+                        </content>
+                     </hcontainer>
+                  </paragraph>
+                  <paragraph eId="schedule-2-paragraph-2">
+                     <num>2.</num>
+                     <content>
+                        <p>For section 3 of the 1954 Scheme (application of the 1993 Order)<noteRef href="#f00009" class="footnote" marker="9"/> and the cross-heading immediately preceding it, substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <hcontainer name="subheading">
+                                    <heading>Application of the University of the West of Scotland Order of Council 2019</heading>
+                                    <section>
+                                       <num>3.</num>
+                                       <content>
+                                          <p>This scheme is amended by and is subject to the University of the West of Scotland Order of Council 2019.</p>
+                                       </content>
+                                    </section>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </paragraph>
+               </part>
+               <part eId="schedule-2-part-2">
+                  <num>PART 2</num>
+                  <heading>Revocations of Orders of Council</heading>
+                  <paragraph eId="schedule-2-paragraph-3">
+                     <num>3.</num>
+                     <content>
+                        <p>The instruments listed in column 1 of the Table are revoked to the extent specified in column 3 of the Table.</p>
+                        <tblock class="tabular" ukl:Orientation="portrait">
+                           <foreign>
+                              <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                                 <colgroup>
+                                    <col width="142.15pt"/>
+                                    <col width="142.15pt"/>
+                                    <col width="142.15pt"/>
+                                 </colgroup>
+                                 <thead>
+                                    <tr>
+                                       <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Column 1</i>
+                                          </p>
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Instrument revoked</i>
+                                          </p>
+                                       </th>
+                                       <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Column 2</i>
+                                          </p>
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Reference</i>
+                                          </p>
+                                       </th>
+                                       <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Column 3</i>
+                                          </p>
+                                          <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                             <i>Extent of revocation</i>
+                                          </p>
+                                       </th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">The University of the West of Scotland (Amendment of the University of Paisley (Scotland) Order of Council 1993) Order of Council 2015</td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2015/209">S.S.I. 2015/209</ref>
+                                       </td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Whole instrument</td>
+                                    </tr>
+                                    <tr>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">The University of the West of Scotland Order of Council 2009</td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2009/194">S.S.I. 2009/194</ref>
+                                       </td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Whole instrument</td>
+                                    </tr>
+                                    <tr>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">The University of the West of Scotland Order of Council 2007</td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2007/426">S.S.I. 2007/426</ref>
+                                       </td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Whole instrument</td>
+                                    </tr>
+                                    <tr>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">The University of Paisley (Scotland) Order of Council 1993</td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                          <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1993/558">S.I. 1993/558</ref>
+                                       </td>
+                                       <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Whole instrument</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </foreign>
+                        </tblock>
+                     </content>
+                  </paragraph>
+               </part>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order sets out the governance arrangements for the University of the West of Scotland (“the University”), replacing the arrangements set out in the University of Paisley (Scotland) Order of Council 1993 which is revoked.</p>
+            <p>Article 1 provides that the Order comes into force on 1 October 2019. Article 2 provides definitions of certain terms that are used in the Order.</p>
+            <p>Articles 3 and 4 in Part 2 of the Order make provision for the University. Article 3 narrates the details of the change of name of the University to the University of the West of Scotland and provides that references to its previous names are to be read as references to its current name. Article 4 sets out the objects of the University.</p>
+            <p>Articles 5 to 13 in Part 3 of the Order make provision for the Court. Article 5 makes provision for the functions and powers of the Court, which are further set out in schedule 1. Article 6 provides that the Court may delegate its powers, functions or duties, but sets out matters that may not be delegated.</p>
+            <p>Article 7 sets out the composition of the Court. Article 8 provides that the Chair of Court is to be appointed in accordance with the Higher Education Governance (Scotland) Act 2016 (“the 2016 Act”) and an appointment process prescribed by the Court and the Court is to prescribe the duties, responsibilities and terms and conditions of the Chair of Court. Article 9 provides that the Court is to appoint a Vice-Chair from among the lay members of the Court. Article 10 provides that the Court is to make rules for the election of members by the staff, that the Court is to make rules for the nomination of certain other members and that the Senate is to make rules for the appointment of the member appointed under article 7(h). Article 11 provides that the Court is to make rules relating to the term of office of members, including eligibility for re-appointment and maximum term of office.</p>
+            <p>Article 12 provides that the Court may make rules relating to the procedure for resignation and removal of members. Article 13 provides that the Court may make rules in relation to identifying and managing conflicts of interests of its members and of the members of its committees.</p>
+            <p>Article 14 and 15 in Part 4 of the Order make provision relating to the appointment and duties of the Chancellor and the Principal and Vice-Chancellor (“the Principal”). Article 14 provides that the Court is to appoint a Chancellor as the titular head of the University. Article 15 provides for the appointment and duties of the Principal and for the powers of the Principal, in the absence of the Chancellor, in relation to conferment of degrees, diplomas or other academic distinctions.</p>
+            <p>Articles 16 to 18 in Part 5 of the Order make provision relation to the Senate. Article 16 provides that the composition of the Senate is to be determined by the Court in accordance with the 2016 Act and the Court is to make rules relating to the term of office of Senate members, including term of office and eligibility for re-appointment. Article 17 makes provision relating to the delegation of powers and functions by the Court to the Senate. Article 18 requires the proceedings of the Senate to be regulated by rules made by the Senate and approved by the Court and sets out minimum requirements for those rules.</p>
+            <p>Articles 19 and 20 in Part 6 of the Order make miscellaneous provision. Article 19 makes transitional provision for the chair and the student members of the Court who are in office immediately before the coming into force of this Order to be treated for the remainder of their period in office as if appointed under article 7 of this Order. Article 20 provides for the revocations and amendments set out in schedule 2: Part 1 makes amendments to the Paisley College of Technology Scheme 1954; and the table in Part 2 of schedule 2 sets out the instruments which are revoked, which include the University of Paisley (Scotland) Order of Council 1993.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

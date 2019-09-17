@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/54"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/54"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="54"/>
+               <FRBRname value="S.S.I. 2019/54"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/54/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/54/made"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/54/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/54/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-18" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-19" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2000/130">S.S.I. 2000/130</ref>, as amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2005/616">S.S.I. 2005/616</ref>, <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2007/549">2007/549</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2008/322">2008/322</ref>, <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2015/100">2015/100</ref> and <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2018/392">2018/392</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <abbr class="acronym" title="Official Journal">OJ</abbr>
+                  <abbr title="Number">No.</abbr> L 401, 30.12.2006, p.1, last amended by Commission Delegated Regulation (EU) 2016/127 (OJ No. L 25, 2.2.2016, p.1).</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Food Standards Scotland was established by section 1 of the Food (Scotland) Act <ref eId="c00021" href="http://www.legislation.gov.uk/id/asp/2015/1">2015 (asp 1)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>The Food Standards Agency was established by section 1 of the Food Standards Act <ref eId="c00022" href="http://www.legislation.gov.uk/id/ukpga/1999/28">1999 (c.28)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2002/523">S.S.I. 2002/523</ref> as amended by <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2004/244">S.S.I. 2004/244</ref> and <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2013/177">2013/177</ref> and <ref eId="c00026" href="http://www.legislation.gov.uk/id/uksi/2012/1809">S.I. 2012/1809</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2003/278">S.S.I. 2003/278</ref> as amended by <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2005/616">S.S.I. 2005/616</ref>, <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2009/438">2009/438</ref>, <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2014/312">2014/312</ref> and <ref eId="c00031" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <abbr class="acronym" title="Statutory Instrument">S.I.</abbr> 2019/<abbr class="acronym" title="20">XX</abbr>
+                  <abbr class="acronym" title="10">X.</abbr>
+               </p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00032" href="http://www.legislation.gov.uk/id/uksi/2012/1916">S.I. 2012/1916</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2007/383">S.S.I. 2007/383</ref> as amended by <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2010/307">S.S.I. 2010/307</ref>, <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2014/312">2014/312</ref>, <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2015/100">2015/100</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2007/549">S.S.I. 2007/549</ref> as amended by <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2008/322">S.S.I. 2008/322</ref>, <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2014/12">2014/12</ref>, <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2015/100">2015/100</ref>, <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2016/190">2016/190</ref> and <ref eId="c00042" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>
+                  <ref eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2009/427">S.S.I. 2009/427</ref> as amended by <ref eId="c00044" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref> and <ref eId="c00045" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041109"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 54</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Nutrition (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-19">19th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>There has been consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Nutrition (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Foods for Special Medical Purposes (Scotland) Regulations 2000<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the existing text is renumbered as paragraph (1),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after that paragraph, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>For the purposes of these Regulations, the Annex to the Directive is to be read as if, in paragraph 4, for “<ref eId="c00002" href="http://www.legislation.gov.uk/european/directive/1991/0321">Directive 91/321/EEC</ref> and its subsequent modifications” there were substituted “<ref eId="c00003" href="http://www.legislation.gov.uk/european/directive/2006/0141">Directive 2006/141/EC</ref>
+                                       <noteRef href="#f00003" class="footnote" marker="3"/>”.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>For regulation 3 (restrictions on sale), substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                           <hcontainer name="regulation">
+                              <num>3.</num>
+                              <heading>Restrictions on sale</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>No person shall sell a dietary food in Scotland unless—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>its formulation, composition and instructions for use comply with the provisions of schedule 1;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>it is sold under the name “Food(s) for special medical purposes”; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>it is labelled in accordance with schedule 2.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>When a dietary food is placed on the market—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the manufacturer, or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>where the dietary food is manufactured outside of the United Kingdom, the importer,</p>
+                                       <p>shall notify the competent authority of the territories within the United Kingdom where the dietary food is being marketed by forwarding to it a model of the label used for that dietary food.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>The manufacturer or, as the case may be, the importer shall not sell a dietary food in Scotland unless they have provided the notification in accordance with paragraph (2).</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>The competent authorities for the purposes of this regulation are, in respect of a dietary food manufactured in, or imported from outside the United Kingdom into—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>Scotland, Food Standards Scotland<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>England, the Secretary of State,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>Wales, the Welsh Ministers,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>Northern Ireland, the Food Standards Agency<noteRef href="#f00005" class="footnote" marker="5"/>.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>Into the Regulations, insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>1<authorialNote class="referenceNote">
+                                    <p>Regulation 3(1)(a)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Formulation, composition and instructions for use of dietary foods</heading>
+                              <paragraph>
+                                 <num>1.</num>
+                                 <content>
+                                    <p>The formulation of dietary foods shall be based on sound medical and nutritional principles. Their use, in accordance with the manufacturer’s instructions, shall be safe and beneficial and effective in meeting the particular nutritional requirements of the persons for whom they are intended, as demonstrated by generally accepted scientific data.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>2.</num>
+                                 <content>
+                                    <p>The dietary foods must comply with the compositional criteria specified in the Annex to the Directive.</p>
+                                 </content>
+                              </paragraph>
+                           </hcontainer>
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>2<authorialNote class="referenceNote">
+                                    <p>Regulation 3(1)(c)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Labelling of dietary foods</heading>
+                              <paragraph>
+                                 <num>1.</num>
+                                 <intro>
+                                    <p>The labelling of dietary foods shall bear, in addition to the particulars provided for in Article 9 of <ref eId="c00004" href="http://www.legislation.gov.uk/european/regulation/2011/1169">Regulation (EU) No 1169/2011</ref>, the following particulars:</p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the available energy value expressed in kJ and kcal, and the content of protein, carbohydrate and fat, expressed in numerical form, per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product as sold and where appropriate per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product ready for use in accordance with the manufacturer’s instructions. This information may in addition be provided per serving as quantified on the label or per portion, provided that the number of portions contained in the package is stated;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>he average quantity of each mineral substance and each vitamin mentioned in the Annex present in the product, expressed in numerical form per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product as sold and where appropriate per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product ready for use in accordance with the manufacturer’s instructions. This information may in addition be provided per serving as quantified on the label or per portion, provided that the number of portions contained in the package is stated;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>selectively the content of components of protein, carbohydrate and fat and/or of other nutrients and their components the declaration of which would be necessary for the appropriate intended use of the product, expressed in numerical form, per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product as sold and where appropriate per 100<span ukl:Name="NonBreakingSpace"> </span>g or per 100<span ukl:Name="NonBreakingSpace"> </span>ml of the product ready for use in accordance with the manufacturer’s instructions. This information may in addition be provided per serving as quantified on the label or per portion, provided that the number of portions contained in the package is stated;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>information on the osmolality or the osmolarity of the product where appropriate;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>information on the origin and the nature of the protein and/or protein hydrolysates contained in the product.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>2.</num>
+                                 <intro>
+                                    <p>The labelling shall in addition bear the following particulars, preceded by the words ‘important notice’:</p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>a statement that the product must be used under medical supervision;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>a statement whether the product is suitable for use as the sole source of nourishment;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>a statement that the product is intended for a specific age group, as appropriate;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>where appropriate a statement that the product poses a health hazard when consumed by persons who do not have the diseases, disorders or medical conditions for which the product is intended.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>3.</num>
+                                 <intro>
+                                    <p>The labelling shall also include:</p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the statement ‘For the dietary management of…’ where the blank shall be filled in with the diseases, disorders or medical conditions for which the product is intended;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>where appropriate a statement concerning adequate precautions and contra-indications;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>a description of the properties and/or characteristics that make the product useful in particular, as the case may be, relating to the nutrients which have been increased, reduced, eliminated or otherwise modified and the rationale of the use of the product;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>where appropriate a warning that the product is not for parenteral use.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>4.</num>
+                                 <content>
+                                    <p>The labelling shall bear instructions for the appropriate preparation, the use and the storage of the product after the opening of the container, as appropriate.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>5.</num>
+                                 <intro>
+                                    <p>In this schedule—</p>
+                                 </intro>
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“the Annex” means the Annex to the Directive, and</p>
+                                    </content>
+                                 </hcontainer>
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“<ref eId="c00005" href="http://www.legislation.gov.uk/european/regulation/2011/1169">Regulation (EU) No 1169/2011</ref>” means <ref eId="c00006" href="http://www.legislation.gov.uk/european/regulation/2011/1169">Regulation (EU) No<span ukl:Name="NonBreakingSpace"> </span>1169/2011</ref> of the European Parliament and of the Council of 25<span ukl:Name="NonBreakingSpace"> </span>October 2011 on the provision of food information to consumers, amending Regulations (<abbr class="acronym" title="European Community">EC</abbr>) No<span ukl:Name="NonBreakingSpace"> </span>1924/2006 and (EC) No<span ukl:Name="NonBreakingSpace"> </span>1925/2006 of the European Parliament and of the Council, and repealing Commission <ref eId="c00007" href="http://www.legislation.gov.uk/european/directive/1987/0250">Directive 87/250/EEC</ref>, Council <ref eId="c00008" href="http://www.legislation.gov.uk/european/directive/1990/0496">Directive 90/496/EEC</ref>, Commission <ref eId="c00009" href="http://www.legislation.gov.uk/european/directive/1999/0010">Directive 1999/10/EC</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/european/directive/2000/0013">Directive 2000/13/EC</ref> of the European Parliament and of the Council, Commission Directives <ref eId="c00011" href="http://www.legislation.gov.uk/european/directive/2002/0067">2002/67/EC</ref> and <ref eId="c00012" href="http://www.legislation.gov.uk/european/directive/2008/0005">2008/5/EC</ref> and Commission Regulation (EC) No<span ukl:Name="NonBreakingSpace"> </span>608/2004.</p>
+                                    </content>
+                                 </hcontainer>
+                              </paragraph>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Kava-kava in Food (Scotland) Regulations 2002</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Kava-kava in Food (Scotland) Regulations 2002<noteRef href="#f00006" class="footnote" marker="6"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit the definitions of “<abbr class="acronym" title="European Economic Area">EEA</abbr> State” and “free circulation”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the definition of “Kava-kava”, for “.”, substitute “;”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after the definition of “Kava-kava”, insert–<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“third country” means a country other than the United Kingdom.</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 3 (prohibition on sale <abbr title="et cetera" xml:lang="la">etc.</abbr> of food consisting of or containing Kava-kava) for paragraph (2), substitute–<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                           <paragraph>
+                              <num>(2)</num>
+                              <content>
+                                 <p>The prohibition imposed by paragraph (1) shall not apply where the food consisting of or containing Kava-kava is imported from a third country if the food is being, or is to be, exported to the same or a different third country.</p>
+                              </content>
+                           </paragraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Food Supplements (Scotland) Regulations 2003</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Supplements (Scotland) Regulations 2003<noteRef href="#f00007" class="footnote" marker="7"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-4-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit the definition of “Directive 2001/83”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after the definition of “food supplement”, add—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“nutrients” means the following substances:</p>
+                                       <blockList>
+                                          <item>
+                                             <num>(i)</num>
+                                             <p>vitamins, and</p>
+                                          </item>
+                                          <item>
+                                             <num>(ii)</num>
+                                             <p>minerals;</p>
+                                          </item>
+                                       </blockList>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText"> and</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-2-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>after the definition of “sell”, add—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“the 2019 Regulations” means the Nutrition (Amendment etc.) (EU Exit) Regulations 2019<noteRef href="#f00008" class="footnote" marker="8"/>;</p>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">, and</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit paragraphs (3) and (4).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 3 (scope of regulations), in paragraph (2) for “Directive 2001/83”, substitute “regulation 2(1) of the Human Medicines Regulations 2012<noteRef href="#f00009" class="footnote" marker="9"/>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 5 (prohibitions on sale relating to composition of food supplements)–</p>
+               </intro>
+               <subparagraph eId="regulation-4-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in sub-paragraph (a) for “Annex I to Directive 2002/46”, substitute “schedule 1 of the 2019 Regulations”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in sub-paragraph (b)(i) for “Annex <abbr class="acronym" title="2">II</abbr> to Directive 2002/46”, substitute “schedule 2 of the 2019 Regulations”, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2) for sub-paragraph (a), substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>the purity criteria, if any, specified in retained EU law or in regulations made by the Scottish Ministers or the Secretary of State under regulation 3 of the 2019 Regulations; or</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 6 (restrictions on sale relating to labelling <abbr title="Et cetera" xml:lang="la">etc</abbr> of food supplements), in paragraph (3)(b) for “Annex I to Directive 2002/46”, substitute “schedule 1 of the 2019 Regulations”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Nutrition and Health Claims (Scotland) Regulations 2007</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Nutrition and Health Claims (Scotland) Regulations 2007<noteRef href="#f00010" class="footnote" marker="10"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 3 (Competent Authorities) in paragraph (a) for “15(2), 16(2) and 18(2)”, substitute “15(1B) and (2), 16(2) and 18(1B) and (2)”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Infant Formula and Follow-on Formula (Scotland) Regulations 2007</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Infant Formula and Follow-on Formula (Scotland) Regulations 2007<noteRef href="#f00011" class="footnote" marker="11"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 12 (listed substances and their purity criteria (infant formula and follow-on formula)), in paragraph (3)(a) for “EU legislation”, substitute “retained EU law”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009</heading>
+            <num>7.</num>
+            <paragraph eId="regulation-7-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009<noteRef href="#f00012" class="footnote" marker="12"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In the schedule (specified provisions), in the “subject-matter” column of the table—</p>
+               </intro>
+               <subparagraph eId="regulation-7-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the entry relating to Article 2(1), for “covered by Directive 2009/39 of the European Parliament and Council on foodstuffs intended for particular nutritional uses”, substitute “(foodstuffs which, owing to their special composition or manufacturing process, are clearly distinguishable from foodstuffs for normal consumption, which are suitable for their claimed nutritional purposes and which are marketed in such a way as to indicate such suitability)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the entries relating to Article 4(2) and Article 4(3), for “EU legislation”, substitute “retained EU law”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-18">18th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c. 16)</ref> to address failures of retained EU law to operate effectively, and other deficiencies, arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the field of food nutrition in relation to Scotland.</p>
+            <p>An impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

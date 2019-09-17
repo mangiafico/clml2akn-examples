@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/146"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/146"/>
+               <FRBRdate date="2019-04-24" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="rule"/>
+               <FRBRnumber value="146"/>
+               <FRBRname value="S.S.I. 2019/146"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/146/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/146/made"/>
+               <FRBRdate date="2019-04-24" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/146/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/146/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-24" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-04-26" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2013/3">2013 asp 3</ref>. Section<span ukl:Name="NonBreakingSpace"> </span>4 was amended by the Courts Reform (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule<span ukl:Name="NonBreakingSpace"> </span>5, paragraph<span ukl:Name="NonBreakingSpace"> </span>31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2016/2">2016 (asp 2)</ref>, schedule 1, paragraph<span ukl:Name="NonBreakingSpace"> </span>1(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/2002/29">2002 c.29</ref>. Section 396I was inserted by the Criminal Finances Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2017/22">2017 (c.22)</ref> (“the 2017 Act”), section 4.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>The Rules of the Court of Session 1994 are in schedule<span ukl:Name="NonBreakingSpace"> </span>2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (<ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/1994/1443">S.I. 1994/1443</ref>, last amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2019/123">S.S.I. 2019/123</ref>).</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Rule 32.7 was amended by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2015/227">S.S.I. 2015/227</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/2001/24">2001 c.24</ref>. Paragraphs 10G and 10J of schedule 1 were inserted by the 2017 Act, section 39 and schedule<span ukl:Name="NonBreakingSpace"> </span>3, paragraph<span ukl:Name="NonBreakingSpace"> </span>2.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/2002/29">2002 c.29</ref>. Sections 303O and 303R were inserted by the 2017 Act, section<span ukl:Name="NonBreakingSpace"> </span>15.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Rule 76.27 was substituted by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2005/663">S.S.I. 2005/663</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Section 396J was inserted by the 2017 Act, section 5.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Section 396A was inserted by the 2017 Act, section 4.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Rule 76.36 was substituted by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2005/663">S.S.I. 2005/663</ref> and last amended by <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2016/319">S.S.I. 2016/319</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Section 396I was inserted by the 2017 Act, section 4.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/2005/3181">S.I. 2005/3181</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Rule 16.3 was last amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2010/417">S.S.I. 2010/417</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Rule 76.37A was inserted by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2013/162">S.S.I. 2013/162</ref> and amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2013/294">S.S.I. 2013/294</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Sections 396A to 396I and sections 396J to 396S were inserted by sections 4 and 5 respectively of the 2017 Act.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>Form 76.9 was amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/1996/2168">S.I. 1996/2168</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/uksi/1999/929">S.I. 1999/929</ref>, last amended by <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2019/140">S.S.I. 2019/140</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>Part XVII was inserted by <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2002/129">S.S.I. 2002/129</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>Paragraph 10D of schedule 1 of the Anti-terrorism, Crime and Security Act 2001 (“the 2001 Act”) was inserted by the 2017 Act, schedule 3, paragraph 2.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>Paragraph 3(3A) of schedule 1 of the 2001 Act was inserted by the Terrorism Act <ref eId="c00023" href="http://www.legislation.gov.uk/id/ukpga/2006/11">2006 (c.11)</ref>, section 35(1).</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>Paragraph 3(2) of schedule 1 of the 2001 Act was amended by the 2017 Act, section 38(3)(a).</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>Paragraphs 10F, 10G and 10O of schedule 1 of the 2001 Act were inserted by the 2017 Act, schedule 3, paragraph 2.</p>
+            </note>
+            <note class="footnote" eId="f00024">
+               <p>Paragraph 10(1) of schedule 1 of the 2001 Act was amended by the 2017 Act, schedule 5, paragraph 16(13).</p>
+            </note>
+            <note class="footnote" eId="f00025">
+               <p>Paragraph 10P of schedule 1 of the 2001 Act was inserted by the 2017 Act, schedule 3, paragraph 2.</p>
+            </note>
+            <note class="footnote" eId="f00026">
+               <p>Paragraphs 10Q to 10Z7 of schedule 1 of the 2001 Act were inserted by the 2017 Act, schedule 4, paragraph 2.</p>
+            </note>
+            <note class="footnote" eId="f00027">
+               <p>Part XIX was inserted by <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2002/563">S.S.I. 2002/563</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00028">
+               <p>Rule 3.19.1 was substituted by <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2003/98">S.S.I. 2003/98</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00029">
+               <p>Section 303L of the Proceeds of Crime Act 2002 (“the 2002 Act”) was inserted by the 2017 Act, section 15.</p>
+            </note>
+            <note class="footnote" eId="f00030">
+               <p>Section 295(2) of the 2002 Act was amended by the Policing and Crime Act <ref eId="c00026" href="http://www.legislation.gov.uk/id/ukpga/2009/26">2009 (c.26)</ref>, section 64(1).</p>
+            </note>
+            <note class="footnote" eId="f00031">
+               <p>Sections 303N, 303O, 303V and 303W of the 2002 Act were inserted by the 2017 Act, section 15.</p>
+            </note>
+            <note class="footnote" eId="f00032">
+               <p>Sections 303Z3 to 303Z18 of the 2002 Act were inserted by the 2017 Act, section 17.</p>
+            </note>
+            <note class="footnote" eId="f00033">
+               <p>Section 302(lA) was substituted by the Policing and Crime Act <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/2009/26">2009 (c.26)</ref>, schedule 7, paragraph<span ukl:Name="NonBreakingSpace"> </span>109(2).</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041970"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 146</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Court Of Session</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals <abbr title="et cetera" xml:lang="la">etc.</abbr> Rules 1999 Amendment) (Proceeds of Crime) 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-24">24th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-04-26">26th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-01">1st June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>In accordance with section<span ukl:Name="NonBreakingSpace"> </span>4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<noteRef href="#f00001" class="footnote" marker="1"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.</p>
+         <formula name="enactingText">
+            <p>The Court of Session therefore makes this Act of Sederunt under the powers conferred by section<span ukl:Name="NonBreakingSpace"> </span>396I(2) of the Proceeds of Crime Act 2002<noteRef href="#f00002" class="footnote" marker="2"/>, sections<span ukl:Name="NonBreakingSpace"> </span>103(1) and 104(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00003" class="footnote" marker="3"/> and all other powers enabling it to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <rule eId="article-1">
+            <heading>Citation and commencement, etc.</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>It comes into force on 1st June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>A certified copy is to be inserted in the Books of Sederunt.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-2">
+            <heading>Amendment of the Rules of the Court of Session 1994</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Rules of the Court of Session 1994<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In Chapter 32 (transmission and remit of causes), after rule 32.7 (re-transmission to sheriff clerk)<noteRef href="#f00005" class="footnote" marker="5"/> insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>32.8.</num>
+                              <heading>Transfer of application for forfeiture of property from the sheriff under the Anti-terrorism, Crime and Security Act 2001 or the Proceeds of Crime Act 2002</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>This rule applies to an application under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>paragraph 10G(1)(b) of schedule 1 of the Anti-terrorism, Crime and Security Act 2001<noteRef href="#f00006" class="footnote" marker="6"/> for the forfeiture of property which has been transferred to the court by the sheriff under paragraph<span ukl:Name="NonBreakingSpace"> </span>10J(1) of that schedule;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 303O(1)(b) of the Proceeds of Crime Act 2002<noteRef href="#f00007" class="footnote" marker="7"/> for the forfeiture of property which has been transferred to the court by the sheriff under section 303R(1) of that Act.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Within 14 days after the date of receipt by the Scottish Ministers of written notice of the transfer from the sheriff clerk, the Scottish Ministers must apply to the court by motion for an order for further procedure.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>The application is to proceed as if it had been an action initiated by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>On applying for an order for further procedure under paragraph (2), the Scottish Ministers must make up and lodge in the General Department a process incorporating the sheriff court process.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In rule 76.27 (interpretation and application of this Part)<noteRef href="#f00008" class="footnote" marker="8"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph (1)(d) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <paragraph>
+                                 <num>(da)</num>
+                                 <content>
+                                    <p>“interim freezing order” has the meaning given in section 396J(3) of the Act of 2002<noteRef href="#f00009" class="footnote" marker="9"/>;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(db)</num>
+                                 <content>
+                                    <p>“unexplained wealth order” has the meaning given in section<span ukl:Name="NonBreakingSpace"> </span>396A(3) of the Act of 2002<noteRef href="#f00010" class="footnote" marker="10"/>;</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2)(b), after “investigation” insert “or an interim freezing order or an unexplained wealth order”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In rule 76.36 (applications)<noteRef href="#f00011" class="footnote" marker="11"/>, after paragraph (9)(d) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <paragraph>
+                              <num>(da)</num>
+                              <content>
+                                 <p>section 396I of the Act of 2002<noteRef href="#f00012" class="footnote" marker="12"/>;</p>
+                              </content>
+                           </paragraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>After rule 76.36 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>76.36A.</num>
+                              <heading>Applications for a recovery order – heritable property</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>Where the name of a person in occupation of the heritable property which is the subject of an application for a recovery order under either—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 244(1) of the Proceeds of Crime Act 2002 (proceedings for recovery orders in Scotland); or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>article 144(1) of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005<noteRef href="#f00013" class="footnote" marker="13"/>,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>is not known and cannot reasonably be ascertained, the petitioner must call that person as a respondent by naming the respondent as an “occupier”.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>Where the name of a person in occupation of the heritable property which is the subject of an application for a recovery order under paragraph (1) is not known and cannot reasonably be ascertained, the petition must be served (whether or not it is also served on a named person), unless the court otherwise directs, by a messenger-at-arms—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>affixing a copy of the petition and a citation in Form 76.36A addressed to “the occupier” to the main door or other conspicuous part of the premises, and if practicable, depositing a copy of each of those documents in the premises; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in the case of land only, inserting stakes in the ground at conspicuous parts of the occupied land to each of which is attached a sealed transparent envelope containing a copy of the petition and a citation in Form 76.36A addressed to “the occupier”.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Paragraphs (1), (2), (4), (4A) and (5) of Rule 16.3 (service by messenger-at-arms)<noteRef href="#f00014" class="footnote" marker="14"/> apply to service of a petition under this rule.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>A person not named as a respondent in the petition who is in occupation of the heritable property may, within the period of notice, apply by minute to be sisted as a respondent to the action.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-6">
+               <num>(6)</num>
+               <content>
+                  <p>After rule 76.37A (evidence overseas)<noteRef href="#f00015" class="footnote" marker="15"/> insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>76.37B.</num>
+                              <heading>Unexplained wealth orders and interim freezing orders</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application under the following provisions must be made by petition—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 396A of the Act of 2002 (unexplained wealth orders)<noteRef href="#f00016" class="footnote" marker="16"/>;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 396J of the Act of 2002 (application for interim freezing order) but only if the application is made at the same time as an application for an unexplained wealth order.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>An application under the following provisions must be made by note in process—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 396I of the Act of 2002 (supplementary);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 396J of the Act of 2002 (application for interim freezing order) but only if the application is made after the court has made an unexplained wealth order;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>section<span ukl:Name="NonBreakingSpace"> </span>396K of the Act of 2002 (variation and recall of interim freezing order);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>section 396S of the Act of 2002 (compensation).</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>An application under the following provisions must be made by motion—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 396N of the Act of 2002 (arrestment of property affected by interim freezing order);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 396O of the Act of 2002 (inhibition of property affected by interim freezing order) but only if the application is made after the court has made an interim freezing order;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>section 396R (supervision of section 396P receiver and variations).</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <intro>
+                                    <p>An application under the following provisions may be made by petition, if made at the same time as an application for an interim freezing order or, if made at any time afterwards, by note in process—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 396Q of the Act of 2002 (powers of receivers appointed under section 396P);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 396P of the Act of 2002 (receivers in connection with interim freezing orders).</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>At the hearing of a motion under paragraph (3) the court may order that the application be made by note; and, in such a case, must make an order for the lodging of answers to the note in process within such period as the court thinks fit.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-7">
+               <num>(7)</num>
+               <content>
+                  <p>In the Appendix (forms), after Form 76.9 (form of notice to person with interest in property subject to an application for an order under paragraph 12 of schedule 1 to the Proceeds of Crime (Scotland) Act 1995)<noteRef href="#f00017" class="footnote" marker="17"/> insert Form 76.36A set out in the schedule of this Act of Sederunt.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-3">
+            <heading>Amendment of the Summary Application Rules 1999</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999<noteRef href="#f00018" class="footnote" marker="18"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In Chapter 3 (rules on applications under specific statutes), Part XVII (Anti-terrorism, Crime and Security Act 2001)<noteRef href="#f00019" class="footnote" marker="19"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in rule 3.17.2 (applications for extended detention of cash)—</p>
+                  </intro>
+                  <clause eId="article-3-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or seized property</b>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in paragraph (1), after “cash)” insert “or paragraph 10D(1) (further detention of seized property)<noteRef href="#f00020" class="footnote" marker="20"/>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>in paragraph (2), after “paragraph 3(2)” insert “or seized property under paragraph<span ukl:Name="NonBreakingSpace"> </span>10D(1)”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>in paragraph (3)(b), before “order” insert “except where paragraph<span ukl:Name="NonBreakingSpace"> </span>(4) below applies,”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-a-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>after paragraph (3) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(4)</num>
+                                    <content>
+                                       <p>This paragraph applies where the sheriff determines under paragraph 3(3A)<noteRef href="#f00021" class="footnote" marker="21"/> or 10D(4) that the application is to be made and heard without notice.</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in rule 3.17.3 (applications for release of detained cash)—</p>
+                  </intro>
+                  <clause eId="article-3-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or detained</b>
+                           <b>property</b>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for paragraph (1) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>An application to the sheriff under—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>paragraph 5(2) (application for release of detained cash) or paragraph 9(1) (application by person who claims that cash belongs to that person) must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under paragraph 3(2)<noteRef href="#f00022" class="footnote" marker="22"/>; or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under paragraph 3(2), by minute in the process of the application for that order;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>paragraph 10F (release of detained property)<noteRef href="#f00023" class="footnote" marker="23"/> must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under paragraph 10D(1); or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under paragraph 10D(1), by minute in the process of the application for that order;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <intro>
+                                          <p>paragraph 10O (victims) must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under paragraph 10D(1) or 10G(2) (forfeiture); or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order under paragraph 10D(1) or 10G(2) has been made, by minute in the process of the application for that order.</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-2-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>in rule 3.17.4 (applications for forfeiture of detained cash)—</p>
+                  </intro>
+                  <clause eId="article-3-2-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or detained property</b>”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-2-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for paragraph (1) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>An application to the sheriff for an order under—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>paragraph 6(1)(b) (application for forfeiture of detained cash), where the court has made an order under paragraph 3(2);</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>paragraph 10G(1)(b) (forfeiture), where the court has made an order under paragraph 10D(1),</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <p>must be made by minute in the process of the application for that order.</p>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>for rule 3.17.5(1) (applications for compensation) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application to the sheriff for an order under—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>paragraph 10(1) (compensation)<noteRef href="#f00024" class="footnote" marker="24"/>, where the court has made an order under paragraph 3(2);</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>paragraph 10P(1) (compensation)<noteRef href="#f00025" class="footnote" marker="25"/>, where the court has made an order under paragraph 10D(1);</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>paragraph 10Z7(2) (compensation)<noteRef href="#f00026" class="footnote" marker="26"/>, where the court has made an order under paragraph 10Q (application for account freezing order),</p>
+                                    </content>
+                                 </paragraph>
+                                 <wrapUp>
+                                    <p>must be made by minute in the process of the application for that order.</p>
+                                 </wrapUp>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-2-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>after rule 3.17.5 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>3.17.6.</num>
+                                 <heading>Variation and recall of account freezing orders and applications to set aside forfeiture</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>An application to the sheriff for an order under paragraph 10T(1) (variation and setting aside of account freezing order) must be made by minute in the process of the application for that order.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>An application to the sheriff for an order under paragraph 10Z (application to set aside forfeiture) must be made by summary application.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>On the lodging of an application under paragraph (1) or (2) above the sheriff must—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>fix a date for a hearing; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>order service of the application together with notice of such hearing on any person whom the sheriff considers may be affected by the granting of such an application.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </article>
+                              <article>
+                                 <num>3.17.7.</num>
+                                 <heading>Applications for forfeiture order</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>An application to the sheriff for an order under paragraph 10Z2(2)(b) (forfeiture order) must be made by minute in the process of the application for the associated account freezing order.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>On the lodging of such an application the sheriff must—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>fix a date for a hearing; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>order service of the application together with notice of such hearing on any person whom the sheriff considers may be affected by the granting of such an application.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </article>
+                              <article>
+                                 <num>3.17.8.</num>
+                                 <heading>Associated and joint property: transfer to Court of Session</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>This rule applies where the sheriff makes a transfer to the Court of Session under paragraph 10J (associated and joint property: default of agreement) of an application made under paragraph 10G(1)(b).</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>No later than 4 days after the sheriff has pronounced an interlocutor transferring the application to the Court of Session under paragraph 10J, the sheriff clerk must—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>send written notice of the transfer to the parties;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>certify on the interlocutor sheet that sub-paragraph (a) has been complied with; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>transmit the process to the Deputy Principal Clerk of Session.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>Failure by a sheriff clerk to comply with paragraph (2)(a) or (b) above does not affect the validity of the transfer.</p>
+                                    </content>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In Chapter 3, Part XIX (Proceeds of Crime Act 2002)<noteRef href="#f00027" class="footnote" marker="27"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for rule 3.19.1(2) (application)<noteRef href="#f00028" class="footnote" marker="28"/> substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>This Part applies to applications to the sheriff under Parts 3, 3A, 5 and 8 of the Act; but it only applies to applications under Part 8 in relation to property that is the subject of a—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>civil recovery investigation;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>detained cash investigation;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>detained property investigation;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>frozen funds investigation;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>seized property investigation.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the italic heading immediately preceding rule 3.19.2 (applications for extended detention of cash), after “<i>cash</i>” insert “<i>or property</i>”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-3-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>in rule 3.19.2—</p>
+                  </intro>
+                  <clause eId="article-3-3-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or further detention of seized property</b>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-3-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in paragraph (1), after “cash)” insert “or 303L(1)(b) (further detention of seized property)<noteRef href="#f00029" class="footnote" marker="29"/>”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-3-c-iii">
+                     <num>(iii)</num>
+                     <intro>
+                        <p>in paragraph (2)—</p>
+                     </intro>
+                     <subclause eId="article-3-3-c-iii-aa">
+                        <num>(aa)</num>
+                        <content>
+                           <p>after “section 295(2)” insert “or seized property under section 303L(1)(b)”; and</p>
+                        </content>
+                     </subclause>
+                     <subclause eId="article-3-3-c-iii-bb">
+                        <num>(bb)</num>
+                        <content>
+                           <p>after “cash” where it second occurs insert “or seizure of property”;</p>
+                        </content>
+                     </subclause>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-3-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>in rule 3.19.3 (applications for release of detained cash)—</p>
+                  </intro>
+                  <clause eId="article-3-3-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or detained property</b>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-3-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for paragraph (1) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>An application to the sheriff under—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>section 297(3) (application for release of detained cash) must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under section 295(2)<noteRef href="#f00030" class="footnote" marker="30"/>; or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under section 295(2), by minute in the process of the application for that order;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>section 301(1) (application by person who claims that cash belongs to that person) must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under section 295(2) or 298 (forfeiture); or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under section 295(2) or 298, by minute in the process of the application for that order;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <intro>
+                                          <p>section 303N (release of detained property)<noteRef href="#f00031" class="footnote" marker="31"/> must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under section 303L(1)(b); or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under section 303L(1)(b), by minute in the process of the application for that order;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(d)</num>
+                                       <intro>
+                                          <p>section 303V (victims and other owners) must be made—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in the course of proceedings for an order under section 303L(1)(b) or 303O(3) (forfeiture); or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>where an order has been made under section 303L(1)(b) or 303O(3), by minute in the process of the application for that order.</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-3-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>in rule 3.19.4 (applications for forfeiture of detained cash)—</p>
+                  </intro>
+                  <clause eId="article-3-3-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the cross-heading, after “<b>cash</b>” insert “<b>or detained property</b>”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-3-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for paragraph (1) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>An application to the sheriff under—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>section 298(1)(b) (application by the Scottish Ministers for forfeiture of detained cash), where the court has made an order under section 295(2);</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>section 303O(1)(b), where the court has made an order under section 303L(1)(b),</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <p>must be made by minute in the process of the application for that order.</p>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-3-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>after rule 3.19.4 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>3.19.4A.</num>
+                                 <heading>Variation and recall of account freezing orders and applications for forfeiture orders</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>An application to the sheriff for an order under section 303Z4(1) (variation and setting aside of account freezing order)<noteRef href="#f00032" class="footnote" marker="32"/> must be made by minute in the process of the application for that order.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>An application to the sheriff for an order under section 303Z14(2) (forfeiture order) must be made by summary application.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>On the lodging of an application under paragraph<span ukl:Name="NonBreakingSpace"> </span>(1) or (2) above the sheriff must—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>fix a date for a hearing;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>order service of the application together with notice of such hearing on any person whom the sheriff considers may be affected by the granting of such an application.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-3-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>for rule 3.19.5(1) (applications for compensation) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application to the sheriff under—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>section 302(1A) (compensation)<noteRef href="#f00033" class="footnote" marker="33"/>, where the court has made an order under section 295(2);</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>section 303W(1) (compensation), where the court has made an order under section 303L(1)(b);</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>section 303Z18(2) (compensation), where the court has made an order under section 303Z3,</p>
+                                    </content>
+                                 </paragraph>
+                                 <wrapUp>
+                                    <p>must be made by minute in the process of the application for that order, and in any other case must be made by summary application.</p>
+                                 </wrapUp>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-3-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>after rule 3.19.5 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>3.19.5A.</num>
+                                 <heading>Associated and joint property: transfer to Court of Session</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>This rule applies where the sheriff makes a transfer to the Court of Session under section 303R (associated and joint property: default of agreement) of an application for an order under section 303O(1)(b).</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>No later than 4 days after the sheriff has pronounced an interlocutor transferring the application to the Court of Session under section 303R the sheriff clerk must—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>send written notice of the transfer to the parties;</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>certify on the interlocutor sheet that sub-paragraph (a) has been complied with; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>transmit the process to the Deputy Principal Clerk of Session.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>Failure by a sheriff clerk to comply with paragraph (2)(a) or (b) above does not affect the validity of the transfer.</p>
+                                    </content>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </rule>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">CJM SUTHERLAND</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Lord President</role>
+                  </block>
+                  <block name="department">
+                     <organization refersTo="#">I.P.D.</organization>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-24">24th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Paragraph 2(7)</p>
+                  </authorialNote>
+               </num>
+               <content>
+                  <tblock class="form">
+                     <p>
+                        <img src="http://www.legislation.gov.uk/ssi/2019/146/images/ssi_20190146_en_001"/>
+                     </p>
+                  </tblock>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Act of Sederunt)</block>
+            <p>This Act of Sederunt amends the Act of Sederunt (Rules of the Court of Session 1994) (“the 1994 Rules”) and the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999 (“the 1999 Rules”) as a consequence of amendments to the Anti-terrorism, Crime and Security Act 2001 (“the 2001 Act”) and the Proceeds of Crime Act 2002 (“the 2002 Act”) made by the Criminal Finances Act 2017.</p>
+            <p>Paragraph 2(2) inserts new rule 32.8 into Chapter 32 of the 1994 Rules making provision for the transfer from the sheriff court to the Court of Session of applications for forfeiture of property under the 2001 Act or the 2002 Act.</p>
+            <p>Paragraph 2(3) inserts definitions of “interim freezing order” and “unexplained wealth order” into rule 76.27 of the 1994 Rules.</p>
+            <p>Paragraph 2(4) inserts a new sub-paragraph into rule 76.36 of the 1994 Rules.</p>
+            <p>Paragraph 2(5) inserts new rule 76.36A into Chapter 76 of the 1994 Rules making provision for applications for a recovery order under the 2002 Act or the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 when the name of the person in occupation of heritable property is not known.</p>
+            <p>Paragraph 2(6) inserts new rule 76.37B into Chapter 76 of the 1994 Rules making provision for the procedure to be followed when applications are made for unexplained wealth orders or interim freezing orders.</p>
+            <p>Paragraph 2(7) and the schedule insert into the Appendix of the 1994 Rules the form (Form<span ukl:Name="NonBreakingSpace"> </span>76.36A) to be used when making an application under new rule 76.36A of those Rules.</p>
+            <p>Paragraph 3(2) makes various changes to rules 3.17.2, 3.17.3, 3.17.4 and 3.17.5 of the 1999 Rules to extend the application of these rules to applications for the release of seized property. It also inserts new rules 3.17.6 (Variation and recall of account freezing orders and applications to set aside forfeiture), 3.17.7 (Applications for forfeiture order) and 3.17.8 (Associated and joint property: transfer to Court of Session).</p>
+            <p>Paragraph 3(3) makes various changes to rules 3.19.1, 3.19.2, 3.19.3 and 3.19.4 of the 1999 Rules to extend the application of these rules to applications for the release of seized property. It substitutes a new rule 3.19.5(1). It also inserts new rules 3.19.4A (Variation and recall of account freezing orders and applications for forfeiture orders) and 3.19.5A (Associated and joint property: transfer to Court of Session).</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

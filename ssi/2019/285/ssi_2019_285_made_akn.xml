@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/285"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/285"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="285"/>
+               <FRBRname value="S.S.I. 2019/285"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/285/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/285/made"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/285/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/285/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-10" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-09-12" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1990/2615">S.I. 1990/2615</ref>; relevantly amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref> and will be relevantly amended by <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2019/53">S.S.I. 2019/53</ref> on exit day.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2006/3">S.S.I. 2006/3</ref>; relevantly amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2013/266">S.S.I. 2013/266</ref>; relevantly amended by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2019/53">S.S.I. 2019/53</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2015/208">S.S.I. 2015/208</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2016/422">S.S.I. 2016/422</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042786"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 285</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-10">10th September 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>There has been consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Quick-frozen Foodstuffs Regulations 1990</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Quick-frozen Foodstuffs Regulations 1990<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 7 (penalties and enforcement) after paragraph (1C) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(1D)</num>
+                              <intro>
+                                 <p>A person is to be considered not to have contravened or failed to comply with regulation 5(3)(b) in the following circumstances—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>a quick-frozen foodstuff subject to regulation 5(3)(b) is marked or labelled on its packaging, container or wrapping, or on a label attached to it, with the name or business name and address of the manufacturer or packer, or of a seller established within the European Union,</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>this would not have constituted a contravention of regulation 5(3)(b) immediately before exit day, and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>the quick-frozen foodstuff is placed on the market no later than 21 months after the day after exit day.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Food Hygiene (Scotland) Regulations 2006</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Hygiene (Scotland) Regulations 2006<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 17 (offences and penalties)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “(8)” substitute “(9)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (8), insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(9)</num>
+                                 <intro>
+                                    <p>Provided the requirements of subparagraph (a) or (b), as the case may be, are met, a person is to be considered not to have contravened or failed to comply with Article 5(1) of (EU) Regulation 853/2004<noteRef href="#f00001" class="footnote" marker="1"/>—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>in the case of a health mark—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>the health mark was applied to a product of animal origin subject to Article 5(1) before exit day, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>the health mark complied with Article 5(1) as it applied immediately before exit day,</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>in the case of an identification mark—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <intro>
+                                          <p>the identification mark—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>was applied to a product of animal origin subject to Article 5(1) before exit day, or</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>is applied to a product of animal origin subject to Article 5(1) no later than 21 months after the day after exit day using a label (bearing the identification mark) owned by the food business operator before exit day, and</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>the identification mark complied or would have complied with Article 5(1) as it applied immediately before exit day.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013<noteRef href="#f00005" class="footnote" marker="5"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>After regulation 15 (offences and penalties) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>15A.</num>
+                              <heading>Transitional provision: withdrawal from the EU</heading>
+                              <intro>
+                                 <p>A person is to be considered not to have contravened regulation 11(2), as it applies to regulation 12(1)(d), in the following circumstances—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>an extraction solvent has the name or business name and address of the manufacturer or packer, or of a seller established in the territory of the European Union, appearing on the packaging, container or label,</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>this would have complied with regulation 11(2), as it applies to regulation 12(1)(d) immediately before exit day, and</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>the extraction solvent is placed on the market no later than 21 months after the day after exit day.</p>
+                                 </content>
+                              </subparagraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Honey (Scotland) Regulations 2015</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Honey (Scotland) Regulations 2015<noteRef href="#f00006" class="footnote" marker="6"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 2 (general interpretation) after the definition of “in trade” insert the following definition—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“trading bloc” means a group of nations united by trade agreements,</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 16 (additional labelling requirements) for paragraph (1) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(1)</num>
+                              <intro>
+                                 <p>No person may trade in honey unless the country or countries of origin where the honey has been harvested is indicated on the label except that if the honey originates in more than one country, the countries may be replaced with one of the following indications (or similar wording) as appropriate—</p>
+                              </intro>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from more than one country”,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from (<i>insert name of a specified continent or trading bloc</i>)”,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from outwith (<i>insert name of </i>a <i>specified continent or trading bloc</i>)”,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from (<i>insert name of</i>
+                                       <i>a specified country</i>) and (<i>insert name of non-specified other countries</i>)”,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from (<i>insert name of a specified continent or trading bloc</i>) and outwith (<i>insert name of a specified continent or trading bloc)”, or</i>
+                                    </p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“blend of honeys from (<i>insert name of a specified country or specified continent or trading bloc) and (insert name of non-specified countries</i>).</p>
+                                 </content>
+                              </hcontainer>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-4">
+               <num>(4)</num>
+               <content>
+                  <p>After regulation 17 (penalties and enforcement) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>17A.</num>
+                              <heading>Methods of analysis</heading>
+                              <content>
+                                 <p>In carrying out its obligations under regulation 17, a food authority must, whenever possible, use internationally recognised validated methods of analysis such as those approved by the Codex Alimentarius.</p>
+                              </content>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Caseins and Caseinates (Scotland) (No. 2) Regulations 2016</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Caseins and Caseinates (Scotland) (No. 2) Regulations 2016<noteRef href="#f00007" class="footnote" marker="7"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 5(1)(d) (labelling of edible acid caseins, edible rennet caseins and edible caseinates) for “European Union”, in both places where it occurs, substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <content>
+                  <p>After regulation 6 (offences and penalties) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>6A.</num>
+                              <heading>Transitional provisions: withdrawal from the EU</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A person is to be considered to have complied with regulation 5(1)(d) in the following circumstances—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>edible acid caseins, edible rennet caseins or edible caseinates are marked with the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the European Union, the importer into the European Union market,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>this would have complied with regulation 5(1)(d) as it applied immediately before exit day, and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 21 months after the day after exit day.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>A person is to be considered to have complied with regulation 5(1)(e) in the following circumstances—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>edible acid caseins, edible rennet caseins or edible caseinates imported from a third country are marked with the name of the country of origin,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>this would have complied with regulation 5(1)(e) as it applied immediately before exit day, and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 21 months after the day after exit day.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>In this regulation, “third country” means any country other than the United<span ukl:Name="EmSpace"> </span>Kingdom.</p>
+                                 </content>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-10">10th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21 of schedule 7 of the European Union (Withdrawal) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref> in order to address failures of retained EU law to operate effectively and other deficiencies (as defined in section 8(2) and (3) of that Act) arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the field of food composition, food labelling and food standards in relation to Scotland.</p>
+            <p>A business and regulatory impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

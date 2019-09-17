@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/177"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/177"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="177"/>
+               <FRBRname value="S.S.I. 2019/177"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/177/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/177/made"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/177/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/177/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-16" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-20" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-30" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2005/16">2005 asp 16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2007/454">S.S.I. 2007/454</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042236"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 177</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Licensing (liquor)</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Licensing (Personal Licences: Supplemental and Transitional Provision) (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-16">16th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-20">20th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-30">30th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by sections 145 and 146(2) and (3) of the Licensing (Scotland) Act 2005<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Licensing (Personal Licences: Supplemental and Transitional Provision) (Scotland) Order 2019 and comes into force on 30 June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In this Order—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the Act” means the Licensing (Scotland) Act 2005,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“relevant personal licence” means a personal licence issued—</p>
+                     <blockList>
+                        <item>
+                           <num>(a)</num>
+                           <p>during the transitional period, or</p>
+                        </item>
+                        <item>
+                           <num>(b)</num>
+                           <p>on 1 September 2009 (other than during the transitional period),</p>
+                        </item>
+                     </blockList>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the transitional period” has the meaning given in article 2 of the Licensing (Transitional and Saving Provisions) (Scotland) Order 2007<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Period of effect of a relevant personal licence</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Paragraph (2) applies where a personal licence renewal application is made to a Licensing Board in respect of a relevant personal licence on or before 31 May 2019 and the Board has not determined the application before 1 September 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Despite section 77(1) of the Act (period of effect of personal licence), the licence continues to have effect until the earlier of—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the expiry of the period of 28 days beginning with the day after the day on which the Board determines the application, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>29 February 2020.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ASH DENHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-16">16th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order makes provision in respect of relevant personal licences issued under the Licensing (Scotland) Act 2005 (“the 2005 Act”).</p>
+            <p>Under section 77(1) of the 2005 Act a personal licence has effect during the period of 10 years beginning with the date on which it is issued. That is subject to the remaining subsections of section 77. Personal licence holders may apply to the Licensing Board for renewal of their licence under section 78 of the 2005 Act (“a renewal application”). Where such an application is granted, section 77(2) provides that the period of effect of the licence is extended for a further period of 10 years. This means that the personal licence does not expire at the end of the 10 year period mentioned in section 77(1) but continues for a further 10 year period. It is possible to further renew a personal licence for successive 10 year periods. A renewal application must be made no later than three months prior to the expiry date of the licence.</p>
+            <p>The 2005 Act became fully operational on 1 September 2009. Prior to that date it was possible to apply for a personal licence under the 2005 Act during the period from 0001 hours on 1 February 2008 until 0500 hours on 1 September 2009 (the “transitional period”). Article 23 of the Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2007/454">S.S.I. 2007/454</ref>) provides that section 77 of the 2005 Act has effect in respect of a personal licence issued during the transitional period as if that licence had been issued on 1 September 2009.</p>
+            <p>The deadline for making a renewal application in respect of a personal licence issued during the transitional period is 31 May 2019. The effect of section 77 of the 2005 Act is that if a Licensing Board has not determined any such application before 1 September 2019, the licence in respect of which the application is made will cease to have effect.</p>
+            <p>Article 2 of this Order modifies the effect of section 77 of the Act in respect of a personal licence issued during the transitional period, provided that (a) a renewal application has been made in respect of the licence on or before 31 May 2019 and (b) the Licensing Board has not determined the application before 1 September 2019. This means that the period of effect of the licence does not end until the earlier of (a) 28 days after the day on which the Licensing Board has determined a renewal application made in respect of the licence or (b) 29 February 2020.</p>
+            <p>Article 2 also applies to a personal licence which was not issued during the transitional period but was issued on 1 September 2009, after 0500 hours on that day.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

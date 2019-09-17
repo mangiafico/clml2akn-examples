@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/90"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/90"/>
+               <FRBRdate date="2019-03-12" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="90"/>
+               <FRBRname value="S.S.I. 2019/90"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/90/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/90/made"/>
+               <FRBRdate date="2019-03-12" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/90/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/90/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-12" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-13" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 c.14</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>. The requirement to obtain Treasury consent was removed by section 55 of that Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Paragraph 2(3) has been modified by paragraph 6 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2018/91">S.S.I. 2018/91</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041499"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 90</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Local Government</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Local Government Finance (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-12">12th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-13">13th March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by paragraphs 1 and 9(4) of schedule 12 of the Local Government Finance Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with paragraph 2(2) of that schedule, they have consulted with such associations of local authorities as appear to them to be appropriate.</p>
+         <formula name="enactingText">
+            <p>In accordance with paragraph 2(3) of that schedule<noteRef href="#f00002" class="footnote" marker="2"/>, a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Local Government Finance (Scotland) Order 2019 and comes into force on the day after the day on which it is made.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Revenue support grant for 2019-2020</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The local authorities to which revenue support grant is payable in respect of the financial year 2019-2020 are specified in column 1 of schedule 1.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>The amount of the revenue support grant payable to each local authority specified in column 1 of schedule 1 in respect of the financial year 2019-2020 is the amount determined in relation to that local authority set out in column 2 of that schedule opposite the name of that local authority.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Distribution of non-domestic rate income for 2019-2020</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The distributable amount of non‑domestic rate income arrived at under paragraph 9 of schedule 12 of the Local Government Finance Act 1992 in respect of the financial year 2019-2020 is £2,853,000,000.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>The local authorities among whom the distributable amount of non‑domestic rate income is distributed in respect of the financial year 2019-2020 are specified in column 1 of schedule 1.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>The amount of non‑domestic rate income distributed to each local authority specified in column 1 of schedule 1 in respect of the financial year 2019-2020 is that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that schedule opposite the name of that local authority.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-4">
+            <heading>Revenue support grant for 2018-2019</heading>
+            <num>4.</num>
+            <paragraph eId="article-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The local authorities to which revenue support grant is payable in respect of the financial year 2018-2019 are specified in column 1 of schedule 2.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>The amount of the revenue support grant payable to each local authority specified in column 1 of schedule 2 in respect of the financial year 2018-2019 is the amount redetermined in relation to that local authority set out in column 2 of that schedule opposite the name of that local authority.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-5">
+            <heading>Revocations</heading>
+            <num>5.</num>
+            <content>
+               <p>Article 2 and column 2 of schedule 1 of the Local Government Finance (Scotland) Order 2018<noteRef href="#f00003" class="footnote" marker="3"/> (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2018-2019) are revoked.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-12">12th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Articles 2 and 3</p>
+                  </authorialNote>
+               </num>
+               <heading>REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2019-2020</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                           <colgroup>
+                              <col width="142.15pt"/>
+                              <col width="142.15pt"/>
+                              <col width="142.15pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Column 1</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Column 2</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Column 3</th>
+                              </tr>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Local Authority</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Amount of revenue support grant</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Amount of non‑domestic rate income</th>
+                              </tr>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£m</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£m</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Aberdeen City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">61.897</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">258.560</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Aberdeenshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">283.270</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">123.812</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Angus</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">171.115</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">27.468</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argyll &amp; Bute</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">155.159</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">35.634</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Clackmannanshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">74.726</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">17.315</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Dumfries &amp; Galloway</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">227.196</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">51.150</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Dundee City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">221.942</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">64.307</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">195.112</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">27.360</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Dunbartonshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">158.282</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">22.669</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Lothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">142.565</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">25.550</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Renfrewshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">159.190</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">15.377</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Edinburgh (City of)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">338.837</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">365.250</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Eilean Siar</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">84.626</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">8.482</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Falkirk</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">201.354</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">69.739</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Fife</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">459.377</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">165.717</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Glasgow City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">846.295</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">356.234</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Highland</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">292.031</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">143.240</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Inverclyde</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">140.225</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">19.834</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Midlothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">123.164</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">31.615</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Moray</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">111.351</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">43.563</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">North Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">224.928</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">41.124</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">North Lanarkshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">488.752</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">107.252</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Orkney Islands</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">57.704</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">10.459</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Perth &amp; Kinross</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">186.872</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">56.590</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Renfrewshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">197.528</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">104.417</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Scottish Borders</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">164.755</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">36.624</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Shetland Islands</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">53.526</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">25.925</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">153.775</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">42.462</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Lanarkshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">203.729</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">341.166</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Stirling</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">118.992</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">44.042</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">West Dunbartonshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">97.596</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">84.736</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">West Lothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">223.849</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="bottom" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">85.327</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                    <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Scotland Total</i>
+                                 </td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                    <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">6,619.720</i>
+                                 </td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                                    <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">2,853.000</i>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Article 4</p>
+                  </authorialNote>
+               </num>
+               <heading>REVENUE SUPPORT GRANT 2018-2019</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.25pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Column 1</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Column 2</th>
+                              </tr>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="2" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Local Authority</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Amount of revenue support grant</th>
+                              </tr>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£m</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Aberdeen City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">94.028</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Aberdeenshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">299.374</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Angus</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">171.984</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Argyll &amp; Bute</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">159.109</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Clackmannanshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">77.472</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Dumfries &amp; Galloway</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">235.765</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Dundee City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">234.782</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">195.124</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Dunbartonshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">161.480</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Lothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">145.184</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">East Renfrewshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">162.680</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Edinburgh (City of)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">363.102</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Eilean Siar</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">86.515</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Falkirk</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">207.094</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Fife</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">467.622</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Glasgow City</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">869.967</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Highland</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">310.402</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Inverclyde</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">142.616</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Midlothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">126.301</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Moray</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">115.398</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">North Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">227.824</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">North Lanarkshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">496.237</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Orkney Islands</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">59.296</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Perth &amp; Kinross</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">191.654</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Renfrewshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">183.015</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Scottish Borders</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">169.350</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Shetland Islands</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">56.663</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Ayrshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">158.702</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">South Lanarkshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">251.381</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Stirling</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">121.626</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">West Dunbartonshire</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">104.549</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">West Lothian</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">228.501</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                    <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Scotland Total</i>
+                                 </td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" valign="middle" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                                    <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">6,874.797</i>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <blockContainer class="P">
+               <p>This Order—</p>
+               <blockContainer class="P3">
+                  <num>(a)</num>
+                  <p>determines the amount of the revenue support grant payable to each local authority in Scotland in respect of the financial year 2019-2020 (article 2 and schedule 1),</p>
+               </blockContainer>
+               <blockContainer class="P3">
+                  <num>(b)</num>
+                  <p>determines the amount of non‑domestic rate income to be distributed to each local authority in respect of that year (article 3 and schedule 1),</p>
+               </blockContainer>
+               <blockContainer class="P3">
+                  <num>(c)</num>
+                  <p>redetermines the amount of the revenue support grant payable to each local authority in respect of the financial year 2018-2019 (article 4 and schedule 2), and</p>
+               </blockContainer>
+               <blockContainer class="P3">
+                  <num>(d)</num>
+                  <p>makes consequential revocations in the Local Government Finance (Scotland) Order 2018 (article 5).</p>
+               </blockContainer>
+            </blockContainer>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

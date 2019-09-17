@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/50"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/50"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="50"/>
+               <FRBRname value="S.S.I. 2019/50"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/50/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/50/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/50/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/50/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1978/29">1978 c.29</ref>; section 70(1) was amended by the Health and Medicines Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1988/49">1988 (c.49)</ref> (“the 1988 Act”) section 25(2) and schedule 3; section 105(7) was amended by the Health Services Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1980/53">1980 (c.53)</ref> (“the 1980 Act”) schedule 6, paragraph 5(1) and schedule 7, the Health and Social Services and Social Security Adjudications Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1983/41">1983 (c.41)</ref> schedule 9, Part I, paragraph 24 and the Health Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1999/8">1999 (c.8)</ref> schedule 4, paragraph 60; section 108(1) contains definitions of “regulations” and “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. Paragraph 2 of schedule 11 was substituted by the 1988 Act section 11 and schedule 2, paragraph 15(1) and schedule 3 and amended by the Health and Social Security Act 1984 (“the 1984 Act”) schedules 1 and 8 and the 1980 Act schedule 5. Paragraph 2A of schedule 11 was inserted by the 1984 Act schedule 1, Part II, paragraph 7 and amended by the 1988 Act section 13(2) and (5) and the Smoking, Health and Social Care (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2005/13">2005 (asp 13)</ref> section 13. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/1998/642">S.I. 1998/642</ref>. Relevant amending instruments are <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/1999/748">S.I. 1999/748</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/1999/64">S.S.I. 1999/64</ref>, <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2001/88">S.S.I. 2001/88</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2004/168">S.S.I. 2004/168</ref>, <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2009/288">S.S.I. 2009/288</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2015/219">S.S.I. 2015/219</ref> and <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2016/127">S.S.I. 2016/127</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/1989/44">1989 c.44</ref>; section 27 was amended by the Regulation of Care (Scotland) Act <ref eId="c00017" href="http://www.legislation.gov.uk/id/asp/2001/8">2001 (asp 8)</ref>, schedule 3, paragraph 16, <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2005/848">S.I. 2005/848</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/2015/914">S.I. 2015/914</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041048"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 50</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Health Service</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The National Health Service (Optical Charges and Payments) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 70(1) and 105(7) and paragraphs 2 and 2A of schedule 11 of the National Health Service (Scotland) Act 1978<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d3413e185">
+            <heading>Citation, commencement and interpretation</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the National Health Service (Optical Charges and Payments) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>In these Regulations, “the 1998 Regulations” means the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d3413e217">
+            <heading>Amendment of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <content>
+                  <p>The 1998 Regulations are amended in accordance with regulations 4 to 11.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <content>
+                  <p>In regulation 10 (issue of vouchers by and health boards in connection with the hospital eye service), in the cross-heading omit “and”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <intro>
+                  <p>In regulation 12(5)(b) (use of vouchers for the supply of optical appliances)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “him” substitute “the supplier”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after “13(2)(c)(iii)” insert “or (2C)(c)(iii)”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <num>6.</num>
+               <intro>
+                  <p>In regulation 13 (payments to suppliers)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for paragraph (1) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>Subject to paragraph (2B), the responsible authority must make a payment of a voucher’s redemption value to a supplier if—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the supplier has accepted the voucher from a patient in accordance with regulation 12; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the conditions specified in paragraph (2) are fulfilled.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="regulation-6-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after “paragraph (1)” where it first appears insert “(b)”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in sub-paragraph (c)(ii) for “either by means of electronic communication in accordance with paragraph (2A) or on a duly completed voucher” substitute “by means of electronic communication in accordance with paragraph (2A)”;</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-6-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (2A), for “made by means of electronic communication shall” substitute “as mentioned in paragraph (2)(c)(ii) must”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>after paragraph (2A) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <paragraph>
+                                 <num>(2B)</num>
+                                 <intro>
+                                    <p>Where a voucher has been issued by a Health Board in accordance with regulation 10 the responsible authority must make a payment of a voucher’s redemption value to a supplier if—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the supplier has accepted the voucher from a patient in accordance with regulation 12; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the conditions specified in paragraph (2C) are fulfilled.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2C)</num>
+                                 <intro>
+                                    <p>The conditions referred to in paragraph (2B)(b) are that—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the patient has signed the declaration and undertaking referred to in regulation 12(4) and acknowledged receipt on the voucher of the optical appliance supplied to them;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the optical appliance is not sold or supplied in contravention of section 27(1) of the Optician’s Act 1989<noteRef href="#f00003" class="footnote" marker="3"/>; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <intro>
+                                       <p>the supplier has—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>made and kept a written record of the supply and issued to the patient a receipt for any money received from the patient;</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>made a claim for a payment either by means of electronic communication in accordance with paragraph (2D) or on a duly completed voucher to the responsible authority, within the period of 3 months beginning with the date of supply of the optical appliance;</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>where the patient has shown a notice of entitlement to the supplier, informed the responsible authority of the amount of the patient’s contribution, if any; and</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(iv)</num>
+                                       <content>
+                                          <p>where the claim relates to a voucher the value of which is increased in accordance with paragraph 1(1)(e) of schedule 3, certified that the glasses supplied were small glasses.</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2D)</num>
+                                 <intro>
+                                    <p>A claim as mentioned in paragraph (2C)(c)(ii) which is made by means of electronic communication must—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>be submitted using such computer programme as the responsible authority has approved as suitable for that purpose;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>confirm the matters referred to in paragraph (2C)(c)(iii) and (iv), where applicable; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>contain the personal identification number that has been allocated to the supplier by the responsible authority.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <num>7.</num>
+               <intro>
+                  <p>In regulation 16(5) (completion of vouchers for replacement or repair)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “him” substitute “the supplier”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after “18(2)(b)(iv)” insert “or (2C)(b)(v)”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <num>8.</num>
+               <intro>
+                  <p>In regulation 18 (payments to supplier for replacement or repair)—</p>
+               </intro>
+               <subparagraph eId="regulation-8-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for paragraph (1) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>Subject to paragraph (2B), the responsible authority must make a payment of a voucher’s redemption value to a supplier if—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the supplier has used the voucher in accordance with regulation 17; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the conditions specified in paragraph (2) are fulfilled.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="regulation-8-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after “paragraph (1)” insert “(b)”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-8-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for sub-paragraph (b)(i) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <clause>
+                                    <num>(i)</num>
+                                    <intro>
+                                       <p>made and kept a written record of the replacement or repair, including—</p>
+                                    </intro>
+                                    <subclause>
+                                       <num>(aa)</num>
+                                       <content>
+                                          <p>a description of the loss or damage;</p>
+                                       </content>
+                                    </subclause>
+                                    <subclause>
+                                       <num>(bb)</num>
+                                       <content>
+                                          <p>the nature of any repair including details of any parts replaced;</p>
+                                       </content>
+                                    </subclause>
+                                    <subclause>
+                                       <num>(cc)</num>
+                                       <content>
+                                          <p>the date on which the patient signed the declarations and undertaking referred to in regulation 16(4); and</p>
+                                       </content>
+                                    </subclause>
+                                    <subclause>
+                                       <num>(dd)</num>
+                                       <content>
+                                          <p>the date of the replacement or repair;</p>
+                                       </content>
+                                    </subclause>
+                                 </clause>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-8-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>after sub-paragraph (b)(i) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <clause>
+                                    <num>(aii)</num>
+                                    <content>
+                                       <p>issued to the patient a receipt for any money received from them;</p>
+                                    </content>
+                                 </clause>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">; and</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-8-b-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>in sub-paragraph (b)(iii) for “either by means of electronic communication in accordance with paragraph (2A) or on a duly completed voucher” substitute “by means of electronic communication in accordance with paragraph (2A)”;</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-8-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (2A), for “made by means of electronic communication shall”, substitute “as mentioned in paragraph (2)(b)(iii) must”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>after paragraph (2A) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <paragraph>
+                                 <num>(2B)</num>
+                                 <intro>
+                                    <p>Where a voucher has been issued by a Health Board, the responsible authority must make a payment of a voucher’s redemption value to a supplier if—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the supplier has used the voucher in accordance with regulation 17; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the conditions specified in paragraph (2C) are fulfilled.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2C)</num>
+                                 <intro>
+                                    <p>The conditions referred to in paragraph (2B)(b) are that—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the patient has signed the declarations and undertaking referred to in regulation 16(4) and acknowledged on the voucher that the optical appliance has been replaced or repaired; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>the supplier has—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <intro>
+                                          <p>made and kept a written record of the replacement or repair, including—</p>
+                                       </intro>
+                                       <subclause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>a description of the loss or damage;</p>
+                                          </content>
+                                       </subclause>
+                                       <subclause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>the nature of any repair including details of any parts replaced;</p>
+                                          </content>
+                                       </subclause>
+                                       <subclause>
+                                          <num>(cc)</num>
+                                          <content>
+                                             <p>the date on which the patient signed the declarations and undertaking referred to in regulation 16(4); and</p>
+                                          </content>
+                                       </subclause>
+                                       <subclause>
+                                          <num>(dd)</num>
+                                          <content>
+                                             <p>the date of the replacement or repair;</p>
+                                          </content>
+                                       </subclause>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>issued to the patient a receipt for any money received from them;</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>obtained any prior approval required by regulation 16(6);</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(iv)</num>
+                                       <content>
+                                          <p>made a claim for payment either by means of electronic communication in accordance with paragraph (2D) or on a duly completed voucher to the responsible authority within the period of three months beginning with the date of the replacement or repair of the optical appliance; and</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(v)</num>
+                                       <content>
+                                          <p>where the person has shown a notice of entitlement to the supplier, informed the responsible authority of the amount of the patient’s contribution, if any.</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2D)</num>
+                                 <intro>
+                                    <p>A claim as mentioned in paragraph (2C)(b)(iv) which is made by means of electronic communication must—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>be submitted using such computer programme as the responsible authority has approved as suitable for that purpose;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>confirm the amount of contribution referred to in paragraph (2C)(b)(v), if any; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>contain the personal identification number that has been allocated to the supplier by the responsible authority.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <num>9.</num>
+               <intro>
+                  <p>In regulation 21(2) (amounts wrongly paid)—</p>
+               </intro>
+               <subparagraph eId="regulation-9-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit “5(2),”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “13(2) or 18(2)” substitute “13(2) or (2C), or 18(2) or (2C)”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <num>10.</num>
+               <content>
+                  <p>In regulation 22 (signature and claims for payments), omit “6 or”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <num>11.</num>
+               <content>
+                  <p>In schedule 3 (prisms, tints, photochromic lenses, small glasses and special frames and complex appliances) below the heading, after “13(2)(c)(iv)” insert “, 13(2C)(c)(iv)”.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d3413e1163">
+            <heading>Saving Provision</heading>
+            <hcontainer name="regulation" eId="regulation-12">
+               <num>12.</num>
+               <intro>
+                  <p>Where, before these Regulations come into force,</p>
+               </intro>
+               <subparagraph eId="regulation-12-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a replacement or repair of an optical appliance has been carried out in accordance with Part V of the 1998 Regulations; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>a supplier has made and kept a written record of that replacement or repair in accordance with regulation 18(2)(b)(i) of the 1998 Regulations,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>regulation 18(2)(b)(i) of the 1998 Regulations will continue to apply to that written record as it applied immediately before the coming into force of these Regulations.</p>
+               </wrapUp>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998 (“the principal Regulations”) which provide for payments to be made by means of a voucher system in respect of costs incurred by certain categories of persons in connection with the supply, replacement and repair of optical appliances.</p>
+            <p>Regulation 6 amends regulation 13 of the principal Regulations to require suppliers of optical appliances, unless a voucher has been issued by a Health Board, to make claims for payment by means of electronic communication.</p>
+            <p>Regulation 6 also inserts paragraphs (2B), (2C) and (2D) into regulation 13 of the principal Regulations which provide that where a voucher has been issued by a Health Board, suppliers of optical appliances can make claims for payment either by means of electronic communication or on a duly completed voucher to the responsible authority.</p>
+            <p>Regulation 8 amends regulation 18 of the principal Regulations to require suppliers replacing or repairing optical appliances, unless a voucher has been issued by a Health Board, to make claims for payment by means of electronic communication.</p>
+            <p>Regulation 8 inserts paragraphs (2B), (2C) and (2D) into regulation 18 of the principal Regulations which provide that where a voucher has been issued by a Health Board, suppliers replacing or repairing optical appliances can make claims for payment either by means of electronic communication or on a duly completed voucher to the responsible authority.</p>
+            <p>Regulation 8 also makes amendments to regulation 18(2)(b)(i) of the principal Regulations and inserts regulation 18(2C)(b)(i) into the principal Regulations to require suppliers, when making and keeping a written record of the replacement or repair of an optical appliance, to include a description of the loss or damage, the nature of any repair including details of any parts replaced, the date on which the patient signed the declarations and undertaking referred to in regulation 16(4) of the principal Regulations, and the date of the replacement or repair.</p>
+            <p>Regulation 12 makes a saving provision. Where, before these Regulations come into force, a replacement or repair of an optical appliance has been carried out and a supplier has made a written record of that replacement or repair, regulation 18(2)(b)(i) of the principal Regulations will continue to apply to that written record as it applied immediately before the coming into force of these Regulations.</p>
+            <p>Regulations 4, 5 7, 9, 10 and 11 make minor and consequential amendments to the principal Regulations.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

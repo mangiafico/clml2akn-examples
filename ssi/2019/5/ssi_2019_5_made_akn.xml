@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/5"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/5"/>
+               <FRBRdate date="2019-01-15" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="5"/>
+               <FRBRname value="S.S.I. 2019/5"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/5/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/5/made"/>
+               <FRBRdate date="2019-01-15" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/5/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/5/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-15" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-01-17" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-07" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 c.68</ref>. Section 2(2) was amended by paragraph 15(3) of schedule 8 of the Scotland Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/2006/51">2006 (c.51)</ref> (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by section 3(3) and Part 1 of the schedule of the European Union (Amendment) Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/2008/7">2008 (c.7)</ref>. The functions conferred upon the Minister of the Crown under section 2(2), insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, schedule, Part 1.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>These Regulations apply to breed societies and breeding operations recognised by the Scottish Ministers as the competent authority, and the breeding programmes (also approved by that competent authority) may under Article 12 of Regulation (EU) 2016//1012 (OJ L 171, 29.6.2016, p.66) extend to animals kept in another Member State. In particular, sanctions applied under Article 47 of that Regulation (such as suspension of a breeding programme or withdrawal of recognition of a breed society or breeding organisation) may affect animals being bred in another Member State under a breeding programme approved by the Scottish Ministers. And, under Article 48 of that Regulation, the Scottish Ministers as competent authority may, if necessary, undertake official controls in that other Member State.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>OJ L 171, 29.6.2016, p.66. See also Commission Implementing Regulations (EU) 2017/716, which makes provision in respect of the model forms to be used for the information to be included in the lists of recognised breed societies and breeding operations, Commission Implementing Regulation (EU) 2017/717 laying down rules for the application of Regulation (EU) 2016/1012 with regard to the model forms of zootechnical certificates for breeding animals and their germinal products and Commission Delegated Regulation (EU) 2017/1940 as regards the content and format of zootechnical certificates issued for purebred breeding animals of the equine species contained in a single lifetime identification document for equidae.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1971/80">1971 c.80</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2012/177">S.S.I. 2012/177</ref> as amended by <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>, <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2015/401">S.S.I. 2015/401</ref> and <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2012/199">S.S.I. 2012/199</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>OJ L 171, 19.6.2017, p.66.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/1992/2370">S.I. 1992/2370</ref> as amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2007/521">S.S.I. 2007/521</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2007/521">S.S.I. 2007/521</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2008/99">S.S.I. 2008/99</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040485"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 5</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Animals</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Agriculture</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Zootechnical Standards (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-15">15th January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-01-17">17th January 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-07">7th March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2), and paragraph 1A of schedule 2, of the European Communities Act 1972<noteRef href="#f00001" class="footnote" marker="1"/>, and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for references in these Regulations to the Animal Breeding Regulation (as defined in regulation 1(3)(b)) to be construed as references to that instrument as amended from time to time.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement, extent and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Zootechnical Standards (Scotland) Regulations 2019 and come into force on 7 March 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland and, in so far as they extend beyond Scotland, they do so only as a matter of Scots law<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <subparagraph eId="regulation-1-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>expressions used in these Regulations have the same meaning as in the Animal Breeding Regulation, unless the context otherwise requires,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-1-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>“the Animal Breeding Regulation” means Regulation (<abbr class="acronym" title="European Union">EU</abbr>) 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/1989/0608">89/608/<abbr class="acronym" title="European Economic Community">EEC</abbr>
+                        </ref> and <ref eId="c00002" href="http://www.legislation.gov.uk/european/directive/1990/0425">90/425/EEC</ref> and repealing certain acts in the area of animal breeding, as amended from time to time<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Designation of Scottish Ministers as the competent authority</heading>
+            <num>2.</num>
+            <content>
+               <p>The Scottish Ministers are the competent authority for the purposes of the Animal Breeding Regulation.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Enforcement</heading>
+            <num>3.</num>
+            <content>
+               <p>The Animal Breeding Regulation is enforced by the competent authority.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Notifications</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Any notice to be served by the competent authority on an operator under the Animal Breeding Regulation may be sent to that operator—</p>
+               </intro>
+               <subparagraph eId="regulation-4-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>by post, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in electronic form,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>to the postal or electronic address provided by the operator to the competent authority.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>If the notice is sent to the operator electronically it is to be treated as given only if—</p>
+               </intro>
+               <subparagraph eId="regulation-4-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the operator had indicated to the competent authority willingness to receive notification by electronic means and provided an address suitable for that purpose, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the notification was sent to that address.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Obligation to inform the competent authority of a change in contact details</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>This regulation applies where an operator’s contact details change.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>Subject to paragraph (3), where this regulation applies, the operator must give the competent authority notice of its changed contact details within the period of 10 working days beginning with the day on which the change occurs.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>Notice given under this regulation must be sent to the competent authority at the specified address.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In this regulation—</p>
+               </intro>
+               <subparagraph eId="regulation-5-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>“Bank Holiday” means a day specified in paragraph 2 of schedule 1<span ukl:Name="NonBreakingSpace"> </span>of the Banking and Financial Dealing Act 1971<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>“specified address” means the postal or electronic address given by Scottish Ministers from time to time for the purposes of this regulation, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>“working day” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Penalties</heading>
+            <num>6.</num>
+            <content>
+               <p>For the purposes of Article 52 of the Animal Breeding Regulation, where an operator fails to comply with an obligation under that Regulation or under these Regulations, the competent authority is to deal with that non-compliance in accordance with the provisions in Article 47 of the Animal Breeding Regulation (actions in the case of established non-compliance).</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Review in respect of a decision taken under Article 47 of the Animal Breeding Regulation</heading>
+            <num>7.</num>
+            <paragraph eId="regulation-7-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Where—</p>
+               </intro>
+               <subparagraph eId="regulation-7-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a competent authority has granted recognition of a breed society or breeding organisation in accordance with Article 4(3) of the Animal Breeding Regulation, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>that competent authority has given that breed society or breeding operation a notice under Article 47(2)(a) of that Regulation in respect of a decision to withdraw that recognition,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>that breed society or breeding operation may apply to the competent authority for a reconsideration of the decision given in that notice.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-7-2">
+               <num>(2)</num>
+               <intro>
+                  <p>An application under paragraph (1) must—</p>
+               </intro>
+               <subparagraph eId="regulation-7-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>be made by the breed society or breeding operation within the period of 28 days beginning with the day on which the relevant notice is served,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>state the reasons for making the application, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>be accompanied by such evidence as the breed society or breeding operation believes supports those reasons.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-3">
+               <num>(3)</num>
+               <content>
+                  <p>The competent authority may request evidence from the breed society or breeding operation in support of the application.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The competent authority must as soon as reasonably practicable—</p>
+               </intro>
+               <subparagraph eId="regulation-7-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>consider the application and make a decision in respect of it,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>give written notification to the breed society or breeding operation stating whether the decision is confirmed or reversed, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>if the decision is reversed take the appropriate action in respect of the reversed decision.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-5">
+               <num>(5)</num>
+               <content>
+                  <p>The availability of a review under this regulation does not prevent a notice described in paragraph (1) having effect immediately upon being served.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-8">
+            <heading>Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012</heading>
+            <num>8.</num>
+            <paragraph eId="regulation-8-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Trade in Animals and Related Products (Scotland) Regulations 2012<noteRef href="#f00005" class="footnote" marker="5"/> are amended in accordance with paragraphs (2) to (4).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-8-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2(1)—</p>
+               </intro>
+               <subparagraph eId="regulation-8-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after the definition of “Regulation <ref eId="c00003" href="http://www.legislation.gov.uk/european/regulation/2008/0450">(EC) No 450/2008</ref>” omit “and”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after the definition of “Regulation <ref eId="c00004" href="http://www.legislation.gov.uk/european/regulation/2009/1069">(EC) No 1069/2009</ref>” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>, and</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Regulation (EU) No 2016/1012” means Regulation (EU) No 2016/1012 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives <ref eId="c00005" href="http://www.legislation.gov.uk/european/directive/1989/0608">89/608/EEC</ref> and <ref eId="c00006" href="http://www.legislation.gov.uk/european/directive/1990/0425">90/425/EEC</ref> and repealing certain acts in the area of animal breeding<noteRef href="#f00006" class="footnote" marker="6"/>.</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-8-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In regulation 13(1) (procedure on importation)—</p>
+               </intro>
+               <subparagraph eId="regulation-8-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in sub-paragraph (b) omit “or”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after sub-paragraph (c) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <p>, or</p>
+                              <paragraph>
+                                 <num>(d)</num>
+                                 <content>
+                                    <p>the checks required by Article 37(1) of Regulation (EU) 2016/1012.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-8-4">
+               <num>(4)</num>
+               <content>
+                  <p>In the table in schedule 1 (European Union legislation), at the end insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="195.6pt"/>
+                                       <col width="195.6pt"/>
+                                    </colgroup>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">Regulation (EU) No 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof.</td>
+                                          <td rowspan="1" colspan="1">Purebred breeding animals, hybrid breeding pigs and the germinal products thereof.</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-9">
+            <heading>Revocations</heading>
+            <num>9.</num>
+            <intro>
+               <p>The following Regulations are revoked—</p>
+            </intro>
+            <subparagraph eId="regulation-9-a">
+               <num>(a)</num>
+               <content>
+                  <p>The Zootechnical Standards Regulations 1992<noteRef href="#f00007" class="footnote" marker="7"/>,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-9-b">
+               <num>(b)</num>
+               <content>
+                  <p>The Zootechnical Standards Amendment (Scotland) Regulations 2007<noteRef href="#f00008" class="footnote" marker="8"/>, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-9-c">
+               <num>(c)</num>
+               <content>
+                  <p>The Horses (Zootechnical Standards) (Scotland) Regulations 2008<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-15">15th January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision in Scotland for the implementation and administration of Regulation (EU) 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof (“the Animal Breeding Regulation”) (<abbr class="acronym" title="Official Journal">OJ</abbr> L 171, 29.6.2016, p.66).</p>
+            <p>Regulation 2 designates the Scottish Ministers as the competent authority for the purposes of the Animal Breeding Regulation.</p>
+            <p>Regulation 3 provides that the competent authority is responsible for the enforcement of the Animal Breeding Regulation in Scotland.</p>
+            <p>Regulation 4 provides that notices served by the competent authority on operators may be sent by post or in electronic form and provides certain requirements which must be met in order for a notice sent in electronic form to be treated as given. The term operator is defined in the Animal Breeding Regulation as any natural or legal person subject to the rules provided for in the Animal Breeding Regulation.</p>
+            <p>Regulation 5 makes provision for an obligation on an operator to inform the competent authority of changes to the contact details of that operator.</p>
+            <p>Regulation 6 provides for penalties in the event that an operator infringes its obligations under the Animal Breeding Regulation.</p>
+            <p>Regulation 7 provides a mechanism whereby breed societies and breeding operations may apply to the competent authority for a reconsideration of a decision to withdraw the recognition of that breed society or breeding operation under Article 47 of the Animal Breeding Regulation.</p>
+            <p>Regulation 8 amends the Trade in Animals and Related Products (Scotland) Regulations 2012 (“the <abbr class="acronym" title="Termination Amount">TA</abbr>
+               <abbr class="acronym" title="Retail Price">RP</abbr> (Scotland) Regulations”). The TARP Scotland Regulations govern the import of live animals and products of animal origin into Scotland from outside the EU. Regulation 13 of the TARP Scotland Regulations provides for certain checks which must be carried out on such consignments at Border Inspection Posts (“BIPs”). The Commission periodically publishes lists of BIPs. The list of approved BIPs is laid down in Commission <ref eId="c00007" href="http://www.legislation.gov.uk/european/decision/2009/0821">Decision 2009/821/EC</ref> (OJ L 296, 12.11.2009, p.1) as last amended by Commission Implementing <ref eId="c00008" href="http://www.legislation.gov.uk/european/decision/2011/0707">Decision 2011/707/EU</ref> (OJ 281, 28.10.2011, p.29) and is periodically reviewed and amendments made.</p>
+            <p>Article 37 of the Animal Breeding Regulation makes provision for checks to be carried out at BIPs in relation to pure bred animals. Regulation 13 of the TARP Scotland Regulations is amended by regulation 8 of this instrument so that the checks required by Article 37 of the Animal Breeding Regulation are included in the carried out under that regulation. Regulation 8 also makes consequential amendments to the TARP Scotland Regulations, namely regulation 2 (Interpretation) and schedule 1 (European Union Legislation).</p>
+            <p>Regulation 9 makes revocations consequential on the coming into force of the Animal Breeding Regulation.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

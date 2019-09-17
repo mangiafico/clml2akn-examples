@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/81"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/81"/>
+               <FRBRdate date="2019-03-06" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="rule"/>
+               <FRBRnumber value="81"/>
+               <FRBRname value="S.S.I. 2019/81"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/81/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/81/made"/>
+               <FRBRdate date="2019-03-06" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/81/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/81/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-06" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-08" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-06" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2013/3">2013 asp 3</ref>. Section 4 was amended by the Courts Reform (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2016/2">2016 (asp 2)</ref>, schedule 1, paragraph 1(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (<ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/1994/1443">S.I. 1994/1443</ref>), last amended by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2019/74">S.S.I. 2019/74</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Rule 74.1 was relevantly amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2009/63">S.S.I. 2009/63</ref> and <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2011/385">S.S.I. 2011/385</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/2018/1082">S.I. 2018/1082</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2018/347">S.S.I. 2018/347</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Rule 74.3 was substituted by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2006/83">S.S.I. 2006/83</ref> and amended by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2009/63">S.S.I. 2009/63</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2013/162">S.S.I. 2013/162</ref> and <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2016/318">S.S.I. 2016/318</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 4(6A) is prospectively inserted by the Small Business, Enterprise and Employment Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>, schedule 9, paragraph 4(7).</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Rules 74.4 and 74.5 were amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2003/385">S.S.I. 2003/385</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Rule 74.9(2) was amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2009/63">S.S.I. 2009/63</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Rule 74.11 was relevantly amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2003/385">S.S.I. 2003/385</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Rules 74.14 and 74.15 were substituted by <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2006/83">S.S.I. 2006/83</ref> and amended by <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2016/318">S.S.I. 2016/318</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>Rule 74.25 was amended by <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2003/385">S.S.I. 2003/385</ref> and <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2017/202">S.S.I. 2017/202</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Rule 74.28(1) was substituted by <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2014/119">S.S.I. 2014/119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Section 114(2) is prospectively amended by the Small Business, Enterprise and Employment Act <ref eId="c00025" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>, schedule 9, paragraph 30.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Rule 74.32A was inserted by <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2014/114">S.S.I. 2014/114</ref> and substituted by <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2014/119">S.S.I. 2014/119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00028" href="http://www.legislation.gov.uk/id/uksi/1986/2297">S.I. 1986/2297</ref>, last amended by <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2017/202">S.S.I. 2017/202</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>Rule 3 was relevantly amended by <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2013/171">S.S.I. 2013/171</ref> and <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2017/202">S.S.I. 2017/202</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>
+                  <ref eId="c00032" href="http://www.legislation.gov.uk/id/uksi/2018/1082">S.I. 2018/1082</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>
+                  <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2018/347">S.S.I. 2018/347</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>Rule 4 was amended by <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>Rule 5 was amended by <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>Rule 7 was amended by <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00024">
+               <p>Section 4(6A) is prospectively inserted by the Small Business, Enterprise and Employment Act <ref eId="c00037" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>, schedule 9, paragraph 4(7).</p>
+            </note>
+            <note class="footnote" eId="f00025">
+               <p>Rule 8 was amended by <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00026">
+               <p>Rule 11 was amended by <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref> and <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2013/171">S.S.I. 2013/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00027">
+               <p>Rule 12 was amended by <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>, <ref eId="c00042" href="http://www.legislation.gov.uk/id/ssi/2006/200">S.S.I. 2006/200</ref> and <ref eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2013/171">S.S.I. 2013/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00028">
+               <p>Rule 14A was inserted by <ref eId="c00044" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00029">
+               <p>Rule 23 was amended by <ref eId="c00045" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00030">
+               <p>Rule 25(1) was substituted by <ref eId="c00046" href="http://www.legislation.gov.uk/id/ssi/2014/119">S.S.I. 2014/119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00031">
+               <p>Section 138(5) is prospectively amended by the Small Business, Enterprise and Employment Act <ref eId="c00047" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>, schedule 9, paragraph 33(4) and partially in force for other purposes.</p>
+            </note>
+            <note class="footnote" eId="f00032">
+               <p>Sections 171 and 172 are prospectively amended by the Small Business, Enterprise and Employment Act <ref eId="c00048" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>, schedule 9, paragraphs 42 and 43.</p>
+            </note>
+            <note class="footnote" eId="f00033">
+               <p>Rule 30 was amended by <ref eId="c00049" href="http://www.legislation.gov.uk/id/ssi/2006/200">S.S.I. 2006/200</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00034">
+               <p>Rule 31AA was inserted by <ref eId="c00050" href="http://www.legislation.gov.uk/id/ssi/2014/119">S.S.I. 2014/119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00035">
+               <p>
+                  <ref eId="c00051" href="http://www.legislation.gov.uk/id/uksi/1986/2296">S.I. 1986/2296</ref>, as amended by <ref eId="c00052" href="http://www.legislation.gov.uk/id/ssi/2016/384">S.S.I. 2016/384</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00036">
+               <p>
+                  <ref eId="c00053" href="http://www.legislation.gov.uk/id/ukpga/1986/46">1986 c.46</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00037">
+               <p>Sections 15A and 15C were inserted by section 110 of the Small Business, Enterprise and Employment Act <ref eId="c00054" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00038">
+               <p>
+                  <ref eId="c00055" href="http://www.legislation.gov.uk/id/ukpga/1986/45">1986 c.45</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00039">
+               <p>
+                  <ref eId="c00056" href="http://www.legislation.gov.uk/id/uksi/1986/1915">S.I. 1986/1915</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00040">
+               <p>
+                  <ref eId="c00057" href="http://www.legislation.gov.uk/id/uksi/2001/1090">S.I. 2001/1090</ref>, last amended by <ref eId="c00058" href="http://www.legislation.gov.uk/id/uksi/2017/1119">S.I. 2017/1119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00041">
+               <p>
+                  <ref eId="c00059" href="http://www.legislation.gov.uk/id/ssi/2001/128">S.S.I. 2001/128</ref>, last amended by <ref eId="c00060" href="http://www.legislation.gov.uk/id/uksi/2017/1119">S.I. 2017/1119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00042">
+               <p>
+                  <ref eId="c00061" href="http://www.legislation.gov.uk/id/uksi/2018/1082">S.I. 2018/1082</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00043">
+               <p>
+                  <ref eId="c00062" href="http://www.legislation.gov.uk/id/ssi/2018/347">S.S.I. 2018/347</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041406"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 81</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Court Of Session</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-06">6th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-08">8th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-06">6th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<noteRef href="#f00001" class="footnote" marker="1"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.</p>
+         <formula name="enactingText">
+            <p>The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling it to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <rule eId="article-1">
+            <heading>Citation and commencement, <abbr title="et cetera" xml:lang="la">etc.</abbr>
+            </heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>It comes into force on 6th April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>A certified copy is to be inserted in the Books of Sederunt.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-2">
+            <heading>Amendment of the Rules of the Court of Session 1994</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Chapter 74 (companies) of the Rules of the Court of Session 1994<noteRef href="#f00003" class="footnote" marker="3"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In rule 74.1 (application and interpretation of this Chapter)<noteRef href="#f00004" class="footnote" marker="4"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (2), after the definition of “the Insolvency Rules” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the Insolvency (CVAA) Rules” means the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018<noteRef href="#f00005" class="footnote" marker="5"/>;</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the Insolvency (RWU) Rules” means the Insolvency (Scotland) (Receivership and Winding up) Rules 2018<noteRef href="#f00006" class="footnote" marker="6"/>;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3), after “the Insolvency Rules,” insert “the Insolvency (CVAA) Rules, the Insolvency (RWU) Rules,”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In rule 74.3 (notices and reports, etc., sent to the court)<noteRef href="#f00007" class="footnote" marker="7"/>, after “the Insolvency Rules,” insert “the Insolvency (CVAA) Rules, the Insolvency (RWU) Rules,”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>After rule 74.3 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.3A.</num>
+                              <heading>Replacement office-holders and liquidators: block transfer orders</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>This rule applies to an application under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>rule 4.2(1) of the Insolvency (CVAA) Rules (application for a block transfer order);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>rule 6.2(1) of the Insolvency (RWU) Rules (application for block transfer order); and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>both of those rules.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>An application mentioned in paragraph (1) must be made by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Paragraph (4) applies where an application includes the name of one or more sheriff court petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>The Deputy Principal Clerk must notify the sheriff clerk of every sheriff court listed in the application that an application has been made.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>Where the court grants an application, it may order the replacement office-holder or the replacement liquidator, as the case may be, to be appointed in any or all of the cases listed in the application.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <intro>
+                                    <p>Where the court pronounces an interlocutor granting a block transfer order—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the Deputy Principal Clerk must send a certified copy of that interlocutor to the replacement office-holder or, as the case may be, the replacement liquidator;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>the court may direct that a copy of the interlocutor is—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>to be put in the process of every Court of Session petition where the replacement office-holder or, as the case may be, the replacement liquidator has been appointed;</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>to be sent to the sheriff clerk to be put in the process of every sheriff court petition where the replacement office-holder or, as the case may be, the replacement liquidator has been appointed; and</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the court may make such orders as it thinks fit for the intimation and advertisement of the appointment of the replacement office-holder or, as the case may be, the replacement liquidator.</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <content>
+                                    <p>In this rule the “office-holder” means a supervisor, nominee or administrator.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                           <rule>
+                              <num>74.3B.</num>
+                              <heading>Decision making</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>for an order under rule 5.12(1) of the Insolvency (CVAA) Rules or rule 8.12(1) of the Insolvency (RWU) Rules (notice of decision procedure by advertisement only);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>for directions under rule 8.18(4) of the Insolvency (RWU) Rules (application for directions about decision procedure);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>for a direction under rule 5.22 of the Insolvency (CVAA) Rules or rule 8.23 of the Insolvency (RWU) Rules (adjournment by chair);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>for a direction under rule 5.33(3)(b) or 5.40(3)(b) of the Insolvency (CVAA) Rules or rule 8.36(3)(b) or 8.44(3)(b) of the Insolvency (RWU) Rules (direction as to validity of meeting with excluded person present);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>for directions under rule 5.35(9) or 5.42(9) of the Insolvency (CVAA) Rules or rule 8.38(9) or 8.46(9) of the Insolvency (RWU) Rules (application to court for directions about action of appropriate person),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by petition or, where a previous application or appeal to the court in relation to any company voluntary arrangement, liquidation, administration or receivership of the company has been made, by note in the process of that petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>An appeal under rule 5.32 of the Insolvency (CVAA) Rules or rule 8.35 of the Insolvency (RWU) Rules (appeals against decisions about creditors’ voting rights and majorities) must be made by petition or, where a previous application or appeal to the court in relation to any company voluntary arrangement, liquidation, administration or receivership of the company has been made, by note in the process of that petition.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In rule 74.7 (report of meetings to approve arrangement)—</p>
+               </intro>
+               <subparagraph eId="article-2-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the cross-heading, after “<b>meetings</b>” insert “<b>and decisions</b>”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after “section 4(6)” insert “and a decision of the company’s creditors to be reported to the court under section 4(6A)(a)<noteRef href="#f00008" class="footnote" marker="8"/>”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-6">
+               <num>(6)</num>
+               <content>
+                  <p>For rule 74.8 (abstracts of supervisor’s receipts and payments and notices of completion of arrangement) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.8.</num>
+                              <heading>Notice of termination or implementation of arrangement</heading>
+                              <intro>
+                                 <p>A notice and copy of the supervisor’s report to be lodged with the court under rule 2.43(3) of the Insolvency (CVAA) Rules (termination or full implementation of CVA) must be sent to the Deputy Principal Clerk who must lodge it—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>in a case to which rule 74.4 (lodging of nominee’s report (company not in liquidation etc.))<noteRef href="#f00009" class="footnote" marker="9"/> applies, with the nominee’s report lodged under that rule; or</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>in a case to which rule 74.5 (lodging of nominee’s report (company in liquidation etc.)) applies, in process as defined by paragraph (2) of that rule.</p>
+                                 </content>
+                              </subparagraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-7">
+               <num>(7)</num>
+               <intro>
+                  <p>In rule 74.9(2) (form of other applications)<noteRef href="#f00010" class="footnote" marker="10"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for sub-paragraph (f) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(f)</num>
+                                 <content>
+                                    <p>rule 2.40(10) of the Insolvency (CVAA) Rules (to dispense with delivery of reports or summaries);</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">;</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit sub-paragraph (g); and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-7-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in sub-paragraph (h), for “the Insolvency Rules” substitute “the Insolvency (CVAA) Rules”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-8">
+               <num>(8)</num>
+               <content>
+                  <p>In rule 74.11 (notice of petition)<noteRef href="#f00011" class="footnote" marker="11"/> omit paragraphs (a) and (b).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-9">
+               <num>(9)</num>
+               <content>
+                  <p>In rules 74.14 (time and date of lodging in administration, energy administration or postal administration)<noteRef href="#f00012" class="footnote" marker="12"/> and 74.15 (applications during an administration, energy administration or postal administration), for “the Insolvency Rules” where it occurs substitute “the Insolvency (CVAA) Rules”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-10">
+               <num>(10)</num>
+               <intro>
+                  <p>In rule 74.19 (form of other applications and appeals)—</p>
+               </intro>
+               <subparagraph eId="article-2-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(e), for “the Insolvency Rules” substitute “the Insolvency (RWU) Rules”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2), for “submitting a statement of affairs under rule 3.3(2) of the Insolvency Rules” substitute “making a statement of affairs and statutory declaration or a statement of concurrence under rule 2.10(2) of the Insolvency (RWU) Rules (statement of affairs: expenses)”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-10-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>for paragraph (3)(b) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>under rule 2.16(3) of the Insolvency (RWU) Rules (to extend the time for sending a summary of receipts and payments),</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-11">
+               <num>(11)</num>
+               <intro>
+                  <p>In rule 74.25 (provisional liquidator)<noteRef href="#f00013" class="footnote" marker="13"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-11-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(b), after “company, the company” insert “or its directors”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-11-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3)(b), for “the applicant shall forthwith send” substitute “it must direct the Deputy Principal Clerk to send forthwith”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-11-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit paragraph (4).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-12">
+               <num>(12)</num>
+               <content>
+                  <p>In rule 74.26(1)(b) (advertisement of appointment of liquidator), for “rule 4.18(4) of the Insolvency Rules” substitute “rules 4.22(4)(b), 5.21(4)(b)(ii) and 5.26(4)(b)(ii) of the Insolvency (RWU) Rules”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-13">
+               <num>(13)</num>
+               <intro>
+                  <p>In rule 74.27 (applications and appeals in relation to a statement of affairs)—</p>
+               </intro>
+               <subparagraph eId="article-2-13-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of the cross-heading insert “<b>or accounts</b>”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-13-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for paragraph (5) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <intro>
+                                    <p>An appeal under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>rule 5.15(6) of the Insolvency (RWU) Rules (appeal against refusal by liquidator of allowances towards expenses of preparing statement of affairs);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>rule 5.15(6) as applied by rule 5.17(4) of the Insolvency (RWU) Rules (appeal against refusal by liquidator of allowances towards expenses of preparing accounts),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>A note under paragraph (5) must be served on the liquidator or provisional liquidator, as the case may be.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-14">
+               <num>(14)</num>
+               <intro>
+                  <p>In rule 74.28 (appeals against adjudication of claims)<noteRef href="#f00014" class="footnote" marker="14"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-14-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="article-2-14-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “rule 4.16B(6) of the Insolvency Rules)” substitute “rule 7.19(5) of the Insolvency (RWU) Rules”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-14-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “process” insert “or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition”;</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-2-14-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3), after “note” insert “or petition”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-14-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (4), after “note” where it occurs insert “or petition”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-15">
+               <num>(15)</num>
+               <content>
+                  <p>After rule 74.28 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.28A.</num>
+                              <heading>Appeals against valuation of debts</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>An appeal under rule 7.23(4) of the Insolvency (RWU) Rules (appeal against valuation of debt by liquidator) against a valuation under paragraph (2)(a) of that rule must be made by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>A note under paragraph (1) must be served on the liquidator.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-16">
+               <num>(16)</num>
+               <content>
+                  <p>For rule 74.29 (removal of liquidator) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.29.</num>
+                              <heading>Removal of liquidator</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application by a creditor of the company for an order—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>under section 171(3)(b) of the Act of 1986 (order directing the summoning of a meeting to replace the liquidator);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>under section 171(3A)(b) of that Act (order directing the instigation of qualifying decision procedure); or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>under section 172 of that Act (order for removal of a liquidator),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Where the court orders the removal of a liquidator, the Deputy Principal Clerk must send two copies of the interlocutor to the former liquidator.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-17">
+               <num>(17)</num>
+               <content>
+                  <p>For rule 74.30 (application in relation to remuneration of liquidator) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.30.</num>
+                              <heading>Appeals and applications in relation to outlays and remuneration of liquidator</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>An appeal by a liquidator, any creditor or any contributory under rule 7.12(1) of the Insolvency (RWU) Rules (appeal against fixing of outlays and remuneration: creditors’ voluntary winding up and winding up by the court) must be made by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>An application—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>by a liquidator under rule 7.14 of the Insolvency (RWU) Rules (recourse to the court: creditors’ voluntary winding up and winding up by the court); or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>by a creditor of the company under rule 7.15 of the Insolvency (RWU) Rules (creditors’ claim that remuneration is excessive: creditors’ voluntary winding up and winding up by the court),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>A note under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>paragraph (1) where the appeal is by a creditor or contributory;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>paragraph (2)(b),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be served on the liquidator.</p>
+                                 </wrapUp>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-18">
+               <num>(18)</num>
+               <content>
+                  <p>In rule 74.31 (application to appoint a special manager), for paragraph (2) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <paragraph>
+                              <num>(2)</num>
+                              <content>
+                                 <p>A bond of caution together with a certificate as to the adequacy of the caution by the noter under rule 3.19(4), 4.38(4) or 5.42(4) of the Insolvency (RWU) Rules (caution) must be sent to the Petition Department by the noter.</p>
+                              </content>
+                           </paragraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-19">
+               <num>(19)</num>
+               <content>
+                  <p>After rule 74.31 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>74.31A.</num>
+                              <heading>Determinations of accounting periods</heading>
+                              <content>
+                                 <p>An application for a determination of the court under rule 7.31(2)(c)(ii) of the Insolvency (RWU) Rules (determination of accounting period by the court) must be made by the liquidator by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                              </content>
+                           </rule>
+                           <rule>
+                              <num>74.31B.</num>
+                              <heading>Specific applications – voluntary winding up</heading>
+                              <intro>
+                                 <p>An application to the court for—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>the appointment or removal and appointment of a liquidator under section 108 of the Act of 1986 (appointment or removal of liquidator by the court);</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>sanction under section 110(3)(b) of the Act of 1986 (sanction for payment of compensation to liquidator);</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>sanction under section 114(2) of the Act of 1986 (sanction for directors to exercise power)<noteRef href="#f00015" class="footnote" marker="15"/>;</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(d)</num>
+                                 <content>
+                                    <p>an order under rule 3.5(6) or 4.23(7) of the Insolvency (RWU) Rules (order of court to change liquidator’s default date of release);</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(e)</num>
+                                 <content>
+                                    <p>authorisation under rule 3.15(4) or 4.33(4) of the Insolvency (RWU) Rules (realisation of the company’s heritable property);</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(f)</num>
+                                 <content>
+                                    <p>approval under rule 4.7(5) of the Insolvency (RWU) Rules (approval for payment to liquidator of expenses of statement of affairs),</p>
+                                 </content>
+                              </subparagraph>
+                              <wrapUp>
+                                 <p>must be made by petition or, where a previous application to the court in relation to a voluntary winding up has been made, by note in the process of that petition.</p>
+                              </wrapUp>
+                           </rule>
+                           <rule>
+                              <num>74.31C.</num>
+                              <heading>Other applications – voluntary winding up</heading>
+                              <intro>
+                                 <p>An application under the Act of 1986 or any subordinate legislation made under that Act in relation to a voluntary winding up not mentioned in this Part must be—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>where no previous application to the court in relation to a voluntary winding up has been made, by petition; or</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>where a petition for such an application has been lodged, by note in the process of that petition.</p>
+                                 </content>
+                              </subparagraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-20">
+               <num>(20)</num>
+               <content>
+                  <p>In rule 74.32 (other applications), in the cross-heading after “<b>applications</b>” insert “<b> – winding up by the court</b>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-21">
+               <num>(21)</num>
+               <content>
+                  <p>Omit rule 74.32A (replacement liquidators: block transfer orders)<noteRef href="#f00016" class="footnote" marker="16"/>.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-3">
+            <heading>Amendment of Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986<noteRef href="#f00017" class="footnote" marker="17"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>For every reference to “sheriff-clerk” substitute “sheriff clerk”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In rule 3 (interpretation)<noteRef href="#f00018" class="footnote" marker="18"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for the definition of “the Insolvency Rules” substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the Insolvency (CVAA) Rules” means the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018<noteRef href="#f00019" class="footnote" marker="19"/>;</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the Insolvency (RWU) Rules” means the Insolvency (Scotland) (Receivership and Winding up) Rules 2018<noteRef href="#f00020" class="footnote" marker="20"/>;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2), for “or the Insolvency Rules” substitute “, the Insolvency (CVAA) Rules or the Insolvency (RWU) Rules”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-4">
+               <num>(4)</num>
+               <content>
+                  <p>In rule 4 (lodging of nominee’s report (Part 1, Chapter 2 of the Insolvency Rules))<noteRef href="#f00021" class="footnote" marker="21"/>, in the cross-heading, for “<b>(Part 1, Chapter 2 of the Insolvency Rules)</b>” substitute “<b>(company not in liquidation etc.)</b>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-5">
+               <num>(5)</num>
+               <content>
+                  <p>In rule 5 (lodging of nominee’s report (Part 1, Chapter 4 of the Insolvency Rules))<noteRef href="#f00022" class="footnote" marker="22"/>, in the cross-heading, for “<b>(Part 1, Chapter 4 of the Insolvency Rules)</b>” substitute “<b>(company in liquidation etc.)</b>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In rule 7 (report of meetings to approve arrangement)<noteRef href="#f00023" class="footnote" marker="23"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the cross-heading, after “<b>meetings</b>” insert “<b>and decisions</b>”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after “section 4(6)” insert “and a decision of the company’s creditors to be reported to the court under section 4(6A)(a)<noteRef href="#f00024" class="footnote" marker="24"/>”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-7">
+               <num>(7)</num>
+               <content>
+                  <p>For rule 8 (abstracts of supervisor’s receipts and payments and notices of completion of arrangement)<noteRef href="#f00025" class="footnote" marker="25"/> substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>8.</num>
+                              <heading>Notice of termination or implementation of arrangement</heading>
+                              <intro>
+                                 <p>A notice and copy of the supervisor’s report to be lodged with the court under rule 2.43(3) of the Insolvency (CVAA) Rules (termination or full implementation of CVA) must be sent to the sheriff clerk who must lodge it—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>in a case to which rule 4 applies, with the nominee’s report lodged under that rule; or</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>in a case to which rule 5 applies, in the process of the petition to wind up the company or the petition for an order in respect of an administration which is in force in respect of it, as the case may be.</p>
+                                 </content>
+                              </subparagraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-8">
+               <num>(8)</num>
+               <intro>
+                  <p>In rule 9(1) (form of certain applications)—</p>
+               </intro>
+               <subparagraph eId="article-3-8-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “the Insolvency Rules” substitute “the Insolvency (CVAA) Rules”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-8-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for sub-paragraph (e) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(e)</num>
+                                 <content>
+                                    <p>rule 2.40(10) (to dispense with delivery of reports or summaries);</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-8-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit sub-paragraph (f).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-9">
+               <num>(9)</num>
+               <content>
+                  <p>In rule 11 (notice of petition)<noteRef href="#f00026" class="footnote" marker="26"/>, for “rule 2.3 of the Insolvency Rules” substitute “rule 3.6 of the Insolvency (CVAA) Rules (application)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-10">
+               <num>(10)</num>
+               <content>
+                  <p>In rules 12 (applications during an administration)<noteRef href="#f00027" class="footnote" marker="27"/> and 14A(2) (time and date of lodging in an administration)<noteRef href="#f00028" class="footnote" marker="28"/>, for “the Insolvency Rules” substitute “the Insolvency (CVAA) Rules”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-11">
+               <num>(11)</num>
+               <intro>
+                  <p>In rule 17 (form of certain applications where receiver appointed)—</p>
+               </intro>
+               <subparagraph eId="article-3-11-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph (1) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <paragraph>
+                                 <num>(1A)</num>
+                                 <content>
+                                    <p>An application under any provision of the Insolvency (RWU) Rules relating to receivers not specifically mentioned in this Part must be made by petition or, where the receiver was appointed by the court, by note in the process of the petition for appointment of a receiver.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(1B)</num>
+                                 <content>
+                                    <p>An appeal against a decision of a receiver as to expenses of making a statement of affairs and statutory declaration or of a statement of concurrence under rule 2.10(2) of the Insolvency (RWU) Rules (statement of affairs: expenses) must be made by petition or, where the receiver was appointed by the court, by note in the process of the petition for appointment of a receiver.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-11-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="article-3-11-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “the Insolvency Rules” substitute “the Insolvency (RWU) Rules”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-11-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for sub-paragraph (b) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>rule 2.16(3) (to extend the time for sending a summary of receipts and payments).</p>
+                                    </content>
+                                 </subparagraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-12">
+               <num>(12)</num>
+               <content>
+                  <p>In the heading of Part IV (winding up by the court of companies registered under the Companies Acts and of unregistered companies) omit “<b>by the court</b>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-13">
+               <num>(13)</num>
+               <content>
+                  <p>In rule 22 (advertisement of appointment of liquidator) omit “once in one or more newspapers”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-14">
+               <num>(14)</num>
+               <intro>
+                  <p>In rule 23 (provisional liquidators)<noteRef href="#f00029" class="footnote" marker="29"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-14-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(b), after “company, the company” insert “or its directors, a person mentioned in rule 5.4(1)(g) or (h) of the Insolvency (RWU) Rules”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-14-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (4), for “The applicant” substitute “The sheriff clerk”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-14-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit paragraph (5).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-15">
+               <num>(15)</num>
+               <intro>
+                  <p>In rule 24 (applications and appeals in relation to a statement of affairs)—</p>
+               </intro>
+               <subparagraph eId="article-3-15-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of the cross-heading, insert “<b>or accounts</b>”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-15-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for paragraph (6) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                              <paragraph>
+                                 <num>(6)</num>
+                                 <intro>
+                                    <p>An appeal under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>rule 5.15(6) of the Insolvency (RWU) Rules (statement of affairs: expenses) against a refusal by the liquidator of an allowance towards the expense of preparing a statement of affairs;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>rule 5.15(6) as applied by rule 5.17(4) of the Insolvency (RWU) Rules (delivery of accounts to liquidator) against a refusal by the liquidator of an allowance towards the expense of preparing accounts,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note in the process of the petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(7)</num>
+                                 <content>
+                                    <p>A note under paragraph (6) must be served on the liquidator or provisional liquidator, as the case may be.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-16">
+               <num>(16)</num>
+               <intro>
+                  <p>In rule 25 (appeals against adjudication of claims)<noteRef href="#f00030" class="footnote" marker="30"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-16-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="article-3-16-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “rule 4.16B(6) of the Insolvency Rules” substitute “rule 7.19(5) of the Insolvency (RWU) Rules”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-3-16-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “petition” insert “or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition”;</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-3-16-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3), after “rule” insert “or service of the petition”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-16-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (4), after “note” insert “or petition”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-17">
+               <num>(17)</num>
+               <content>
+                  <p>After rule 25 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>25A.</num>
+                              <heading>Appeals against valuation of debts</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>An appeal under rule 7.23(4) of the Insolvency (RWU) Rules (appeal against valuation of debt by liquidator) against a valuation under paragraph (2)(a) of that rule must be made by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>A note under paragraph (1) must be served on the liquidator.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-18">
+               <num>(18)</num>
+               <content>
+                  <p>In rule 26(2) (appointment of liquidator by the court), for “section 138(5)” substitute “sections 100(3), 108 or 138(5)<noteRef href="#f00031" class="footnote" marker="31"/>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-19">
+               <num>(19)</num>
+               <content>
+                  <p>For rule 27 (removal of liquidator) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>27.</num>
+                              <heading>Removal of liquidator</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application by a creditor of the company for an order—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>under section 171(3)(b) of the Act of 1986 (order directing the summoning of a meeting to replace the liquidator)<noteRef href="#f00032" class="footnote" marker="32"/>;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>under section 171(3A)(b) of that Act (order directing the instigation of qualifying decision procedure); or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>under section 172 of that Act (order for removal of a liquidator),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note in the process of the petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Where the court orders the removal of a liquidator, the sheriff clerk must send two copies of the interlocutor to the former liquidator.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-20">
+               <num>(20)</num>
+               <content>
+                  <p>For rule 28 (applications in relation to remuneration of liquidator) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>28.</num>
+                              <heading>Appeals and applications in relation to outlays and remuneration of liquidator</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>An appeal by a liquidator, any creditor or any contributory under rule 7.12(1) of the Insolvency (RWU) Rules (appeal against fixing of outlays and remuneration: creditors’ voluntary winding up and winding up by the court) must be made by note in the process of the petition or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>An application—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>by a liquidator under rule 7.14 of the Insolvency (RWU) Rules (recourse to the court: creditors’ voluntary winding up and winding up by the court); or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>by a creditor of the company under rule 7.15 of the Insolvency (RWU) Rules (creditors’ claim that remuneration is excessive: creditors’ voluntary winding up and winding up by the court),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by note in the process of the petition or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>A note under—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>paragraph (1) where the appeal is by a creditor or contributory;</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>paragraph (2)(b),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be served on the liquidator.</p>
+                                 </wrapUp>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-21">
+               <num>(21)</num>
+               <content>
+                  <p>In rule 29 (application to appoint a special manager), in paragraph (3), for “certified by the noter under rule 4.70(4) of the Insolvency Rules” substitute “together with a certificate as to the adequacy of the caution by the noter under rule 3.19(4), 4.38(4) or 5.42(4) of the Insolvency (RWU) Rules”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-22">
+               <num>(22)</num>
+               <content>
+                  <p>After rule 29 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>29A.</num>
+                              <heading>Determinations of accounting periods</heading>
+                              <content>
+                                 <p>An application for a determination of the court under rule 7.31(2)(c)(ii) of the Insolvency (RWU) Rules (determination of accounting period by the court) must be made by the liquidator by note or, in a voluntary winding up where no previous application or appeal to the court has been made, by petition.</p>
+                              </content>
+                           </rule>
+                           <rule>
+                              <num>29B.</num>
+                              <heading>Other applications – voluntary winding up</heading>
+                              <intro>
+                                 <p>An application under the Act of 1986 or rules made under that Act in relation to a voluntary winding up not mentioned in this Part must be—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>where no previous application to the court in relation to a voluntary winding up has been made, by petition; or</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>where a petition for such an application has been lodged, by note in the process of that petition.</p>
+                                 </content>
+                              </subparagraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-23">
+               <num>(23)</num>
+               <content>
+                  <p>In rule 30 (other applications)<noteRef href="#f00033" class="footnote" marker="33"/>, in the cross-heading, at the end insert “<b>- winding up by the court</b>”;</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-24">
+               <num>(24)</num>
+               <content>
+                  <p>In rule 31AA (limited disclosure of statement of affairs)<noteRef href="#f00034" class="footnote" marker="34"/>, for “rules 1.50, 2.22, 3.2A or 4.8A of the Insolvency Rules” substitute “rules 2.11 or 3.45(1) of the Insolvency (CVAA) Rules or rules 2.11, 4.6 or 5.16 of the Insolvency (RWU) Rules”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-25">
+               <num>(25)</num>
+               <content>
+                  <p>After rule 31AA insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="rule" ukl:Context="main">
+                           <rule>
+                              <num>31AB.</num>
+                              <heading>Decision making</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>An application—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>for an order under rule 5.12(1) of the Insolvency (CVAA) Rules or rule 8.12(1) of the Insolvency (RWU) Rules (notice of decision procedure by advertisement only);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>for directions under rule 8.18(4) of the Insolvency (RWU) Rules (application for directions about decision procedure);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>for a direction under rule 5.22 of the Insolvency (CVAA) Rules or rule 8.23 of the Insolvency (RWU) Rules (adjournment by chair);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>for a direction under rule 5.33(3)(b) or 5.40(3)(b) of the Insolvency (CVAA) Rules or rule 8.36(3)(b) or 8.44(3)(b) of the Insolvency (RWU) Rules (direction as to validity of meeting with excluded person present);</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>for directions under rule 5.35(9) or 5.42(9) of the Insolvency (CVAA) Rules or rule 8.38(9) or 8.46(9) of the Insolvency (RWU) Rules (application to court for directions about action of appropriate person),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by petition or, where a previous application or appeal to the court in relation to any company voluntary arrangement, liquidation, administration or receivership of the company has been made, by note in the process of that petition.</p>
+                                 </wrapUp>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>An appeal under rule 5.32 of the Insolvency (CVAA) Rules or rule 8.35 of the Insolvency (RWU) Rules (appeals against decisions about creditors’ voting rights and majorities) must be made by petition or, where a previous application or appeal to the court in relation to any company voluntary arrangement, liquidation, administration or receivership of the company has been made, by note in the process of that petition.</p>
+                                 </content>
+                              </paragraph>
+                           </rule>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-4">
+            <heading>Amendment of Act of Sederunt (Company Directors Disqualification) 1986</heading>
+            <num>4.</num>
+            <paragraph eId="article-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Company Directors Disqualification) 1986<noteRef href="#f00035" class="footnote" marker="35"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In paragraph 1(3) (citation, commencement and interpretation)—</p>
+               </intro>
+               <subparagraph eId="article-4-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>before the definition of “disqualification order” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the 1986 Act” means the Company Directors Disqualification Act 1986<noteRef href="#f00036" class="footnote" marker="36"/>;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in the definition of “disqualification order”—</p>
+                  </intro>
+                  <clause eId="article-4-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “Company Directors Disqualification Act”;</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-4-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “1986” insert “Act”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In paragraph 3 (applications for disqualification orders)—</p>
+               </intro>
+               <subparagraph eId="article-4-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the cross-heading, after “<b>disqualification</b>” insert “<b>or compensation</b>”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in sub-paragraph (1), for “Company Directors Disqualification Act 1986” substitute “1986 Act”; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-4-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after sub-paragraph (1) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <paragraph>
+                                 <num>(1A)</num>
+                                 <intro>
+                                    <p>An application to the sheriff for—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>a compensation order under section 15A of the 1986 Act (compensation orders and undertakings)<noteRef href="#f00037" class="footnote" marker="37"/>; or</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>variation or revocation of a compensation undertaking under section 15C of the 1986 Act (variation and revocation of compensation undertakings),</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>must be made by summary application.</p>
+                                 </wrapUp>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-4-4">
+               <num>(4)</num>
+               <content>
+                  <p>In paragraph 4(2) (orders to furnish information or for inspection), for “Company Directors Disqualification Act 1986” substitute “1986 Act”.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-5">
+            <heading>Savings</heading>
+            <num>5.</num>
+            <paragraph eId="article-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where an application or appeal to a court is lodged or a petition is presented under the Insolvency Act 1986<noteRef href="#f00038" class="footnote" marker="38"/> or the Insolvency (Scotland) Rules 1986<noteRef href="#f00039" class="footnote" marker="39"/> before 6th April 2019 and the application or appeal or petition has not been determined or withdrawn, paragraphs 2 and 3 of this Act of Sederunt are of no effect.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>For the purposes of insolvency proceedings under the Limited Liability Partnerships Regulations 2001<noteRef href="#f00040" class="footnote" marker="40"/> and the Limited Liability Partnerships (Scotland) Regulations 2001<noteRef href="#f00041" class="footnote" marker="41"/>, paragraphs 2 and 3 of this Act of Sederunt are of no effect.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>For the purposes of Parts VII, <abbr class="acronym" title="8">VIII</abbr>, <abbr class="acronym" title="9">IX</abbr> and <abbr class="acronym" title="11">XI</abbr> of Chapter 74 of the Rules of the Court of Session 1994, paragraph 2(7) of this Act of Sederunt is of no effect.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-4">
+               <num>(4)</num>
+               <content>
+                  <p>Where paragraph 4 of schedule 2 of either the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018<noteRef href="#f00042" class="footnote" marker="42"/> or the Insolvency (Scotland) (Receivership and Winding Up) Rules 2018<noteRef href="#f00043" class="footnote" marker="43"/> (statements of affairs) applies, so far as is necessary in a particular case to give effect to the saving effected by that paragraph, paragraphs 2(10)(a), 3(3) and 3(24) of this Act of Sederunt are of no effect.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-5">
+               <num>(5)</num>
+               <content>
+                  <p>Where paragraph 5(1) of schedule 2 of either the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 or the Insolvency (Scotland) (Receivership and Winding Up) Rules 2018 (savings in respect of meetings taking place on or after 6th April 2019 and resolutions by correspondence) applies, so far as is necessary in a particular case to give effect to the saving effected by that paragraph, paragraphs 2(7)(c), (9), (10)(a), (17), 3(3), (8)(a), (10) and (20) of this Act of Sederunt are of no effect.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-5-6">
+               <num>(6)</num>
+               <content>
+                  <p>Where paragraph 6(1) of schedule 2 of the Insolvency (Scotland) (Receivership and Winding Up) Rules 2018 (savings in respect of final meetings taking place on or after 6th April 2019) applies, so far as is necessary to give effect to the saving effected by that paragraph, paragraphs 2(17) and 3(20) of this Act of Sederunt are of no effect.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">CJM SUTHERLAND</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Lord President</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="department">
+                     <organization refersTo="#">I.P.D.</organization>
+                  </block>
+                  <block name="date">
+                     <date date="2019-03-06">6th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Act of Sederunt)</block>
+            <p>This Act of Sederunt makes amendments to the Rules of the Court of Session 1994, the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986 and the Act of Sederunt (Company Directors Disqualification) 1986.</p>
+            <p>The amendments made in relation to the first two are in consequence of the revocation of the Insolvency (Scotland) Rules 1986 and its replacement with two separate sets of Rules governing corporate insolvency: the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 and the Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (“the new Insolvency Rules”).</p>
+            <p>The new Insolvency Rules also address amendments made by the Small Business, Enterprise and Employment Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2015/26">2015 (c.26)</ref> (“the 2015 Act”) to the Insolvency Act 1986 in relation to meetings, which are to be commenced for Scotland on 6th April 2019. The <abbr class="acronym" title="United Kingdom">UK</abbr> Government intends to make provision with effect from that date so that the changes made by the 2015 Act do not apply to specialist corporate insolvency regimes, for example the regimes governing the insolvency of banking or energy companies.</p>
+            <p>Paragraph 2 makes a number of changes to Chapter 74 of the Rules of the Court of Session 1994 in consequence of the new Insolvency Rules. New rule 74.3A (inserted by paragraph 2(4)) provides that block transfer orders must be made by petition, with a single petition being competent for an application for transfer orders in respect of supervisors, nominees, administrators and liquidators. New rule 74.3B makes provision for the court remedies created by the new Insolvency Rules in pursuance of the changes introduced by the 2015 Act. Paragraph 2(14)(a)(ii), (15) and (17) include new provision as to how applications and appeals in voluntary winding up are to be made. New rule 74.31B makes provision about how to apply to the court in relation to certain specific court remedies in voluntary winding up. New rule 74.31C makes general provision about the method of application for other court remedies.</p>
+            <p>Paragraph 3 makes broadly equivalent changes to the Act of Sederunt (Sheriff Court Company Insolvency) Rules 1986 as are made by paragraph 2 in respect of the Rules of the Court of Session 1994.</p>
+            <p>Paragraph 4 effects a minor change to make it clear that compensation orders under section 15A, and applications for variation or revocation of compensation undertakings under section 15C, of the Company Directors Disqualification Act 1986 are made by summary application.</p>
+            <p>Paragraph 5 makes saving provision. Sub-paragraph (1) provides that any court procedure in progress before, and still in progress immediately before, 6th April 2019 continues to proceed under the court rules as they had effect immediately before the coming into force of this Act of Sederunt. Sub-paragraph (2) provides that the changes made by this Act of Sederunt do not apply in relation to the insolvency proceedings of limited liability partnerships. Sub-paragraph (3) has the effect of preserving rule 74.9 of the Rules of the Court of Session as it had effect before this Act of Sederunt for the purposes of specialist insolvency regimes. Sub-paragraphs (4), (5) and (6) make saving provision to reflect particular savings made in schedule 2 of the new Insolvency Rules in respect of statements of affairs and certain meetings. The Insolvency (Scotland) Rules 1986 which are the subject of those savings contain a number of court remedies and the sub-paragraphs mentioned ensure that the court rules continue to make provision about the methods for exercising those remedies.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/157"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/157"/>
+               <FRBRdate date="2019-04-25" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="157"/>
+               <FRBRname value="S.S.I. 2019/157"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/157/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/157/made"/>
+               <FRBRdate date="2019-04-25" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/157/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/157/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-25" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2018/9">2018 asp 9</ref>. The regulation-making powers conferred by the Act include the power to make different provision for different purposes by virtue of section 96(1).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2018/370">S.S.I. 2018/370</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2011/1">2011 asp 1</ref>. The definition of “residential establishment” in section 202 was amended by <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2013/211">S.S.I. 2013/211</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1971/77">1971 c.77</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2005/1379">S.I. 2005/1379</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1999/33">1999 c.33</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042007"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 157</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Security</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Early Years Assistance (Best Start Grants) (Scotland) Amendment (<abbr title="Number">No.</abbr> 2) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-25">25th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 2</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 32(2) of the Social Security (Scotland) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 98 of that Act, no consultation with the Scottish Commission on Social Security was required.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introduction</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Commencement</heading>
+               <num>2.</num>
+               <paragraph eId="regulation-2-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Chapter 2 of Part 2 of these Regulations comes into force on 3 June 2019.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The other provisions of these Regulations come into force on the first Monday after the day on which they are made.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Meaning of “the principal Regulations”</heading>
+               <num>3.</num>
+               <content>
+                  <p>In these Regulations, “the principal Regulations” means the Early Years Assistance (Best Start Grants) (Scotland) Regulations 2018<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>Amendments to the principal Regulations</heading>
+            <chapter eId="part-2-chapter-1">
+               <num>CHAPTER 1</num>
+               <heading>Amendments creating the early learning grant</heading>
+               <hcontainer name="regulation" eId="regulation-4">
+                  <heading>Amendment of regulation 3 of the principal Regulations</heading>
+                  <num>4.</num>
+                  <content>
+                     <p>After regulation 3(3) of the principal Regulations insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>Schedule 3 makes provision about the early years assistance that is to be given in connection with a child aged between 2 and 3½ years (referred to in these Regulations as “early learning grant”).</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="regulation" eId="regulation-5">
+                  <heading>Amendment of regulation 5 of the principal Regulations</heading>
+                  <num>5.</num>
+                  <paragraph eId="regulation-5-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>Regulation 5(5) of the principal Regulations is amended as follows.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="regulation-5-2">
+                     <num>(2)</num>
+                     <content>
+                        <p>In the definition of “application window”, after sub-paragraph (a) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in relation to an application for an early learning grant, the period described in paragraph 1(b) of schedule 3,</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="regulation-5-3">
+                     <num>(3)</num>
+                     <content>
+                        <p>In the definition of “the relevant eligibility condition”, after paragraph (a) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in relation to an application for an early learning grant, the eligibility condition in paragraph 1(f) of schedule 3,</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </paragraph>
+               </hcontainer>
+               <hcontainer name="regulation" eId="regulation-6">
+                  <heading>Insertion of schedule 3 of the principal Regulations</heading>
+                  <num>6.</num>
+                  <content>
+                     <p>Insert the text in schedule 1 of these Regulations as schedule 3 of the principal Regulations.</p>
+                  </content>
+               </hcontainer>
+            </chapter>
+            <chapter eId="part-2-chapter-2">
+               <num>CHAPTER 2</num>
+               <heading>Amendments creating the school-age grant</heading>
+               <hcontainer name="regulation" eId="regulation-7">
+                  <heading>Amendment of regulation 3 of the principal Regulations</heading>
+                  <num>7.</num>
+                  <content>
+                     <p>After regulation 3(4) of the principal Regulations insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>Schedule 4 makes provision about the early years assistance that is to be given in connection with a child reaching the age at which children in Scotland usually start primary school (referred to in these Regulations as “school-age grant”).</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="regulation" eId="regulation-8">
+                  <heading>Amendment of regulation 5 of the principal Regulations</heading>
+                  <num>8.</num>
+                  <paragraph eId="regulation-8-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>Regulation 5(5) of the principal Regulations is amended as follows.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="regulation-8-2">
+                     <num>(2)</num>
+                     <content>
+                        <p>In the definition of “application window”, after paragraph (b) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>in relation to an application for a school-age grant, the period described in paragraph 2 of schedule 4,</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="regulation-8-3">
+                     <num>(3)</num>
+                     <content>
+                        <p>In the definition of “the relevant eligibility condition”, after paragraph (b) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>in relation to an application for a school-age grant, the eligibility condition in paragraph 1(f) of schedule 4,</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </paragraph>
+               </hcontainer>
+               <hcontainer name="regulation" eId="regulation-9">
+                  <heading>Insertion of schedule 4 of the principal Regulations</heading>
+                  <num>9.</num>
+                  <content>
+                     <p>Insert the text in schedule 2 of these Regulations as schedule 4 of the principal Regulations.</p>
+                  </content>
+               </hcontainer>
+            </chapter>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">SHIRLEY-ANNE SOMERVILLE</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-25">25th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Regulation 6</p>
+                  </authorialNote>
+               </num>
+               <heading>Text to be inserted as schedule 3 of the principal Regulations</heading>
+               <content>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>3<authorialNote class="referenceNote">
+                                    <p>Regulation 3(4)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Early learning grant</heading>
+                              <part>
+                                 <num>PART 1</num>
+                                 <heading>Eligibility</heading>
+                                 <paragraph>
+                                    <heading>Eligibility</heading>
+                                    <num>1.</num>
+                                    <intro>
+                                       <p>An individual is eligible for an early learning grant in respect of a child if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the individual’s application for the grant is made on or after the day that the Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 are made (see regulation 4 in relation to when an application is to be treated as made),</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>the individual’s application for the grant is made in the period that—</p>
+                                       </intro>
+                                       <subparagraph class="para2">
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>begins on the child’s 2nd birthday, and</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>ends at the end of the day that falls 6 months after the child’s 3rd birthday,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>no-one else has received, or is due to receive, an early learning grant in respect of the child (but see paragraph 2),</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>on the day the application is made the individual satisfies the residence requirement set by paragraph 3,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(e)</num>
+                                       <content>
+                                          <p>either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(f)</num>
+                                       <intro>
+                                          <p>at least one of these statements is true—</p>
+                                       </intro>
+                                       <subparagraph class="para2">
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the individual or the individual’s partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(ii)</num>
+                                          <intro>
+                                             <p>the individual or the individual’s partner has (or both of them have) been awarded universal credit for—</p>
+                                          </intro>
+                                          <clause>
+                                             <num>(aa)</num>
+                                             <content>
+                                                <p>the assessment period that includes the day the application is made, or</p>
+                                             </content>
+                                          </clause>
+                                          <clause>
+                                             <num>(bb)</num>
+                                             <content>
+                                                <p>the assessment period that ended immediately before the assessment period mentioned in sub-head (aa) started,</p>
+                                             </content>
+                                          </clause>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(iii)</num>
+                                          <content>
+                                             <p>on the day the application is made the individual is under 18 years of age,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(iv)</num>
+                                          <intro>
+                                             <p>on the day the application is made the individual is—</p>
+                                          </intro>
+                                          <clause>
+                                             <num>(aa)</num>
+                                             <content>
+                                                <p>18 or 19 years of age, and</p>
+                                             </content>
+                                          </clause>
+                                          <clause>
+                                             <num>(bb)</num>
+                                             <content>
+                                                <p>a dependant of another individual, and</p>
+                                             </content>
+                                          </clause>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(g)</num>
+                                       <content>
+                                          <p>the child is not, on the day the application is made, living in a residential establishment as defined in section 202(1) of the Children’s Hearings (Scotland) Act 2011<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Exception to paragraph 1(c)</heading>
+                                    <num>2.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <content>
+                                          <p>For the purpose of determining the entitlement of the individual referred to in this paragraph as the applicant, the eligibility condition in paragraph 1(c) is to be ignored in the circumstance described by sub-paragraphs (2) to (6).</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <content>
+                                          <p>An individual (“the first grant recipient”) has been, or is due to be, given an early learning grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(3)</num>
+                                       <intro>
+                                          <p>Another individual (“the applicant”) first came to be responsible for the child after—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the first grant recipient applied for an early learning grant in respect of the child, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>a determination of the first grant recipient’s entitlement to an early learning grant in respect of the child was made without an application (see Part 2 of schedule 1).</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(4)</num>
+                                       <content>
+                                          <p>The applicant has not been the partner of the first grant recipient at any time since the first grant recipient applied for an early learning grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(5)</num>
+                                       <content>
+                                          <p>On the day the applicant applies, the child does not normally live with the first grant recipient.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(6)</num>
+                                       <content>
+                                          <p>On the day the applicant applies, no-one other than the first grant recipient has been, or is due to be, given an early learning grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(7)</num>
+                                       <content>
+                                          <p>In this paragraph, references to “the day the applicant applies” are to the day the applicant’s application for an early learning grant in respect of the child is made.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Residence requirement</heading>
+                                    <num>3.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <intro>
+                                          <p>The residence requirement referred to in paragraph 1(d) is satisfied by an individual on a day if, on that day—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the individual is ordinarily resident in Scotland, and</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>in a case where neither the individual nor the individual’s partner has been awarded assistance as mentioned in paragraph 1(f)(i) or (ii), the condition set by sub-paragraph (2) is also met.</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <intro>
+                                          <p>The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>habitually resident in the United Kingdom, the Channel Islands, the Isle of Man, the European Economic Area or Switzerland,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(c)</num>
+                                          <intro>
+                                             <p>a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971<noteRef href="#f00004" class="footnote" marker="4"/>, where that leave is—</p>
+                                          </intro>
+                                          <subparagraph class="para2">
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>discretionary leave to enter or remain in the United Kingdom,</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>leave to remain under the destitution domestic violence concession, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(iii)</num>
+                                             <content>
+                                                <p>leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(d)</num>
+                                          <content>
+                                             <p>a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(e)</num>
+                                          <intro>
+                                             <p>a person who—</p>
+                                          </intro>
+                                          <subparagraph class="para2">
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999<noteRef href="#f00006" class="footnote" marker="6"/>, and</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </subparagraph>
+                                 </paragraph>
+                              </part>
+                              <part>
+                                 <num>PART 2</num>
+                                 <heading>Assistance to be given</heading>
+                                 <paragraph>
+                                    <heading>Value of grant</heading>
+                                    <num>4.</num>
+                                    <content>
+                                       <p>The value of an early learning grant is £250.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Form in which grant is given</heading>
+                                    <num>5.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <content>
+                                          <p>Subject to sub-paragraph (2), an early learning grant is to be given as money.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <intro>
+                                          <p>If—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the Scottish Ministers offer to give an individual some or all of the value of an early learning grant in a form other than money, and</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>the individual agrees to be given the grant in that form,</p>
+                                          </content>
+                                       </paragraph>
+                                       <wrapUp>
+                                          <p>the grant is to be given in that form, unless the individual withdraws agreement before the grant is given.</p>
+                                       </wrapUp>
+                                    </subparagraph>
+                                 </paragraph>
+                              </part>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Regulation 9</p>
+                  </authorialNote>
+               </num>
+               <heading>Text to be inserted as schedule 4 of the principal Regulations</heading>
+               <content>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<span ukl:Name="NonBreakingSpace"> </span>4<authorialNote class="referenceNote">
+                                    <p>Regulation 3(5)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>School-age grant</heading>
+                              <part>
+                                 <num>PART 1</num>
+                                 <heading>Eligibility</heading>
+                                 <paragraph>
+                                    <heading>Eligibility</heading>
+                                    <num>1.</num>
+                                    <intro>
+                                       <p>An individual is eligible for a school-age grant in respect of a child if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the individual’s application for the grant is made on or after 3 June 2019 (see regulation 4 in relation to when an application is to be treated as made),</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the individual’s application for the grant is made within the period described in paragraph 2,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>no-one else has received, or is due to receive, a school-age grant in respect of the child (but see paragraph 3),</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>on the day the application is made the individual satisfies the residence requirement set by paragraph 4,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(e)</num>
+                                       <content>
+                                          <p>either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(f)</num>
+                                       <intro>
+                                          <p>at least one of these statements is true—</p>
+                                       </intro>
+                                       <subparagraph class="para2">
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the individual or the individual’s partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(ii)</num>
+                                          <intro>
+                                             <p>the individual or the individual’s partner has (or both of them have) been awarded universal credit for—</p>
+                                          </intro>
+                                          <clause>
+                                             <num>(aa)</num>
+                                             <content>
+                                                <p>the assessment period that includes the day the application is made, or</p>
+                                             </content>
+                                          </clause>
+                                          <clause>
+                                             <num>(bb)</num>
+                                             <content>
+                                                <p>the assessment period that ended immediately before the assessment period mentioned in sub-head (aa) started,</p>
+                                             </content>
+                                          </clause>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(iii)</num>
+                                          <content>
+                                             <p>on the day the application is made the individual is under 18 years of age,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(iv)</num>
+                                          <intro>
+                                             <p>on the day the application is made the individual is—</p>
+                                          </intro>
+                                          <clause>
+                                             <num>(aa)</num>
+                                             <content>
+                                                <p>18 or 19 years of age, and</p>
+                                             </content>
+                                          </clause>
+                                          <clause>
+                                             <num>(bb)</num>
+                                             <content>
+                                                <p>a dependant of another individual, and</p>
+                                             </content>
+                                          </clause>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(g)</num>
+                                       <content>
+                                          <p>the child is not, on the day the application is made, living in a residential establishment as defined in section 202(1) of the Children’s Hearings (Scotland) Act 2011.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Period within which application must be made</heading>
+                                    <num>2.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <intro>
+                                          <p>The period referred to in paragraph 1(b)—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>begins on 1 June in the relevant year, and</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>ends at the end of the last day of February in the following year.</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <intro>
+                                          <p>In sub-paragraph (1), “the relevant year” means―</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>if the child’s birthday is in January or February, the calendar year in which the child’s 4th birthday falls,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>otherwise, the calendar year in which the child’s 5th birthday falls.</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Exception to paragraph 1(c)</heading>
+                                    <num>3.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <content>
+                                          <p>For the purpose of determining the entitlement of the individual referred to in this paragraph as the applicant, the eligibility condition in paragraph 1(c) is to be ignored in the circumstance described by sub-paragraphs (2) to (6).</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <content>
+                                          <p>An individual (“the first grant recipient”) has been, or is due to be, given a school-age grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(3)</num>
+                                       <intro>
+                                          <p>Another individual (“the applicant”) first came to be responsible for the child after—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the first grant recipient applied for a school-age grant in respect of the child, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>a determination of the first grant recipient’s entitlement to a school-age grant in respect of the child was made without an application (see Part 2 of schedule 1).</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(4)</num>
+                                       <content>
+                                          <p>The applicant has not been the partner of the first grant recipient at any time since the first grant recipient applied for a school-age grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(5)</num>
+                                       <content>
+                                          <p>On the day the applicant applies, the child does not normally live with the first grant recipient.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(6)</num>
+                                       <content>
+                                          <p>On the day the applicant applies, no-one other than the first grant recipient has been, or is due to be, given a school-age grant in respect of the child.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(7)</num>
+                                       <content>
+                                          <p>In this paragraph, references to “the day the applicant applies” are to the day the applicant’s application for a school-age grant in respect of the child is made.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Residence requirement</heading>
+                                    <num>4.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <intro>
+                                          <p>The residence requirement referred to in paragraph 1(d) is satisfied by an individual on a day if, on that day—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the individual is ordinarily resident in Scotland, and</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>in a case where neither the individual nor the individual’s partner has been awarded assistance as mentioned in paragraph 1(f)(i) or (ii), the condition set by sub-paragraph (2) is also met.</p>
+                                          </content>
+                                       </paragraph>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <intro>
+                                          <p>The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>habitually resident in the United Kingdom, the Channel Islands, the Isle of Man, the European Economic Area or Switzerland,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(c)</num>
+                                          <intro>
+                                             <p>a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971, where that leave is—</p>
+                                          </intro>
+                                          <subparagraph class="para2">
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>discretionary leave to enter or remain in the United Kingdom,</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>leave to remain under the destitution domestic violence concession, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(iii)</num>
+                                             <content>
+                                                <p>leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005,</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(d)</num>
+                                          <content>
+                                             <p>a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(e)</num>
+                                          <intro>
+                                             <p>a person who—</p>
+                                          </intro>
+                                          <subparagraph class="para2">
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999, and</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph class="para2">
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </subparagraph>
+                                 </paragraph>
+                              </part>
+                              <part>
+                                 <num>PART 2</num>
+                                 <heading>Assistance to be given</heading>
+                                 <paragraph>
+                                    <heading>Value of grant</heading>
+                                    <num>5.</num>
+                                    <content>
+                                       <p>The value of a school-age grant is £250.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Form in which grant is given</heading>
+                                    <num>6.</num>
+                                    <subparagraph>
+                                       <num>(1)</num>
+                                       <content>
+                                          <p>Subject to sub-paragraph (2), a school-age grant is to be given as money.</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(2)</num>
+                                       <intro>
+                                          <p>If—</p>
+                                       </intro>
+                                       <paragraph class="para1">
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>the Scottish Ministers offer to give an individual some or all of the value of a school-age grant in a form other than money, and</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph class="para1">
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>the individual agrees to be given the grant in that form,</p>
+                                          </content>
+                                       </paragraph>
+                                       <wrapUp>
+                                          <p>the grant is to be given in that form, unless the individual withdraws agreement before the grant is given.</p>
+                                       </wrapUp>
+                                    </subparagraph>
+                                 </paragraph>
+                              </part>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision about early years assistance, a type of assistance that is given by the Scottish Ministers under Part 2 of the Social Security (Scotland) Act 2018.</p>
+            <p>The Early Years Assistance (Best Start Grants) (Scotland) Regulations 2018 (“the principal Regulations”) created the pregnancy and baby grant, which is a grant payable to people who have, or expect to have, a new baby in the family. These Regulations amend that earlier instrument to create two further grants:</p>
+            <blockList>
+               <item>
+                  <p>the early learning grant, which is payable in respect of a child aged between 2 and 3½ years, and</p>
+               </item>
+               <item>
+                  <p>the school age grant, which is payable in respect of a child who has reached, or will reach within the year, the age at which children in Scotland normally start primary school (which is age 4 or 5, depending on when the child’s birthday falls).</p>
+               </item>
+            </blockList>
+            <p>A Business and Regulatory Impact Assessment was prepared in respect of the principal Regulations. This considered the potential effects of the early learning grant and the school age grant. Accordingly, no separate assessment is required in respect of these Regulations.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

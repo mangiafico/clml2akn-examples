@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/232"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/232"/>
+               <FRBRdate date="2019-06-27" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="232"/>
+               <FRBRname value="S.S.I. 2019/232"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/232/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/232/made"/>
+               <FRBRdate date="2019-06-27" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/232/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/232/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-27" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-06-27" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-08-11" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1988/7">1988 c.7</ref>. Section 13 was substituted by section 185(1) of the Health and Social Care (Community Health and Standards) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/2003/43">2003 (c.43)</ref> and amended by section 27(5) of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref> (“the 2016 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> as read with section 32 of the 2016 Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2019/193">S.S.I. 2019/193</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 c.5</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042564"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 232</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Welfare Foods (Best Start Foods) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-27">at 10.15 a.m. on 27th June 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-06-27">at 2.15 p.m. on 27th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-08-11">11th August 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 13 of the Social Security Act 1988<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 13(2) of the Social Security Act 1988, the Scottish Ministers have consulted the National Assembly for Wales.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d21380e194">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Welfare Foods (Best Start Foods) (Scotland) Amendment Regulations 2019 and come into force on 11 August 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d21380e212">
+            <heading>Amendments to the Welfare Foods (Best Start Foods) (Scotland) Regulations 2019</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019<noteRef href="#f00002" class="footnote" marker="2"/> are amended in accordance with regulations 3 to 5.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <content>
+                  <p>In regulation 2 (general interpretation), before the definition of “assessment period” insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“the 1992 Act” means the Social Security Administration Act 1992<noteRef href="#f00003" class="footnote" marker="3"/>
+                                 </p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <intro>
+                  <p>In regulation 17 (application of enactments – offences)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “the Social Security Administration Act 1992 (“the 1992 Act”)” substitute “the 1992 Act”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2)(b) after “1988” insert “or subordinate legislation made, or having effect as if made, under it”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <content>
+                  <p>For regulation 18 (further offences) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>18.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>For the purposes of section 13(9) of the Social Security Act 1988, it is directed that section 113 of the 1992 Act has effect as if paragraph (2) had been made under it, subject to the modification in paragraph (3).</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>A person who fails to comply with regulation 12 or regulation 16(2) is guilty of an offence under these Regulations.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Section 113(3) of the 1992 Act has effect as if paragraph (b) were omitted.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-06-27">At 10.15 a.m. on 27th June 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (“the principal regulations”).</p>
+            <p>Regulation 3 inserts a definition of “the 1992 Act” into the principal regulations. This definition is used in regulations 17 and 18 of the principal regulations.</p>
+            <p>Regulation 4(b) alters the modification to section 113(1A) of the Social Security Administration Act 1992 as it is applied by regulation 17(2)(b) of the principal regulations.</p>
+            <p>Regulation 5 inserts a new regulation 18 into the principal Regulations. Regulation 18 relates to offences under the principal regulations.</p>
+            <p>No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations, as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

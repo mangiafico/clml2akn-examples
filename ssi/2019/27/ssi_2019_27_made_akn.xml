@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/27"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/27"/>
+               <FRBRdate date="2019-02-03" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="27"/>
+               <FRBRname value="S.S.I. 2019/27"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/27/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/27/made"/>
+               <FRBRdate date="2019-02-03" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/27/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/27/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-03" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-05" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2003/43">2003 c.43</ref> (“the 2003 Act”). By virtue of section 167(1) of the 2003 Act any power to make regulations in relation to the recovery of NHS charges is exercisable in relation to Scotland by the Scottish Ministers. Section 168 of the 2003 Act contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2006/588">S.S.I. 2006/588</ref>, as relevantly amended by <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2008/96">S.S.I. 2008/96</ref>, <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2009/193">S.S.I. 2009/193</ref>, <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2010/42">S.S.I. 2010/42</ref>, <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2011/71">S.S.I. 2011/71</ref>, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2012/76">S.S.I. 2012/76</ref>, <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2013/53">S.S.I. 2013/53</ref>, <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2014/57">S.S.I. 2014/57</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2015/81">S.S.I. 2015/81</ref>, <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2016/59">S.S.I. 2016/59</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2017/58">S.S.I. 2017/58</ref> and <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2018/47">S.S.I. 2018/47</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>Regulation 2K was inserted by <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2018/47">S.S.I. 2018/47</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Regulation 3(2) was most recently amended by <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2018/47">S.S.I. 2018/47</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Paragraph (1)(b) was most recently amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2018/47">S.S.I. 2018/47</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Paragraph (2)(a) was most recently amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2018/47">S.S.I. 2018/47</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040751"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 27</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Health Service</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-03">3rd February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-05">5th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 153(2) and (5) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 2K(1) (amount of NHS charges – injuries occurring on or after 1 April 2018)<noteRef href="#f00003" class="footnote" marker="3"/>, after “1st April 2018” insert “and before 1st April 2019”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>After regulation 2K insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>2L.</num>
+                              <heading>Amount of NHS charges – injuries occurring on or after 1st April 2019</heading>
+                              <paragraph>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>Subject to the following paragraphs of this regulation and regulations 3 and 3A, a certificate relating to an injury which occurs on or after 1st April 2019 shall, for the purpose of section 153(2), specify—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the sum of £219 for each occasion on which, as a result of such an injury, the injured person was provided with NHS ambulance services for the purpose of taking the injured person to a hospital for NHS treatment; and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>where the injured person received NHS treatment at a hospital in respect of the injury, either—</p>
+                                    </intro>
+                                    <clause>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>if the injured person was not admitted to hospital, the sum of £725; or</p>
+                                       </content>
+                                    </clause>
+                                    <clause>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>if the injured person was admitted to hospital, the sum of £891 for each day or part day of admission.</p>
+                                       </content>
+                                    </clause>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>For the purposes of paragraph (1)(a), the reference to taking an injured person to a hospital includes taking that person from one hospital to another.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Where the injured person was admitted to hospital on one day and discharged on another day, the day of discharge shall be disregarded for the purposes of paragraph (1)(b)(ii).</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>The amount which a certificate may specify under paragraph (1)(a) or (1)(b), or both, must not exceed £53,278 (“the maximum”).</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(5)</num>
+                                 <intro>
+                                    <p>Where—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>amounts fall to be specified under both paragraph (1)(a) and paragraph (1)(b), and</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the aggregate of those amounts would exceed the maximum,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <wrapUp>
+                                    <p>the amount to be specified under paragraph (1)(b) is to be reduced by the difference between the maximum and the aggregate of those amounts.</p>
+                                 </wrapUp>
+                              </paragraph>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 3(2) (amount of NHS charges: further provision)<noteRef href="#f00004" class="footnote" marker="4"/>, for “or 2K” substitute “,<span ukl:Name="NonBreakingSpace"> </span>2K or 2L”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In regulation 6 (adjustment of amounts where certificates are issued by the Scottish Ministers and the Secretary of State)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(b)<noteRef href="#f00005" class="footnote" marker="5"/>, for “or 2K(4)” substitute “, 2K(4) or 2L(4)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2)(a)<noteRef href="#f00006" class="footnote" marker="6"/>, for “or 2K(4) and (5)” substitute “, (2K)(4) and (5) or (2L)(4) and (5)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-03">3rd February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006 (“the principal Regulations”) which make provision in relation to the amount of NHS charges which can be recovered from a person who pays compensation to an injured person, where that injured person has received National Health Service treatment or ambulance services.</p>
+            <p>Regulation 2 amends regulation 2K of the principal Regulations and inserts regulation 2L into the principal Regulations to increase the charges in respect of injuries which occur on or after 1 April 2019. Where the injured person is provided with NHS ambulance services, the charge is increased from £208 to £219 for each occasion the service is provided. Where the injured person receives NHS treatment but is not admitted to hospital, the charge is increased from £688 to £725. The daily charge for NHS in-patient treatment is increased from £846 to £891. The maximum charge in respect of an injury is increased from £50,561 to £53,278.</p>
+            <p>Regulation 2 also makes amendments, by way of inserting references to the increased charges in new regulation 2L, to provisions in the principal Regulations in relation to situations where (a) a person makes more than one compensation payment to an injured person and (b) a person is due to pay NHS charges to both the Scottish Ministers and the Secretary of State.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

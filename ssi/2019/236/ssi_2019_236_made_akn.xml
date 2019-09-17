@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/236"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/236"/>
+               <FRBRdate date="2019-07-02" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="236"/>
+               <FRBRname value="S.S.I. 2019/236"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/236/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/236/made"/>
+               <FRBRdate date="2019-07-02" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/236/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/236/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-07-02" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1995/46">1995 c.46</ref>. Subsections (3A) to (3D) were inserted by section 17 of the Criminal Justice and Licensing (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2010/13">2010 (asp 13)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2010/13">2010 asp 13</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042595"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 236</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Criminal Law</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Criminal Procedure</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Presumption Against Short Periods of Imprisonment (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-07-02">2nd July 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with article 1(2) and (3)</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 204(3C) of the Criminal Procedure (Scotland) Act 1995<noteRef href="#f00001" class="footnote" marker="1"/>, section 204(1) of the Criminal Justice and Licensing (Scotland) Act 2010<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 204(3D) of the Criminal Procedure (Scotland) Act 1995 and section 201(4) of the Criminal Justice and Licensing (Scotland) Act 2010, a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Presumption Against Short Periods of Imprisonment (Scotland) Order 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>Subject to paragraph (3), this Order comes into force on the day after the Order is made.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>Article 2 of this Order comes into force on the second day after the Order is made.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-4">
+               <num>(4)</num>
+               <content>
+                  <p>In this Order, “the 1995 Act” means the Criminal Procedure (Scotland) Act 1995.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Variation of the presumption against short periods of imprisonment</heading>
+            <num>2.</num>
+            <content>
+               <p>In section 204(3A) of the 1995 Act, for “3”, substitute “12”.</p>
+            </content>
+         </article>
+         <article eId="article-3">
+            <heading>Supplementary provision</heading>
+            <num>3.</num>
+            <content>
+               <p>In section 204 of the 1995 Act, after subsection (3D), insert—<mod>
+                     <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                        <subsection>
+                           <num>(3E)</num>
+                           <content>
+                              <p>A modification of the number of months specified in subsection (3A), by an order made under subsection (3C), applies only to offences committed on or after the date on which the modification comes into force.</p>
+                           </content>
+                        </subsection>
+                     </quotedStructure>
+                  </mod>
+                  <inline name="AppendText">.</inline>
+               </p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">H YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-07-02">2nd July 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order substitutes for the period of three months specified in section 204(3A) of the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”), a period of twelve months and makes supplementary provision to clarify how that substitution should take effect.</p>
+            <p>Previously there was a statutory presumption that a court must not pass a sentence of imprisonment for a term of three months or less, unless the court considered that no other method of dealing with the person was appropriate. Article 2 of this Order changes that statutory presumption, under the power in section 204(3C) of the 1995 Act, so that the court is under an obligation not to pass a sentence of imprisonment for a term of twelve months or less, unless the court considers that no other method of dealing with the person is appropriate.</p>
+            <p>Article 3 of this Order makes supplementary provision, under section 204(1) of the Criminal Justice and Licensing (Scotland) Act 2010 (“the 2010 Act”), which the Scottish Ministers consider to be appropriate for the purposes of, and for giving full effect to, section 17 of that Act. Section 17 of the 2010 Act is the provision which inserts subsections (3A) to (3D) into section 204 of the 1995 Act creating the presumption against short sentences and the power to amend the presumption.</p>
+            <p>Section 17 of the 2010 Act, creating the initial presumption against the imposition of prison sentences of 3 months or less, was brought into force for all purposes in respect of offences committed on or after 1 February 2011. Section 201 of the 2010 Act provides that a power to make an order under the Act (including a commencement order under section 206(1) of the Act) includes a power to make supplementary, consequential, transitional, transitory or saving provision and to make different provision for different purposes. Section 201 of the 2010 Act does not apply to an order made under section 204(3C) of the 1995 Act and there is no similar power in the 1995 Act to make transitional provision in an order under section 204(3C).</p>
+            <p>Supplementary provision is therefore required to clarify how an order made under section 204(3C) should take effect. Article 3 of this Order adds a new subsection to section 204 of the 1995 Act making it clear that a modification of the presumption against short sentences, by an order under section 204(3C), applies only to offences committed on or after the date on which the modification comes into force. The supplementary provision created by article 3 mirrors the transitional arrangements under which section 17 of the 2010 Act, and the initial presumption against sentences of three months or less, came into force.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

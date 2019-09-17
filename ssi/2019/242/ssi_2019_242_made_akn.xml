@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/242"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/242"/>
+               <FRBRdate date="2019-07-12" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="242"/>
+               <FRBRname value="S.S.I. 2019/242"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/242/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/242/made"/>
+               <FRBRdate date="2019-07-12" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/242/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/242/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-07-12" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-07-12" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-07-16" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>Sections 2 and 3(1) were amended by the European Communities Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 (c.68)</ref>, section 4(1) and schedule 4, paragraph 8 and further amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>. The powers conferred by sections 2 and 3 are conferred on a “competent authority”, defined in section 1(2) of the 1967 Act. The Scottish Ministers are the competent authorities for the purposes of the 1967 Act by virtue of amendments made to section 1(2) of that Act by the Forestry and Land Management (Scotland) Act 2018.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2005/613">S.S.I. 2005/613</ref>; relevant amending instruments are <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2013/366">S.S.I. 2013/366</ref>, <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2015/10">S.S.I. 2015/10</ref> and <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2018/112">S.S.I. 2018/112</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/2005/2517">S.I. 2005/2517</ref>; relevant amending instruments are <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/2014/2420">S.I. 2014/2420</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2017/1178">2017/1178</ref> and <ref eId="c00013" href="http://www.legislation.gov.uk/id/uksi/2018/1048">2018/1048</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042618"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 242</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Plant Health</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Plant Health (Miscellaneous Amendments) (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-07-12">at 10.15 a.m. on 12th July 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-07-12">at 3 p.m. on 12th July 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-07-16">16th July 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers, make the following Order in exercise of the powers conferred by sections 2 and 3(1) of the Plant Health Act 1967<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order which extends to Scotland only may be cited as the Plant Health (Miscellaneous Amendments) (Scotland) Order 2019 and comes into force on 16 July 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Amendment of the Plant Health (Scotland) Order 2005</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Plant Health (Scotland) Order 2005<noteRef href="#f00002" class="footnote" marker="2"/> is amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In article 21, omit paragraph (8).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In the table in Part C of schedule 4, after item 10 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                                    <colgroup>
+                                       <col width="31.05pt"/>
+                                       <col width="175.5pt"/>
+                                       <col width="191.55pt"/>
+                                    </colgroup>
+                                    <tbody>
+                                       <tr>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">11.</td>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="4" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Plants, other than fruit or seeds, of <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Quercus </i>L., other than <i xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">Quercus suber</i>, intended for planting, whose girth at 1.2 m above the root collar is 8 cm or more.</td>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">The plants must be accompanied by an official statement that they have:</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>been grown throughout their life in places of production in countries in which <i>Thaumetopoea processionea </i>L. is not known to occur;</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>been grown throughout their life in a protected zone which is recognised as a protected zone for <i>Thaumetopoea processionea </i>L. or in an area free from <i>Thaumetopoea processionea </i>L., established by the national plant protection organisation in accordance with IPSM No. 4; or</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>been grown throughout their life in a site with complete physical protection against the introduction of <i>Thaumetopoea processionea </i>L. and have been inspected at appropriate times and found to be free from <i>Thaumetopoea processionea </i>L. </p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Amendment of the Plant Health (Forestry) Order 2005</heading>
+            <num>3.</num>
+            <content>
+               <p>In the table in Part C of schedule 4 of the Plant Health (Forestry) Order 2005<noteRef href="#f00003" class="footnote" marker="3"/>, in item 7E, in the entry in the third column, omit paragraph (c).</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-07-12">At 10.15 a.m. on 12th July 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order amends the Plant Health (Scotland) Order 2005 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2005/613">S.S.I. 2005/613</ref>) and the Plant Health (Forestry) Order 2005 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/uksi/2005/2517">S.I. 2005/2517</ref>) to introduce emergency measures to prevent the introduction and spread of <i>Thaumetopoea processionea</i> L. (the Oak Processionary Moth) into Scotland which is part of a protected zone (recognised for the purposes of Council <ref eId="c00003" href="http://www.legislation.gov.uk/european/directive/2000/0029">Directive 2000/29/EC</ref> of 8 May 2000 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community) for this harmful plant pest</p>
+            <p>It amends the technical requirements that must be satisfied when bringing in certain plants of <i>Quercus</i> L., intended for planting, into or when moving those plants within Scotland.</p>
+            <p>An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

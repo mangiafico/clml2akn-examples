@@ -1,0 +1,2517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/47"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/47"/>
+               <FRBRdate date="2019-02-13" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="47"/>
+               <FRBRname value="S.S.I. 2019/47"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/47/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/47/made"/>
+               <FRBRdate date="2019-02-13" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/47/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/47/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-13" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-15" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2018/8">2018 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1967/10">1967 c.10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1979/21">1979 c.21</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1979/791">S.I. 1979/791</ref>, as amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/1987/632">S.I. 1987/632</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Sections 76 to 78, 82 to 84 and 86 came into force on 2 May 2018 by virtue of provision made in section 85(1) of the 2018 Act.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Section 10 was amended by the Nature Conservation (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2004/6">2004 (asp 6)</ref> (“the 2004 Act”), schedule 7, paragraph 2(2).</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Section 12(1) was amended by the 2004 Act, schedule 7, paragraph 2(3).</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 14 was relevantly amended by the Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 (<ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/1999/1747">S.I. 1999/1747</ref>) (“the 1999 Order”) paragraph 4(11). Section 30 was relevantly amended by the Criminal Procedure (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1975/21">1975 (c.21)</ref> (“the 1975 Act”), sections 289F and 289G. Section 34 was relevantly amended by the Abolition of Feudal Tenure etc. (Scotland) Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/asp/2000/5">2000 (asp 5)</ref> (“the 2000 Act”), schedule 13(1), paragraph 1 and the 1999 Order, paragraph 4(26)(a) and (b). Section 35 was amended by the Forestry Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1986/30">1986 (c.30)</ref>, section 1(c) and the Planning (Consequential Provisions) (Scotland) Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1998/11">1998 (c.11)</ref>, schedule 2, paragraph 13(2). Section 48 was amended by the 1975 Act, schedule 7D. Section 49 was amended by the 2000 Act, schedule 13(I), paragraph 1, the 1999 Order <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2013/755"> S.I. 2013/755</ref> and <ref eId="c00013" href="http://www.legislation.gov.uk/id/uksi/2017/524">S.I. 2017/524</ref>.Schedule 3 was amended by the Planning Act <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/2008/29">2008 (c. 29)</ref>, schedule 8, paragraph 6.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Section 16 was amended by the 1999 Order, schedule 12(II), paragraph 4(12)(a),(b) and (c).</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Section 11 was amended by the 2004 Act, schedule 7, paragraph 2(2).</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Section 27 was amended by the 1999 Order (<ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/1999/1747">S.I. 1999/1747</ref>), schedule 12, paragraph 4(9) and 4(22)(a) to (d).</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Section 24 was amended by the Criminal Procedure (Scotland) Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/1975/21">1975 (c.21)</ref>, schedule 7D.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>Section 24 was amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/uksi/2006/780">S.I. 2006/780</ref> and <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2013/755">S.I. 2013/755</ref>. Section 25 was amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/1999/1747">S.I 1999/1747</ref> (“the 1999 Order”).</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Section 17A was inserted by the Forestry Act <ref eId="c00020" href="http://www.legislation.gov.uk/id/ukpga/1986/30">1986 (c.30)</ref>, section 1 and was amended by the 1999 Order, schedule 12(II), paragraph 4(9).</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Sections 17B and 17C were inserted by the Forestry Act <ref eId="c00021" href="http://www.legislation.gov.uk/id/ukpga/1986/30">1986 (c.30)</ref>, section 1. Section 17B was amended by the 1999 Order and section 17C was amended by the 1999 Order and <ref eId="c00022" href="http://www.legislation.gov.uk/id/uksi/2006/780">S.I. 2006/780</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Section 40 was amended by the 1999 Order (<ref eId="c00023" href="http://www.legislation.gov.uk/id/uksi/1999/1747">S.I. 1999/1747</ref>), schedule 12(II), paragraph 4(32)(a) and (b) and by the Local</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>Schedule 5 was amended by the 1999 Order (<ref eId="c00024" href="http://www.legislation.gov.uk/id/uksi/1999/1747">S.I. 1999/1747</ref>), schedule 12(II), paragraph 4(41)(a), (b) and (c) and by the Title Conditions (Scotland) Act <ref eId="c00025" href="http://www.legislation.gov.uk/id/asp/2003/9">2003 (asp 9)</ref>, section 110 and the Local Government etc. (Scotland) Act <ref eId="c00026" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>, schedule 13, paragraph 69.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/1963/51">1963 c.51</ref>, to which there are no relevant amendments.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>Section 1 was amended by the 1999 Order (<ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/1999/1747">S.S.I. 1999/1747</ref>), schedule 12(II), paragraph 6(a), by the Scotland Act 1998 (Cross-Border Public Authorities) (Forestry Commissioners) Order 2000 (<ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2000/746">S.S.I. 2000/746</ref>) (“the 2000 Order”), schedule 1, paragraph 8 and by the Crofter Forestry (Scotland) Act <ref eId="c00030" href="http://www.legislation.gov.uk/id/ukpga/1991/18">1991 (c.18)</ref>, section 3(1).</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>Section 41 was amended by the 1999 Order (<ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/1999/1747">S.S.I. 1999/1747</ref>), schedule 12(II), paragraph 4(33)(a) and by the 2000 Order (<ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2000/746">S.S.I. 2000/746</ref>), schedule 1, paragraph 5(2) to (5).</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040904"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 47 (C. 1)</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Forestry</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Forestry and Land Management (Scotland) Act 2018 (Commencement, Transitional and Saving Provisions) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-13">13th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-15">15th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 85(2) and (7) of the Forestry and Land Management (Scotland) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Forestry and Land Management (Scotland) Act 2018 (Commencement, Transitional and Saving Provisions) Regulations 2019 and come into force on 1 April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1967 Act” means the Forestry Act 1967<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1979 Act” means the Forestry Act 1979<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1979 Regulations” means the Forestry (Felling of Trees) Regulations 1979<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2018 Act” means the Forestry and Land Management (Scotland) Act 2018,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the appointed day” means the day appointed by regulation 2,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Forestry Commissioners” means the Forestry Commissioners constituted under the Forestry Acts 1919 to 1945 and continued in force by section 1(1) the 1967 Act,</p>
+                  </content>
+               </hcontainer>
+               <wrapUp>
+                  <p>and any reference to a numbered regulation is, unless expressly indicated otherwise, a reference to the regulation so numbered in these Regulations.</p>
+               </wrapUp>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Appointed day</heading>
+            <num>2.</num>
+            <content>
+               <p>1 April 2019 is the day appointed for the coming into force of the 2018 Act, so far as not already in force<noteRef href="#f00005" class="footnote" marker="5"/>.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Transitional: applications for a felling licence made but not determined before the appointed day – cases which are to be treated as applications for felling permission</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>An application for a felling licence under section 10 of the 1967 Act<noteRef href="#f00006" class="footnote" marker="6"/> which was made, but not determined, before the appointed day is, on and after that day, to be treated as if it were an application for a felling permission under section 25 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Paragraph (1) does not apply to an application for a felling licence—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>which was postponed before the appointed day by a notice served on the applicant under section 13(2) of the 1967 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>which was postponed under section 13(2) of the 1967 Act, but is under consideration again having satisfied the requirement set out in the notice of postponement before the appointed day,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>which was made before the appointed day in response to a notice served on the applicant under section 10(5) of the 1967 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>which was made before the appointed day and which relates to the felling of trees in accordance with a plan of operations or other working plan approved by the Forestry Commissioners as described in section 14(1) of the 1967 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in which the Forestry Commissioners have indicated to the applicant during consultation under section 12(1) of the 1967 Act<noteRef href="#f00007" class="footnote" marker="7"/>, in writing before the appointed day, that they are minded to grant a licence under section 10(2) of the 1967 Act subject to specified conditions.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>A person who has made an application of the type referred to in paragraph (1) is to be treated for all purposes as if they were a person entitled to make such an application under section 25 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <intro>
+                  <p>For the purposes of this regulation, “determined” means that the application has been disposed of by the Forestry Commissioners by way of—</p>
+               </intro>
+               <subparagraph eId="regulation-3-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a decision to grant a felling licence (with or without conditions), under section 10(2) and, as applicable, 12(1) of the 1967 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>a decision to refuse to grant a felling licence under section 10(2), or a deemed refusal to grant a licence under section 13(1), of the 1967 Act, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>a decision to refer an application relating to trees to which a tree preservation order relates to the authority that made the order or to the Scottish Ministers, as the case may be, in terms of section 15(1)(b) or by a referral required under section 15(2)(a) of the 1967 Act.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Saving: applications for a felling licence made but not determined before the appointed day – cases which are to be determined under the 1967 Act</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>This paragraph applies to an application for a felling licence in the circumstances referred to in regulation 3(2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-4-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 10, 12 to 15, 30, 34, 35, 48 and 49 and schedule 3 of the 1967 Act<noteRef href="#f00008" class="footnote" marker="8"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3, 6 and 7 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-4-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>section 10 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>references in that section to “the appropriate forestry authority” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the words “complying with their duty of” in subsection (2)(b) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>subsection (4)(b) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 12 of the 1967 Act is to be read as if the references to “the appropriate forestry authority” in subsection (1) were references to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>section 13 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>subsection (1) were omitted,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the references to “the appropriate forestry authority” in subsection (2) were references to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the words from “Where” to the end of subsection (2) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>section 14 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the first reference in subsection (1) and all references in subsections (2) and (3) to “the appropriate forestry authority” were references to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (5) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>section 15 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>references in that section to “the appropriate forestry authority” were references to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>references to “the Minister” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-e-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>for subsection (2)(a) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the Scottish Ministers shall deal with the application and in doing so shall have regard to that objection;</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference in that section to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-g">
+                  <num>(g)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-g-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-g-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-g-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-h">
+                  <num>(h)</num>
+                  <intro>
+                     <p>regulation 6 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-h-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference to “the Conservator” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-h-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the second reference to “the Commissioners” were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>regulation 7 of the 1979 Regulations is to be read as if the reference to “the Commissioners” in that regulation were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-j">
+                  <num>(j)</num>
+                  <intro>
+                     <p>Form 3 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-j-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference to “the Forestry Commissioners” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-j-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference to “the Commissioners” were a reference to “the Scottish Ministers”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Transitional: felling licences granted under the 1967 Act after the appointed day – to be treated as felling permissions</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>A felling licence granted by the Scottish Ministers in determining an application in the circumstances referred to in regulation 3(2) after the appointed day is, on and after the date on which it is granted, to be treated as if it were a felling permission granted under section 27 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Paragraph (1) does not apply for the purposes of making, considering or determining a request for a review of the Scottish Ministers’ decision—</p>
+               </intro>
+               <subparagraph eId="regulation-5-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>to refuse to grant a felling licence, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>to grant a felling licence subject to conditions,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>which the applicant would have been entitled to make in terms of section 16 of the 1967 Act<noteRef href="#f00009" class="footnote" marker="9"/> and regulation 8 of the 1979 Regulations (as applied and modified by regulation 6), but has not requested before the expiry of the period referred to in regulation 8 of the 1979 Regulations.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>A condition attached to a felling licence referred to in paragraph (1) is to be treated as if it were a condition applied to a felling permission under section 27(4) of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The provision made in—</p>
+               </intro>
+               <subparagraph eId="regulation-5-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 27(7) (variation and revocation of conditions),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 38 (registration of notices to comply),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 39 (registered notices to comply: offence),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>section 40 (registration of notices of variation),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>section 41 (registration of notices of discharge from compliance),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>section 42 (meaning of “register”),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>section 43 (descriptions of land),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>section 44 (receipt of notices by Keeper),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>section 56 (registration of remedial notices), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-4-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>section 57 (registered remedial notices: offence),</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>of the 2018 Act does not apply to a condition referred to in paragraph (3) or to any restocking direction issued under section 36 of the 2018 Act in relation to such a condition.</p>
+               </wrapUp>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Saving: applications for a felling licence determined under the 1967 Act after appointed day - review</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to a request for a review of a decision of the Scottish Ministers under section 10(2) or 13(1) of the 1967 Act (as modified by regulation 4(4))—</p>
+               </intro>
+               <subparagraph eId="regulation-6-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>to refuse to grant a felling licence, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>to grant a felling licence subject to conditions,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>in determining an application in the circumstances referred to in regulation 3(2).</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-6-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 16, 30, 34 and 35 and 49 of the 1967 Act, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3 and 8 and schedule 1 of the 1979 regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-6-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>section 16 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-6-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference in subsection (1) to “the appropriate forestry authority” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsection (2) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>A person aggrieved by the refusal or conditions may by a notice served within the prescribed time and in the prescribed manner request the Scottish Ministers to refer the matter to a person appointed by them for that purpose.</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-6-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>regulation 8 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-6-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference in paragraph (1) to “the appropriate Minister” were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>paragraph (1)(b) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>for paragraph (2) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>Any notice under section 16(2) of the Act shall be in Form 4 or Form 6 according to whether the case falls within sub-paragraph (a) or (c) of paragraph (1).</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-6-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>Form 4 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-6-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references to “the Forestry Commissioners” were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for the words “to a committee appointed under section 27 of the 1967 Act” there were substituted “a person appointed under section 16 of the 1967 Act”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-d-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference in numbered paragraph (1) to “the committee” were a reference to “a committee appointed under section 27 of the 1967 Act”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-d-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>the reference in numbered paragraph (2) to “a committee” were a reference to “a committee appointed under section 27 of the 1967 Act”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-d-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>the references to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-6-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>Form 6 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-6-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference to “the Forestry Commissioners” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Saving – applications for felling licence determined under the 1967 Act after the appointed day - compensation</heading>
+            <num>7.</num>
+            <paragraph eId="regulation-7-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-2">
+               <num>(2)</num>
+               <content>
+                  <p>This paragraph applies to a decision of the Scottish Ministers to refuse to grant a felling licence in determining an application in the circumstances referred to in regulation 3(2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-7-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 10(4)(a), 11, 29 to 31, 34, 35, 48 and 49 of the 1967 Act<noteRef href="#f00010" class="footnote" marker="10"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulation 1, 3 and 5 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-7-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 10(4)(a) of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>section 11 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-7-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references to “the appropriate forestry authority” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsections (2) and (3) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>Compensation under this section shall be recoverable from the Scottish Ministers on a claim made in the form prescribed for that purpose in regulation 5 and Form 2 of the 1979 Regulations.</p>
+                                    </content>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(3)</num>
+                                    <content>
+                                       <p>Claims for compensation in the case of any trees may be made from time to time in respect of deterioration taking place after the refusal of a felling licence for those trees but no such claim shall be made more than 12 months after the date the applicant is notified of the decision to refuse to grant the licence under section 10(6).</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">, and</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>subsection (5) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-7-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references to “the appropriate enforcement authority” and “the appropriate forestry authority” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (1A)(a) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-d-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>subsection (2) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>regulation 5 of the 1979 Regulations is to be read as if the reference to “the Conservator” were a reference to “the Scottish Ministers”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-f">
+                  <num>(f)</num>
+                  <intro>
+                     <p>Form 2 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-7-4-f-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references to “the Forestry Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-f-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the alternative paragraph 2 were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-4-f-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the Conservator, Forestry Commission” were a reference to “the Scottish Ministers”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-8">
+            <heading>Saving: applications for felling licence for trees subject to a tree preservation order – referred before appointed day</heading>
+            <num>8.</num>
+            <paragraph eId="regulation-8-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-8-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to a referral—</p>
+               </intro>
+               <subparagraph eId="regulation-8-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>under section 15(1)(b) of the 1967 Act, to the authority that made the tree preservation order, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>under section 15(2)(a) of the 1967 Act, to the Scottish Ministers,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>which was made but not determined before the appointed day.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-8-3">
+               <num>(3)</num>
+               <content>
+                  <p>The provisions are section 15 and schedule 3 of the 1967 Act.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-9">
+            <heading>Saving: tree felling in accordance with an approved working plan – felling licence refused before the appointed day</heading>
+            <num>9.</num>
+            <paragraph eId="regulation-9-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-9-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies where—</p>
+               </intro>
+               <subparagraph eId="regulation-9-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>an application for a felling licence related to the felling of trees in accordance with an approved plan of operations or other working plan was refused under section 14(2) of the 1967 Act, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>the applicant—</p>
+                  </intro>
+                  <clause eId="regulation-9-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>served a notice requiring the appropriate forestry authority to buy the trees specified in the notice under section 14(3) of the 1967 Act before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>serves a notice requiring the Scottish Ministers to buy the trees specified in the notice under section 14(3) of that Act before the expiry of the period referred to in regulation 6 of the 1979 Regulations.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-9-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-9-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 14, 30, 31, 34, 35, 48 and 49 of the 1967 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3 and 6 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-9-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-9-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>section 14 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-9-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the second reference in subsection (3) to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference in subsection (4)(b) to “the appropriate forestry authority” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-4-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>subsection (5) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-9-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-9-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-4-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-9-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>regulation 6 of the 1979 Regulations is to be read as if the reference to “the Conservator” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>Form 3 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-9-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference to “the Commissioners” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-9-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference to “the Conservator, Forestry Commission” were a reference to “the Scottish Ministers”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-10">
+            <heading>Transitional: felling licences granted before the appointed day - to be treated as felling permissions</heading>
+            <num>10.</num>
+            <paragraph eId="regulation-10-1">
+               <num>(1)</num>
+               <content>
+                  <p>Any felling licence granted under section 10 of the 1967 Act before the appointed day is, on and after that day, to be treated as if it were a felling permission granted by the Scottish Ministers under section 27 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-2">
+               <num>(2)</num>
+               <content>
+                  <p>Paragraph (1) does not apply for the purposes of making, considering or determining a request for a review of a decision to grant a felling licence subject to conditions, which the applicant would be entitled to request under section 16 of the 1967 Act and regulation 8 of the 1979 Regulations (as applied and modified by regulation 11(4)), but has not requested before the expiry of the period referred to in regulation 8 of the 1979 Regulations.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-3">
+               <num>(3)</num>
+               <content>
+                  <p>A condition attached to a felling licence referred to in paragraph (1) is to be treated as if it were a condition applied to a felling permission under section 27(4) of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The provision made in—</p>
+               </intro>
+               <subparagraph eId="regulation-10-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 27(7) (variation and revocation of conditions),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 38 (registration of notices to comply),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 39 (registered notices to comply: offence),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>section 40 (registration of notices of variation),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>section 41 (registration of notices of discharge from compliance),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>section 42 (meaning of “register”),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>section 43 (descriptions of land),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>section 44 (receipt of notices by Keeper),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>section 56 (registration of remedial notices), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>section 57 (registered remedial notices: offence),</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>of the 2018 Act does not apply to a condition referred to in paragraph (3) or to any restocking direction issued under section 36 of the 2018 Act in relation to such a condition.</p>
+               </wrapUp>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-11">
+            <heading>Saving: refusal or grant of a felling licence subject to conditions before the appointed day - review</heading>
+            <num>11.</num>
+            <paragraph eId="regulation-11-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-11-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to a review of—</p>
+               </intro>
+               <subparagraph eId="regulation-11-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>a decision to refuse to grant a felling licence under section 10(2) of the 1967 Act in which—</p>
+                  </intro>
+                  <clause eId="regulation-11-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision was sent in accordance with section 16 of that Act and regulation 8 of the 1979 Regulations before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision is sent in accordance with section 16 of that Act and regulation 8 of the 1979 Regulations before the expiry of the period prescribed in regulation 8 of the 1979 Regulations for that purpose,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>a deemed refusal to grant a felling licence in terms of section 13(1) of the 1967 Act in which—</p>
+                  </intro>
+                  <clause eId="regulation-11-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision was sent in accordance with regulation 8 of the 1979 Regulations before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision is sent in accordance with regulation 8 of the 1979 Regulations before the expiry of the period prescribed in regulation 8 of the 1979 Regulations for that purpose, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-2-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>a decision to grant a felling licence subject to conditions under sections 10(2) and 12(1) of the 1967 Act in which—</p>
+                  </intro>
+                  <clause eId="regulation-11-2-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision was sent in accordance with section 16 and regulation 8 of the 1979 Regulations before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-2-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a notice requesting a review of such a decision is sent in accordance with section 16 and regulation 8 of the 1979 Regulations before the expiry of the period prescribed in regulation 8 of the 1979 Regulations for that purpose.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-11-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-11-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 10, 12, 13, 16 , 27, 30, 35, 48 and 49 of the 1967 Act<noteRef href="#f00011" class="footnote" marker="11"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3 and 8 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-11-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-11-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 16 of the 1967 Act is to be read as if for subsection (3) there were substituted—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>The Scottish Ministers shall after considering the committee’s report confirm the decision of the appropriate forestry authority on the application or reverse or modify that decision.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>section 27 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-11-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>subsection (2)(a) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsection (3)(c) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>take into consideration any information provided to them by the Scottish Ministers as to the promotion of the establishment and maintenance of adequate reserves of growing trees within the conservancy in which the trees are growing</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-11-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-4-d-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>regulation 8 of the 1979 Regulations is to be read as if the reference in paragraph (1) to “the appropriate Minister” were a reference to “the Scottish Ministers”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>Form 4, Form 5 and Form 6 in schedule 1 of the 1979 Regulations are to be read as if the references in those forms to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were references to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-12">
+            <heading>Transitional: felling licences granted on review – to be treated as felling permissions</heading>
+            <num>12.</num>
+            <paragraph eId="regulation-12-1">
+               <num>(1)</num>
+               <content>
+                  <p>A felling licence granted (with or without conditions) by the Scottish Ministers in determining a review requested in the circumstances set out in regulations 6 and 11 is, on and after the date on which it is granted, to be treated as if it were a felling permission granted under section 27 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-12-2">
+               <num>(2)</num>
+               <content>
+                  <p>A condition attached to a felling licence referred to in paragraph (1) is to be treated as if it were a condition applied to a felling permission under section 27(4) of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-12-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provision made in—</p>
+               </intro>
+               <subparagraph eId="regulation-12-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 27(7) (variation and revocation of conditions),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 38 (registration of notices to comply),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 39 (registered notices to comply: offence),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>section 40 (registration of notices of variation),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>section 41 (registration of notices of discharge from compliance),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>section 42 (meaning of “register”),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>section 43 (descriptions of land),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>section 44 (receipt of notices by Keeper),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>section 56 (registration of remedial notices), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-3-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>section 57 (registered remedial notices: offence),</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>of the 2018 Act does not apply to a condition referred to in paragraph (2) or to any restocking direction issued under section 36 of the 2018 Act in relation to such a condition.</p>
+               </wrapUp>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-13">
+            <heading>Saving: refusal of an application for a felling licence before the appointed day – compensation</heading>
+            <num>13.</num>
+            <paragraph eId="regulation-13-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-13-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to any claim for compensation under section 10(2) and 11 of the 1967 Act in respect of refusal of an application for a felling licence where—</p>
+               </intro>
+               <subparagraph eId="regulation-13-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the claim for compensation was sent to the Conservator in accordance with section 11 of the 1967 Act and regulation 5 of the 1979 Regulations before the appointed day, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-13-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the claim for compensation is sent to the Scottish Ministers in accordance with section 11 of the 1967 Act and regulation 5 of the 1979 regulations before the expiry of the period set out in section 11 for that purpose.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-13-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-13-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 10 (2) and (4), 11, 13, 29 to 31, 34, 35, 48 and 49 of the 1967 Act, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-13-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3 and 5 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-13-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-13-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>Section 11 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-13-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for subsection (2) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>Compensation under this section shall be recoverable from the Scottish Ministers on a claim made in the form prescribed for that purpose in regulation 5 and Form 2 in schedule 1 of the 1979 Regulations.</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">, and</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-13-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (5) were omitted,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-13-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-13-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-13-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-13-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-13-4-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-13-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>regulation 5 of the 1979 Regulations is to be read as if the reference to “the Conservator” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-13-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>Form 2 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-13-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference in paragraph 1 to “the Forestry Commissioners” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-13-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference to “the Conservator, Forestry Commission” were a reference to “the Scottish Ministers”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-14">
+            <heading>Transitional: land management plans and forest design plans approved before the appointed day – to be treated as felling permissions</heading>
+            <num>14.</num>
+            <paragraph eId="regulation-14-1">
+               <num>(1)</num>
+               <content>
+                  <p>Any Land Management Plan or Forest Design Plan containing proposals in respect of felling and restocking operations approved by the Forestry Commissioners before the appointed day is, on and after that day, to be treated as if it were a felling permission granted under section 27 of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-14-2">
+               <num>(2)</num>
+               <content>
+                  <p>A condition attached to a plan referred to in paragraph (1) is to be treated as if it were a condition applied to a felling permission under section 27(4) of the 2018 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-14-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provision made in—</p>
+               </intro>
+               <subparagraph eId="regulation-14-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 27(7) (variation and revocation of conditions),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 38 (registration of notices to comply),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 39 (registered notices to comply: offence),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>section 40 (registration of notices of variation),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>section 41 (registration of notices of discharge from compliance),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>section 42 (meaning of “register”),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>section 43 (descriptions of land),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>section 44 (receipt of notices by Keeper),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>section 56 (registration of remedial notices), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-3-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>section 57 (registered remedial notices: offence),</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>of the 2018 Act does not apply to a condition referred to in paragraph (2) or to any restocking direction issued under section 36 of the 2018 Act in relation to such a condition.</p>
+               </wrapUp>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-15">
+            <heading>Saving: felling licence conditions – notice to require compliance issued before the appointed day - enforcement</heading>
+            <num>15.</num>
+            <paragraph eId="regulation-15-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-15-2">
+               <num>(2)</num>
+               <content>
+                  <p>This paragraph applies to a notice to require compliance with felling licence conditions sent under section 24 of the 1967 Act<noteRef href="#f00012" class="footnote" marker="12"/> before the appointed day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-15-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-15-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 24, 26, 27, 29 and 30, 34, 35, 48 and 49 of the 1967 Act, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-15-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3, 13 and 15 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-15-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-15-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 24(3) and (4) of the 1967 Act are to be read as if the references to “the appropriate forestry authority” were references to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-15-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 26 of the 1967 Act is to be read as if the references to “the appropriate forestry authority” in that section were references to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-15-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-15-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-15-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-15-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-15-4-d-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-15-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>regulation 15 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-15-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference to “the Commissioners” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-15-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference to “the Conservator” were a reference to “the Scottish Ministers”, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-15-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>Form 9 in schedule 1 of the 1979 Regulations is to be read as if the reference to “the Secretary of State for Scotland, New St Andrews House, St James Centre, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-16">
+            <heading>Saving: felling licence conditions – notice to require compliance - appeals</heading>
+            <num>16.</num>
+            <paragraph eId="regulation-16-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-16-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to an appeal against a notice requiring compliance with felling licence conditions served under section 24 of the 1967 Act before the appointed day where—</p>
+               </intro>
+               <subparagraph eId="regulation-16-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a notice requesting a review was sent in accordance with section 25(1) of the 1967 Act and regulation 14 of the 1979 Regulations before the appointed day, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-16-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>a notice requesting a review is sent before the expiry of the period prescribed for that purpose in regulation 14 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-16-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-16-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 24, 25, 27, 30, 34, 35, 48 and 49 of the 1967 Act<noteRef href="#f00013" class="footnote" marker="13"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-16-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3 and 14 and schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-16-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-16-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>section 27 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-16-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>subsection (2)(a) were omitted,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-16-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsection (3)(c) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>take into consideration any information provided to them by the Scottish Ministers as to the promotion of the establishment and maintenance of adequate reserves of growing trees within the conservancy in which the trees are growing.</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-16-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-16-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-16-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-16-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-16-4-c-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-16-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>regulation 14 of the 1979 Regulations is to be read as if the reference in that regulation to “the appropriate Minister” were a reference to “the Scottish Ministers”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-16-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>Form 9 in schedule 1 of the 1979 Regulations is to be read as if the reference in that form to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-17">
+            <heading>Saving: unauthorised felling - restocking notices served before the appointed day – enforcement after the appointed day</heading>
+            <num>17.</num>
+            <paragraph eId="regulation-17-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on an after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-17-2">
+               <num>(2)</num>
+               <content>
+                  <p>This paragraph applies to any restocking notice issued under section 17A of the 1967 Act<noteRef href="#f00014" class="footnote" marker="14"/> before the appointed day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-17-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-17-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 17A to 17C, 24, 25, 26(1), (3) and (4), 27, 30, 34, 35, 48 and 49 of the 1967 Act<noteRef href="#f00015" class="footnote" marker="15"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3, 8A, 13 and 14 and Forms 6A and 9 in schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-17-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-17-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 17B is to be read as if for subsection (2) there were substituted—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The Scottish Ministers may, after considering the committee’s report, withdraw the notice or notify the objector that it shall have effect subject to such modifications as the Scottish Ministers may direct.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 24 of the 1967 Act is to be read as if the references in subsections (2) to (4) to “the appropriate forestry authority” were references to “the Scottish Ministers”.</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>Section 26 of the 1967 Act is to be read as if the references to “the appropriate forestry authority” were references to “the Scottish Ministers”.</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>section 27 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-17-4-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>subsection (2)(a) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-17-4-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsection (3)(c) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>take into consideration any information provided to them by the Scottish Ministers as to the promotion of the establishment and maintenance of adequate reserves of growing trees within the conservancy in which the trees are growing.</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-f">
+                  <num>(f)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-17-4-f-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-17-4-f-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-17-4-f-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>regulation 8A of the 1979 Regulations is to be read as if the reference to “the appropriate Minister” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>regulation 13 of the 1979 Regulations is to be read as if the reference to “the Commissioners” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>Form 6A in schedule 1 of the 1979 Regulations is to be read as if the reference in that form to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-4-j">
+                  <num>(j)</num>
+                  <intro>
+                     <p>Form 9 in schedule 1 of the 1979 Regulations is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-17-4-j-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the reference in that form to the “Forestry Commissioners” were a reference to “the Scottish Ministers, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-17-4-j-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the reference in that form to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were a reference to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-18">
+            <heading>Saving: unauthorised felling - restocking notices – enforcement commenced before appointed day</heading>
+            <num>18.</num>
+            <paragraph eId="regulation-18-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications in paragraph (4), on an after the appointed day as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-18-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to—</p>
+               </intro>
+               <subparagraph eId="regulation-18-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>any appeal against a restocking notice under section 17B of the 1967 Act where the restocking notice was issued before the appointed day and where—</p>
+                  </intro>
+                  <clause eId="regulation-18-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a notice requesting an appeal was sent in accordance with section 17B of that Act and regulation 8A of the 1979 Regulations before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-18-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a notice requesting an appeal is sent in accordance with section 17B of that Act before the expiry of the period prescribed for that purpose in regulation 8A of the 1979 Regulations,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-18-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>any appeal against a notice to comply with a restocking notice where the notice to comply was issued before the appointed day under section 24 of the 1967 Act (as modified by section 17C of that Act), and where—</p>
+                  </intro>
+                  <clause eId="regulation-18-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>a notice requesting an appeal is sent to the Scottish Ministers in accordance with section 25 of the 1967 Act (as modified by section 17C of that Act) before the appointed day, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-18-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a notice requesting an appeal is sent to Scottish Ministers in accordance with section 25 of the 1967 Act (as modified by section 17C of that Act) before the expiry of the period prescribed for that purpose in regulation 14 of the 1979 Regulations.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-18-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-18-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>sections 17A to 17C, 24, 25, 26 (1), (3) and (4), 27, 30, 34, 35, 48 and 49 of the 1967 Act; and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-18-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulations 1, 3, 8A, 13, 14 and Forms 6A and 9 in schedule 1 of the 1979 Regulations.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-18-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-18-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 17B is to be read as if for subsection (2) there were substituted—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The Scottish Ministers may, after considering the committee’s report, withdraw the notice or notify the objector that it shall have effect subject to such modifications as the Scottish Ministers may direct.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 26 of the 1967 Act is to be read as if the references in that section to “the appropriate forestry authority” were references to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>section 27 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-18-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>subsection (2)(a) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-18-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for subsection (3)(c) there were substituted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>take into consideration any information provided to them by the Scottish Ministers as to the promotion of the establishment and maintenance of adequate reserves of growing trees within the conservancy in which the trees are growing.</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>section 30 of the 1967 Act is to be read as if the reference to “the appropriate forestry authority” were a reference to “the Scottish Ministers”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>section 48 of the 1967 Act is to be read as if—</p>
+                  </intro>
+                  <clause eId="regulation-18-4-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the references in subsection (1A)(a) to “the Commissioners” were references to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-18-4-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>subsection (2) were omitted, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-18-4-e-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the reference to “the appropriate forestry authority” in subsection (3) were a reference to “the Scottish Ministers”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>regulation 8A of the 1979 Regulations is to be read as if the reference to “the appropriate Minister” were a reference to “the Scottish Ministers”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-18-4-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>Forms 6A and 9 in schedule 1 of the 1979 Regulations are to be read as if the references in those forms to “the Secretary of State for Scotland, New St Andrews House, St James Centre, Edinburgh, EH1 3SX” were references to “the Scottish Ministers, St Andrews House, Regent Road, Edinburgh, EH1 3DG”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-19">
+            <heading>Saving: acquisition of land by agreement commenced before appointed day</heading>
+            <num>19.</num>
+            <paragraph eId="regulation-19-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-19-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to—</p>
+               </intro>
+               <subparagraph eId="regulation-19-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the acquisition of land by agreement under section 39(a) of the 1967 Act which was commenced but not completed before the appointed day, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-19-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>any claim for compensation in connection with the rights or interests in land acquired under section 39 which is made but not determined before the appointed day.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-19-3">
+               <num>(3)</num>
+               <content>
+                  <p>The provisions are sections 30, 39, 48 and 49 and paragraph 2 of schedule 4(b) of the 1967 Act.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-19-4">
+               <num>(4)</num>
+               <intro>
+                  <p>For the purposes of this regulation—</p>
+               </intro>
+               <subparagraph eId="regulation-19-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the acquisition of land by agreement is “completed” when the deed effecting the transfer of title has been validly executed and delivered to the Scottish Ministers, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-19-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>a claim for compensation is “determined”—</p>
+                  </intro>
+                  <clause eId="regulation-19-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>by agreement of the parties, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-19-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in accordance with schedule 4 of the 1967 Act.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-20">
+            <heading>Saving: compulsory purchase proceedings commenced before the appointed day</heading>
+            <num>20.</num>
+            <paragraph eId="regulation-20-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-20-2">
+               <num>(2)</num>
+               <intro>
+                  <p>This paragraph applies to—</p>
+               </intro>
+               <subparagraph eId="regulation-20-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the compulsory purchase of land under sections 39 and 40(c) of the 1967 Act<noteRef href="#f00016" class="footnote" marker="16"/> which was commenced but not completed before the appointed day, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-20-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>any claim for compensation in connection with the rights or interests in land acquired under sections 39 and 40 which is made but not determined before the appointed day.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-20-3">
+               <num>(3)</num>
+               <content>
+                  <p>The provisions are sections 30, 39, 40, 48 and 49 and schedule 5(d) of the 1967 Act<noteRef href="#f00017" class="footnote" marker="17"/>.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-20-4">
+               <num>(4)</num>
+               <intro>
+                  <p>For the purposes of this regulation—</p>
+               </intro>
+               <subparagraph eId="regulation-20-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the compulsory purchase of land is “completed” when the compulsory purchase order is made and the period in which the validity of that order can be challenged in terms of paragraph 8 of schedule 5 has expired, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-20-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>a claim for compensation is “determined” by—</p>
+                  </intro>
+                  <clause eId="regulation-20-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>agreement of the parties under Part III of schedule 5 of the 1967 Act, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-20-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the Lands Tribunal for Scotland where any question of disputed compensation is referred to the Tribunal under section 8 of the Land Compensation (Scotland) Act 1963<noteRef href="#f00018" class="footnote" marker="18"/>.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-21">
+            <heading>Saving: grants and loans given under section 1 of the 1979 Act before the appointed day</heading>
+            <num>21.</num>
+            <paragraph eId="regulation-21-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where paragraph (2) applies, the provisions referred to in paragraph (3) continue to have effect, subject to the modifications referred to in paragraph (4), on and after the appointed day, as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-21-2">
+               <num>(2)</num>
+               <content>
+                  <p>This paragraph applies to a grant or loan made under section 1(1) of the 1979 Act<noteRef href="#f00019" class="footnote" marker="19"/> before the appointed day which continues to be paid on or after that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-21-3">
+               <num>(3)</num>
+               <intro>
+                  <p>The provisions are—</p>
+               </intro>
+               <subparagraph eId="regulation-21-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 41 of the 1967 Act<noteRef href="#f00020" class="footnote" marker="20"/>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-21-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 1 of the 1979 Act.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-21-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The modifications are—</p>
+               </intro>
+               <subparagraph eId="regulation-21-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>section 41 of the 1967 Act is to be read as if subsections (1) to (3A) and (5) to (9) were omitted, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-21-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>section 1 of the 1979 Act is to be read as if for subsection (1) there were substituted—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="primary" ukl:TargetSubClass="unknown" ukl:Context="main">
+                              <subsection>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>The Scottish Ministers may make grants and loans to owners and lessees of land in Scotland for and in connection with the use and management of the land for forestry purposes.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-22">
+            <heading>Saving: general</heading>
+            <num>22.</num>
+            <paragraph eId="regulation-22-1">
+               <num>(1)</num>
+               <content>
+                  <p>Despite the repeal of the 1967 Act by section 79(2) and schedule 2 of the 2018 Act on the appointed day, the provisions referred to in paragraph (2) continue to have effect as they did immediately before that day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-22-2">
+               <num>(2)</num>
+               <content>
+                  <p>The provisions are paragraphs 1, 2 and 4 of Part II of schedule 7 (repeals and savings).</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">FERGUS EWING</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-13">13th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations appoint 1 April 2019 as the day on which all of the provisions contained in the Forestry and Land Management (Scotland) Act 2018 (“the 2018 Act”), other than sections 76 to 78 and 82 to 86 of the 2018 Act (which came into force on 2 May 2018 by virtue of provision made in section 85(1) of the 2018 Act) will come into force. The regulations also make certain transitional and saving arrangements in consequence of those provisions coming into force.</p>
+            <blockContainer class="P1group">
+               <heading>Background</heading>
+               <p>The 2018 Act confers a range of functions on the Scottish Ministers in relation to forestry and the management of forested land and other land in Scotland.</p>
+               <p>Section 81 of the 2018 Act also provides that the functions of the Forestry Commissioners (including those related to the control of the felling of trees in Part II of the 1967 Act) which were exercisable immediately before the appointed date will no longer be exercisable in or as regards Scotland after that date.</p>
+               <p>Section 79 and schedule 2 of the 2018 Act provide for the repeal of the Forestry Act 1967 (“the 1967 Act”) and various other enactments on the appointed day.</p>
+            </blockContainer>
+            <blockContainer class="P1group">
+               <heading>The regulations</heading>
+               <p>Regulation 3 makes provision for most applications for a felling licence (under Part II of the 1967 Act) which were made but not determined before the appointed day to be treated, on and after the appointed day, as if they were applications for a felling permission under the 2018 Act. This does not apply to applications of the type referred to in regulation 3(2) (“the excepted cases”).</p>
+               <p>Regulation 4 provides that the relevant provisions within the 1967 Act will continue to have effect (with necessary modifications) for the purposes of determining the excepted cases.</p>
+               <p>Regulation 5 provides that (subject to certain limited exceptions in regulation 5(4)) a felling licence granted in an excepted case will be treated on and after the day it is granted as if it were a felling permission granted under section 27 of the 2018 Act.</p>
+               <p>Where a felling licence is refused, or is granted subject to conditions in an excepted case, regulation 6 preserves (subject to necessary modifications) the provisions within the 1967 Act which allow for such decisions to be reviewed.</p>
+               <p>Regulation 7 preserves (subject to necessary modifications) the provisions in the 1967 Act which deal with compensation for refusal to grant a felling licence for the purposes of any refusal to grant such a licence in the excepted cases.</p>
+               <p>Regulation 8 provides that where the Forestry Commissioners have referred an application for a licence to fell trees to which a tree preservation order relates to another party to determine under provisions contained in section 15 of the 1967 Act before the appointed day but the referral has not yet been determined, the relevant provisions of the 1967 Act are continued in effect for the purposes of allowing that determination to be made.</p>
+               <p>Regulation 9 provides that where an application for a licence to fell trees in accordance with a plan of works approved by the Forestry Commissioners was refused before the appointed day, the provisions in the 1967 Act which enable the applicant to ask the Forestry Commissioners to acquire the trees will continue to apply (subject to necessary modifications).</p>
+               <p>Regulation 10 provides that (subject to certain limited exceptions in regulation 10(3)) felling licences granted before the appointed day are to be treated on and after that day as if they were a felling permission granted under the 2018 Act and that any conditions attached to a felling licence are to be treated as if they were a condition imposed on a felling permission.</p>
+               <p>Regulation 11 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow an applicant who is given a felling licence subject to conditions before the appointed day to seek a review of that decision where the applicant has sent the notice requesting a review to the Commissioners under before the appointed day or where the period in which such a notice could be sent will not expire until after the appointed day.</p>
+               <p>Regulation 12 provides that (subject to certain limited exceptions in regulation 12(3)) where a felling licence is granted following a review (under the provisions of the 1967 act which are continued in effect for that purpose by regulations 6 and 11), it is to be treated, on and after the day it is granted, as a felling permission granted under the 2018 Act.</p>
+               <p>Regulation 13 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow an applicant who has been refused a felling licence to claim compensation where the applicant has sent a claim for compensation before the appointed day or where the period in which such a claim could be sent will not expire until after the appointed day.</p>
+               <p>Regulation 14 provides that (subject to certain limited exceptions in regulation 14(3)) any Land Management Plan or Forest Design Plan approved before the appointed day will be treated, on and after that date, as a felling permission granted under the 2018 Act.</p>
+               <p>Regulation 15 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow for enforcement of felling licence conditions, where such enforcement action has been commenced but not completed before the appointed day. Regulation 16 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow for appeals against enforcement of felling licence conditions.</p>
+               <p>Regulation 17 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow for enforcement of such a restocking notice and for an appeal against such enforcement.</p>
+               <p>Regulation 18 preserves (subject to necessary modifications) the provisions in the 1967 Act which allow for appeals against a restocking notice and a notice of compliance issued in relation to a restocking notice which are pending at the appointed day.</p>
+               <p>Regulations 19 and 20 preserve the provisions in the 1967 Act which enable the Scottish Ministers to acquire certain land by agreement or by compulsory purchase for the purposes of any such acquisition or compulsory purchase which was commenced but not completed before the appointed day and claim for compensation which was not made but not determined before the appointed day.</p>
+               <p>Regulation 21 preserves the provisions in the 1969 Act and the Forestry Act 1979 which enabled the making of grants and loans by Forestry Commissioners for the purposes of any grants or loans which were made before the appointed day and will continue to be paid after that day.</p>
+               <p>Regulation 22 preserves a number of provisions in the 1967 Act which were themselves preserved by the 1967 Act in consequence of the repeal of various enactments by section 50 and schedule 7 of the 1967 Act.</p>
+            </blockContainer>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/170"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/170"/>
+               <FRBRdate date="2019-05-15" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="170"/>
+               <FRBRname value="S.S.I. 2019/170"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/170/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/170/made"/>
+               <FRBRdate date="2019-05-15" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/170/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/170/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-15" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-17" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2019/1">2019 asp 1</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042151"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 170 (C. 4)</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Crown Estate</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Scottish Crown Estate Act 2019 (Commencement <abbr title="Number">No.</abbr> 1) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-15">15th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-17">17th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-01">1st June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 46(2) of the Scottish Crown Estate Act 2019<noteRef href="#f00001" class="footnote" marker="1"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Scottish Crown Estate Act 2019 (Commencement No.<span ukl:Name="NonBreakingSpace"> </span>1) Regulations 2019 and come into force on 1 June 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Appointed Day</heading>
+            <num>2.</num>
+            <intro>
+               <p>1 June 2019 is the day appointed for the coming into force of the following provisions of the Scottish Crown Estate Act 2019—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>section 2 (meaning of “Scottish Crown Estate”, “asset” and “manager”),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>section 22 (strategic management plan),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>section 23 (review of strategic plan),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-d">
+               <num>(d)</num>
+               <content>
+                  <p>section 37 (power of Ministerial direction),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-e">
+               <num>(e)</num>
+               <content>
+                  <p>section 38 (Ministerial guidance),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-f">
+               <num>(f)</num>
+               <content>
+                  <p>section 40 (provision of information or advice to the Scottish Ministers), and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-g">
+               <num>(g)</num>
+               <content>
+                  <p>section 41 (research and other activities).</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ROSEANNA CUNNINGHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-15">15th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations bring into force on 1 June 2019 sections 2 (meaning of “Scottish Crown Estate”, “asset” and “manager”), 22 (strategic management plan), 23 (review of strategic plan), 37 (power of Ministerial direction), 38 (Ministerial guidance), 40 (provision of information or advice to the Scottish Ministers) and 41 (research and other activities) of the Scottish Crown Estate Act 2019 (“the Act”).</p>
+            <p>The Act received Royal Assent on 15 January 2019. Sections 42 (regulations), 43 (ancillary provision), 45 (interpretation), 46 (commencement) and 47 (short title) of the Act came into force the following day.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/80"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/80"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="80"/>
+               <FRBRname value="S.S.I. 2019/80"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/80/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/80/made"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/80/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/80/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-07" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2008/426">S.S.I. 2008/426</ref>; relevant amending instrument is <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2015/181">S.S.I. 2015/181</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/2015/483">S.I. 2015/483</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2013/155">S.S.I. 2013/155</ref>; relevant amending instrument is <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2015/181">S.S.I. 2015/181</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2015/181">S.S.I. 2015/181</ref> to which there are amendments which are not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2017/102">S.S.I. 2017/102</ref> as amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2017/168">S.S.I. 2017/168</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ukpga/2008/32">2008 c.32</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2017/101">S.S.I. 2017/101</ref>, as amended by <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2017/168">S.S.I. 2017/168</ref> and <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2017/451">S.S.I. 2017/451</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041390"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 80</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Environmental Protection</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Town And Country Planning</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Electricity</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Town and Country Planning and Electricity Works (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-05">5th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-07">7th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and Commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 and come into force 7 days after exit day.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Town and Country Planning (Development Planning) (Scotland) Regulations 2008<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 1(2) (citation, commencement and interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after the definition of “the 2005 Act” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the 2015 Regulations” means the Control of Major Accident Hazards Regulations 2015<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the definition of “the Directive”, at the end insert “, as <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/2012/0018">Directive 2012/18/EU</ref> had effect immediately before exit day”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 3(2)(b)(iii) (information and considerations: strategic development plans) for “Article 5 of the Directive” substitute “regulation 5 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 10(2)(b)(iii) (information and considerations: local development plans) for “Article 5 of the Directive” substitute “regulation 5 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013<noteRef href="#f00004" class="footnote" marker="4"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 20A(1)(c), in inserted “Note 8”, from “consultations” to the end substitute “a requirement to provide information by virtue of regulation 20 of the 2015 Regulations, state that fact”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In schedule 5 (consultation by the planning authority)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph 4(b) at the end insert “, as <ref eId="c00002" href="http://www.legislation.gov.uk/european/directive/2012/0018">Directive 2012/18/EU</ref> had effect immediately before exit day”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2) of the text under the heading “Interpretation of Schedule 5”, at the end insert “, as it had effect immediately before exit day”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015<noteRef href="#f00005" class="footnote" marker="5"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-4-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after the definition of “the 2013 Regulations” insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“the 2015 Regulations” means the Control of Major Accident Hazards Regulations 2015;</p>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in the definition of “the Directive” at the end insert “, as <ref eId="c00003" href="http://www.legislation.gov.uk/european/directive/2012/0018">Directive 2012/18/EU</ref> had effect immediately before exit day”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2), for “amended from time to time” substitute “as it had effect immediately before exit day”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 6(2)(e) (applications for hazardous substances consent), from “consultations” to the end substitute “a requirement to provide information by virtue of regulation 20 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 9(3)(h) (neighbour notification by planning authorities), from “consultations” to the end substitute “a requirement to provide information by virtue of regulation 20 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 14(4)(a)(iv) (consultation before determination of applications), from “consultations” to the end substitute “a requirement to provide information by virtue of regulation 20 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-6">
+               <num>(6)</num>
+               <content>
+                  <p>In regulation 21(1)(b) (policies) after “Directive” insert “(with the reference in that Article to Article 5 of the Directive being read as a reference to regulation 5 of the 2015 Regulations)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-7">
+               <num>(7)</num>
+               <content>
+                  <p>In regulation 22(4) (plans and programmes), in the definition of “relevant plan or programme”, in both sub-paragraphs (a) and (b), after “pursuant to” insert “any provision of retained EU law which implemented”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-8">
+               <num>(8)</num>
+               <content>
+                  <p>In regulation 23(2)(a)(ii) (other planning approvals for projects), from “consultations” to the end substitute “a requirement to provide information by virtue of regulation 20 of the 2015 Regulations”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-9">
+               <num>(9)</num>
+               <content>
+                  <p>In regulation 57 (access to review procedure before a court), after “Directive” insert “as it had effect immediately before exit day.”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-10">
+               <num>(10)</num>
+               <content>
+                  <p>In regulation 60(2) (applications made before the commencement date) for “consultations between Member States in accordance with Article 14(3) of the Directive” substitute “a requirement to provide information by virtue of Article 14(3) of the Directive as it had effect immediately before exit day”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-11">
+               <num>(11)</num>
+               <content>
+                  <p>In Part 2 of schedule 1 (hazardous substances and controlled quantities), in paragraph 12(1) of the Notes to Parts 1 and 2, after “relating to aerosol dispensers” insert “, as that Directive had effect immediately before exit day”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017<noteRef href="#f00006" class="footnote" marker="6"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2(1) (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of the definition of “the CCS Directive” insert “, as <ref eId="c00004" href="http://www.legislation.gov.uk/european/directive/2009/0031">Directive 2009/31/EC</ref> had effect immediately before exit day”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>at the end of the definition of “the Directive” insert “, as it had effect immediately before exit day”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after the definition of “site of special scientific interest” insert “and”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>omit the definition of “Union legislation” and “and” immediately preceding it.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 4(3)(b) (environmental impact assessment), after “under” insert “any law that implemented”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 6(6) (<abbr class="acronym" title="Environmental Impact Assessment">EIA</abbr> Development), for “, in accordance with Article 2(4) of the Directive (but without prejudice to Article 7 of the Directive),” substitute “in exceptional cases”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 21(2)(b) (publication of EIA report), for “another” substitute “an”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-6">
+               <num>(6)</num>
+               <content>
+                  <p>In regulation 30(2)(b) (monitoring measures), for “Union legislation” substitute “retained EU law”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-7">
+               <num>(7)</num>
+               <intro>
+                  <p>In regulation 41 (development in Scotland likely to have significant effects in an <abbr class="acronym" title="European Economic Area">EEA</abbr> State other than the United Kingdom)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading, omit “other than the United Kingdom”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraphs (1)(a) and (1)(b), in each place it appears, omit “other than the United Kingdom”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-7-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (3)(a), for “another” substitute “an”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-7-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in paragraph (5)(a) for “in accordance with Article 6(1) of the Directive and” substitute “by the EEA State as authorities to be consulted and to”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-7-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>in paragraph (6)—</p>
+                  </intro>
+                  <clause eId="regulation-5-7-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “in accordance with Article 7(4) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-7-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in sub-paragraph (b) omit “other”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-8">
+               <num>(8)</num>
+               <intro>
+                  <p>In regulation 42 (projects in another EEA State likely to have significant transboundary effects)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-8-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading, for “another” substitute “an”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-8-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-5-8-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “other than the United Kingdom pursuant to Article 7(2) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-8-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>omit “, in accordance with Article 7(4) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-8-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>in sub-paragraph (b), from “to the competent authority” to the end substitute “representations to the competent authority in that EEA State”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-9">
+               <num>(9)</num>
+               <content>
+                  <p>In regulation 51 (access to review procedure before a court), at the end insert “(and for such purpose Article 11(1)(b) is to be read as if the reference to “a Member State” were a reference to “Scotland”).”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-10">
+               <num>(10)</num>
+               <intro>
+                  <p>In regulation 60 (revocations and transitional provisions)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (2), omit “as they did immediately before 16 May 2017”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (6) at the end insert “, subject to the modifications specified in paragraph (6A)”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-10-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after paragraph (6) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(6A)</num>
+                                 <intro>
+                                    <p>The 2011 regulations are to be read as if—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>in regulation 2(1) (interpretation)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>at the end of the definition of “the CCS Directive” the words “, as <ref eId="c00005" href="http://www.legislation.gov.uk/european/directive/2009/0031">Directive 2009/31/EC</ref> had effect immediately before exit day” were inserted,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>at the end of the definition of “the Directive” the words “, as it had effect immediately before exit day” were inserted,</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in regulation 5(4) (general provisions relating to screening), for “, in accordance with Article 2(4) of the Directive (but without prejudice to Article 7 of the Directive),” there were substituted “in exceptional cases”,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <intro>
+                                       <p>in regulation 36 (development in Scotland likely to have significant effects in an EEA other than the United Kingdom)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>in the heading, the words “other than the United Kingdom” were omitted,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in paragraphs (1)(a) and (b), the words “other than the United Kingdom” were omitted,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>in paragraph (2)(a), for “another” there were substituted “an”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iv)</num>
+                                       <content>
+                                          <p>in paragraph (4)(a), for the words “referred to in Article 6(1) of the Directive and” there were substituted “designated by the EEA State as authorities to be consulted and to”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(v)</num>
+                                       <intro>
+                                          <p>in paragraph (5)—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>the words “in accordance with Article 7(4) of the Directive” were omitted,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>in sub-paragraph (b) the word “other” were omitted,</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(d)</num>
+                                    <intro>
+                                       <p>in regulation 37 (projects in another EEA State likely to have significant transboundary effects)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>in the heading, for “another” there were substituted “an”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <intro>
+                                          <p>in paragraph (1)—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>the words “other than the United Kingdom pursuant to Article 7(2) of the Directive” were omitted,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>the words “, in accordance with Article 7(4) of the Directive” were omitted,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(cc)</num>
+                                          <content>
+                                             <p>in sub-paragraph (b), from “to the competent authority” to the end substitute “representations to the competent authority in that EEA State”,</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>in regulation 46 (access to review procedure before a court), after “Directive” there were inserted “(and for such purpose Article 11(1)(b) is to be read as if the reference to “a Member State” were a reference to “Scotland”).”,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(f)</num>
+                                    <intro>
+                                       <p>in schedule 1 (descriptions of development for the purposes of the definition of “Schedule 1 development”)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>in paragraph 21, after “pursuant to” there were inserted “Chapter 3 of Part 1 of the Energy Act 2008<noteRef href="#f00007" class="footnote" marker="7"/> and any law of any part of the United Kingdom that implemented”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in paragraph 22, for “pursuant to the CCS Directive” there were substituted “(pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented the CCS Directive)”,</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(g)</num>
+                                    <content>
+                                       <p>in schedule 2 (descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”), in item 3(j) in column 1 of the table, for “pursuant to the CCS Directive” there were substituted “(pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented the CCS Directive)”,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(h)</num>
+                                    <intro>
+                                       <p>in schedule 3 (selection criteria for screening schedule 2 development)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>paragraph 2(c)(v) were read as if the references to “Member States” were references to “Scotland”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in paragraph 2(c)(vi) for “Community legislation” there were substituted “retained EU law”.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-11">
+               <num>(11)</num>
+               <intro>
+                  <p>In schedule 1 (descriptions of development for the purposes of the definition of “schedule 1 development”)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-11-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph 9—</p>
+                  </intro>
+                  <clause eId="regulation-5-11-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after “certain Directives” insert “, as that Directive had effect immediately before exit day,”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-11-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “of that Directive” insert “, as it had effect immediately before exit day”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-5-11-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph 10 after <ref eId="c00006" href="http://www.legislation.gov.uk/european/directive/2008/0098">Directive 2008/98/EC</ref>” insert “, as that Directive had effect immediately before exit day,”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-11-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph 13 after “urban waste-water treatment” insert “, as that Directive had effect immediately before exit day”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-11-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in paragraph 22 after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-11-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>in paragraph 23 for “pursuant to the CCS Directive” insert “(pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented the CCS Directive)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-12">
+               <num>(12)</num>
+               <content>
+                  <p>In schedule 2 (descriptions of development and applicable thresholds and criteria for the purposes of the definition of “schedule 2 development”), in item 3(k) in column 1 of the table, for “pursuant to the CCS Directive” insert “(pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented the CCS Directive)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-13">
+               <num>(13)</num>
+               <content>
+                  <p>In schedule 3 (selection criteria for screening schedule 2 development), in paragraph 2(c)(vi), for “Union legislation” substitute “retained EU law”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-14">
+               <num>(14)</num>
+               <intro>
+                  <p>In schedule 4 (information for inclusion in environmental impact assessment reports)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-14-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph 5—</p>
+                  </intro>
+                  <clause eId="regulation-5-14-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “or Member State level” substitute “level (as they had effect immediately before exit day) or United Kingdom”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-14-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “those established under” insert “the law of any part of the United Kingdom that implemented”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-5-14-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph 8—</p>
+                  </intro>
+                  <clause eId="regulation-5-14-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “legislation of the European Union such as” substitute “retained EU law such as any law that implemented”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-5-14-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “requirements of” insert “any law that implemented”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017<noteRef href="#f00008" class="footnote" marker="8"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2(1) (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of the definition of “the Directive” add “, as it had effect immediately before exit day”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after the definition of “supplementary information” insert “and”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit the definition of “Union legislation” and “and” immediately following it.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 4(3)(b) (environmental impact assessment), after “under” insert “any law that implemented”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 6(6) (EIA development), for “, in accordance with Article 2(4) of the Directive (but without prejudice to Article 7 of the Directive),” substitute “in exceptional cases”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 14(2)(b) (publication of EIA report), for “another” substitute “an”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In regulation 22(2)(b) (monitoring measures)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “Union legislation” substitute “retained EU law”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after “requirements of” insert “any law that implemented”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-7">
+               <num>(7)</num>
+               <intro>
+                  <p>In regulation 29 (development in Scotland likely to have significant effects in an EEA state other than the United Kingdom)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading omit “other than the United Kingdom”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (1)(a) and (b), in each place it occurs, omit “other than the United Kingdom”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-7-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (3)(a) for “another” substitute “an”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-7-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>in paragraph (5)(a) for “in accordance with Article 6(1) of the Directive and” substitute “by the EEA State as authorities to be consulted and to”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-7-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>in paragraph (6)—</p>
+                  </intro>
+                  <clause eId="regulation-6-7-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “in accordance with Article 7(4) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-7-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in sub-paragraph (b) for “the other” substitute “that”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-8">
+               <num>(8)</num>
+               <intro>
+                  <p>In regulation 30 (projects in another EEA state likely to have significant transboundary effects)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-8-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading for “another” substitute “an”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-8-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-6-8-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>omit “other than the United Kingdom pursuant to Article 7(2) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-8-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>omit “, in accordance with Article 7(4) of the Directive”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-8-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>in sub-paragraph (b), from “to the competent authority” to the end substitute “representations to the competent authority in that EEA State”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-9">
+               <num>(9)</num>
+               <content>
+                  <p>In regulation 35 (access to review procedure before a court), at the end insert “(and for such purpose Article 11(1)(b) is to be read as if the reference to “a Member State” were a reference to “Scotland”).”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-10">
+               <num>(10)</num>
+               <content>
+                  <p>In schedule 3 (selection criteria for screening schedule 2 development), in paragraph 2(c)(vi), for “Union legislation” substitute “retained EU law”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-11">
+               <num>(11)</num>
+               <intro>
+                  <p>In schedule 4 (information for inclusion in environmental impact assessment reports)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-11-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph 5—</p>
+                  </intro>
+                  <clause eId="regulation-6-11-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “or Member State level” substitute “level (as they had effect immediately before exit day) or United Kingdom”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-11-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “those established under” insert “the law of any part of the United Kingdom that implemented”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-6-11-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph 8—</p>
+                  </intro>
+                  <clause eId="regulation-6-11-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “legislation of the European Union such as” substitute “retained EU law such as any law that implemented”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-6-11-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after “requirements of” insert “any law that implemented”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-05">5th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers in paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref> in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(d) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to legislation in the fields of environmental protection, town and country planning, electricity works, and hazardous substances.</p>
+            <p>Regulation 2 amends the Town and Country Planning (Development Planning) (Scotland) Regulations 2008; Regulation 3 amends the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013; Regulation 4 amends the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015; Regulation 5 amends the Town and Country Planning (Environmental Impact Assessment) Regulations 2017; and Regulation 6 amends the Electricity Works (Environmental Impact Assessment) Regulations 2017. The amendments made by these Regulations ensure that references to the relevant European Union Directives are amended to be references to the relevant Directive as it had effect immediately before exit day. References to specific Articles of the relevant Directives, “Member States”, “Union Legislation” and other references which will become redundant or will no longer apply are updated.</p>
+            <p>No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations, as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

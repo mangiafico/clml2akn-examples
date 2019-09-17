@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/149"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/149"/>
+               <FRBRdate date="2019-04-25" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="149"/>
+               <FRBRname value="S.S.I. 2019/149"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/149/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/149/made"/>
+               <FRBRdate date="2019-04-25" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/149/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/149/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-25" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-04-26" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-05" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2012/8">2012 asp 8</ref>. Section 99(1) was amended by <ref eId="c00002" href="http://www.legislation.gov.uk/id/uksi/2019/742">S.I. 2019/742</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <abbr title="Command Paper">Cmnd.</abbr> 1927.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>Cmnd. 6852.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Cmnd. 6854.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041994"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 149</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Police</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The International Joint Investigation Teams (International Agreements) (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-25">25th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-04-26">26th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-05">5th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 99(1) of the Police and Fire Reform (Scotland) Act 2012<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the International Joint Investigation Teams (International Agreements) (EU Exit) (Scotland) Order 2019 and comes into force on 5<sup/>June 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Specified international agreements</heading>
+            <num>2.</num>
+            <intro>
+               <p>The following international agreements are specified for the purposes of sections 24, 90, 91 and 96 of the Police and Fire Reform (Scotland) Act 2012—</p>
+            </intro>
+            <subparagraph eId="article-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>the United Nations Convention against Transnational Organised Crime 2000<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>the United Nations Convention against Corruption 2003<noteRef href="#f00004" class="footnote" marker="4"/>.</p>
+               </content>
+            </subparagraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">H YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-25">25th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order specifies the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988, the United Nations Convention against Transnational Organised Crime 2000 and the United Nations Convention against Corruption 2003 for the purposes of sections 24, 90, 91 and 96 of the Police and Fire Reform (Scotland) Act 2012 (“the 2012 Act”).</p>
+            <p>Specification under section 24 of the 2012 Act means that the chief constable is liable in respect of unlawful conduct on the part of a member of a joint investigation team convened under the relevant agreements, in carrying out (or purportedly carrying out) that person’s functions.</p>
+            <p>Specification under section 90 of the 2012 Act means that it is an offence to assault or impede a member of a joint investigation team convened under the relevant agreements and the penalties set out in that section apply.</p>
+            <p>Specification under section 91 of the 2012 Act means that it is an offence to remove a person from custody or to assist the escape of a person in custody, where that person is in the lawful custody of a member of an international joint investigation team convened under the relevant agreements or is in the act of eluding or escaping from such custody. The penalties set out in that section apply.</p>
+            <p>Specification under section 96 of the 2012 Act means that chapter 16 of the 2012 Act which makes provision in relation to independent custody visits applies to persons in lawful custody of a member of an international investigation team convened under the relevant agreements.</p>
+            <p>No business and regulatory impact assessment has been prepared for this Order as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

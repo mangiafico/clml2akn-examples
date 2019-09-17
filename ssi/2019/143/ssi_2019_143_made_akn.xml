@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/143"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/143"/>
+               <FRBRdate date="2019-04-17" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="143"/>
+               <FRBRname value="S.S.I. 2019/143"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/143/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/143/made"/>
+               <FRBRdate date="2019-04-17" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/143/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/143/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-17" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-11-11" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2002/13">2002 asp 13</ref>. Section 5(5) was substituted by section 1(1) of the Freedom of Information (Amendment) (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2013/2">2013 (asp 2)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2010/17">2010 asp 17</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>Section 165 was amended by section 98(4) of the Housing (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2014/14">2014 (asp 14)</ref>, paragraph 41 of schedule 3 of the Bankruptcy and Debt Advice (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2014/11">2014 (asp 11)</ref> and paragraph 27 of schedule 8 of the Bankruptcy (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2016/21">2016 (asp 21)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2001/10">2001 asp 10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>The Scottish Housing Regulator was established by section 1 of the Housing (Scotland) Act 2010.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041949"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 143</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Freedom Of Information</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Freedom of Information (Scotland) Act 2002 (Designation of Persons as Scottish Public Authorities) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-17">17th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-11-11">11th November 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 5(1) of the Freedom of Information (Scotland) Act 2002<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 72(2)(b) of that Act a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 5(5) of that Act the Scottish Ministers have consulted every person to whom the Order relates or persons appearing to them to represent such persons and such other persons as they consider appropriate.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Freedom of Information (Scotland) Act 2002 (Designation of Persons as Scottish Public Authorities) Order 2019 and comes into force on 11 November 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order, “the 2010 Act” means the Housing (Scotland) Act 2010<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Extension of coverage of the Freedom of Information (Scotland) Act 2002</heading>
+            <num>2.</num>
+            <content>
+               <p>The persons described in column 1 of the table in the schedule of this Order are designated under section 5(2)(a) of the Freedom of Information (Scotland) Act 2002 as a Scottish public authority in relation to the functions specified in column 2 of that table.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">GRAEME DEY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-17">17th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Article 2</p>
+                  </authorialNote>
+               </num>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.2pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 1</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Description of persons</i>
+                                    </p>
+                                 </th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 2</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Functions</i>
+                                    </p>
+                                 </th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="3" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">A registered social landlord as defined in section 165 of the 2010 Act<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00003" class="footnote" marker="3"/> and a connected body under section 164(c) of that Act.</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Any activity in relation to housing services as defined in section 165 of the 2010 Act, subject to the following—</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">
+                                    <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <item>
+                                          <num>(a)</num>
+                                          <p>paragraph (b) is limited to the management of housing accommodation for which a registered social landlord has, under the Housing (Scotland) Act 2001<noteRef href="#f00004" class="footnote" marker="4"/>, granted a Scottish secure tenancy as defined in section 11 or a short Scottish secure tenancy as defined in section 34 of that Act, and</p>
+                                       </item>
+                                       <item>
+                                          <num>(b)</num>
+                                          <p>omit paragraph (c).</p>
+                                       </item>
+                                    </blockList>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The supply of information to the Scottish Housing Regulator<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00005" class="footnote" marker="5"/> by a registered social landlord or a connected body in relation to its financial well-being and standards of governance.</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order makes provision for the extension of coverage of the Freedom of Information (Scotland) Act 2002 (“the 2002 Act”) under section 5 of that Act.</p>
+            <p>Section 5 of the 2002 Act enables the Scottish Ministers to designate as Scottish public authorities by order any person who is neither listed in schedule 1 of the 2002 Act (nor capable of being added to that schedule by an order under section 4(1)), is neither a public body nor the holder of a public office, and who appears to the Scottish Ministers to exercise functions of a public nature or is providing, under contract to a Scottish public authority, any service whose provision is a function of that authority.</p>
+            <p>Article 2 designates registered social landlords and certain connected bodies as persons who appear to the Scottish Ministers to exercise functions of a public nature under section 5(2)(a) of the 2002 Act in accordance with the descriptions and functions set out in the table in the schedule.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

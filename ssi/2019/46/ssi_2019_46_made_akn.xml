@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/46"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/46"/>
+               <FRBRdate date="2019-02-13" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="46"/>
+               <FRBRname value="S.S.I. 2019/46"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/46/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/46/made"/>
+               <FRBRdate date="2019-02-13" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/46/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/46/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-13" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-15" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1972/11">1972 c.11</ref>. Section 10 was amended by Part II of schedule 7 of the National Health Service (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1972/58">1972 (c.58)</ref>, sections 4(2) and 8(5) and (6) of the Pensions (Miscellaneous Provisions) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1990/7">1990 (c.7)</ref>, paragraph 7 of schedule 8 of the Pension Schemes Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1993/48">1993 (c.48)</ref>, paragraph 10 of schedule 8 of the Public Service Pensions Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2013/25">2013 (c.25)</ref> and <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2001/3649">S.I. 2001/3649</ref>. The functions of the Secretary of State, in or as regards Scotland, were transferred to the Scottish Ministers by virtue of article 2 and schedule 1 of <ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/1999/1750">S.I. 1999/1750</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/2013/25">2013 c.25</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The pension scheme established by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2015/94">S.S.I. 2015/94</ref> is to be known in terms of regulation 2(2) of that instrument as the NHS Pension Scheme (Scotland) 2015.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>The function of the Minister under section 10(1) of the Superannuation Act 1972 was transferred to the Treasury by <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1981/1670">S.I. 1981/1670</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2011/117">S.S.I. 2011/117</ref>, relevantly amended by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2012/163">S.S.I. 2012/163</ref>, <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2013/109">S.S.I. 2013/109</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2014/43">S.S.I. 2014/43</ref>, <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2014/154">S.S.I. 2014/154</ref>, <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref>, <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2016/98">S.S.I. 2016/98</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2017/27">S.S.I. 2017/27</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Table 4 was inserted by regulation 3 of <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Paragraph (2A) was inserted by regulation 3 of <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Paragraph (4) was amended by regulation 7 of <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Table 5 was inserted by regulation 6 of <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2013/174">S.S.I. 2013/174</ref>, relevantly amended by <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2015/95">S.S.I. 2015/95</ref>, <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref>, <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2016/98">S.S.I. 2016/98</ref>, <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2017/27">S.S.I. 2017/27</ref> and <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Table 4 was inserted by regulation 10 of <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Paragraph (4) was amended by regulation 28 of <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>Paragraph (13) was substituted by <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref> and was last amended by <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2017/434">S.S.I. 2017/434</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Paragraph (4) was amended by regulation 40 of <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2015/96">S.S.I. 2015/96</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2015/94">S.S.I. 2015/94</ref>, relevantly amended by <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2016/97">S.S.I. 2016/97</ref>, <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2017/28">S.S.I. 2017/28</ref> and <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2017/433">S.S.I. 2017/433</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Table 4 was inserted by regulation 3 of <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2017/433">S.S.I. 2017/433</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>Sub-paragraph (d) was inserted by regulation 4 of <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2017/433">S.S.I. 2017/433</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>Table 4 was inserted by regulation 4 of <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2017/433">S.S.I. 2017/433</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>
+                  <ref eId="c00042" href="http://www.legislation.gov.uk/id/ssi/2018/124">S.S.I. 2018/124</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040898"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 46</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Health Service</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-13">13th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-15">15th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 10 and schedule 3 of the Superannuation Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and section 1(1) and (2)(e) and paragraph 5(b) of schedule 2 of the Public Service Pensions Act 2013<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 10(4) of the Superannuation Act 1972, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to them to be appropriate.</p>
+         <p>In accordance with section 22(2)(a) of the Public Service Pensions Act 2013, the Scottish Ministers consulted the representatives of such persons as appeared to them likely to be affected by these Regulations. In accordance with section 22(2)(b) of that Act, the Scottish Ministers laid before the Scottish Parliament a report concerning the changes to the members’ contribution rates under the <abbr class="acronym" title="National Health Service">NHS</abbr> Pension Scheme (Scotland) 2015<noteRef href="#f00003" class="footnote" marker="3"/> made by these Regulations.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 10(1) of the Superannuation Act 1972 and section 3(5) of the Public Service Pensions Act 2013, these Regulations are made with the consent of the Treasury<noteRef href="#f00004" class="footnote" marker="4"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introductory</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 and come into force on 1<span ukl:Name="NonBreakingSpace"> </span>April<span ukl:Name="NonBreakingSpace"> </span>2019.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>General</heading>
+               <num>2.</num>
+               <content>
+                  <p>The National Health Service Superannuation Scheme (Scotland) Regulations 2011<noteRef href="#f00005" class="footnote" marker="5"/> are amended in accordance with regulations 3 to 5.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Amendment of regulation D1</heading>
+               <num>3.</num>
+               <intro>
+                  <p>In regulation D1 (contributions by members)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="regulation-3-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after sub-paragraph (d), insert—<mod>
+                              <quotedText startQuote="“">;</quotedText>
+                              <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <subparagraph>
+                                    <num>(e)</num>
+                                    <content>
+                                       <p>for the scheme year 2019-20 is the percentage specified in column 2 of table 5 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.</p>
+                                    </content>
+                                 </subparagraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">; and</inline>
+                        </p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after Table 4<noteRef href="#f00006" class="footnote" marker="6"/>, insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                                 <tblock class="tabular" ukl:Orientation="portrait">
+                                    <num>Table 5</num>
+                                    <foreign>
+                                       <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                          <colgroup>
+                                             <col width="199pt"/>
+                                             <col width="199pt"/>
+                                          </colgroup>
+                                          <thead>
+                                             <tr>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                             </tr>
+                                             <tr>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable pay band</th>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Up to £17,864</td>
+                                                <td rowspan="1" colspan="1">5.2%</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                                <td rowspan="1" colspan="1">5.8%</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                                <td rowspan="1" colspan="1">7.3%</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                                <td rowspan="1" colspan="1">9.5%</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                                <td rowspan="1" colspan="1">12.7%</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                                <td rowspan="1" colspan="1">13.7%</td>
+                                             </tr>
+                                             <tr>
+                                                <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 to any higher amount</td>
+                                                <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </foreign>
+                                 </tblock>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">;</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2A)<noteRef href="#f00007" class="footnote" marker="7"/>—</p>
+                  </intro>
+                  <clause eId="regulation-3-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “2018-19”, substitute “2019-20”; and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “table 4”, substitute “table 5”; and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in each of paragraphs (20), (21)(a) and (25)(b), for “table 4” substitute “table 5”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Amendment of regulation D2</heading>
+               <num>4.</num>
+               <content>
+                  <p>In regulation D2 (contributions and other payments by employing authorities), in paragraph (4), for “14.9” substitute “20.9”<noteRef href="#f00008" class="footnote" marker="8"/>.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Amendment of paragraph 14 of schedule 1</heading>
+               <num>5.</num>
+               <intro>
+                  <p>In paragraph 14 (contributions to this section of the scheme) of schedule 1 (medical and dental practitioners), in sub-paragraph (2)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph (e), insert—<mod>
+                           <quotedText startQuote="“">;</quotedText>
+                           <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(f)</num>
+                                 <content>
+                                    <p>in respect of the 2019-2020 scheme year, table 6</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after Table 5<noteRef href="#f00009" class="footnote" marker="9"/>, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <num>Table 6: Scheme Year 2019-20</num>
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                       <colgroup>
+                                          <col width="199pt"/>
+                                          <col width="199pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable earnings band</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">Up to £17,864</td>
+                                             <td rowspan="1" colspan="1">5.2%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                             <td rowspan="1" colspan="1">5.8%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                             <td rowspan="1" colspan="1">7.3%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                             <td rowspan="1" colspan="1">9.5%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                             <td rowspan="1" colspan="1">12.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                             <td rowspan="1" colspan="1">13.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 to any higher amount</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Amendment of the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013</heading>
+            <hcontainer name="regulation" eId="regulation-6">
+               <heading>General</heading>
+               <num>6.</num>
+               <content>
+                  <p>The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013<noteRef href="#f00010" class="footnote" marker="10"/> are amended in accordance with regulations 7 to 11.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <heading>Amendment of regulation 2.C.2</heading>
+               <num>7.</num>
+               <intro>
+                  <p>In regulation 2.C.2 (contribution rate for members other than non-GP providers), in paragraph (2)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after sub-paragraph (d), insert—<mod>
+                           <quotedText startQuote="“">;</quotedText>
+                           <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(e)</num>
+                                 <content>
+                                    <p>for the scheme year 2019-20 is the percentage specified in column 2 of table 5 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after Table 4<noteRef href="#f00011" class="footnote" marker="11"/>, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <num>Table 5</num>
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                       <colgroup>
+                                          <col width="199pt"/>
+                                          <col width="199pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable pay band</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">Up to £17,864</td>
+                                             <td rowspan="1" colspan="1">5.2%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                             <td rowspan="1" colspan="1">5.8%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                             <td rowspan="1" colspan="1">7.3%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                             <td rowspan="1" colspan="1">9.5%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                             <td rowspan="1" colspan="1">12.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                             <td rowspan="1" colspan="1">13.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 to any higher amount</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <heading>Amendment of regulation 2.C.3</heading>
+               <num>8.</num>
+               <content>
+                  <p>In regulation 2.C.3 (determination of pensionable pay for the purposes of setting a contribution rate for members other than non-GP providers), in each of paragraphs (16), (17)(a) and (21)(b), for “table 4” substitute “table 5”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <heading>Amendment of regulation 2.C.5</heading>
+               <num>9.</num>
+               <content>
+                  <p>In regulation 2.C.5 (contributions by employing authorities: general), in paragraph (4), for “14.9%” substitute “20.9%”<noteRef href="#f00012" class="footnote" marker="12"/>.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <heading>Amendment of regulation 3.C.2</heading>
+               <num>10.</num>
+               <intro>
+                  <p>In regulation 3.C.2 (members’ contribution rate), in paragraph (13)<noteRef href="#f00013" class="footnote" marker="13"/>—</p>
+               </intro>
+               <subparagraph eId="regulation-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after sub-paragraph (e), insert—<mod>
+                           <quotedText startQuote="“">;</quotedText>
+                           <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(f)</num>
+                                 <content>
+                                    <p>in respect of the 2019-20 scheme year, table 6</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after Table 5, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <num>Table 6: Scheme Year 2019-20</num>
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                       <colgroup>
+                                          <col width="199pt"/>
+                                          <col width="199pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable earnings band</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">Up to £17,864</td>
+                                             <td rowspan="1" colspan="1">5.2%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                             <td rowspan="1" colspan="1">5.8%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                             <td rowspan="1" colspan="1">7.3%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                             <td rowspan="1" colspan="1">9.5%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                             <td rowspan="1" colspan="1">12.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                             <td rowspan="1" colspan="1">13.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 to any higher amount</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <heading>Amendment of regulation 3.C.3</heading>
+               <num>11.</num>
+               <content>
+                  <p>In regulation 3.C.3 (contributions by employing authorities: general), in paragraph (4), for “14.9%” substitute “20.9%”<noteRef href="#f00014" class="footnote" marker="14"/>.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2015</heading>
+            <hcontainer name="regulation" eId="regulation-12">
+               <heading>General</heading>
+               <num>12.</num>
+               <content>
+                  <p>The National Health Service Pension Scheme (Scotland) Regulations 2015<noteRef href="#f00015" class="footnote" marker="15"/> are amended in accordance with regulations 13 to 15.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-13">
+               <heading>Amendment of regulation 30</heading>
+               <num>13.</num>
+               <intro>
+                  <p>In regulation 30 (members’ contributions: employees), in paragraph (3)—</p>
+               </intro>
+               <subparagraph eId="regulation-13-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after sub-paragraph (d), insert—<mod>
+                           <quotedText startQuote="“">;</quotedText>
+                           <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(e)</num>
+                                 <content>
+                                    <p>for the scheme year 2019/20 is the percentage specified in column 2 of Table 5 below in respect of the corresponding pensionable earnings band specified in column 1 into which M’s pensionable earnings fall</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-13-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after Table 4<noteRef href="#f00016" class="footnote" marker="16"/>, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <num>Table 5</num>
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                       <colgroup>
+                                          <col width="199pt"/>
+                                          <col width="199pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable earnings band</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">Up to £17,864</td>
+                                             <td rowspan="1" colspan="1">5.2%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                             <td rowspan="1" colspan="1">5.8%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                             <td rowspan="1" colspan="1">7.3%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                             <td rowspan="1" colspan="1">9.5%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                             <td rowspan="1" colspan="1">12.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                             <td rowspan="1" colspan="1">13.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 and above</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-14">
+               <heading>Amendment of regulation 31</heading>
+               <num>14.</num>
+               <intro>
+                  <p>In regulation 31 (members’ contributions: practitioners and non-GP providers)—</p>
+               </intro>
+               <subparagraph eId="regulation-14-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (3), after sub-paragraph (d)<noteRef href="#f00017" class="footnote" marker="17"/>, insert—<mod>
+                           <quotedText startQuote="“">;</quotedText>
+                           <quotedStructure endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <subparagraph>
+                                 <num>(e)</num>
+                                 <content>
+                                    <p>for the scheme year 2019/20 is the percentage specified in column 2 of Table 5 in paragraph (9) in respect of the corresponding pensionable earnings band specified in column 1 into which M’s pensionable earnings fall</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">; and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-14-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (9), after Table 4<noteRef href="#f00018" class="footnote" marker="18"/>, insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <tblock class="tabular" ukl:Orientation="portrait">
+                                 <num>Table 5</num>
+                                 <foreign>
+                                    <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                       <colgroup>
+                                          <col width="199pt"/>
+                                          <col width="199pt"/>
+                                       </colgroup>
+                                       <thead>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                          </tr>
+                                          <tr>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Pensionable earnings band</th>
+                                             <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Contribution percentage rate</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">Up to £17,864</td>
+                                             <td rowspan="1" colspan="1">5.2%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£17,865 to £23,112</td>
+                                             <td rowspan="1" colspan="1">5.8%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£23,113 to £28,747</td>
+                                             <td rowspan="1" colspan="1">7.3%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£28,748 to £53,025</td>
+                                             <td rowspan="1" colspan="1">9.5%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£53,026 to £75,703</td>
+                                             <td rowspan="1" colspan="1">12.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td rowspan="1" colspan="1">£75,704 to £116,360</td>
+                                             <td rowspan="1" colspan="1">13.7%</td>
+                                          </tr>
+                                          <tr>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£116,361 and above</td>
+                                             <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">14.7%</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </foreign>
+                              </tblock>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-15">
+               <heading>Amendment of regulation 32</heading>
+               <num>15.</num>
+               <content>
+                  <p>In regulation 32 (contributions by employing authorities), in paragraph (1), for “14.9%” substitute “20.9%”.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-5">
+            <num>PART 5</num>
+            <heading>Amendment of the National Health Service Pension Scheme (Scotland) (Additional Voluntary Contributions) Regulations 2018</heading>
+            <hcontainer name="regulation" eId="regulation-16">
+               <heading>General</heading>
+               <num>16.</num>
+               <content>
+                  <p>The National Health Service Pension Scheme (Scotland) (Additional Voluntary Contributions) Regulations 2018<noteRef href="#f00019" class="footnote" marker="19"/> are amended in accordance with regulations 17 to 20.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-17">
+               <heading>Amendment of regulation 2</heading>
+               <num>17.</num>
+               <content>
+                  <p>In regulation 2 (interpretation), in paragraph (1), in paragraph (a) of the meaning corresponding to the word or expression “normal benefit age”, for “regulation 3” substitute “regulation 4”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-18">
+               <heading>Amendment of regulation 4</heading>
+               <num>18.</num>
+               <content>
+                  <p>In regulation 4 (making and acceptance of elections), in paragraph (8) omit “Scotland”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-19">
+               <heading>Amendment of regulation 9</heading>
+               <num>19.</num>
+               <content>
+                  <p>In regulation 9 (inward transfers), in paragraph (1) after “additional voluntary contribution” insert “scheme”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-20">
+               <heading>Amendment of regulation 15</heading>
+               <num>20.</num>
+               <content>
+                  <p>In regulation 15 (payments by the Scottish Ministers), in paragraph (1) for “regulation 11(1)” substitute “regulation 12(1)”.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signatureGroup">
+               <hcontainer name="signature">
+                  <content>
+                     <block name="signee">
+                        <person refersTo="#">KATE FORBES</person>
+                     </block>
+                     <block name="jobTitle">
+                        <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                     </block>
+                     <blockContainer uk:name="address" class="address">
+                        <p>
+                           <location refersTo="#">St Andrew’s House,</location>
+                        </p>
+                        <p>
+                           <location refersTo="#">Edinburgh</location>
+                        </p>
+                     </blockContainer>
+                     <block name="date">
+                        <date date="2019-02-05">5th February 2019</date>
+                     </block>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+            <hcontainer name="signatureGroup">
+               <intro>
+                  <p>We consent</p>
+               </intro>
+               <hcontainer name="signature">
+                  <content>
+                     <block name="signee">
+                        <person refersTo="#">MIKE FREER</person>
+                     </block>
+                     <block name="signee">
+                        <person refersTo="#">CRAIG WHITTAKER</person>
+                     </block>
+                     <block name="jobTitle">
+                        <role refersTo="#">Two of the Lords Commissioners of her Majesty’s Treasury</role>
+                     </block>
+                     <block name="date">
+                        <date date="2019-02-13">13th February 2019</date>
+                     </block>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the National Health Service Superannuation Scheme (Scotland) Regulations 2011 and the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 to insert updated employee contribution bands for the scheme year 2019-20.</p>
+            <p>These Regulations also amend the National Health Service Pension Scheme (Scotland) Regulations 2015 (“the 2015 Regulations”) and the National Health Service Pension Scheme (Scotland) (Additional Voluntary Contributions) Regulations 2018 (“the 2018 Regulations”).</p>
+            <p>The amendments made to the 2015 Regulations include inserting new tables reflecting revised employee contribution rates for 2019/20. The amendments to the 2018 Regulations correct some minor drafting errors in those regulations.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

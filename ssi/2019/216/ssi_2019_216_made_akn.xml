@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/216"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/216"/>
+               <FRBRdate date="2019-06-19" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="216"/>
+               <FRBRname value="S.S.I. 2019/216"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/216/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/216/made"/>
+               <FRBRdate date="2019-06-19" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/216/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/216/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-19" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-07-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2016/19">2016 asp 19</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1995/36">1995 c.36</ref>. Section 17(6) was amended by paragraph 9(4)(b) of schedule 2 of the Adoption and Children (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2007/4">2007 asp 4</ref>, paragraph 2(4) of schedule 5 of the Children’s Hearings (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2011/1">2011 asp 1</ref> and paragraph 9(3) of schedule 1 of <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2013/211">S.S.I. 2013/211</ref>. Section 29(7) was amended by section 73(1)(b) of the Regulation of Care (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2001/8">2001 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 asp 10</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042472"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 216</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Housing</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Private Housing (Tenancies) (Scotland) Act 2016 (Modification of Schedule 1) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-19">19th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-07-01">1st July 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(1) and 76(1) of the Private Housing (Tenancies) (Scotland) Act 2016<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 6(2) of that Act, the Scottish Ministers have consulted such persons representing the interests of tenants and landlords under private residential tenancies as they think fit.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 77(3) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Private Housing (Tenancies) (Scotland) Act 2016 (Modification of Schedule 1) Regulations 2019 and come into force on 1 July 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In these Regulations, “the Act” means the Private Housing (Tenancies) (Scotland) Act 2016.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Modification of schedule 1 of the Private Housing (Tenancies) (Scotland) Act 2016</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Schedule 1 of the Act (tenancies which cannot be private residential tenancies) is modified in accordance with paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>At the end of schedule 1 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>22.</num>
+                              <heading>
+                                 <i>Accommodation for veterans and care leavers</i>
+                              </heading>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A tenancy cannot be a private residential tenancy if the landlord is—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>a charity providing accommodation to veterans, or</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>a charity providing temporary accommodation to a care leaver.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <intro>
+                                    <p>For the purposes of this paragraph—</p>
+                                 </intro>
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“care leaver” is a person who—</p>
+                                       <blockList>
+                                          <item>
+                                             <num>(a)</num>
+                                             <p>is under the age of 26 years,</p>
+                                          </item>
+                                          <item>
+                                             <num>(b)</num>
+                                             <p>was on that person’s sixteenth birthday or at any subsequent time looked after by a local authority, and</p>
+                                          </item>
+                                          <item>
+                                             <num>(c)</num>
+                                             <p>is no longer looked after by a local authority; and “looked after” is to be construed in accordance with sections 17(6) (duty of local authority to child looked after by them) and 29(7) (after-care) of the Children (Scotland) Act 1995<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                                          </item>
+                                       </blockList>
+                                    </content>
+                                 </hcontainer>
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“charity” has the meaning given in section 106 of the Charities and Trustee Investment (Scotland) Act 2005<noteRef href="#f00003" class="footnote" marker="3"/>, and</p>
+                                    </content>
+                                 </hcontainer>
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“veteran” means a person who has served—</p>
+                                       <blockList>
+                                          <item>
+                                             <num>(a)</num>
+                                             <p>for at least one day in Her Majesty’s Armed Forces (regular and reserve), or</p>
+                                          </item>
+                                          <item>
+                                             <num>(b)</num>
+                                             <p>as a member of the Merchant Navy on a civilian vessel while supporting the Armed Forces.</p>
+                                          </item>
+                                       </blockList>
+                                    </content>
+                                 </hcontainer>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Saving provision</heading>
+            <num>3.</num>
+            <content>
+               <p>The modification to schedule 1 of the Act made by regulation 2 has no effect in relation to any private residential tenancy granted before 1 July 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-06-19">19th June 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations modify schedule 1 of the Private Housing (Tenancies) (Scotland) Act 2016 (“2016 Act”). Schedule 1 lists a number of types of tenancy which cannot be a private residential tenancy, with the effect that the 2016 Act does not apply to those tenancies.</p>
+            <p>Regulation 2 adds accommodation provided to veterans and care leavers to schedule 1 and regulation 3 makes a saving provision for any private residential tenancies created prior to the coming into force date of these Regulations.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

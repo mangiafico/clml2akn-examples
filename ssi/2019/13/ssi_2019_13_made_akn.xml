@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/13"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/13"/>
+               <FRBRdate date="2019-01-22" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="13"/>
+               <FRBRname value="S.S.I. 2019/13"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/13/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/13/made"/>
+               <FRBRdate date="2019-01-22" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/13/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/13/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-22" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-01-24" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-08" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1948/29">1948 c.29</ref> (11 and 12 Geo.6) (“the 1948 Act”). Section 64(1) of the National Assistance Act 1948 contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. Section 87(4) of the Social Work (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1968/49">1968 (c.49)</ref> substitutes the term “Secretary of State” for the term “Minister”. The functions of the Secretary of State so far as exercisable within devolved competence were transferred to the Scottish Ministers by section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1968/49">1968 c.49</ref> (“the 1968 Act”). Section 87(3) of the 1968 Act was amended by section 28(1) of the Mental Health (Care and Treatment) (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2003/13">2003 (asp 13)</ref> (“the 2003 Act”) and by section 62(2) of the Adult Support and Protection (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2007/10">2007 (asp 10)</ref>. Section 87(4) of the 1968 Act was amended by section 28(1) of the 2003 Act. By virtue of section 87(3) of the 1968 Act, accommodation provided under that Act or under section 25 of the 2003 Act is regarded as accommodation provided under Part III of the 1948 Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2018/41">S.S.I. 2018/41</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040607"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 13</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Assistance Services</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-22">22nd January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-01-24">24th January 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-08">8th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 22(4) of the National Assistance Act 1948<noteRef href="#f00001" class="footnote" marker="1"/>, as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968<noteRef href="#f00002" class="footnote" marker="2"/>, and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2019 and come into force on 8 April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Sum needed for personal requirements</heading>
+            <num>2.</num>
+            <content>
+               <p>For the purpose of section 22(4) of the National Assistance Act 1948, as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968 (the amount which a local authority shall assume that a person will need for their personal requirements per week), the amount is £27.75.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Revocation</heading>
+            <num>3.</num>
+            <content>
+               <p>The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2018<noteRef href="#f00003" class="footnote" marker="3"/> are revoked.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-22">22nd January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>Section 22(4) of the National Assistance Act 1948 as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968 (“the 1968 Act”) requires a local authority to assume in assessing a person’s liability to pay for accommodation provided under the 1968 Act or section 25 of the Mental Health (Care and Treatment) (Scotland) Act 2003 that the person will need for their personal requirements such sum per week as may be prescribed by regulations.</p>
+            <p>These Regulations prescribe the sum which will be £27.75 per week from 8 April 2019.</p>
+            <p>These Regulations revoke the National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2018 which previously prescribed £27.00 as the sum persons were assumed to need for personal requirements per week with effect from 9 April 2018.</p>
+            <p>No Business and Regulatory Impact Assessment has been prepared in respect of these Regulations on the basis that there is no foreseeable impact on business, charities or voluntary bodies.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

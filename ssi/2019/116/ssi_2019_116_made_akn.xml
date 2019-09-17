@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/116"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/116"/>
+               <FRBRdate date="2019-03-22" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="116"/>
+               <FRBRname value="S.S.I. 2019/116"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/116/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/116/made"/>
+               <FRBRdate date="2019-03-22" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/116/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/116/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-22" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-22" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-31" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref>. Section 153 was amended by section 67 of the Climate Change (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2009/12">2009 (asp 12)</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2019/40">S.S.I. 2019/40</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041727"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 116</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-22">22nd March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-22">22nd March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-31">31st March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Amendment Regulations 2019 and come into force on 31 March 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>For the formula in regulation 10(5)(b) substitute the formula—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <p>
+                              <subFlow name="inlineMathWrapper">
+                                 <foreign>
+                                    <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="http://www.legislation.gov.uk/ssi/2019/116/images/ssi_20190116_en_001">
+                                       <semantics>
+                                          <mrow>
+                                             <mfrac>
+                                                <mrow>
+                                                   <mi>B</mi>
+                                                   <mi>L</mi>
+                                                   <mo>×</mo>
+                                                   <mn>1.527</mn>
+                                                   <mo>×</mo>
+                                                   <mi>A</mi>
+                                                   <mi>R</mi>
+                                                   <mi>V</mi>
+                                                </mrow>
+                                                <mrow>
+                                                   <mn>366</mn>
+                                                   <mo>×</mo>
+                                                   <mi>R</mi>
+                                                   <mi>V</mi>
+                                                </mrow>
+                                             </mfrac>
+                                          </mrow>
+                                          <annotation encoding="MathType-MTEF"/>
+                                       </semantics>
+                                    </math>
+                                 </foreign>
+                              </subFlow>
+                           </p>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-22">22nd March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019.</p>
+            <p>These Regulations replace the formula at regulation 10(5)(b) in those Regulations, so that when they come into force on 1 April 2019, the formula is as it should be.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

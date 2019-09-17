@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/62"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/62"/>
+               <FRBRdate date="2019-02-20" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="62"/>
+               <FRBRname value="S.S.I. 2019/62"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/62/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/62/made"/>
+               <FRBRdate date="2019-02-20" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/62/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/62/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-20" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 asp 1</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041192"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 62</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Housing</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Housing (Scotland) Act 2006 (Supplemental Provision) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-20">20th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-01">1st March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 190 of the Housing (Scotland) Act 2006<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 191(4)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Housing (Scotland) Act 2006 (Supplemental Provision) Order 2019 and comes into force on 1 March 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Supplemental provision modifying section 16 of the Housing (Scotland) Act 2006</heading>
+            <num>2.</num>
+            <content>
+               <p>In section 16 (exceptions to landlord’s repairing duty) of the Housing (Scotland) Act 2006 at the end insert—<mod>
+                     <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                        <subsection>
+                           <num>(5)</num>
+                           <content>
+                              <p>For the purpose of subsection (4), in relation to any work intended to be carried out to parts owned in common with other owners but where a majority of the owners has not consented to the intended work, a landlord is to be treated as lacking necessary rights.</p>
+                           </content>
+                        </subsection>
+                     </quotedStructure>
+                  </mod>
+                  <inline name="AppendText">.</inline>
+               </p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-20">20th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order makes supplemental provision modifying the Housing (Scotland) Act 2006 (“the 2006 Act”).</p>
+            <p>Section 16 of the 2006 Act sets out exceptions to the landlord’s duty to repair under section 14(1) of the 2006 Act. Article 2 modifies section 16 to clarify that, for the purposes of subsection (4) of that section, a landlord lacks the necessary rights to repair common parts pertaining to the house where there is no consent by a majority of the owners of those common parts.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

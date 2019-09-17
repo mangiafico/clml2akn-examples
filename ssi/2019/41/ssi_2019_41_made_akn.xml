@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/41"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/41"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="41"/>
+               <FRBRname value="S.S.I. 2019/41"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/41/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/41/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/41/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/41/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref>. Section 153 was amended by section 67 of the Climate Change (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2009/12">2009 (asp 12)</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2016/122">S.S.I. 2016/122</ref>, which was amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2018/63">S.S.I. 2018/63</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041017"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 41</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rates (Telecommunication Installations) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d2566e188">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Non-Domestic Rates (Telecommunication Installations) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d2566e206">
+            <heading>Amendment of the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <paragraph eId="regulation-2-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Non-Domestic Rates (Telecommunications Installations) (Scotland) Regulations 2016<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In regulation 2 (interpretation), for the entry for “Mobile Masts Pilot Area” substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Mobile Masts Pilot Area” means an area that is—</p>
+                                    <blockList>
+                                       <item>
+                                          <num>(a)</num>
+                                          <p>described by grid co-ordinates in a document entitled “Non-Domestic Rates Relief – Mobile Masts Pilot Extension – Eligible Grid References” and dated 30 January 2019, or</p>
+                                       </item>
+                                       <item>
+                                          <num>(b)</num>
+                                          <p>delineated in orange on one of the following maps—</p>
+                                          <blockList>
+                                             <item>
+                                                <num>(i)</num>
+                                                <p>the map entitled “Non-Domestic Rates Relief – Mobile Masts Pilot – Arran Eligible Area (A)” and dated 2 February 2016,</p>
+                                             </item>
+                                             <item>
+                                                <num>(ii)</num>
+                                                <p>the map entitled “Non-Domestic Rates Relief – Mobile Masts Pilot – Arran Eligible Area (B)” and dated 2 February 2016,</p>
+                                             </item>
+                                             <item>
+                                                <num>(iii)</num>
+                                                <p>the map entitled “Non-Domestic Rates Relief – Mobile Masts Pilot – Cairngorm Eligible Area” and dated 2 February 2016,</p>
+                                             </item>
+                                          </blockList>
+                                       </item>
+                                    </blockList>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <intro>
+                  <p>In regulation 3 (amount payable as rates – lands and heritages comprising tower or mast sites)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “1st April 2018” in the first place it occurs substitute “1 April 2019”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (b), for “is made in the valuation roll on or after 1st April 2018;” substitute “is or was made in the valuation roll on or after 1 April 2016,”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016 (“the principal Regulations”).</p>
+            <p>These Regulations amend the definition of a “Mobile Masts Pilot Area” in the principal Regulations to refer to areas shown either in a specified document with grid coordinates or on three named maps.</p>
+            <p>Regulation 3 provides for relief in the 2019-20 year, which will continue until the end of the year for 2028-29.</p>
+            <p>The document and maps are available for inspection at the Scottish Government Digital Directorate, Connectivity, Economy and Data Division, 5 Atlantic Quay, 150 Broomielaw, Glasgow, G2 8LU. The document and maps are also available for inspection online at <a href="https://beta.gov.scot/publications/4g-infill-programme-non-domestic-rates-relief-mobile-masts">https://beta.gov.scot/publications/4g-infill-programme-non-domestic-rates-relief-mobile-masts</a>.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

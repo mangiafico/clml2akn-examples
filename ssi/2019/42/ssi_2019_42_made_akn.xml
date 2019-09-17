@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/42"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/42"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="42"/>
+               <FRBRname value="S.S.I. 2019/42"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/42/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/42/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/42/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/42/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1956/60">1956 c.60</ref>; section 6A was inserted by section 161 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>; there are amendments to section 6A that are not relevant to this Order. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1995/239">S.I. 1995/239</ref>. Article 2 was amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2016/129">S.S.I. 2016/129</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2019/42">S.S.I. 2019/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2005/127">S.S.I. 2005/127</ref>. Article 7A was added by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2010/78">S.S.I. 2010/78</ref>. There are amendments to that article that are not relevant to this Order.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2019/42">S.S.I. 2019/42</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041024"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 42</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 6A(1)(b) of the Valuation and Rating (Scotland) Act 1956<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019 and comes into force on 1 April 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Lands and heritages to be entered separately in the valuation roll</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Where lands and heritages contain telecommunications new fibre infrastructure, but are not comprised solely of such infrastructure, separate entries are to be made in the valuation roll for—</p>
+               </intro>
+               <subparagraph eId="article-2-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the telecommunications new fibre infrastructure, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the remainder of those lands and heritages.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In paragraph (1)—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>“telecommunications new fibre infrastructure” is—</p>
+                  </intro>
+                  <clause eId="article-2-2-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>new fibre used for the purposes of facilitating the transmission of communications by any means involving the use of electrical or electromagnetic energy,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-2-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a proportion of any poles, posts, towers, masts, mast radiators, pipes, ducts and conduits, and any associated supports and foundations on the lands and heritages, used in connection with new fibre, which proportion is to be apportioned in accordance of paragraph (3)(c), and</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-2-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>any parts of the lands and heritages which are exclusively occupied by new fibre,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>the fibre of that infrastructure—</p>
+                  </intro>
+                  <clause eId="article-2-2-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>is “new” if it was not laid, flown, blown, affixed or attached before 1 April 2019,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-2-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>is not “new” if it replaces existing fibre, unless it upgrades what was previously provided.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In ascertaining the value of each lands and heritages as referred to in paragraph (1), the assessor is to—</p>
+               </intro>
+               <subparagraph eId="article-2-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>calculate what the rateable value of the lands and heritages would be, were they not to be the subject of separate entries in the valuation roll (“<abbr class="acronym" title="Rateable Value">RV</abbr>”),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-3-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>calculate what the notional rateable value of the lands and heritages would be (“NRV”) if they did not include—</p>
+                  </intro>
+                  <clause eId="article-2-3-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the new fibre,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-3-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>any of the items listed in paragraph (2)(a)(ii) used solely in connection with new fibre,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-3-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>any parts of the lands and heritages which are exclusively occupied by new fibre,</p>
+                     </content>
+                  </clause>
+                  <clause eId="article-2-3-b-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>where any of the items mentioned in paragraph (2)(a)(ii) are used solely in connection with new fibre, any parts of the lands and heritages which are occupied by those items, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="article-2-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>prepare the separate entries having regard to these calculations, using the proportion that NRV bears to RV for the purposes of paragraph (2)(a)(ii).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Consequential amendments</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <intro>
+                  <p>In article 2 (telecommunications subjects) of the Non-Domestic Rating (Telecommunications and Canals) (Scotland) Order 1995<noteRef href="#f00002" class="footnote" marker="2"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “Subject to paragraph (2)” substitute “Subject to paragraphs (2) and (3)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (2) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Entries in the valuation roll must be made separately for lands and heritages which comprise telecommunications new fibre infrastructure, and lands and heritages which do not comprise such infrastructure, as required by the Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In article 7A (fixed line telecommunications) of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005<noteRef href="#f00004" class="footnote" marker="4"/>—</p>
+               </intro>
+               <subparagraph eId="article-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “Any” substitute “Subject to paragraph (3), any”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph (2) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Entries in the valuation roll for Renfrewshire must be made separately for lands and heritages which comprise telecommunications new fibre infrastructure, and lands and heritages which do not comprise such infrastructure, as required by the Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019<noteRef href="#f00005" class="footnote" marker="5"/>.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order provides that where telecommunications new fibre infrastructure, as defined in article 2, is installed on lands and heritages, separate entries are to be made in the valuation roll for the new fibre infrastructure and for the remainder of the lands and heritages. The effect is that the lands and heritages will be valued separately.</p>
+            <p>Article 3 makes consequential amendments to legislation that provides for aggregation of telecommunications entries in the valuation roll in some circumstances, so that separate entries are made for each of the lands and heritages specified in this Order.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

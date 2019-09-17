@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/211"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/211"/>
+               <FRBRdate date="2019-06-11" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="211"/>
+               <FRBRname value="S.S.I. 2019/211"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/211/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/211/made"/>
+               <FRBRdate date="2019-06-11" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/211/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/211/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-11" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-29" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2006/11">2006 asp 11</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 51(3) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2010/388">S.S.I. 2010/388</ref>, to which there is an amending instrument not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>ISBN 978-1-78781-646-6 (web only).</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042434"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 211</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Animals</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Welfare of Farmed Animals (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-11">11th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-29">29th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 26 and 51(2) of the Animal Health and Welfare (Scotland) Act 2006<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 26(5) of that Act, the Scottish Ministers have consulted such persons appearing to them to represent relevant interests, and such other persons, as they consider appropriate.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 51(3) of that Act<noteRef href="#f00002" class="footnote" marker="2"/>, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Welfare of Farmed Animals (Scotland) Amendment Regulations 2019 and come into force on 29 June 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Welfare of Farmed Animals (Scotland) Regulations 2010</heading>
+            <num>2.</num>
+            <content>
+               <p>After regulation 7 (animal welfare codes) of the Welfare of Farmed Animals (Scotland) Regulations 2010<noteRef href="#f00003" class="footnote" marker="3"/> insert—<mod>
+                     <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                        <article>
+                           <num>7A.</num>
+                           <heading>Animal welfare guidance</heading>
+                           <paragraph>
+                              <num>(1)</num>
+                              <intro>
+                                 <p>A person responsible for a farmed animal—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <intro>
+                                    <p>must not attend to that animal unless that person—</p>
+                                 </intro>
+                                 <clause>
+                                    <num>(i)</num>
+                                    <content>
+                                       <p>is acquainted with any relevant animal welfare guidance, and</p>
+                                    </content>
+                                 </clause>
+                                 <clause>
+                                    <num>(ii)</num>
+                                    <content>
+                                       <p>has access to the guidance while attending to that animal, and</p>
+                                    </content>
+                                 </clause>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <intro>
+                                    <p>must take all reasonable steps to ensure that a person employed or engaged by the person responsible does not attend to that animal unless that employed or engaged person—</p>
+                                 </intro>
+                                 <clause>
+                                    <num>(i)</num>
+                                    <content>
+                                       <p>is acquainted with any relevant animal welfare guidance relating to the animal being attended to,</p>
+                                    </content>
+                                 </clause>
+                                 <clause>
+                                    <num>(ii)</num>
+                                    <content>
+                                       <p>has access to a copy of the guidance while that person is attending to that animal, and</p>
+                                    </content>
+                                 </clause>
+                                 <clause>
+                                    <num>(iii)</num>
+                                    <content>
+                                       <p>has received appropriate instruction on how to comply with the guidance.</p>
+                                    </content>
+                                 </clause>
+                              </subparagraph>
+                           </paragraph>
+                           <paragraph>
+                              <num>(2)</num>
+                              <content>
+                                 <p>In paragraph (1), “animal welfare guidance” means the guidance contained in the document titled “Guidance for the Welfare of Meat Chickens and Meat Breeding Chickens” and dated April 2019, which was first published by the Scottish Government on its website on 1 April 2019<noteRef href="#f00004" class="footnote" marker="4"/>.</p>
+                              </content>
+                           </paragraph>
+                        </article>
+                     </quotedStructure>
+                  </mod>
+                  <inline name="AppendText">.</inline>
+               </p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-06-11">11th June 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations insert a new regulation 7A into the Welfare of Farmed Animals (Scotland) Regulations 2010 (“the 2010 Regulations”). The new regulation 7A provides that a person responsible for a farmed animal must not attend to that animal, unless that person is acquainted with any relevant animal welfare guidance and has access to it while attending to that animal.</p>
+            <p>The person responsible must also take all reasonable steps to ensure that any other person employed or engaged by the person responsible does not attend to any such animal, unless that other person is acquainted with any relevant animal welfare guidance (as defined in the Regulations), has access to a copy of it while attending to the animal, and has received instruction on how to comply with the guidance.</p>
+            <p>By virtue of regulation 11 (offences) of the 2010 Regulations, it is an offence for a person responsible for a farmed animal to, without lawful authority or reasonable excuse, contravene or fail to comply with new regulation 7A (or to cause or permit any such contravention or failure).</p>
+            <p>A copy of the animal welfare guidance referred to in new regulation 7A(2) can be viewed on, or downloaded from, the Scottish Government’s website. Copies can also be obtained from, or inspected at, the offices of the Scottish Government’s Agriculture and Rural Economy Directorate, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/131"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/131"/>
+               <FRBRdate date="2019-03-28" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="131"/>
+               <FRBRname value="S.S.I. 2019/131"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/131/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/131/made"/>
+               <FRBRdate date="2019-03-28" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/131/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/131/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-28" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1978/29">1978 c.29</ref>. Amendments to the National Health Service (Scotland) Act 1978 relevant for the purposes of these Regulations are made by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2010/283">S.S.I. 2010/283</ref>, <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2013/177">S.S.I. 2013/177</ref> and <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2013/292">S.S.I. 2013/292</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2019/777">S.I. 2019/777</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2013/292">S.S.I. 2013/292</ref>, amended by <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2015/91">S.S.I. 2015/91</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/2019/776">S.I. 2019/776</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/2014/19">2014 c.19</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/2015/5">2015 c.5</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/1992/7">1992 c.7</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041864"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 131</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Health Service</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-28">28th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 2</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with paragraph 1(6) of schedule 7 of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="crossheading-introduction">
+            <heading>Introduction</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Commencement</heading>
+               <num>2.</num>
+               <content>
+                  <p>These Regulations come into force on exit day.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Savings in relation to regulation 4</heading>
+               <num>3.</num>
+               <paragraph eId="regulation-3-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The modifications made by regulation 4 do not apply to a case if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-1-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>it is a case in which either of the following events occurred before exit day—</p>
+                     </intro>
+                     <clause eId="regulation-3-1-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the cost of eligible services was incurred, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-3-1-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>authorisation under section 75C of the NHS Act was applied for, and</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>section 75BA of the NHS Act does not apply to the case.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In this regulation—</p>
+                  </intro>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“eligible services” has the meaning given by section 75B(2) of the NHS Act (despite its repeal),</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“the NHS Act” means the National Health Service (Scotland) Act 1978<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+                     </content>
+                  </hcontainer>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="crossheading-modifications">
+            <heading>Modifications</heading>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Modification of the National Health Service (Scotland) Act 1978</heading>
+               <num>4.</num>
+               <paragraph eId="regulation-4-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The National Health Service (Scotland) Act 1978 is modified as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In section 75A (remission and repayment of charges and payment of travelling expenses), in subsection (1)(b)(ii), for “75B” substitute “75BA”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Section 75B (reimbursement of the cost of services provided in another EEA State) is repealed.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>In section 75BA (reimbursement of the cost of services provided in another EEA State on or after 25 October 2013)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in subsection (1), after “and (14)” insert “and section 75BC”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in subsection (3), omit “other than the United Kingdom”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-4-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>for subsection (15) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(15)</num>
+                                    <intro>
+                                       <p>In this section and section 75BB—</p>
+                                    </intro>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“authorised provider” in relation to services provided in an EEA State means a person who is lawfully providing services,</p>
+                                       </content>
+                                    </hcontainer>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“services” includes any goods, including drugs, medicines and appliances which are used or supplied in connection with the provision of a service, but does not include accommodation other than hospital accommodation.</p>
+                                       </content>
+                                    </hcontainer>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-4-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>In section 75BB (prior authorisation for the purposes of section 75BA), in subsection (9), omit “and section 75C”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>After section 75BB insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>75BC.</num>
+                                 <heading>Restriction on reimbursement after EU withdrawal</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>The duty to reimburse in section 75BA(2) applies in respect of a service provided to a person on or after exit day only if one of the following conditions is met.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>Condition 1 is that the service began to be provided to the person before exit day.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>Condition 2 is that—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the application for authorisation under section 75BB in relation to the provision of the service to the person was made before exit day, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>the service began to be provided to the person before—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the end of the period specified in the authorisation as the period for which authorisation is granted, or</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>if no such period is specified in the authorisation, the end of the period of 1 year beginning with exit day.</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(4)</num>
+                                    <content>
+                                       <p>Condition 3 is that the service began to be provided to the person at a time when a cross-border arrangement with the EEA State in which the service was provided was in effect.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(5)</num>
+                                    <intro>
+                                       <p>Condition 4 is that—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the application for authorisation under section 75BB in relation to the provision of the service to the person was made at a time when a cross-border arrangement with the EEA State in which the service was provided was in effect, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>the service began to be provided to the person before—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the end of the period specified in the authorisation as the period for which authorisation is granted, or</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>if no such period is specified in the authorisation, the end of the period of 1 year beginning with the day that the cross-border arrangement in question ceased to have effect.</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(6)</num>
+                                    <intro>
+                                       <p>For the purposes of this section—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>“exit day” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>a cross-border arrangement with an EEA State is in effect during the period that the list maintained under regulation 16(4) of the National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019<noteRef href="#f00003" class="footnote" marker="3"/> says that a cross-border arrangement with that State is to be treated as having effect.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-7">
+                  <num>(7)</num>
+                  <content>
+                     <p>Section 75C (which provides the prior authorisation rules for section 75B) is repealed.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-8">
+                  <num>(8)</num>
+                  <intro>
+                     <p>In section 75D (deduction of NHS charges)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-8-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in subsection (1), omit “75B(1) or”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-8-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in subsection (2), omit “75B and 75C or”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-8-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>for subsection (3) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>In this section—</p>
+                                    </intro>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“eligible person” means a person who is ordinarily resident in Scotland,</p>
+                                       </content>
+                                    </hcontainer>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“NHS charge” means any charge payable in accordance with sections 69 to 74 or regulations made under those sections,</p>
+                                       </content>
+                                    </hcontainer>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“services” has the meaning given in section 75BA(15).</p>
+                                       </content>
+                                    </hcontainer>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Modification of the National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013</heading>
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013<noteRef href="#f00004" class="footnote" marker="4"/> is modified as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In regulation 2 (interpretation)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>before the definition of “the Directive” insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“cross-border arrangement with an EEA State” means an arrangement that—</p>
+                                       <blockList>
+                                          <item>
+                                             <num>(a)</num>
+                                             <p>has been made between the United Kingdom and an EEA State, and</p>
+                                          </item>
+                                          <item>
+                                             <num>(b)</num>
+                                             <p>is included in the list maintained under regulation 16(4) of the National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019,</p>
+                                          </item>
+                                       </blockList>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after the definition of “medicinal product” insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“Member State” means a State that is a member of the European Union or the European Economic Area,</p>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-2-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>omit—</p>
+                     </intro>
+                     <clause eId="regulation-5-2-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the definition of “resident patient”, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-2-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the definition of “visiting patient”.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In regulation 4 (national contact point: information about treatment in Scotland)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (1)(e) omit “other”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (2), for “visiting patient” substitute “relevant person”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>after paragraph (3) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(4)</num>
+                                    <intro>
+                                       <p>In paragraph (2), “relevant person” means a person to whom health care may be, or has been, provided in Scotland as a consequence of an exercise of the person’s rights in relation to access to health care under—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the Directive, or</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>a cross-border arrangement with an EEA State.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>In regulation 5 (national contact point: information about treatment in another member state)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>for “resident patients”, in both places it occurs, substitute “persons ordinarily resident in Scotland”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (a), for “another” substitute “a”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>In regulation 6(1) (national contact point: cross border co-operation)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>after “Directive”, where it first occurs, insert “or any cross-border arrangement with an EEA State”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (a) omit “other”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-6">
+                  <num>(6)</num>
+                  <intro>
+                     <p>In regulation 9 (information on rights and entitlements)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-6-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>after “Directive” insert “or any equivalent provision contained in, or having effect by virtue of, a cross-border arrangement with an EEA State”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after “that Article” insert “or (as the case may be) the equivalent provision”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>for “resident patients” substitute “persons ordinarily resident in Scotland”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-7">
+                  <num>(7)</num>
+                  <intro>
+                     <p>In regulation 10 (exemption from NHS charges for certain persons who reside in another member state)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-7-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in paragraph (2)—</p>
+                     </intro>
+                     <clause eId="regulation-5-7-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>for “if P is” substitute “if, when the cross-border healthcare service began to be provided, P was”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-7-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>in sub-paragraph (a) omit “other than the United Kingdom”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-7-a-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>at the end of sub-paragraph (a) (after the semi-colon) insert “and”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-7-a-iv">
+                        <num>(iv)</num>
+                        <content>
+                           <p>in sub-paragraph (b) before “for whom” insert “a person”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (3), for sub-paragraph (a) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>it is not a service of the kind that falls within section 75BA(6) of the NHS Act,<span ukl:Name="EmSpace"> </span>and</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>after paragraph (3) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(3A)</num>
+                                    <content>
+                                       <p>But a cross-border healthcare service is not within paragraph (3) insofar as it is provided after the cut-off day.</p>
+                                    </content>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(3B)</num>
+                                    <intro>
+                                       <p>For the purpose of paragraph (3A)—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>the cut-off day is—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in a case where the service is provided as a consequence of an exercise of P’s rights under the Directive, the day falling 1 year after exit day,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>in a case where the service is provided as a consequence of an exercise of P’s rights under a cross-border arrangement with an EEA State, the day falling 1 year after the day that arrangement ceased to have effect,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>a cross-border arrangement with an EEA State ceases to have effect when the list maintained under regulation 16(4) of the National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 says that the arrangement ceases to have effect.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-d">
+                     <num>(d)</num>
+                     <intro>
+                        <p>in paragraph (4)—</p>
+                     </intro>
+                     <clause eId="regulation-5-7-d-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>after sub-paragraph (a) insert—<mod>
+                                 <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                    <paragraph>
+                                       <num>(aa)</num>
+                                       <intro>
+                                          <p>“cross-border healthcare service” means healthcare that is provided to a person in Scotland as a consequence of an exercise of the person’s rights in relation to access to healthcare under—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the Directive, or</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>a cross-border arrangement with an EEA State,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                 </quotedStructure>
+                              </mod>
+                              <inline name="AppendText">,</inline>
+                           </p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-7-d-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>after sub-paragraph (b) insert—<mod>
+                                 <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>references to Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2004/0883">(EC) No 883/2004</ref>, in relation to a case in which the service in question began to be provided on or after exit day, is to that Regulation as it applied (if it applied at all) on the day the service began to be provided by virtue of schedule 5 of the Social Security Coordination (Reciprocal Healthcare) (Amendment etc.) (EU Exit) Regulations 2019<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>“exit day” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018.</p>
+                                       </content>
+                                    </paragraph>
+                                 </quotedStructure>
+                              </mod>
+                              <inline name="AppendText">,</inline>
+                           </p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>after paragraph (4) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(5)</num>
+                                    <content>
+                                       <p>The modifications made to the preceding paragraphs of this regulation by regulation 5(7) of the Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 do not apply in relation to any service that began to be provided before exit day (which is the day that those modifications came into force).</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-8">
+                  <num>(8)</num>
+                  <content>
+                     <p>After regulation 10 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>10A.</num>
+                                 <heading>Exemption from NHS charges for certain pensioners after EU withdrawal</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>A person to whom paragraph (3) applies is exempt from any charge provided for by regulations under section 98 of the NHS Act in respect of a relevant service.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>A service is relevant, for the purpose of paragraph (1), insofar as it is provided during the period of 1 year beginning with exit day.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>This paragraph applies to—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>a person who, immediately before exit day—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>was resident in a Member State, and</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(ii)</num>
+                                          <intro>
+                                             <p>was in receipt of—</p>
+                                          </intro>
+                                          <subclause>
+                                             <num>(aa)</num>
+                                             <content>
+                                                <p>a state pension under Part 1 of the Pensions Act 2014<noteRef href="#f00006" class="footnote" marker="6"/> or Part 1 of the Pensions Act (Northern Ireland) 2015<noteRef href="#f00007" class="footnote" marker="7"/>, or</p>
+                                             </content>
+                                          </subclause>
+                                          <subclause>
+                                             <num>(bb)</num>
+                                             <content>
+                                                <p>a retirement pension under the Social Security Contributions and Benefits Act 1992<noteRef href="#f00008" class="footnote" marker="8"/> or the Social Security Contributions and Benefits (Northern Ireland) Act 1992<noteRef href="#f00009" class="footnote" marker="9"/>, and</p>
+                                             </content>
+                                          </subclause>
+                                       </clause>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>a person who, immediately before exit day, was a member of the family of a person described by sub-paragraph (a).</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(4)</num>
+                                    <intro>
+                                       <p>In this regulation—</p>
+                                    </intro>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“exit day” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,</p>
+                                       </content>
+                                    </hcontainer>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“member of the family” has the meaning it had for the purposes of Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2004/0883">(EC) No 883/2004</ref> immediately before exit day.</p>
+                                       </content>
+                                    </hcontainer>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-9">
+                  <num>(9)</num>
+                  <intro>
+                     <p>In regulation 11 (NHS charges)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-9-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in paragraph (1)—</p>
+                     </intro>
+                     <clause eId="regulation-5-9-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>omit “visiting” in both places it occurs,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-9-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>for “resident patient” substitute “British citizen who is ordinarily resident in Scotland”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-9-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after paragraph (1) insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(1A)</num>
+                                    <content>
+                                       <p>But paragraph (1) does not apply to a cross-border healthcare service insofar as it is provided after the cut-off day.</p>
+                                    </content>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(1B)</num>
+                                    <intro>
+                                       <p>For the purpose of paragraph (1A)—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>the cut-off day is—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>in a case where the service is provided as a consequence of an exercise of the patient’s rights under the Directive, the day falling 1 year after exit day,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>in a case where the service is provided as a consequence of an exercise of the patient’s rights under a cross-border arrangement with an EEA State, the day falling 1 year after the day that arrangement ceased to have effect,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>“exit day” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>a cross-border arrangement with an EEA State ceases to have effect when the list maintained under regulation 16(4) of the National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 says that the arrangement ceases to have effect.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">,</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-9-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>in paragraph (2)(a)—</p>
+                     </intro>
+                     <clause eId="regulation-5-9-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>omit “visiting”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-9-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>after “Directive” insert “or a cross-border arrangement with an EEA State”.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-28">28th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018 in order to address failures of retained EU law to operate effectively in the field of cross-border health care arising from the withdrawal of the UK from the European Union.</p>
+            <p>Regulation 4 amends the National Health Service (Scotland) Act 1978 (“the 1978 Act”) so that the arrangements for reimbursing health care costs to people ordinarily resident in Scotland who receive treatment in EEA States cease to operate on the day that the UK leaves the European Union (“exit day”), subject to two caveats. The first caveat is that reimbursement will continue to be available where the treatment was provided, or an application for its authorisation made, before exit day. The second caveat is that reimbursement will continue to be available in respect of treatment in an EEA State if that State has entered into a reciprocal arrangement with the UK.</p>
+            <p>One of the effects of regulation 4 is to remove the mechanism for reimbursing health care costs provided by section 75B of the 1978 Act. Regulation 3 preserves the law as it was before regulation 4 comes into force for live cases to which section 75B applies.</p>
+            <p>Regulation 5 amends the National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013, to make provision about cross-border arrangements with EEA States.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

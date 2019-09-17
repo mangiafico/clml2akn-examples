@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/45"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/45"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="45"/>
+               <FRBRname value="S.S.I. 2019/45"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/45/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/45/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/45/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/45/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1956/60">1956 c.60</ref>. Section 6A was inserted by section 161 of the Local Government etc. (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref> and subsections (1)(aa) and (1B) were inserted by section 32(1) of the Local Government in Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2003/1">2003 (asp 1)</ref> (“the 2003 Act). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 6A(1D) was inserted by section 32(1)(b) of the 2003 Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2005/127">S.S.I. 2005/127</ref>, amended by <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2005/320">S.S.I. 2005/320</ref>, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2009/196">S.S.I. 2009/196</ref>, <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2010/78">S.S.I. 2010/78</ref>, <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2011/75">S.S.I. 2011/75</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2013/36">S.S.I 2013/36</ref>, <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2014/64">S.S.I. 2014/64</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2015/50">S.S.I. 2015/50</ref> and <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2017/42">S.S.I. 2017/42</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041055"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 45</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 6A(1)(aa) and (1B) of the Valuation and Rating (Scotland) Act 1956<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 6A(1D) that Act<noteRef href="#f00002" class="footnote" marker="2"/> they have consulted such associations of local authorities and such other persons as they think appropriate.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d2716e364">
+            <heading>Citation and commencement</heading>
+            <article eId="article-1">
+               <num>1.</num>
+               <content>
+                  <p>This Order may be cited as the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019 and comes into force on 1 April 2019.</p>
+               </content>
+            </article>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d2716e382">
+            <heading>Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005</heading>
+            <article eId="article-2">
+               <num>2.</num>
+               <content>
+                  <p>The Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005<noteRef href="#f00003" class="footnote" marker="3"/> is amended in accordance with articles 3 to 6.</p>
+               </content>
+            </article>
+            <article eId="article-3">
+               <num>3.</num>
+               <content>
+                  <p>For article 2(1)(b)(ii) (electricity generation) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subparagraph>
+                              <num>(ii)</num>
+                              <content>
+                                 <p>the primary source of energy in such generation is biomass, the use of wind, wave, water, tidal or solar power, or the burning of refuse.</p>
+                              </content>
+                           </subparagraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </article>
+            <article eId="article-4">
+               <num>4.</num>
+               <content>
+                  <p>In the definition of “a Company” in article 3(2) (electricity transmission and distribution),<span ukl:Name="NonBreakingSpace"> </span>in sub-paragraph (b)(iii) for “SP Transmission Limited” substitute “SP Transmission PLC”.</p>
+               </content>
+            </article>
+            <article eId="article-5">
+               <num>5.</num>
+               <content>
+                  <p>In the definition of “Company” in article 4(3) (gas), omit “at the date of this Order” in both places where it occurs.</p>
+               </content>
+            </article>
+            <article eId="article-6">
+               <num>6.</num>
+               <content>
+                  <p>For article 7A(2) (fixed line telecommunications) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(2)</num>
+                              <content>
+                                 <p>A “fixed line operator”, for the purposes of this article, is any of the companies registered with the following names and registration numbers—</p>
+                                 <tblock class="tabular" ukl:Orientation="portrait">
+                                    <foreign>
+                                       <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                          <colgroup>
+                                             <col width="246.4pt"/>
+                                             <col width="151.6pt"/>
+                                          </colgroup>
+                                          <thead>
+                                             <tr>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Company name</th>
+                                                <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Registration number</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">AtlasConnect Limited</td>
+                                                <td rowspan="1" colspan="1">SC241790</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">British Telecommunications Public Limited Company</td>
+                                                <td rowspan="1" colspan="1">01800000</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Cityfibre Limited</td>
+                                                <td rowspan="1" colspan="1">09759465</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Centurylink Communications UK Limited</td>
+                                                <td rowspan="1" colspan="1">2495998</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Easynet Limited</td>
+                                                <td rowspan="1" colspan="1">02954343</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Entanet International Limited</td>
+                                                <td rowspan="1" colspan="1">03274237</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Everything Everywhere Limited</td>
+                                                <td rowspan="1" colspan="1">08263590</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Gamma Telecom Ltd</td>
+                                                <td rowspan="1" colspan="1">04340834</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">GEO Networks Limited</td>
+                                                <td rowspan="1" colspan="1">04614924</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Hutchison 3G UK Limited</td>
+                                                <td rowspan="1" colspan="1">03885486</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">JISC</td>
+                                                <td rowspan="1" colspan="1">05747339</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">JISC Services Limited</td>
+                                                <td rowspan="1" colspan="1">02881024</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">NEOS Networks Limited</td>
+                                                <td rowspan="1" colspan="1">03477297</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">NTL Business Limited</td>
+                                                <td rowspan="1" colspan="1">03076222</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Oath (UK) Limited</td>
+                                                <td rowspan="1" colspan="1">03462696</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Orange Limited</td>
+                                                <td rowspan="1" colspan="1">03110666</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Pipex Broadband Limited</td>
+                                                <td rowspan="1" colspan="1">03137499</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Pipex Communications Services Limited</td>
+                                                <td rowspan="1" colspan="1">03059016</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Pulsant (Scotland) Limited</td>
+                                                <td rowspan="1" colspan="1">SC236128</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Sky Home Communications Limited</td>
+                                                <td rowspan="1" colspan="1">05262862</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Sky Telecommunications Services Ltd</td>
+                                                <td rowspan="1" colspan="1">02883980</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Smallworld Cable Limited</td>
+                                                <td rowspan="1" colspan="1">05679836</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">SSE Telecommunications Limited</td>
+                                                <td rowspan="1" colspan="1">SC213457</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Talk Talk Communications Ltd</td>
+                                                <td rowspan="1" colspan="1">03849133</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Telefonica UK Limited</td>
+                                                <td rowspan="1" colspan="1">01743099</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Thus Group Holdings Limited</td>
+                                                <td rowspan="1" colspan="1">SC192666</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Tiscali UK Limited</td>
+                                                <td rowspan="1" colspan="1">03408171</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Verizon UK Limited</td>
+                                                <td rowspan="1" colspan="1">02776038</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Virgin Media Limited</td>
+                                                <td rowspan="1" colspan="1">02591237</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Vodafone Enterprise U.K.</td>
+                                                <td rowspan="1" colspan="1">01541957</td>
+                                             </tr>
+                                             <tr>
+                                                <td rowspan="1" colspan="1">Vodafone Limited</td>
+                                                <td rowspan="1" colspan="1">01471587</td>
+                                             </tr>
+                                             <tr>
+                                                <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Interoute Vtesse Limited</td>
+                                                <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">03900836.</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </foreign>
+                                 </tblock>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </article>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order amends the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005 (“the 2005 Order”).</p>
+            <p>The amendments relate to specified lands and heritages which are to be treated as if they justify only one entry in a single valuation roll, despite being situated in areas covered by different rolls. Mostly, they update references to operators in the 2005 Order.</p>
+            <p>Article 3 amends the 2005 Order to add solar power and biomass as primary sources of energy in the generation of electricity, for the purpose of identifying persons carrying on undertakings to whom that Order applies.</p>
+            <p>Article 5 omits unnecessary references in the 2005 Order to the date of registration of companies.</p>
+            <p>Article 6 replaces a table which details companies to be regarded as “fixed line operators” for the purposes of entry in a single valuation roll. Article 6 also, like article 5, omits an unnecessary reference in the 2005 Order to the date of registration of companies, by not including such a reference in the text it substitutes into the 2005 Order.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

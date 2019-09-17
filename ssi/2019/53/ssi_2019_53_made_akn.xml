@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/53"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/53"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="53"/>
+               <FRBRname value="S.S.I. 2019/53"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/53/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/53/made"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/53/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/53/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-18" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-19" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1990/2615">S.I. 1990/2615</ref>, as amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/1992/2596">S.I. 1992/2596</ref>, <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/1994/298">S.I 1994/298</ref>, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2007/106">S.S.I 2007/106</ref>, <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref> and <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2014/312">S.S.I. 2014/312</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1996/1502">S.I. 1996/1502</ref>, as amended by <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref> and <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2014/312">2014/312</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2008/216">S.S.I. 2008/216</ref> amended by <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>, <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/2012/1809">2012/1809</ref> and <ref eId="c00016" href="http://www.legislation.gov.uk/id/uksi/2013/3235">2013/3235</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2013/256">S.S.I. 2013/256</ref> last amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2015/48">S.S.I. 2015/48</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2013/266">S.S.I. 2013/266</ref> amended by <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2014/312">S.S.I. 2014/312</ref> and <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2015/100">2015/100</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041093"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 53</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Food Composition, Labelling and Standards (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-19">19th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by paragraph 1(1) and (3) of schedule 2 the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>There has been consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Quick-frozen Foodstuffs Regulations 1990</heading>
+            <num>2.</num>
+            <content>
+               <p>In regulation 5(3)(b) (labelling of quick-frozen foodstuffs) of the Quick-frozen Foodstuffs Regulations 1990<noteRef href="#f00002" class="footnote" marker="2"/> for “European Union” substitute “United Kingdom”.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Food (Lot Marking) Regulations 1996</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food (Lot Marking) Regulations 1996<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 2 (interpretation) omit the definition of “first seller established within the European Union”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 3(2)(a) (lot marking requirement) for “European Union” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008<noteRef href="#f00004" class="footnote" marker="4"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2(1) (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit the definition of “EU provision”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after the definition of “sell by retail” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“specified provisions” means those provisions listed in regulation 6(2);</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 5 (enforcement) for “EU provisions” substitute “specified provisions”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 6 (offences and penalty)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in sub-paragraph (1)(b) for “EU” substitute “specified”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in sub-paragraph (2) for “EU” substitute “specified”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 7(2) (application of various provisions of the Act) for “EU” substitute “specified”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Fish Labelling (Scotland) Regulations 2013</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Fish Labelling (Scotland) Regulations 2013<noteRef href="#f00005" class="footnote" marker="5"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 3 (consumer information and traceability requirements)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (3) for “Article 67(1) to (3) and (5) to (13) of Regulation 404/2011” substitute “Article 67(1) to (3), (5) to (7) and (9) to (13) of Regulation 404/2011”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraphs (6) and (7) for “the sterling equivalent of 50 euros” substitute “£45”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013<noteRef href="#f00006" class="footnote" marker="6"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 8(b) for “European Union” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 12 (1)(d) for “territory of the EU” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 13 (competent authorities) omit “competent” and in the heading for “Competent authorities” substitute “Authority”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-5">
+               <num>(5)</num>
+               <content>
+                  <p>In schedule 1 (specified provisions of Regulation 1333/2008) in the entries for Article 26.1 and Article 26.2 in the second column for “Commission” substitute “Authority”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-6">
+               <num>(6)</num>
+               <content>
+                  <p>In schedule 2 (specified provisions of Regulation 1334/2008) in the entries for Article 19.2 and Article 19.3 in the second column for “Commission” substitute “Authority”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-7">
+               <num>(7)</num>
+               <content>
+                  <p>In schedule 3 (specified provisions of Regulation 2065/2003) in the entry for Article 9.5 in the second column for “Commission” substitute “Authority”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-8">
+               <num>(8)</num>
+               <content>
+                  <p>In schedule 4 (specified provisions of Regulation 1332/2008) in the entries for Article 14.1 and Article 14.2 in the second column for “Commission” substitute “Authority”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-18">18th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref> in order to address failures of retained EU law to operate effectively and other deficiencies (as defined in section 8(2) and (3) of that Act) arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the field of food composition, food labelling and food standards in relation to Scotland.</p>
+            <p>An impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

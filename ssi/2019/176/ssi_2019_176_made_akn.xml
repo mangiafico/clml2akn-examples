@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/176"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/176"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="176"/>
+               <FRBRname value="S.S.I. 2019/176"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/176/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/176/made"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/176/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/176/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-16" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-20" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-30" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1989/29">1989 c.29</ref>. The functions of the Secretary of State under section 60(3) and paragraph 1(3) of schedule 8 were transferred to the Scottish Ministers by virtue of <ref eId="c00002" href="http://www.legislation.gov.uk/id/uksi/1999/1750">S.I. 1999/1750</ref>, article 2 and Schedule 1. The functions of the Secretary of State under sections 36(8) were transferred to the Scottish Ministers by virtue of <ref eId="c00003" href="http://www.legislation.gov.uk/id/uksi/2006/1040">S.I. 2006/1040</ref>, article 3.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2017/101">S.S.I. 2017/101</ref> as relevantly amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2017/451">S.S.I. 2017/451</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/1990/455">S.I. 1990/455</ref> as relevantly amended by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2013/58">S.S.I. 2013/58</ref> and <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2005/295">S.S.I. 2005/295</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042229"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 176</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Electricity</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-16">16th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-20">20th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-30">30th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 36(8), 36C(2) and 60(3) and paragraph 1(3) of schedule 8 of the Electricity Act 1989<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Regulations 2019 and come into force on 30 June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Interpretation</heading>
+            <num>2.</num>
+            <intro>
+               <p>In these Regulations—</p>
+            </intro>
+            <hcontainer name="definition">
+               <content>
+                  <p>“<abbr class="acronym" title="Environmental Impact Assessment">EIA</abbr> development” has the same meaning as in regulation 2(1) of the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the Electricity Act” means the Electricity Act 1989,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1990 Regulations” means the Electricity (Applications for Consent) Regulations 1990<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“variation application” means an application made to the Scottish Ministers under section 36C(1) of the Electricity Act (variation of section 36 consents) to vary a consent under section 36 of that Act.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Application</heading>
+            <num>3.</num>
+            <intro>
+               <p>These Regulations apply in relation to—</p>
+            </intro>
+            <subparagraph eId="regulation-3-a">
+               <num>(a)</num>
+               <content>
+                  <p>an application for a consent under section 36 of the Electricity Act to construct, extend or operate a generating station,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-3-b">
+               <num>(b)</num>
+               <content>
+                  <p>an application for a consent under section 37 of the Electricity Act to install or keep installed an electric line above ground, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-3-c">
+               <num>(c)</num>
+               <content>
+                  <p>a variation application,</p>
+               </content>
+            </subparagraph>
+            <wrapUp>
+               <p>which is made to the Scottish Ministers on or after 30 June 2019.</p>
+            </wrapUp>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Fees payable on applications for consent</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>Where an application to which these regulations apply is made, a fee is payable to the Scottish Ministers.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>The fee payable in respect of the application is as specified in the schedule.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Revocation</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to paragraph (2), regulation 11 of the 1990 Regulations is revoked.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <content>
+                  <p>Regulation 11 of the 1990 Regulations continues to apply to applications for consent under sections 36 and 37 of the Electricity Act made to the Scottish Ministers before the 30 June 2019.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">PAUL WHEELHOUSE</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-16">16th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation 4(2)</p>
+                  </authorialNote>
+               </num>
+               <heading>FEES</heading>
+               <hcontainer name="crossheading" eId="schedule-crossheading-fees-for-applications-made-under-section-36-of-the-electricity-act-to-construct-extend-or-operate-a-generating-station">
+                  <heading>Fees for applications made under section 36 of the Electricity Act to construct, extend or operate a generating station</heading>
+                  <paragraph eId="schedule-paragraph-1">
+                     <num>1.</num>
+                     <subparagraph eId="schedule-paragraph-1-1">
+                        <num>(1)</num>
+                        <content>
+                           <p>Subject to sub-paragraph (2), where an application is made under section 36 of the Electricity Act to construct, extend or operate a generating station, the fee payable in respect of the application is as specified in Table 1.</p>
+                        </content>
+                     </subparagraph>
+                     <subparagraph eId="schedule-paragraph-1-2">
+                        <num>(2)</num>
+                        <content>
+                           <p>Where the subject matter of the application is two or more of the matters specified in Table 1, the fee to be paid is the higher or the highest of the relevant fees.</p>
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <num>Table 1</num>
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="213.2pt"/>
+                                       <col width="213.2pt"/>
+                                    </colgroup>
+                                    <thead>
+                                       <tr>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Subject matter of application</th>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Fee payable</th>
+                                       </tr>
+                                    </thead>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">1. Construction, or construction and operation, of a generating station which is not EIA development and has a capacity—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£6,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 10 megawatts but not exceeding 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£25,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 50 megawatts but not exceeding 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£70,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 100 megawatts but not exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£100,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£150,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">2. Extension, or extension and operation, of a generating station which is not EIA development, resulting in increase in capacity—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£6,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 10 megawatts but not exceeding 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£25,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 50 megawatts but not exceeding 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£70,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 100 megawatts but not exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£100,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£150,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">3. Construction, or construction and operation, of a generating station which is EIA development and has a capacity—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£7,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 10 megawatts but not exceeding 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£35,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 50 megawatts but not exceeding 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£125,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 100 megawatts but not exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£180,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£280,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">4. Extension, or extension and operation, of a generating station which is EIA development, resulting in an increase in capacity—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£7,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 10 megawatts but not exceeding 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£35,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 50 megawatts but not exceeding 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£125,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 100 megawatts but not exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£180,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£280,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">5. Any other extension of a generating station which does not result in an increase in capacity, where the capacity of the generating station does—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£6,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£25,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">6. Operation only or change to manner of operation of a generating station, which does not result in an increase in capacity, where the capacity of the generating station does—</td>
+                                          <td rowspan="1" colspan="1">£25,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£6,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£25,000</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </content>
+                     </subparagraph>
+                  </paragraph>
+               </hcontainer>
+               <hcontainer name="crossheading" eId="schedule-crossheading-fees-for-applications-made-under-section-37-of-the-electricity-act-to-install-or-keep-installed-an-electric-line-above-ground">
+                  <heading>Fees for applications made under section 37 of the Electricity Act to install or keep installed an electric line above ground</heading>
+                  <paragraph eId="schedule-paragraph-2">
+                     <num>2.</num>
+                     <subparagraph eId="schedule-paragraph-2-1">
+                        <num>(1)</num>
+                        <content>
+                           <p>Subject to sub-paragraph (2), where an application is made under section 37 of the Electricity Act to install or keep installed an electric line above ground, the fee payable in respect of the application is calculated in accordance with Table 2.</p>
+                        </content>
+                     </subparagraph>
+                     <subparagraph eId="schedule-paragraph-2-2">
+                        <num>(2)</num>
+                        <content>
+                           <p>Where the subject matter of the application relates to matters specified under entry 1(b) or (c), or 2(b) of Table 2, lengths over 500 metres will be rounded to the nearest whole kilometre.</p>
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <num>Table 2</num>
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="213.2pt"/>
+                                       <col width="213.2pt"/>
+                                    </colgroup>
+                                    <thead>
+                                       <tr>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Subject matter of application</th>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Fee payable</th>
+                                       </tr>
+                                    </thead>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">1. Overhead line which is not EIA development with a total distance—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 500 metres</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£360</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 500 metres but not exceeding 15 kilometres</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£600 per kilometre, up to a maximum of £4,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 15 kilometres</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£9,000 + £600 per kilometre, up to a maximum of £150,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">2. Overhead line which is EIA development with a total distance—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 1 kilometre</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£1,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 1 kilometre</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£1,500 per kilometre, up to a maximum of £300,000</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </content>
+                     </subparagraph>
+                  </paragraph>
+               </hcontainer>
+               <hcontainer name="crossheading" eId="schedule-crossheading-fees-for-variation-applications">
+                  <heading>Fees for variation applications</heading>
+                  <paragraph eId="schedule-paragraph-3">
+                     <num>3.</num>
+                     <subparagraph eId="schedule-paragraph-3-1">
+                        <num>(1)</num>
+                        <content>
+                           <p>Subject to sub-paragraph (2), where a variation application is made, the fee payable in respect of the variation application is as specified in Table 3.</p>
+                        </content>
+                     </subparagraph>
+                     <subparagraph eId="schedule-paragraph-3-2">
+                        <num>(2)</num>
+                        <content>
+                           <p>Where the subject matter of the variation application is two or more of the matters specified in Table 3, the fee to be paid is the higher or the highest of the relevant fees.</p>
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <num>Table 3</num>
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="213.2pt"/>
+                                       <col width="213.2pt"/>
+                                    </colgroup>
+                                    <thead>
+                                       <tr>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Variation application</th>
+                                          <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Fee payable</th>
+                                       </tr>
+                                    </thead>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">1. A variation application which is not for EIA development and which, if granted, would increase the capacity of the generating station such that the increased capacity would—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£4,875</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 10 megawatts but not exceed 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£18,750</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 50 megawatts but not exceed 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£52,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 100 megawatts but not exceed 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£75,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£112,500</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">2. A variation application which is for EIA development and which, if granted, would increase the capacity of the generating station such that the increased capacity would—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceed 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£5, 250</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 10 megawatts but not exceed 50 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£26,250</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 50 megawatts but not exceed 100 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£93,750</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 100 megawatts but not exceed 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£135,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceed 300 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£210,000</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">3. A variation application which, if granted, would not increase the capacity of the generating station, where the generating station has a capacity—</td>
+                                          <td rowspan="1" colspan="1"/>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>not exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td rowspan="1" colspan="1">£4,875</td>
+                                       </tr>
+                                       <tr>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                             <blockList xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                <item>
+                                                   <num>(a)</num>
+                                                   <p>exceeding 10 megawatts</p>
+                                                </item>
+                                             </blockList>
+                                          </td>
+                                          <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£18,750</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </content>
+                     </subparagraph>
+                  </paragraph>
+               </hcontainer>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers in sections 36(8), 36C(2) and 60(3) and paragraph 1(3) of schedule 8 of the Electricity Act 1989 in order to introduce revised levels of fees in respect of applications for consents and variations to consents under the Electricity Act 1989.</p>
+            <p>Regulation 3 specifies the categories of applications for consent to which these Regulations apply. Regulation 4 and the schedule specify the level of fee payable to the Scottish Ministers in respect of the application.</p>
+            <p>Regulation 5 revokes regulation 11 of the Electricity (Applications for Consent) Regulations 1990 insofar as it applies to Scotland. These Regulations introduce revised levels of fees, replacing those set out in regulation 11 of the 1990 Regulations. Regulation 5(2) ensures that any application made before these Regulations come into force will be subject to regulation 11 of the 1990 Regulations.</p>
+            <p>A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from Energy Consents Unit, Atlantic Quay, 150 Broomielaw, Glasgow G2 8LU.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

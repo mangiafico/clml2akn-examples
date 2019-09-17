@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/79"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/79"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="79"/>
+               <FRBRname value="S.S.I. 2019/79"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/79/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/79/made"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/79/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/79/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>. Section 81 was relevantly amended by Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018, section 12(2).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>)<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2016/388">S.S.I. 2016/388</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041383"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 79</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-05">5th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 81 of the Courts Reform (Scotland) Act 2014<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 133(2)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019 and comes into force on 1 April 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Amendment of the Sheriff Court Simple Procedure (Limits on Award of Expenses) Order 2016</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Sheriff Court Simple Procedure (Limits on Award of Expenses) Order 2016<noteRef href="#f00002" class="footnote" marker="2"/> is amended in accordance with paragraphs (2) and (3).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In article 2 (category of simple procedure cases in which no award of expenses may be made) for “£200” substitute “£300”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In article 3 (categories of simple procedure cases in which expenses awarded may not exceed prescribed sum) for “£200” substitute “£300”.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Saving provision</heading>
+            <num>3.</num>
+            <content>
+               <p>The amendments made by article 2 have no effect in relation to any simple procedure case commenced before 1 April 2019.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ASH DENHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-05">5th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order amends the Sheriff Court Simple Procedure (Limits on Award of Expenses) Order 2016 (“the 2016 Order”). Simple procedure was established by Chapter 1 of Part 3 of the Courts Reform (Scotland) Act 2014.</p>
+            <p>The 2016 Order provides that expenses are not awardable where the value of a claim does not exceed £200. Article 2(2) amends that value from £200 to £300.</p>
+            <p>The 2016 Order provides that, where the value of a claim is between £200 and £1,500, the maximum sum awardable as expenses is £150. Article 2(3) amends the lower value of the claim from £200 to £300.</p>
+            <p>Article 3 provides that the amendments made by this Order do not affect any simple procedure case which was commenced prior to 1<span ukl:Name="NonBreakingSpace"> </span>April 2019.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

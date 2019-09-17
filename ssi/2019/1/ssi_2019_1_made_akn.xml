@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/1"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/1"/>
+               <FRBRdate date="2019-01-09" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="1"/>
+               <FRBRname value="S.S.I. 2019/1"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/1/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/1/made"/>
+               <FRBRdate date="2019-01-09" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/1/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/1/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-09" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-01-10" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1991/55">1991 c.55</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 73(4) of the Agricultural Holdings (Scotland) Act 1991 has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040423"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 1</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Landlord And Tenant</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Agricultural Holdings (Scotland) Act 1991 (Variation of Schedule 5) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-09">9th January 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-01-10">10th January 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 73(1) and (2) of the Agricultural Holdings (Scotland) Act 1991<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>The Scottish Ministers have consulted with persons appearing to them to represent the interests of landlords and tenants of agricultural holdings, as required by section 73(1) of that Act. In accordance with section 73(2) of that Act, they have made such provision in relation to tenancies current when this instrument takes effect as appears to them to be just having regard to the variation effected by the instrument.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 73(4) of that Act<noteRef href="#f00002" class="footnote" marker="2"/>, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Agricultural Holdings (Scotland) Act 1991 (Variation of Schedule 5) Order 2019 and comes into force on the day after the day on which it is made.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order, “1991 Act” means the Agricultural Holdings (Scotland) Act 1991.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Variation of Part II of schedule 5 of the 1991 Act</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Part II of schedule 5 of the 1991 Act (improvements for which notice is required) is varied in accordance with paragraphs (2) to (4).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>For paragraph 17, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>17.</num>
+                              <content>
+                                 <p>Installation, provision, distribution or storage of electricity, gas, power, heat or<span ukl:Name="EmSpace"> </span>light.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>For paragraph 22, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>22.</num>
+                              <content>
+                                 <p>Provision of means of sewage, waste or pollutant disposal, or provision of means of managing water on land.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>After paragraph 23, insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>23A.</num>
+                              <content>
+                                 <p>Erection of structures for the management or storage of slurries or manures.</p>
+                              </content>
+                           </section>
+                           <section>
+                              <num>23B.</num>
+                              <content>
+                                 <p>Provision of means of storing silage.</p>
+                              </content>
+                           </section>
+                           <section>
+                              <num>23C.</num>
+                              <content>
+                                 <p>Works to dwellings.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Variation of Part III of schedule 5 of the 1991 Act</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>Part III of schedule 5 of the 1991 Act (improvements for which no consent or notice is required) is varied in accordance with paragraphs (2) to (4).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>For paragraph 29, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>29.</num>
+                              <content>
+                                 <p>Eradication of bracken, whins or broom growing on the holding at the commencement of the tenancy.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>After paragraph 29, insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>29A.</num>
+                              <content>
+                                 <p>Removal of tree roots, boulders, stones or other similar obstacles to cultivation from arable land or from permanent grass land.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-4">
+               <num>(4)</num>
+               <content>
+                  <p>For paragraph 30, substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>30.</num>
+                              <content>
+                                 <p>Application to land of soil improvers, conditioners, digestates, manure or fertiliser, whether organic or inorganic.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-4">
+            <heading>Saving provision</heading>
+            <num>4.</num>
+            <content>
+               <p>The variations made by articles 2 and 3 have no effect in relation to an improvement begun prior to the coming into force of this Order.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">
+                        <span ukl:Name="EmSpace"> </span>FERGUS EWING</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-09">9th January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>The Agricultural Holdings (Scotland) Act 1991 (“1991 Act”) and the Agricultural Holdings (Scotland) Act 2003 (“2003 Act”) allow for tenants of agricultural holdings to claim compensation for improvements they make to their holding during their tenancy. This right is available to tenants on quitting the holding, at the termination of the tenancy.</p>
+            <p>Compensation for improvements to land which is part of a tenancy formed under the 1991 Act (“1991 Act tenancies”) may be claimed under section 34 of the 1991 Act, and compensation for improvements to land which is part of a short limited duration tenancy, limited duration tenancy and modern limited duration tenancy may be claimed under section 45 of the 2003 Act.</p>
+            <p>This Order varies Parts II and <abbr class="acronym" title="3">III</abbr> of schedule 5 of the 1991 Act. Schedule 5 of the 1991 Act lists the types of improvements that tenants of 1991 Act tenancies, short limited duration tenancies, limited duration tenancies and modern limited duration tenancies may claim compensation for. These changes update schedule 5 of the 1991 Act in accordance with modern farming practices.</p>
+            <p>The variations made to schedule 5 are not applicable to improvements that were begun before the coming into force of this Order.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

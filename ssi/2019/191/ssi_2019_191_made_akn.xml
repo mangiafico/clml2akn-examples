@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/191"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/191"/>
+               <FRBRdate date="2019-05-28" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="191"/>
+               <FRBRname value="S.S.I. 2019/191"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/191/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/191/made"/>
+               <FRBRdate date="2019-05-28" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/191/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/191/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-28" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-30" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-28" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1948/29">1948 c.29</ref> (11 and 12 Geo. 6 c.29) (“the 1948 Act”). Section 22(5) was relevantly amended by the Social Security Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1980/30">1980 (c.30)</ref>, schedule 4, paragraph 2(1). The functions of the Secretary of State so far as exercisable within devolved competence were transferred to the Scottish Ministers by section 53 of the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1968/49">1968 c.49</ref> (“the 1968 Act”). Section 87(3) of the 1968 Act was amended by section 28(1) of the Mental Health (Care and Treatment) (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2003/13">2003 (asp 13)</ref> (“the 2003 Act”) and by section 62(2) of the Adult Support and Protection (Scotland) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2007/10">2007 (asp 10)</ref>. Section 87(4) of the 1968 Act was amended by section 28(1) of the 2003 Act. By virtue of section 87(3) of the 1968 Act, accommodation provided under that Act or under section 25 of the 2003 Act is regarded as accommodation provided under Part III of the 1948 Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/1992/2977">S.I. 1992/2977</ref> relevantly amended by <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/1993/964">S.I. 1993/964</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1993/2230">1993/2230</ref>, <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/1995/858">1995/858</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2005/708">2005/708</ref> and <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2001/138">S.S.I. 2001/138</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2003/156">2003/156</ref>, <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2003/425">2003/425</ref>, <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2006/113">2006/113</ref> and <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2009/381">2009/381</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Paragraph 27 was inserted by <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2005/708">S.I. 2005/708</ref> reg. 6 (April 11, 2005).</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042311"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 191</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Assistance Services</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The National Assistance (Assessment of Resources) Amendment (Scotland) (No. 2) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-28">28th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-30">30th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-28">28th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 22(5) of the National Assistance Act 1948<noteRef href="#f00001" class="footnote" marker="1"/>, as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968<noteRef href="#f00002" class="footnote" marker="2"/>, and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement, interpretation and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the National Assistance (Assessment of Resources) Amendment (Scotland) (No. 2) Regulations 2019 and come into force on 28 June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In these Regulations “the principal Regulations” means the National Assistance (Assessment of Resources) Regulations 1992<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment to schedule 4 of the principal Regulations</heading>
+            <num>2.</num>
+            <content>
+               <p>In schedule 4 of the principal Regulations (capital to be disregarded), after paragraph 27<noteRef href="#f00004" class="footnote" marker="4"/> insert–<mod>
+                     <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                        <section>
+                           <num>28.</num>
+                           <content>
+                              <p>Any <i>ex gratia</i> payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme which the Scottish Ministers set up in respect of cases of historical child abuse in care.</p>
+                           </content>
+                        </section>
+                     </quotedStructure>
+                  </mod>
+               </p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-28">28th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the National Assistance (Assessment of Resources) Regulations 1992 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/uksi/1992/2977">SI 1992/2977</ref>) (“the principal Regulations”). The principal Regulations concern the assessment of the ability of a person to pay for accommodation provided under the Social Work (Scotland) Act 1968 (“the 1968 Act”). By virtue of section 87(3) of the 1968 Act, accommodation provided under the 1968 Act or section 25 of the Mental Health (Care and Treatment) (Scotland) Act 2003 is to be regarded as accommodation provided under Part III of the National Assistance Act 1948.</p>
+            <p>Regulation 2 amends schedule 4 of the principal Regulations to provide that an <i>ex gratia </i>discretionary payment made to a resident in terms of the Advance Payment Scheme for historical child abuse in care cases shall be disregarded as capital in the financial assessment of the resident’s resources.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

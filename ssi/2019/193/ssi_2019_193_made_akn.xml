@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/193"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/193"/>
+               <FRBRdate date="2019-05-30" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="193"/>
+               <FRBRname value="S.S.I. 2019/193"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/193/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/193/made"/>
+               <FRBRdate date="2019-05-30" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/193/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/193/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-30" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-31" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1988/7">1988 c.7</ref>. Section 13 was substituted by section 185(1) of the Health and Social Care (Community Health and Standards) Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/2003/43">2003 (c.43)</ref> and amended by section 27(5) of the Scotland Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref> (“the 2016 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> as read with section 32 of the 2016 Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>. Section 175(4) was amended by paragraph 29(4) of schedule 3 of the Social Security Contributions (Transfer of Functions, <abbr title="et cetera" xml:lang="la">etc.</abbr>) Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/1999/2">1999 (c.2)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/uksi/2013/376">S.I. 2013/376</ref>, as amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/uksi/2014/2887">S.I. 2014/2887</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2015/1362">S.I. 2015/1362</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/2018/65">S.I. 2018/65</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 c.21</ref>. Part 1 of the Tax Credits Act 2002 is repealed by schedule 14 of the Welfare Reform Act 2012, subject to the savings provided for by article 3 of <ref eId="c00021" href="http://www.legislation.gov.uk/id/uksi/2019/167">S.I. 2019/167</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00022" href="http://www.legislation.gov.uk/id/asp/2014/8">2014 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00023" href="http://www.legislation.gov.uk/id/ukpga/1995/36">1995 c.36</ref>. Section 17(6) was amended by paragraph 9(4) of schedule 2 of the Adoption and Children (Scotland) Act <ref eId="c00024" href="http://www.legislation.gov.uk/id/asp/2007/4">2007 (asp 4)</ref>, by paragraph 2(4) of schedule 5 of the Children’s Hearings (Scotland) Act 2011 and by <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2013/211">S.S.I. 2013/211</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00026" href="http://www.legislation.gov.uk/id/ukpga/1989/41">1989 c.41</ref>. Section 105(4) was substituted by <ref eId="c00027" href="http://www.legislation.gov.uk/id/uksi/2016/413">S.I. 2016/413</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00028" href="http://www.legislation.gov.uk/id/uksi/1995/755">S.I. 1995/755 (N.I.2)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00029" href="http://www.legislation.gov.uk/id/uksi/2005/3262">S.I. 2005/3262</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00030" href="http://www.legislation.gov.uk/id/ukpga/2012/5">2012 c.5</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Section 39 is amended by <ref eId="c00031" href="http://www.legislation.gov.uk/id/uksi/2014/3229">S.I. 2014/3229</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>
+                  <ref eId="c00032" href="http://www.legislation.gov.uk/id/ukpga/2008/22">2008 c.22</ref>. Section 54 was amended by paragraph 206 of schedule 11 of the Crime and Courts Act <ref eId="c00033" href="http://www.legislation.gov.uk/id/ukpga/2013/22">2013 (c.22)</ref>, Part 1 of schedule 9 of the Justice Act (Northern Ireland) <ref eId="c00034" href="http://www.legislation.gov.uk/id/ukpga/2015/9">2015 (c.9)</ref> and <ref eId="c00035" href="http://www.legislation.gov.uk/id/uksi/2018/1413">S.I. 2018/1413</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00036" href="http://www.legislation.gov.uk/id/asp/2007/4">2007 asp 4</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00037" href="http://www.legislation.gov.uk/id/asp/2010/8">2010 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00038" href="http://www.legislation.gov.uk/id/ukpga/2002/38">2002 c.38</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>
+                  <ref eId="c00039" href="http://www.legislation.gov.uk/id/uksi/1987/2203">S.I. 1987/2203 (N.I.22)</ref>. Article 3 was amended by section 7 of the Adoption (Intercountry Aspects) Act (Northern Ireland) <ref eId="c00040" href="http://www.legislation.gov.uk/id/ukpga/2001/11">2001 (c.11)</ref>, paragraph 1(1)(d) of schedule 6 of the Health and Social Care (Reform) Act (Northern Ireland) <ref eId="c00041" href="http://www.legislation.gov.uk/id/ukpga/2009/1">2009 (c.1)</ref>, <ref eId="c00042" href="http://www.legislation.gov.uk/id/uksi/1994/429">S.I. 1994/429</ref> and <ref eId="c00043" href="http://www.legislation.gov.uk/id/uksi/2003/431">S.I. 2003/431</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00044" href="http://www.legislation.gov.uk/id/ukpga/1971/77">1971 c.77</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00045" href="http://www.legislation.gov.uk/id/uksi/2005/1379">S.I. 2005/1379</ref>, which is prospectively revoked by regulation 52 of the Immigration, Nationality and Asylum (<abbr class="acronym" title="European Union">EU</abbr> Exit) Regulations 2019 (<ref eId="c00046" href="http://www.legislation.gov.uk/id/uksi/2019/745">S.I. 2019/745</ref>).</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>
+                  <ref eId="c00047" href="http://www.legislation.gov.uk/id/ukpga/1999/33">1999 c.33</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>
+                  <ref eId="c00048" href="http://www.legislation.gov.uk/id/uksi/2002/2005">S.I. 2002/2005</ref>. Regulation 7D was inserted by <ref eId="c00049" href="http://www.legislation.gov.uk/id/uksi/2009/1829">S.I. 2009/1829</ref> and amended by <ref eId="c00050" href="http://www.legislation.gov.uk/id/uksi/2012/848">S.I. 2012/848</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>
+                  <ref eId="c00051" href="http://www.legislation.gov.uk/id/uksi/2006/213">S.I. 2006/213</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>
+                  <ref eId="c00052" href="http://www.legislation.gov.uk/id/uksi/2013/376">S.I. 2013/376</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>
+                  <ref eId="c00053" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>. Section 123(1) was relevantly amended by paragraph 1(1) of schedule 9 of the Local Government Finance Act <ref eId="c00054" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 (c. 14)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00024">
+               <p>
+                  <ref eId="c00055" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 c.21</ref>. Part 1 of the Tax Credits Act 2002 is repealed by schedule 14 of the Welfare Reform Act 2012, subject to the savings provided for by article 3 of <ref eId="c00056" href="http://www.legislation.gov.uk/id/uksi/2019/167">S.I. 2019/167</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00025">
+               <p>
+                  <ref eId="c00057" href="http://www.legislation.gov.uk/id/ukpga/2002/16">2002 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00026">
+               <p>
+                  <ref eId="c00058" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 c.5</ref>. Section 112 was relevantly amended by paragraph 4 of schedule 1 of the Social Security Administration (Fraud) Act <ref eId="c00059" href="http://www.legislation.gov.uk/id/ukpga/1997/47">1997 (c.47)</ref>, paragraph 6 of schedule 6 of the Child Support, Pensions and Social Security Act <ref eId="c00060" href="http://www.legislation.gov.uk/id/ukpga/2000/19">2000 (c.19)</ref> (“the 2002 Act”) and section 16(3) of the Social Security Fraud Act <ref eId="c00061" href="http://www.legislation.gov.uk/id/ukpga/2001/11">2001 (c.11)</ref>. Section 113 was relevantly amended by paragraph 7(2) of schedule 6 of the 2000 Act and Part 1 of schedule 2 of the National Insurance Contributions and Statutory Payments Act <ref eId="c00062" href="http://www.legislation.gov.uk/id/ukpga/2004/3">2004 (c.3)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00027">
+               <p>
+                  <ref eId="c00063" href="http://www.legislation.gov.uk/id/uksi/2005/3262">S.I. 2005/3262</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00028">
+               <p>
+                  <ref eId="c00064" href="http://www.legislation.gov.uk/id/ssi/2007/549">S.S.I. 2007/549</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00029">
+               <p>
+                  <ref eId="c00065" href="http://www.legislation.gov.uk/id/uksi/2007/3521">S.I. 2007/3521</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042328"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 193</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-30">30th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-31">31st May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1(2)</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 13 of the Social Security Act 1988<noteRef href="#f00001" class="footnote" marker="1"/> and section 175(4) of the Social Security Contributions and Benefits Act 1992<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 13(2) of the Social Security Act 1988, the Scottish Ministers have consulted the National Assembly for Wales.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introduction</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation, commencement and extent</heading>
+               <num>1.</num>
+               <paragraph eId="regulation-1-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>These Regulations may be cited as the Welfare Foods (Best Start Foods) (Scotland) Regulations 2019.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-1-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>These Regulations come into force on 12 August 2019, except regulation 21 and schedule 2 which come into force on 31 March 2020.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-1-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>These Regulations extend to Scotland only.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>General interpretation</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>General interpretation</heading>
+               <num>2.</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“assessment period” is to be construed in accordance with regulation 21 of the Universal Credit Regulations 2013<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“beneficiary” means an individual entitled to benefit as described in regulation 7 or 8,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Best Start Foods” means the types of food described in column 2 of the table in schedule 1,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“child” means a person under 16 years of age or a person who is a dependant within the meaning of regulation 5,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“child tax credit” means the tax credit provided for by section 1(1)(a) of the Tax Credits Act 2002<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“kinship carer” means an individual who cares for a child if—</p>
+                     <blockList>
+                        <item>
+                           <num>(a)</num>
+                           <p>the individual is a qualifying person in relation to the child within the meaning of section 72(2) of the Children and Young People (Scotland) Act 2014<noteRef href="#f00005" class="footnote" marker="5"/>, and</p>
+                        </item>
+                        <item>
+                           <num>(b)</num>
+                           <p>the child is living with the individual (exclusively or predominantly) under the terms of—</p>
+                           <blockList>
+                              <item>
+                                 <num>(i)</num>
+                                 <p>a kinship care order as defined in section 72(1) of the Children and Young People (Scotland) Act 2014, or</p>
+                              </item>
+                              <item>
+                                 <num>(ii)</num>
+                                 <p>an agreement between the individual, the individual’s partner or both of them and—</p>
+                                 <blockList>
+                                    <item>
+                                       <num>(aa)</num>
+                                       <p>a local authority in Scotland by which the child is looked after within the meaning of section 17(6) of the Children (Scotland) Act 1995<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+                                    </item>
+                                    <item>
+                                       <num>(bb)</num>
+                                       <p>a local authority in England or Wales by which the child is looked after within the meaning of section 105(4) of the Children Act 1989<noteRef href="#f00007" class="footnote" marker="7"/>, or</p>
+                                    </item>
+                                    <item>
+                                       <num>(cc)</num>
+                                       <p>an authority in Northern Ireland by which the child is looked after within the meaning of article 25(1) of the Children (Northern Ireland) Order 1995<noteRef href="#f00008" class="footnote" marker="8"/>, and</p>
+                                    </item>
+                                 </blockList>
+                              </item>
+                           </blockList>
+                        </item>
+                     </blockList>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2005 Regulations” means the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005<noteRef href="#f00009" class="footnote" marker="9"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“universal credit” means universal credit payable under Part 1 of the Welfare Reform Act 2012<noteRef href="#f00010" class="footnote" marker="10"/>.</p>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Meaning of certain expressions concerning interpersonal relationships</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Meaning of “partner”</heading>
+               <num>3.</num>
+               <content>
+                  <p>For the purposes of these Regulations, an individual is regarded as the partner of another individual if those two individuals would be regarded as a couple for the purposes of Part 1 of the Welfare Reform Act 2012 (see section 39 of that Act<noteRef href="#f00011" class="footnote" marker="11"/>).</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Meaning of being “responsible” for a child</heading>
+               <num>4.</num>
+               <paragraph eId="regulation-4-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>An individual is to be regarded as responsible for a child only if at least one of sub-paragraphs (a) to (g) applies—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the child is a dependant of the individual,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>the individual is one of the child’s parents and—</p>
+                     </intro>
+                     <clause eId="regulation-4-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>normally lives with the child,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-4-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>is under 20 years of age, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-4-1-b-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>is a dependant of another individual,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>the child is treated in law as the child of the individual by virtue of an order under section 54 of the Human Fertilisation and Embryology Act 2008<noteRef href="#f00012" class="footnote" marker="12"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-d">
+                     <num>(d)</num>
+                     <intro>
+                        <p>the child is treated in law as the child of the individual by reason of an adoption either—</p>
+                     </intro>
+                     <clause eId="regulation-4-1-d-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>effected under the law of Scotland, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-4-1-d-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>effected under the law of another country or jurisdiction and recognised by the law of Scotland,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>the child is placed with the individual by an adoption agency,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>the individual is a guardian of the child appointed by deed, will or by a court,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-1-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>the individual is a kinship carer for the child.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-4-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In paragraph (1)(e), “adoption agency” means—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>a local authority acting in its capacity as an adoption service provider under section 1 of the Adoption and Children (Scotland) Act 2007<noteRef href="#f00013" class="footnote" marker="13"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>an adoption service provided as mentioned in paragraph 8(1)(b) of schedule 12 of the Public Services Reform (Scotland) Act 2010<noteRef href="#f00014" class="footnote" marker="14"/> and registered under Part 5 of that Act,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>an adoption agency within the meaning of section 2(1) of the Adoption and Children Act 2002<noteRef href="#f00015" class="footnote" marker="15"/>,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-2-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>an adoption agency within the meaning of article 3 of the Adoption (Northern Ireland) Order 1987<noteRef href="#f00016" class="footnote" marker="16"/>.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Meaning of “dependant”</heading>
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>In respect of any given week, an individual (“person A”) is to be regarded as the dependant of another individual (“person B”) only if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>paragraph (2) applies, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in that week person B is a kinship carer for person A.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>This paragraph applies where—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>person B has been awarded—</p>
+                     </intro>
+                     <clause eId="regulation-5-2-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>child tax credit, child benefit or state pension credit in respect of the week in question (or for a period that includes that week), or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-2-a-ii">
+                        <num>(ii)</num>
+                        <intro>
+                           <p>universal credit for—</p>
+                        </intro>
+                        <subclause eId="regulation-5-2-a-ii-aa">
+                           <num>(aa)</num>
+                           <content>
+                              <p>an assessment period that includes the week in question, or</p>
+                           </content>
+                        </subclause>
+                        <subclause eId="regulation-5-2-a-ii-bb">
+                           <num>(bb)</num>
+                           <content>
+                              <p>an assessment period that ended immediately before the assessment period mentioned in paragraph (aa) started, and</p>
+                           </content>
+                        </subclause>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>person A is recognised to be a child for whom person B has responsibility in terms of that award of assistance.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>It is immaterial for the purpose of this regulation that the award of assistance to person B referred to paragraph (2) does not include any amount in respect of person A due to a rule that restricts the number of dependants in respect of whom person B can be given that type of assistance.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Entitlement</heading>
+            <hcontainer name="regulation" eId="regulation-6">
+               <heading>General</heading>
+               <num>6.</num>
+               <paragraph eId="regulation-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>An individual described in regulation 7 or regulation 8 is entitled to be paid benefit in accordance with the provisions of Part 5 of these Regulations.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-6-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>An individual is not entitled to be paid benefit under these Regulations in respect of any week in which they received, or are due to receive, benefit under the 2005 Regulations.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-6-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>A person who is entitled to benefit under these Regulations only by virtue of payment of a kind of assistance mentioned in regulation 10(1)(h) does not cease to be so entitled until expiry of 8 weeks beginning with the day after the last day of the most recent completed assessment period for that kind of assistance.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <heading>Pregnant women</heading>
+               <num>7.</num>
+               <paragraph eId="regulation-7-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>For the purposes of regulation 6 an individual so described is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-7-1-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>a pregnant woman who—</p>
+                     </intro>
+                     <clause eId="regulation-7-1-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>is ordinarily resident in Scotland,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-7-1-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>is 18 years of age or older, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-7-1-a-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>is, or is the partner or dependant of an individual who is, in receipt of a kind of assistance mentioned in regulation 10, including an individual who has been awarded a kind of assistance but has not yet received payment, or</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-7-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a pregnant woman under 18 years of age, provided that she meets the residence requirement in regulation 9.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-7-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>If an individual described in paragraph (1)(b) reaches the age of 18 years before the end of her pregnancy she remains entitled to benefit until the end of that pregnancy.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <heading>Children</heading>
+               <num>8.</num>
+               <paragraph eId="regulation-8-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>For the purposes of regulation 6 an individual so described is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-8-1-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>a child who is—</p>
+                     </intro>
+                     <clause eId="regulation-8-1-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>under 3 years of age,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-8-1-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>for whom another individual is responsible, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-8-1-a-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>that other individual is, or is the partner or dependant of another individual who is, in receipt of a kind of assistance mentioned in regulation 10, including an individual who has been awarded a kind of assistance but has not yet received payment, or</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-8-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>a child who is—</p>
+                     </intro>
+                     <clause eId="regulation-8-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>under one year of age, or whose first anniversary of their estimated date of delivery has not yet passed,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-8-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>for whom another individual is responsible, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-8-1-b-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>that other individual is under 18 years of age and meets the residence requirement set out in regulation 9.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-8-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>A child described in paragraph (1)(b) remains entitled to benefit until they are one year of age, including where the individual responsible for them has turned 18 years of age before the child’s first birthday.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <heading>Residence requirement</heading>
+               <num>9.</num>
+               <paragraph eId="regulation-9-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The residence requirement is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the individual is ordinarily resident in Scotland, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>where neither the individual, the individual’s partner nor the person on whom the individual is dependent has been awarded a kind of assistance mentioned in regulation 10, the condition set out in paragraph (2) is also met.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The condition is that the individual is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>habitually resident in the United Kingdom, the Channel Islands, the Isle of Man, the European Economic Area or Switzerland,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the protocol relating to the status of refugees done at New York on 31 January 1967,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971<noteRef href="#f00017" class="footnote" marker="17"/>, where that leave is—</p>
+                     </intro>
+                     <clause eId="regulation-9-2-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>discretionary leave to enter or remain in the United Kingdom,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-2-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>leave to remain under the destitution domestic violence concession, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-2-c-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005<noteRef href="#f00018" class="footnote" marker="18"/>,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>a person who has humanitarian protection granted under rules made under section 3(2) of the Immigration Act 1971, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-e">
+                     <num>(e)</num>
+                     <intro>
+                        <p>a person who—</p>
+                     </intro>
+                     <clause eId="regulation-9-2-e-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>is not a person who is subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 (exclusion from benefits)<noteRef href="#f00019" class="footnote" marker="19"/>, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-2-e-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <heading>Kinds of assistance</heading>
+               <num>10.</num>
+               <paragraph eId="regulation-10-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The kinds of assistance referred to in regulations 7 to 9 and 20 are—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>child tax credit, where the relevant income of the individual or individuals to whom the award of child tax credit is made is determined at the time of the award not to exceed £16,190 per annum,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>child tax credit and working tax credit, where—</p>
+                     </intro>
+                     <clause eId="regulation-10-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the relevant income if the person or persons to whom the award of tax credit is made is determined at the time of the award not to exceed £7,320, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-10-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the person or persons entitled to the award is or are being treated as engaged in qualifying remunerative work by virtue of regulation 7D of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002<noteRef href="#f00020" class="footnote" marker="20"/>,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>housing benefit, where the weekly income calculated under regulation 27 of the Housing Benefit Regulations 2006<noteRef href="#f00021" class="footnote" marker="21"/> of the person or persons to whom the award of housing benefit is made does not exceed £311,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>income-based jobseeker’s allowance,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>income-related employment and support allowance,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>income support,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>state pension credit,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-1-h">
+                     <num>(h)</num>
+                     <intro>
+                        <p>universal credit, where—</p>
+                     </intro>
+                     <clause eId="regulation-10-1-h-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the person is a single claimant of universal credit and has an earned income of £610 or less, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-10-1-h-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the person is one of joint claimants of universal credit and the joint claimants have combined earned income of £610 or less in the period specified in paragraph (2).</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The period is—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the most recent complete assessment period, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the assessment period immediately preceding that assessment period.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In this regulation—</p>
+                  </intro>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“earned income” means a person’s earned income calculated in accordance with Chapter 2 of Part 6 of the Universal Credit Regulations 2013<noteRef href="#f00022" class="footnote" marker="22"/>,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“housing benefit” means housing benefit provided by virtue of a scheme under section 123(1) of the Social Security Contributions and Benefits Act 1992<noteRef href="#f00023" class="footnote" marker="23"/>,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“relevant income” has the same meaning as in section 7(3) of the Tax Credits Act 2002<noteRef href="#f00024" class="footnote" marker="24"/>,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“state pension credit” means state pension credit provided for by the State Pension Credit Act 2002<noteRef href="#f00025" class="footnote" marker="25"/>, and</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“working tax credit” means the tax credit provided for by section 1(1)(b) of the Tax Credits Act 2002.</p>
+                     </content>
+                  </hcontainer>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <heading>Entitlement – further provision</heading>
+               <num>11.</num>
+               <paragraph eId="regulation-11-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Subject to paragraph (2), no beneficiary is entitled to benefit under these Regulations unless an application for such benefit has been approved by the Scottish Ministers.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Where an individual described in regulation 7, who has responsibility for a child described in regulation 8 and that child is under 4 months of age, notifies the Scottish Ministers of the date of birth of the child, that child is entitled to benefit payable from the date of their birth.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>If an individual described in regulations 7, 8 or 20—</p>
+                  </intro>
+                  <subparagraph eId="regulation-11-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>has ceased to be entitled to benefit,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>less than 12 weeks have elapsed since they ceased to be so entitled, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>can demonstrate to the reasonable satisfaction of the Scottish Ministers that they are once again entitled,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>then the Scottish Ministers may renew their entitlement without further process.</p>
+                  </wrapUp>
+               </paragraph>
+               <paragraph eId="regulation-11-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>Where any provision of these Regulations requires or enables anything to be done in respect of a beneficiary and that beneficiary is a child, the provision is deemed to refer to an individual who is responsible for that child.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-12">
+               <heading>Change of circumstances affecting entitlement to benefit</heading>
+               <num>12.</num>
+               <content>
+                  <p>An individual who is no longer entitled to benefit under these Regulations due to a change in circumstances must inform the Scottish Ministers of that change without delay.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-5">
+            <num>PART 5</num>
+            <heading>Benefit to be given</heading>
+            <hcontainer name="regulation" eId="regulation-13">
+               <heading>Value of benefit</heading>
+               <num>13.</num>
+               <paragraph eId="regulation-13-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The benefit to which an individual described in regulation 7 is entitled is credit for Best Start Foods to the value of £4.25 for each week that the individual is so entitled.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-13-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The benefit to which a child described in regulation 8(1)(a) is entitled is credit for Best Start Foods to the value of—</p>
+                  </intro>
+                  <subparagraph eId="regulation-13-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>£8.50 for each week that the child is so entitled until the child has reached the age of one year, or has reached the first anniversary of their estimated date of delivery, whichever occurs later,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-13-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>£4.25 for each week thereafter that the child is so entitled until the child has reached the age of 3 years.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-13-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>The benefit to which a child described in regulation 8(1)(b) is entitled is credit for Best Start Foods to the value of £8.50 for each week that the child is so entitled.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-13-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>A child who is entitled to Best Start Foods is entitled to the full amount of credit for the week in which they reach the age of 3 years.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-14">
+               <heading>Form in which benefit is given</heading>
+               <num>14.</num>
+               <content>
+                  <p>The credit mentioned in regulation 13 is to be given in the form of a payment card.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-15">
+               <heading>Supporting breastfeeding</heading>
+               <num>15.</num>
+               <content>
+                  <p>Credit issued to a beneficiary who is a breastfed child may be used by the breastfeeding mother to purchase Best Start Foods for consumption by her.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-16">
+               <heading>Property in payment card</heading>
+               <num>16.</num>
+               <paragraph eId="regulation-16-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Every payment card is the property of the Scottish Ministers.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Any person in possession of a payment card must, if requested to do so by the Scottish Ministers, produce or deliver the card within such time and to such place as the Scottish Ministers may specify.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-6">
+            <num>PART 6</num>
+            <heading>Application of enactments and offences</heading>
+            <hcontainer name="regulation" eId="regulation-17">
+               <heading>Application of enactments - offences</heading>
+               <num>17.</num>
+               <paragraph eId="regulation-17-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Section 112 (false representation for obtaining benefit) and section 113 (breach of regulations) of the Social Security Administration Act 1992<noteRef href="#f00026" class="footnote" marker="26"/> (“the 1992 Act”) have effect, for the purposes of the administration of the scheme provided for by these Regulations, subject to the modifications in paragraph (2).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-17-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The modifications are—</p>
+                  </intro>
+                  <subparagraph eId="regulation-17-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>section 112(1) of the 1992 Act is to be read as if—</p>
+                     </intro>
+                     <clause eId="regulation-17-2-a-i">
+                        <num>(i)</num>
+                        <intro>
+                           <p>in subsection (1)—</p>
+                        </intro>
+                        <subclause eId="regulation-17-2-a-i-aa">
+                           <num>(aa)</num>
+                           <content>
+                              <p>“or other payment” were omitted,</p>
+                           </content>
+                        </subclause>
+                        <subclause eId="regulation-17-2-a-i-bb">
+                           <num>(bb)</num>
+                           <content>
+                              <p>“the relevant social security legislation” were substituted by “a scheme made under section 13 of the Social Security Act 1988”,</p>
+                           </content>
+                        </subclause>
+                        <subclause eId="regulation-17-2-a-i-cc">
+                           <num>(cc)</num>
+                           <content>
+                              <p>“that legislation” were a reference to “such a scheme”, and</p>
+                           </content>
+                        </subclause>
+                     </clause>
+                     <clause eId="regulation-17-2-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>subsections (1A) to (1F) were omitted.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-17-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>section 113 is to be read as if, after subsection (1A)(a) there is inserted—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(aa)</num>
+                                    <content>
+                                       <p>section 13 of the Social Security Act 1988;</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-18">
+               <heading>Further offences</heading>
+               <num>18.</num>
+               <content>
+                  <p>A person who fails to comply with regulations 12 or 16(2) is guilty of an offence under section 13 of the Social Security Act 1988 and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-7">
+            <num>PART 7</num>
+            <heading>Amendments, transitional arrangements and revocations</heading>
+            <hcontainer name="regulation" eId="regulation-19">
+               <heading>Amendment to the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005</heading>
+               <num>19.</num>
+               <paragraph eId="regulation-19-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005<noteRef href="#f00027" class="footnote" marker="27"/> are amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-19-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In regulation 4 (claim for benefit), after paragraph (1) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(1A)</num>
+                                 <content>
+                                    <p>No application for a claim for benefit under this regulation may be made on or after 12 August 2019.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-20">
+               <heading>Transitional arrangements</heading>
+               <num>20.</num>
+               <paragraph eId="regulation-20-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The benefit to which a child described in this regulation is entitled is credit for Best Start Foods.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-20-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>For the purposes of this regulation a child so described is a child—</p>
+                  </intro>
+                  <subparagraph eId="regulation-20-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>who is under 4 years of age,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-20-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>who was 2 years of age or over at the date of application,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-20-2-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>who was in receipt of benefit under the 2005 Regulations, as they apply to Scotland, either—</p>
+                     </intro>
+                     <clause eId="regulation-20-2-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>at the date of application, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-20-2-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>less than 12 weeks prior to the date of application, and</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-20-2-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>for whom an individual described in paragraph (3) is responsible.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-20-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>For the purposes of paragraph (2) the individual—</p>
+                  </intro>
+                  <subparagraph eId="regulation-20-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>is, or is the partner or dependant of an individual who is, in receipt a kind of assistance mentioned in regulation 10, including an individual who has been awarded a kind of assistance but has not yet received payment, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-20-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>made an application under these Regulations on or before the 31 March 2020.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-20-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The benefit to which a child described in this regulation is entitled is credit for Best Start Foods to the value of £4.25 per week for each week that the child is entitled until the child has reached 4 years of age.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-20-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>For the purposes of this regulation, “date of application” means the date on which an application made under these Regulations is received by the Scottish Ministers.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-21">
+               <heading>Revocations</heading>
+               <num>21.</num>
+               <content>
+                  <p>The instruments listed in column 1 of the table in schedule 2 are revoked to the extent specified in the corresponding entry in column 3 of that table.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-30">30th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Regulation 2</p>
+                  </authorialNote>
+               </num>
+               <heading>BEST START FOODS</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.2pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 1</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Category of food</i>
+                                    </p>
+                                 </th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 2</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Type of food</i>
+                                    </p>
+                                 </th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Milk</td>
+                                 <td rowspan="1" colspan="1">Plain liquid cow’s milk, including long life, pasteurised or ultra-heat treated varieties of milk, but not milk to or from which chemicals, vitamins, flavours or colours have been added or removed.</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">First infant formula milk</td>
+                                 <td rowspan="1" colspan="1">Infant formula based on cow’s or goat’s milk intended for particular nutritional use from birth by infants in good health, which meets the requirements of the Infant Formula and Follow-on Formula (Scotland) Regulations 2007<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00028" class="footnote" marker="28"/> or the Infant Formula and Follow-on Formula (England) Regulations 2007<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00029" class="footnote" marker="29"/>.</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Fruit and vegetables</td>
+                                 <td rowspan="1" colspan="1">Fresh, frozen or canned fruit or vegetables, including loose, pre-packed, whole, sliced, chopped, or mixed fruit or vegetables, but not fruit or vegetables to which fat, salt, sugar, flavouring or any other ingredient has been added.</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Pulses</td>
+                                 <td rowspan="1" colspan="1">Fresh, dried or canned pulses, including but not limited to lentils, beans, peas and barley, but not those to which fat, salt, sugar, flavouring or any other ingredient has been added.</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Eggs</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Fresh eggs</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Regulation 21</p>
+                  </authorialNote>
+               </num>
+               <heading>REVOCATIONS</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                           <colgroup>
+                              <col width="142.15pt"/>
+                              <col width="142.15pt"/>
+                              <col width="142.15pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 1</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Instrument revoked</i>
+                                    </p>
+                                 </th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 2</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Reference</i>
+                                    </p>
+                                 </th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Column 3</i>
+                                    </p>
+                                    <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                       <i>Extent of revocation</i>
+                                    </p>
+                                 </th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/uksi/2005/3262">S.I. 2005/3262</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">Regulations 3, 4, 5(2), 5A, 6, 7, 7A, 8, 8A, 9(4)(c), 10, 17, 18 and schedule 2</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment <abbr xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" title="Number">No.</abbr> 2) Regulations 2006</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/uksi/2006/2818">S.I. 2006/2818</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">Regulations 4, 5, 6, 7 and 8</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2008</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00003" href="http://www.legislation.gov.uk/id/uksi/2008/408">S.I. 2008/408</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">The whole Regulations</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00004" href="http://www.legislation.gov.uk/id/uksi/2008/1879">S.I. 2008/1879</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">Regulation 10(3) and 10(4)</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2009</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2009/295">S.I. 2009/295</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">The whole Regulations</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2010</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2010/434">S.I. 2010/434</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">The whole Regulations</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00007" href="http://www.legislation.gov.uk/id/uksi/2013/235">S.I. 2013/235</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">Paragraph 91(3) of schedule 2</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2016</td>
+                                 <td rowspan="1" colspan="1">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2016/985">S.I. 2016/985</ref>
+                                 </td>
+                                 <td rowspan="1" colspan="1">The whole Regulations</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) Regulations 2017</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                    <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00009" href="http://www.legislation.gov.uk/id/uksi/2017/1032">S.I. 2017/1032</ref>
+                                 </td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Regulation 2</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for a scheme to provide benefits for pregnant women and children.</p>
+            <p>Part 1 deals with citation, commencement and extent. These Regulations extend to Scotland only.</p>
+            <p>Part 2 provides for general interpretation.</p>
+            <p>Part 3 of the Regulations provides for the interpretation of certain expressions used in the Regulations concerning interpersonal relationships.</p>
+            <p>Part 4 sets out who is eligible to receive the benefit and procedural matters relating to the application for benefit and change of circumstances.</p>
+            <p>Part 5 is concerned with the value and form of the benefit to be given under the Regulations.</p>
+            <p>Part 6 makes provision for application of certain enactments and offences.</p>
+            <p>Part 7 makes consequential amendments and revocations to various secondary legislation. Regulation 19 makes a consequential amendment to the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005 (“the 2005 Regulations”) to prevent new applications for benefit under the 2005 Regulations in Scotland following the coming into force of these Regulations. Regulation 20 makes provision for transitional arrangements. Regulation 21 revokes certain provisions of the 2005 Regulations and secondary legislation that amended those Regulations. The revocations made by regulation 21 take effect on 31 March 2020.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

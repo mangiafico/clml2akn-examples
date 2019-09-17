@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/30"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/30"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="30"/>
+               <FRBRname value="S.S.I. 2019/30"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/30/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/30/made"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/30/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/30/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-07" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-28" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 c.68</ref>. Section 2(2) was amended by the Scotland Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/2006/51">2006 (c.51)</ref> (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/2008/7">2008 (c.7)</ref> (“the 2008 Act”), section 3(3) and schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, schedule 1, Part<span ukl:Name="NonBreakingSpace"> </span>1.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Regulation 19(1)(c) concerns conduct taking place outside Scotland which is to be subject to Scots law. These Regulations also apply to Scottish issuing bodies, which may issue identification documents for equine animals outside Scotland.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref>. Section 2 was amended by section 120 and schedule 22, paragraph 232(1) of the Environment Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1995/25">1995 (c.25)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <abbr class="acronym" title="Official Journal">OJ</abbr> L 59, 3.3.2015, p.1-53.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>OJ L 311, 28.11.2001, p.1.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2009/231">S.S.I. 2009/231</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Article 7(4) states that this is subject to the rules of procedure of an issuing body.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040775"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 30</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Animals</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Equine Animal (Identification) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-05">5th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-07">7th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-28">28th March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) and paragraph 1A of schedule 2 of the European Communities Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Scottish Ministers that it is expedient for the references to the Commission Implementing Regulation (<abbr class="acronym" title="European Union">EU</abbr>) 2015/262 laying down rules pursuant to Council Directives <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/1990/0427">90/427/<abbr class="acronym" title="European Economic Community">EEC</abbr>
+               </ref> and <ref eId="c00002" href="http://www.legislation.gov.uk/european/directive/2009/0156">2009/156/<abbr class="acronym" title="European Community">EC</abbr>
+               </ref> as regards the methods for the identification of equidae (Equine Passport Regulation) to be construed as references to that instrument as amended from time to time.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d1805e517">
+            <heading>Citation, commencement and extent</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <paragraph eId="regulation-1-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>These Regulations may be cited as the Equine Animal (Identification) (Scotland) Regulations 2019 and, subject to paragraph (2), come into force on 28 March 2019.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-1-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Regulation 11(3)(c) comes into force on 28 March 2021.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-1-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>These Regulations extend to Scotland and, in so far as they extend beyond Scotland, they do so only as a matter of Scots law<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e570">
+            <heading>Interpretation</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <paragraph eId="regulation-2-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>In these Regulations—</p>
+                  </intro>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“duplicate identification document” means a duplicate identification document issued in accordance with Article 29 or 30,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“identification document” means an identification document for identification of an equine animal for the purposes of the Commission Regulation and these Regulations,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“inspector” means a person appointed as an inspector for the purposes of these Regulations by a local authority, or, as the case may be, the Scottish Ministers,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“issuing body” means an issuing body as referred to in Article 5(1),</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“local authority” means a council constituted under section 2 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“the Commission Regulation” means Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives <ref eId="c00003" href="http://www.legislation.gov.uk/european/directive/1990/0427">90/427/EEC</ref> and <ref eId="c00004" href="http://www.legislation.gov.uk/european/directive/2009/0156">2009/156/EC</ref> as regards the methods for the identification of equidae (Equine Passport Regulation)<noteRef href="#f00004" class="footnote" marker="4"/>, as amended from time to time,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“replacement identification document” means a replacement identification document issued in accordance with Article 32,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“veterinary medicinal product” has the meaning given in <ref eId="c00005" href="http://www.legislation.gov.uk/european/directive/2001/0082">Directive 2001/82/EC</ref> of the European Parliament and of the Council on the Community code relating to veterinary medicinal products<noteRef href="#f00005" class="footnote" marker="5"/>, and</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“veterinary surgeon” means a member of the Royal College of Veterinary Surgeons or of an equivalent professional body in a Member State.</p>
+                     </content>
+                  </hcontainer>
+               </paragraph>
+               <paragraph eId="regulation-2-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Expressions used both in these Regulations and in the Commission Regulation have the same meaning in these Regulations as they have in the Commission Regulation.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>Any reference in these Regulations to—</p>
+                  </intro>
+                  <subparagraph eId="regulation-2-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>a numbered Article is a reference to the Article so numbered in the Commission Regulation, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-2-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a numbered Section is a reference to the Section so numbered in the identification document prepared in accordance with the model identification document set out in Part 1 of Annex 1 to the Commission Regulation.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e748">
+            <heading>Competent authority</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <content>
+                  <p>The Scottish Ministers are the competent authority for the purposes of the Commission Regulation.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e766">
+            <heading>Identification of equine animals</heading>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <content>
+                  <p>A person must not keep an equine animal unless that animal is identified in accordance with the Commission Regulation and these Regulations.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e784">
+            <heading>Application for identification document</heading>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <content>
+                  <p>For the purposes of Article 11(2), the time limit for submission of an application for an identification document is no later than 30 days prior to the final date for issuing an identification document under regulation 6.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e803">
+            <heading>Issue of identification document by issuing body</heading>
+            <hcontainer name="regulation" eId="regulation-6">
+               <num>6.</num>
+               <intro>
+                  <p>An issuing body must, following receipt of an application submitted in accordance with Article 11 and regulation 5, and subject to payment to the issuing body of a reasonable fee, set under and in accordance with their rules, issue an identification document in accordance with Article 9, by the later of either—</p>
+               </intro>
+               <subparagraph eId="regulation-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>31 December in the calendar year of the equine animal’s birth, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the end of the month that is 6 months following the date of its birth.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e845">
+            <heading>Notification of veterinary medicinal products administered</heading>
+            <hcontainer name="regulation" eId="regulation-7">
+               <num>7.</num>
+               <content>
+                  <p>A person, when submitting an application for an identification document in respect of an equine animal, must notify the issuing body of any veterinary medicinal product administered to that animal.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e863">
+            <heading>Details of ownership</heading>
+            <hcontainer name="regulation" eId="regulation-8">
+               <num>8.</num>
+               <content>
+                  <p>For the purposes of Article 9(1)(c), as read with Article 10(3), Section <abbr class="acronym" title="4">IV</abbr> (details of ownership) of an identification document must be completed by an issuing body before that document is issued under Article 9.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e884">
+            <heading>Issue of duplicate or replacement identification documents</heading>
+            <hcontainer name="regulation" eId="regulation-9">
+               <num>9.</num>
+               <paragraph eId="regulation-9-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Paragraph (2) applies where, in respect of an equine animal, an issuing body issues—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>a duplicate identification document under and in accordance with Article 29, as read with Article 30,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a replacement identification document under and in accordance with Article 32, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>a duplicate identification document or replacement identification document in a case to which Article 17(2) applies.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The issuing body must classify the equine animal as not intended for human consumption by marking accordingly in Part II of Section <abbr class="acronym" title="2">II</abbr> (administration of veterinary medicinal products) of that duplicate or replacement identification document (provided a declaration is not already so made in accordance with Article 37(3)).</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e962">
+            <heading>Completion of existing identification documents for equidae imported into the European Union</heading>
+            <hcontainer name="regulation" eId="regulation-10">
+               <num>10.</num>
+               <content>
+                  <p>A keeper must provide to the issuing body all information necessary to allow the issuing body to complete an existing identification document for the purposes of Article 15(2), and subject to Article 15(3), so that it complies with the requirements of Article 7(2).</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e980">
+            <heading>Measures in relation to the verification of identification and the implantation of transponders</heading>
+            <hcontainer name="regulation" eId="regulation-11">
+               <num>11.</num>
+               <paragraph eId="regulation-11-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>For the purposes specified in Article 16(1)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-11-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>an issuing body and a veterinary surgeon acting on behalf of an issuing body, must take the measures specified in Article 16(2)(a), and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>a veterinary surgeon acting on behalf of an issuing body, must take the measures specified in Article 16(2)(b) and (c), including the measures specified in Article 17(1).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-11-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In accordance with Article 18(2) and for the purposes of Article 18(3), the issuing body must ensure that a transponder is implanted in an equine animal by a veterinary surgeon.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>For the purposes of Article 18(5), a keeper must arrange for a veterinary surgeon to mark an equine animal deemed to be identified in accordance with Articles 4(2) and 43(1) by the implantation of a transponder for the purpose of identity verification in the case where—</p>
+                  </intro>
+                  <subparagraph eId="regulation-11-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>Article 18(5)(a) applies,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>an equine animal arrives in Scotland having been subject to an alternative method of identity verification authorised by another Member State as referred to in Article 21, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>the equine animal was born on or before 30 June 2009.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-11-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>For the purposes of Article 19(1), any transponder implanted into an equine animal by a veterinary surgeon must display a code unique to that transponder.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1104">
+            <heading>Smart card to accompany equine animal</heading>
+            <hcontainer name="regulation" eId="regulation-12">
+               <num>12.</num>
+               <paragraph eId="regulation-12-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>In accordance with Article 25(1), registered equidae or equidae for breeding and production may be moved or transported within Scotland unaccompanied by their identification document provided that they are accompanied by a smart card issued in respect of that animal by the same issuing body that issued their identification document.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-12-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The smart card referred to in paragraph (1) must—</p>
+                  </intro>
+                  <subparagraph eId="regulation-12-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>contain the information at Annex II to the Commission Regulation, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-12-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>be issued by the same issuing body that issued an identification document in respect of the relevant equine animal.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1167">
+            <heading>Slaughter or death</heading>
+            <hcontainer name="regulation" eId="regulation-13">
+               <num>13.</num>
+               <content>
+                  <p>Where in accordance with Article 34(1)(c)(ii) an official veterinarian, or a person acting under the supervision of an official veterinarian, is required to return the invalidated identification document to the issuing body, the official veterinarian, or the person acting under his or her supervision, must return that document within a period of 30 days, beginning with the day on which the equine animal was slaughtered or killed, together with information about the date on which it was slaughtered or killed.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1185">
+            <heading>Databases</heading>
+            <hcontainer name="regulation" eId="regulation-14">
+               <num>14.</num>
+               <paragraph eId="regulation-14-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>An issuing body must provide the information listed in Article 38(1)(a) to (j) and (l) to (o) in respect of each equine animal for which it issues an identification document, so far as held by the issuing body, to the Scottish Ministers, within a period of 15 days beginning with the day on which that information was recorded in the database maintained for the purposes of that Article.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Scottish Ministers must maintain a record of the information provided to them in accordance with paragraph (1).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Where an issuing body’s authorisation to issue identification documents has, in accordance with Article 5(4), been withdrawn, the Scottish Ministers must ensure that equine animals continue to be identified in accordance with the Commission Regulation.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>For the purposes of Article 39, the Scottish Ministers must provide the information provided to them in accordance with paragraph (1) to the Secretary of State.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>On the slaughter or death of an equine animal, the Scottish Ministers must provide the information held by them about that equine animal to the official veterinarian, referred to in Article 34(2)(a), carrying out or supervising the measures set out Article 34(1).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-14-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>Where they consider it appropriate to do so, the Scottish Ministers may provide information provided to them in accordance with paragraph (1), so far as held by them, to any other person who requests that information.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1273">
+            <heading>Enforcement</heading>
+            <hcontainer name="regulation" eId="regulation-15">
+               <num>15.</num>
+               <paragraph eId="regulation-15-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>These Regulations are to be enforced by the local authority.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-15-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that they are to enforce these Regulations instead of the local authority.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1312">
+            <heading>Powers of inspectors</heading>
+            <hcontainer name="regulation" eId="regulation-16">
+               <num>16.</num>
+               <paragraph eId="regulation-16-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>An inspector may exercise any of the powers specified in this regulation for the purpose of administering and enforcing the Commission Regulation and these Regulations.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>An inspector may, on producing if so required a duly authenticated document showing authority, at all reasonable times enter any land or premises (excluding any premises not containing an equine animal and used wholly or mainly as a private dwelling).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>A warrant may be granted only if a sheriff or justice of the peace is satisfied, by evidence on oath—</p>
+                  </intro>
+                  <subparagraph eId="regulation-16-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>that there are reasonable grounds for entry onto land or premises by an inspector under this regulation, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-3-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>that—</p>
+                     </intro>
+                     <clause eId="regulation-16-3-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>entry has been refused,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-16-3-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>such a refusal is reasonably expected, and that person has given notice to the occupier of his or her intention to apply for an entry warrant,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-16-3-b-iii">
+                        <num>(iii)</num>
+                        <content>
+                           <p>a request for entry, or the giving of such a notice, would defeat the object of entry,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-16-3-b-iv">
+                        <num>(iv)</num>
+                        <content>
+                           <p>entry is urgently required,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-16-3-b-v">
+                        <num>(v)</num>
+                        <content>
+                           <p>the premises are unoccupied, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-16-3-b-vi">
+                        <num>(vi)</num>
+                        <content>
+                           <p>the occupier is temporarily absent and it would defeat the object of entry to await the occupier’s return.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-16-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The sheriff or justice of the peace may, by signed warrant, valid for a period of no more than one month, authorise that inspector, together with any person who may accompany an inspector by virtue of paragraph (6), to enter the land or premises, if need be by reasonable force.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>An inspector may—</p>
+                  </intro>
+                  <subparagraph eId="regulation-16-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>require the production of an identification document, duplicate identification document, replacement identification document or smart card (as referred to in regulation 12) and mark it as necessary,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>carry out any inquiries,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>have access to, and inspect and copy any records (in whatever form they are held) kept for the purposes of the Commission Regulation or these Regulations,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>remove such records to enable them to be copied,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>have access to, inspect and check the operation of any computer and any associated apparatus or material that is or has been in use in connection with the records; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford the inspector such assistance as may reasonably be required and, where a record is kept by means of a computer, may require the records to be produced in a form in which they may be taken away,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>mark any equine animal or other thing for identification purposes,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>examine any equine animal, identification document or transponder,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-h">
+                     <num>(h)</num>
+                     <content>
+                        <p>require the name and address of any person in charge or in possession of identification documents, records or studbooks, or in control of any equine animal,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>take photographs or any other digital record of anything on the land or premises,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-5-j">
+                     <num>(j)</num>
+                     <content>
+                        <p>take samples from, for the exercise of his or her functions, an equine animal or any article the inspector may reasonably require, and carry out or cause to be carried out, on the samples such tests, analyses, examinations or inspections as the inspector considers necessary or expedient, and mark or otherwise identify the sample.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-16-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>An inspector entering onto land or premises by virtue of this regulation may be accompanied by such other person as the inspector considers necessary.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-7">
+                  <num>(7)</num>
+                  <content>
+                     <p>A person accompanying an inspector may also exercise any of the powers conferred on an inspector by virtue of paragraph (5).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-8">
+                  <num>(8)</num>
+                  <intro>
+                     <p>If the inspector, or an accompanying person, causes damage in exercising the powers in this regulation, the local authority (or, as the case may be, the Scottish Ministers) must—</p>
+                  </intro>
+                  <subparagraph eId="regulation-16-8-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>take reasonable steps to remedy the damage, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-16-8-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if it is not possible to remedy the damage, pay compensation for it.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-16-9">
+                  <num>(9)</num>
+                  <content>
+                     <p>An inspector who enters any unoccupied premises must leave them as effectively secured as they were before those premises were entered.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-10">
+                  <num>(10)</num>
+                  <content>
+                     <p>If the inspector causes loss or damage by failing to comply with subsection (9), the local authority (or, as the case may be, the Scottish Ministers) must pay compensation for the loss or damage.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-16-11">
+                  <num>(11)</num>
+                  <content>
+                     <p>In this regulation, “land” and “premises” include a vehicle, vessel or container.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1702">
+            <heading>Failure to comply with these Regulations</heading>
+            <hcontainer name="regulation" eId="regulation-17">
+               <num>17.</num>
+               <intro>
+                  <p>It is an offence to fail to comply with—</p>
+               </intro>
+               <subparagraph eId="regulation-17-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>regulation 4 (identification of equine animals),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>regulation 5 (application for identification document),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>regulation 6 (issue of identification document by issuing body),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>regulation 7 (notification of veterinary medicinal products administered),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>regulation 8 (details of ownership),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>regulation 9(2) (classification of equine animal as not intended for human consumption),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>regulation 10 (completion of existing identification documents for equidae imported into the European Union),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>regulation 11(2), (3) and (4) (requirements relating to transponders),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>regulation 12 (smart card to accompany equine animal), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-17-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>regulation 14(1) (provision of information to the Scottish Ministers).</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1842">
+            <heading>Failure to comply with a specified requirement</heading>
+            <hcontainer name="regulation" eId="regulation-18">
+               <num>18.</num>
+               <paragraph eId="regulation-18-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>A person who fails to comply with a specified requirement without reasonable excuse, commits an offence.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-18-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In this regulation, “specified requirement” means a requirement set out in a provision of the Commission Regulation, where applicable as read with provisions of these Regulations, specified in column 1 of the table in the schedule (specified requirements), the subject matter of which is described in column 2 of that table.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1881">
+            <heading>Offence of moving or transporting an equine animal without a temporary document</heading>
+            <hcontainer name="regulation" eId="regulation-19">
+               <num>19.</num>
+               <paragraph eId="regulation-19-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>A keeper who has surrendered the identification document of an equine animal in the circumstances specified in Article 24(1) and who, without reasonable excuse—</p>
+                  </intro>
+                  <subparagraph eId="regulation-19-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>moves or transports the equine animal within Scotland without a temporary document, such a document having been issued in respect of that animal,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-19-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>moves or transports the equine animal within Scotland with a temporary document but for a period exceeding 45 days, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-19-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>moves or transports the equine animal to another Member State, or through a Member State to a third country, without either a temporary document or the accompanying health certificate required by Article 24(3), or both,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>commits an offence.</p>
+                  </wrapUp>
+               </paragraph>
+               <paragraph eId="regulation-19-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Except as otherwise directed by the Scottish Ministers, temporary documents granted in England, Wales or Northern Ireland in accordance with Article 24(1) have effect in Scotland as if they were temporary documents granted by an issuing body in Scotland.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e1959">
+            <heading>Offences relating to implantation of transponder</heading>
+            <hcontainer name="regulation" eId="regulation-20">
+               <num>20.</num>
+               <intro>
+                  <p>A person who does not meet the minimum qualification for implantation of a transponder as referred to in regulation 11(2), and who, without reasonable excuse—</p>
+               </intro>
+               <subparagraph eId="regulation-20-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>implants or attempts to implant in an equine animal a transponder or a device which falsely purports to be a transponder, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-20-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>tampers or otherwise alters a transponder with intent to deceive,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>commits an offence.</p>
+               </wrapUp>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-21">
+               <num>21.</num>
+               <intro>
+                  <p>A person who meets the minimum qualification for implantation of a transponder as referred to in regulation 11(2) and who knowingly—</p>
+               </intro>
+               <subparagraph eId="regulation-21-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>implants or attempts to implant in an equine animal a device which falsely purports to be a transponder, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-21-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>tampers or otherwise alters a transponder with intent to deceive,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>commits an offence.</p>
+               </wrapUp>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-22">
+               <num>22.</num>
+               <content>
+                  <p>A person who, without reasonable excuse, removes or attempts to remove a transponder from an equine animal other than in accordance with the Commission Regulation and these Regulations commits an offence.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2055">
+            <heading>Offences relating to identification documents</heading>
+            <hcontainer name="regulation" eId="regulation-23">
+               <num>23.</num>
+               <content>
+                  <p>A person who knowingly makes an application for a duplicate identification document or replacement identification document in contravention of Article 29 or 32, as read with Article 17(2), commits an offence.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-24">
+               <num>24.</num>
+               <paragraph eId="regulation-24-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>A person who otherwise than in accordance with the Commission Regulation or these Regulations—</p>
+                  </intro>
+                  <subparagraph eId="regulation-24-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>without reasonable excuse destroys or defaces an identification document,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-24-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>without reasonable excuse alters an entry in an identification document,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-24-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>knowingly issues an identification document,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-24-1-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>knowingly is in possession of a identification document issued otherwise than in accordance with the Commission Regulation and these Regulations, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-24-1-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>provides any information in an application for an identification document knowing it to be false or misleading,</p>
+                     </content>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>commits an offence.</p>
+                  </wrapUp>
+               </paragraph>
+               <paragraph eId="regulation-24-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In this regulation, “identification document” includes a duplicate identification document, replacement identification document or a smart card.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2170">
+            <heading>Further offences</heading>
+            <hcontainer name="regulation" eId="regulation-25">
+               <num>25.</num>
+               <intro>
+                  <p>A person who—</p>
+               </intro>
+               <subparagraph eId="regulation-25-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>intentionally obstructs an inspector (or a person accompanying an inspector and acting under the inspector’s instructions) acting in the execution or enforcement of the Commission Regulation and these Regulations,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-25-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>fails, without reasonable excuse, to give to any person acting in the execution or enforcement of these Regulations any assistance or information that is reasonably required,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-25-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>provides to any person acting in the execution or enforcement of these Regulations any information knowing it to be false or misleading or not believing it to be true,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-25-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>fails, without reasonable excuse, to produce any document or record when required to do so by any person acting in the execution or enforcement of these Regulations, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-25-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>defaces, obliterates or removes any mark applied under regulation 16(5)(f) except under the written authority of an inspector,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>commits an offence.</p>
+               </wrapUp>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2252">
+            <heading>Penalties</heading>
+            <hcontainer name="regulation" eId="regulation-26">
+               <num>26.</num>
+               <content>
+                  <p>A person who commits an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2271">
+            <heading>Fixed penalty notices</heading>
+            <hcontainer name="regulation" eId="regulation-27">
+               <num>27.</num>
+               <paragraph eId="regulation-27-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Where it is believed that a person has committed one or more of the following offences, this regulation applies—</p>
+                  </intro>
+                  <subparagraph eId="regulation-27-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>contravention of Article 23(1) as read with Article 23(2) (keeper required to ensure identification documents accompany equidae at all times), in circumstances where no smart card has been issued in accordance with regulation 12 (smart card to accompany equine animal), and where the circumstances of Article 24(1) do not apply, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>contravention of Article 26(1)(a).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-27-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Where an authorised officer of a local authority has reason to believe that a person is committing or has committed, within the area of the local authority, an offence specified in paragraph (1), the officer may issue that person a fixed penalty notice.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>A fixed penalty notice must—</p>
+                  </intro>
+                  <subparagraph eId="regulation-27-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>identify the alleged offence,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>give reasonable particulars of the circumstances alleged to constitute that offence,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>state the amount of the penalty and the period within which it may be paid,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>state the person to whom and the address at which payment of the penalty may be made,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>state the method or methods by which payment may be made,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-f">
+                     <num>(f)</num>
+                     <content>
+                        <p>identify the person to whom and the address at which any representations relating to the notice may be made,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-3-g">
+                     <num>(g)</num>
+                     <content>
+                        <p>contain an explanation of the effect of making payment in accordance with the notice, and of the consequences of not making a payment within the period for payment.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-27-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The period for payment of the fixed penalty is the period of 28 days beginning with the day on which the notice is issued.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>The local authority may extend the period for paying the fixed penalty in any particular case if it considers it appropriate to do so.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>A penalty notice is issued at the time when it is sent by post.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-7">
+                  <num>(7)</num>
+                  <content>
+                     <p>The sum specified for payment in a fixed penalty notice is 40 per cent of level 1 on the standard scale.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-8">
+                  <num>(8)</num>
+                  <intro>
+                     <p>Where a person is issued with a fixed penalty notice in respect of an offence specified in paragraph (1)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-27-8-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>no criminal proceedings for the offence may be commenced before the end of the period for payment of the penalty, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-8-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if the person makes payment in accordance with the notice, the person may not at any time be convicted of that offence in respect of that person’s relevant act or omission.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-27-9">
+                  <num>(9)</num>
+                  <content>
+                     <p>A fixed penalty notice must be issued as soon as reasonably practicable.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-10">
+                  <num>(10)</num>
+                  <content>
+                     <p>A fixed penalty notice may be withdrawn by an authorised officer, if an authorised officer determines that the offence to which the notice relates was not committed or that the notice ought not to have been issued to the person named as the person to whom it was issued.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-27-11">
+                  <num>(11)</num>
+                  <intro>
+                     <p>Where a fixed penalty notice has been withdrawn—</p>
+                  </intro>
+                  <subparagraph eId="regulation-27-11-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>no amount is payable by way of fixed penalty in pursuance of that notice, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-27-11-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>any amount paid by way of fixed penalty in pursuance of that notice must be repaid to the person who paid it.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-27-12">
+                  <num>(12)</num>
+                  <intro>
+                     <p>In this regulation—</p>
+                  </intro>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“authorised officer” means an officer authorised by the local authority to receive information about the alleged commission of the offences specified in paragraph (1), and</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“fixed penalty notice” means a notice issued by or on behalf of the local authority in whose area the offence is suspected of having been committed, offering the person to whom it is issued the opportunity to discharge any liability to conviction for an offence by payment of a fixed penalty to the appropriate local authority.</p>
+                     </content>
+                  </hcontainer>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2610">
+            <heading>Offences by bodies corporate, <abbr title="Et cetera" xml:lang="la">etc</abbr>
+            </heading>
+            <hcontainer name="regulation" eId="regulation-28">
+               <num>28.</num>
+               <paragraph eId="regulation-28-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Where—</p>
+                  </intro>
+                  <subparagraph eId="regulation-28-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-28-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—</p>
+                     </intro>
+                     <clause eId="regulation-28-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>a relevant individual, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-28-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>an individual purporting to act in the capacity of a relevant individual,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <wrapUp>
+                     <p>the individual as well as the body corporate, Scottish partnership or unincorporated association commits the offence and is liable to be proceeded against and punished accordingly.</p>
+                  </wrapUp>
+               </paragraph>
+               <paragraph eId="regulation-28-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In paragraph (1), “relevant individual” means—</p>
+                  </intro>
+                  <subparagraph eId="regulation-28-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in relation to a body corporate—</p>
+                     </intro>
+                     <clause eId="regulation-28-2-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>a director, manager, secretary or other similar officer of the body,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-28-2-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>where the affairs of the body are managed by its members, a member,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-28-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in relation to a Scottish partnership, a partner, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-28-2-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1805e2763">
+            <heading>Revocation</heading>
+            <hcontainer name="regulation" eId="regulation-29">
+               <num>29.</num>
+               <content>
+                  <p>The Horse Identification (Scotland) Regulations 2009 are revoked<noteRef href="#f00006" class="footnote" marker="6"/>.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-05">5th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation 18</p>
+                  </authorialNote>
+               </num>
+               <heading>Specified requirements</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.2pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Column 1: specified requirement</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Column 2: subject matter of the specified requirement</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">First subparagraph of Article 7(4)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Responsibility of issuing body for the secure management of identification documents on their premises</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Second subparagraph of Article 7(4)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Responsibility of issuing body to ensure effective invalidation of identification document before handed out to the owner in memory of the animal<noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00007" class="footnote" marker="7"/>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 9(1), but excluding Article 9(1)(c)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirements on issuing body in relation to issuing identification documents</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">The second subparagraph of Article 12(3) in so far as it applies to the keeper</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to surrender existing identification document to issuing body to be invalidated, in respect of identification of equidae born in the Union</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 15(1)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Keeper to apply for an identification document, or register an existing identification document in the database of the issuing body, in respect of equidae imported into the Union</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 15(3)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Issuing body to issue new identification document where existing identification document cannot be amended to comply with requirements of Article 7(2).</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Articles 16 and 17(1) and (2)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirements on issuing body or a veterinary surgeon acting on behalf of the issuing body in respect of measures to verify a single identification document for equidae and to detect previous identification</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 17(3)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on issuing body in respect of issuing a replacement identification document where a transponder or alternative method of identification has been removed in respect of equidae born in the Union</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 18(2)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirements on a veterinary surgeon when implanting a transponder</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 20(1) (as read with Article 20(2))</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on issuing body to record transponder code and other related information in an identification document</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 23(1) (as read with Articles 23(2) and 25(1) and regulation 12 of these Regulations)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to ensure an identification document accompanies equidae at all times</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 26(1)(a)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to ensure an identification document accompanies equidae being moved or transported to slaughterhouse</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 27(1) and (2)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to ensure identification details in an identification document are up to date and correct and ensure an identification document is lodged with the appropriate issuing body in the Member State in which the holding is located, within 30 days of certain events</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 27(3)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to lodge an identification document with another issuing body, or competent authority, to keep identification details up to date within 30 days of certain events</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 28(a) to (d)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on an issuing body as regards management of identification documents</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 29 as read with Article 30, but excluding the Article 29(3) requirement to forward details of the duplicate identification document to the central database.</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on an issuing body to issue a duplicate identification document</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 32, but excluding the Article 32(3) requirement to forward details of the replacement identification document to the central database.</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on an issuing body to issue a replacement identification document</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 35(1)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Obligations of the keeper in case of death or loss of an equine animal not referred to in Article 34</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 35(2), but excluding the requirement to act in accordance with point (e) of Article 28.</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Obligations of the issuing body in case of death or loss of an equine animal not referred to in Article 34</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 37(2)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on the veterinarian responsible to ascertain equine animal’s status</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 37(3)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on the veterinarian responsible to ensure that an equine animal is irreversibly declared as not intended for slaughter for human consumption</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 37(4)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement on keeper to lodge identification document with issuing body, or provide information online, within 14 days from the taking of Article 37(3) measures</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 37(6)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirements on the veterinarian responsible to enter details in the identification document, and inform the keeper of the date of the lapse of the withdrawal period, concerning the medicinal product administered</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Article 38(2)</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Requirement for issuing body to keep information on its database</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations implement and enforce in Scotland Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives <ref eId="c00006" href="http://www.legislation.gov.uk/european/directive/1990/0427">90/427/EEC</ref> and <ref eId="c00007" href="http://www.legislation.gov.uk/european/directive/2009/0156">2009/156/EC</ref> as regards the methods for the identification of equidae (Equine Passport Regulation).</p>
+            <p>These Regulations revoke and replace the Horse Identification (Scotland) Regulations 2009.</p>
+            <p>The Equine Passport Regulation regulates the identification of equine animals born in, or moving within, the EU. The system of identification comprises a single lifetime identification document that must constantly accompany an equine animal, identity verification through insertion of a transponder bearing a unique code, and information entered onto databases held by issuing bodies and by Member States. Identification documents must be kept up-to-date. Competent authorities within a Member State may also expressly permit the issue of smart cards that may be carried in place of identification documents during the movement or transport of equine animals. It also provides for the issue of duplicate or replacement identification documents. On the slaughter, death or loss of the equine animal, the Equine Passport Regulation requires the recovery and destruction or disposal of the transponder, and the rendering invalid of an identification document prior to its return to the issuing body.</p>
+            <p>These Regulations provide for the following:—</p>
+            <blockList>
+               <item>
+                  <p>The Scottish Ministers are designated as the competent authority (regulation 3).</p>
+               </item>
+               <item>
+                  <p>Identification documents must be issued no later than either 31 December in the year of the equine animal’s birth or 6 months after its birth, whichever is the later (regulation 6).</p>
+               </item>
+               <item>
+                  <p>The time limit for submission of an application for an identification document is no later than 30 days prior to the above deadlines (regulation 5).</p>
+               </item>
+               <item>
+                  <p>Regulation 11 sets out the measures to be taken by various parties in relation to the verification of identification and the implantation of transponders in equine animals.</p>
+               </item>
+               <item>
+                  <p>Within Scotland, equine animals may be moved or transported unaccompanied by their identification document provided they are accompanied by a smart card issued by the appropriate issuing body (regulation 12).</p>
+               </item>
+               <item>
+                  <p>Regulation 14 enables the Scottish Ministers to maintain a database of equine animals whose details are recorded by Scottish issuing bodies.</p>
+               </item>
+               <item>
+                  <p>Regulations 15 and 16 make provision for enforcement, including powers of inspectors.</p>
+               </item>
+               <item>
+                  <p>Regulations 17 to 28 and the Schedule make provision for offences and penalties, including powers to issue fixed penalty notices (regulation 27).</p>
+               </item>
+               <item>
+                  <p>A fixed penalty notice may be issued by an authorised officer of a local authority, in respect of breaches of Article 23(1), and of Article 26(1)(a) (regulation 27).</p>
+               </item>
+            </blockList>
+            <p>A business regulatory impact assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Directorate for Agriculture and Rural Economy, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

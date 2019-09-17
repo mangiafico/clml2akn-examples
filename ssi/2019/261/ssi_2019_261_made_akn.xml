@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/261"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/261"/>
+               <FRBRdate date="2019-08-01" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="261"/>
+               <FRBRname value="S.S.I. 2019/261"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/261/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/261/made"/>
+               <FRBRdate date="2019-08-01" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/261/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/261/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-08-01" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-08-01" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2001/7">2001 asp 7</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1983/2">1983 c.2</ref>. Legislative competence for eligibility to vote in Scottish Parliament elections has been devolved to the Scottish Parliament by virtue of section 3 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The term “Convention rights” has the meaning given by section 1 of the Human Rights Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/42">1998 (c.42)</ref>. In the case of <i>Hirst v United Kingdom (No. 2), Application no. 74025/01, 6 October 2005</i>, the European Court of Human Rights concluded there had been a violation of Article 3 of Protocol 1 to the Convention by the United Kingdom in so far as section 3 of the 1983 Act imposes a blanket restriction on all convicted prisoners in prison.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 c.46</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2015/425">S.S.I. 2015/425</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>As relevantly amended by paragraph 95 of schedule 16 of the Armed Forces Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/2006/52">2006 (c.52)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>As relevantly amended by paragraph 22(1) of schedule 1 of the Representation of the People Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/2000/2">2000 (c.2)</ref> (“the 2000 Act”).</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>As relevantly amended by paragraph 13(3) of schedule 1 of the Electoral Administration Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/2006/22">2006 (c.22)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>As relevantly amended by paragraph 130(2) of schedule 13 of the Local Government etc. (Scotland) Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>As relevantly amended by section 1(2) of the 2000 Act.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>As relevantly amended by paragraph 1 of schedule 4 of the Representation of the People Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1985/50">1985 (c.50)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>As relevantly amended by section 1(2) of the Representation of the People Act 2000 (“the 2000 Act”).</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>As relevantly amended by section 1(2) of the 2000 Act.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>As relevantly amended by section 1(2) of the 2000 Act.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Added by section 6 of the 2000 Act and relevantly amended by section 8 of the Scottish Elections (Reduction of Voting Age) Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/asp/2015/7">2015 (asp 7)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Added by section 6 of the Representation of the People Act 2000 and relevantly amended by section 12(3) of the Electoral Administration Act 2006 and paragraph 4 of schedule 4 of the Electoral Registration and Administration Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/2013/6">2013 (c.6)</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042632"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <container name="draft">
+            <p>Order made by the Scottish Ministers, laid before the Scottish Parliament under section 14(2)(b) of the Convention Rights (Compliance) (Scotland) Act 2001 for approval by resolution of the Scottish Parliament within 120 days beginning with the date on which the Order was made, not taking into account periods of dissolution or recess for more than 4 days.</p>
+         </container>
+         <block name="number">
+            <docNumber>2019 No. 261</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Representation Of The People</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Representation of the People Act 1983 Remedial (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-08-01">at 11.15 a.m. on 1st August 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-08-01">at 2.30 p.m. on 1st August 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with article 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following remedial Order in exercise of the powers conferred by section 12(1) and (3) of the Convention Rights (Compliance) (Scotland) Act 2001<noteRef href="#f00001" class="footnote" marker="1"/> (“the 2001 Act”) and all other powers enabling them to do so.</p>
+         <p>The Scottish Ministers consider the provision made by this Order to be necessary or expedient in consequence of section 3 of the Representation of the People Act 1983<noteRef href="#f00002" class="footnote" marker="2"/> being incompatible with a Convention right<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+         <p>In accordance with section 12(2) of the 2001 Act the Scottish Ministers are of the opinion that there are compelling reasons for making a remedial order as distinct from taking any other action.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 14(1) of the 2001 Act it appears to the Scottish Ministers that, for reasons of urgency, it is necessary to make a remedial order without following the procedure under section 13(2) to (4) of the 2001 Act.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Representation of the People Act 1983 Remedial (Scotland) Order 2019 and comes into force on the day after the day on which it is made.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Application of this Order</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order applies to the election to be held under section 9 of the Scotland Act 1998<noteRef href="#f00004" class="footnote" marker="4"/> (constituency vacancies) on 29 August 2019 for a constituency member of the Scottish Parliament to serve for the Shetland Islands constituency.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>That election is referred to in this Order as the “Shetland Islands by-election”.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-3">
+            <heading>Interpretation</heading>
+            <num>3.</num>
+            <intro>
+               <p>In this Order—</p>
+            </intro>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1983 Act” means the Representation of the People Act 1983,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 2015 Order” means the Scottish Parliament (Elections etc.) Order 2015<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“constituency member” has the meaning given in section 126(1) of the Scotland Act 1998,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“convicted person” has the meaning given in section 3(2)(a) of the 1983 Act<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“dwelling” has the meaning given in section 202(1) of the 1983 Act<noteRef href="#f00007" class="footnote" marker="7"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“elector” has the meaning given in section 202(1) of the 1983 Act<noteRef href="#f00008" class="footnote" marker="8"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“penal institution” has the meaning given in section 3(2)(b) of the 1983 Act,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“register of local government electors” has the meaning given in paragraph 10 of schedule 7 of the 1983 Act,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“registration officer” means an officer appointed under section 8(3) of the 1983 Act<noteRef href="#f00009" class="footnote" marker="9"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“relevant date” has the meaning given in section 4(6) of the 1983 Act<noteRef href="#f00010" class="footnote" marker="10"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“Shetland Islands constituency” means the constituency listed in paragraph 1(2)(b) of schedule 1 of the Scotland Act 1998.</p>
+               </content>
+            </hcontainer>
+         </article>
+         <hcontainer name="crossheading" eId="crossheading-voting-at-the-shetland-islands-byelection">
+            <heading>Voting at the Shetland Islands by-election</heading>
+            <article eId="article-4">
+               <heading>Voting by convicted persons sentenced to terms of 12 months or less</heading>
+               <num>4.</num>
+               <paragraph eId="article-4-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>A convicted person is not legally incapable of voting at the Shetland Islands by-election by virtue of section 3(1) of the 1983 Act<noteRef href="#f00011" class="footnote" marker="11"/> (disenfranchisement of offenders in prison etc.) during the time that the person is detained in a penal institution in pursuance of a sentence imposed for a term not exceeding 12 months.(1)</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-4-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In calculating the term of a sentence of a convicted person for the purpose of paragraph (1), terms that are consecutive or concurrent to any extent are to be treated as a single term if the sentences were imposed on that person—</p>
+                  </intro>
+                  <subparagraph eId="article-4-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>on the same occasion, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-4-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>on different occasions but the convicted person was not released (other than on temporary release) at any time during the period beginning with the first occasion and ending with the last.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="article-4-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>So far as necessary for the purposes of voting at the Shetland Islands by-election (including registering to vote at that election), a convicted person to whom paragraph (1) of this article applies is to be treated as not being legally incapable of voting at local government elections in Scotland by virtue of section 3(1) of the 1983 Act<noteRef href="#f00012" class="footnote" marker="12"/> (entitlement).</p>
+                  </content>
+               </paragraph>
+            </article>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="crossheading-registration">
+            <heading>Registration</heading>
+            <article eId="article-5">
+               <heading>Residence of convicted persons in prison etc.: uninterrupted residence</heading>
+               <num>5.</num>
+               <paragraph eId="article-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>This article applies to a convicted person to whom article 4(1) applies.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In determining whether the convicted person is resident in a dwelling on the relevant date for the purpose of section 4(3)(a) of the 1983 Act<noteRef href="#f00013" class="footnote" marker="13"/> (entitlement to be registered in the register of parliamentary and local government electors: residence requirement), the convicted person’s residence is not to be taken to have been interrupted by reason of the convicted person’s detention in a penal institution if—</p>
+                  </intro>
+                  <subparagraph eId="article-5-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>the convicted person—</p>
+                     </intro>
+                     <clause eId="article-5-2-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>intends to resume actual residence when released from the penal institution (other than on temporary release), and</p>
+                        </content>
+                     </clause>
+                     <clause eId="article-5-2-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>will not be prevented from doing so by an order of any court, or</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="article-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the dwelling serves as a permanent place of residence (whether for the convicted person alone or with other persons) and the convicted person would be in actual residence there but for the convicted person’s detention.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </article>
+            <article eId="article-6">
+               <heading>Residence of convicted persons in prison etc.: notional residence</heading>
+               <num>6.</num>
+               <paragraph eId="article-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Section 5(6) of the 1983 Act<noteRef href="#f00014" class="footnote" marker="14"/> (residence of persons detained in legal custody) is subject to section 7B of that Act<noteRef href="#f00015" class="footnote" marker="15"/> (notional residence: declarations of local connection) in so far as it relates to a declaration made for the purposes only of the registration of local government electors in Scotland.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-6-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>(2)Section 7B of the 1983 Act, so far as relating to the registration of local government electors in Scotland, also applies to a person who, on the date on which the person makes a declaration under subsection (1) of that section—</p>
+                  </intro>
+                  <subparagraph eId="article-6-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>is a convicted person to whom article 4(1) applies, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>would not be entitled to be registered by virtue of residence at any place other than the penal institution in which the convicted person is detained.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="article-6-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In the case of a convicted person falling within paragraph (2), the “required address” for the purpose of section 7B of the 1983 Act is—</p>
+                  </intro>
+                  <subparagraph eId="article-6-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the address in the Shetland Islands constituency where the convicted person would be residing but for the person’s detention, or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="article-6-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>(b)if the convicted person cannot give an address under sub-paragraph (a), an address in the Shetland Islands constituency at which the convicted person has previously been resident.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="article-6-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>Despite anything in section 7B(7) of the 1983 Act, a declaration of local connection made by virtue of paragraph (2) of this article has effect only for the purposes of the person’s registration as a local government elector for the purpose of the Shetland Islands by-election.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-6-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>A declaration of local connection made by virtue of paragraph (2) of this article must be marked to show that it is available only for the purpose of registration as a local government elector for the purpose of the Shetland Islands by-election but otherwise it is to be the same as other declarations of local connection.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-6-6">
+                  <num>(6)</num>
+                  <content>
+                     <p>Section 7C(2) of the 1983 Act<noteRef href="#f00016" class="footnote" marker="16"/> (effect of declaration of local connection) does not apply in relation to a convicted person to whom article 4(1) applies who is registered in the register of local government electors in pursuance of a declaration of local connection made by virtue paragraph (2) of this article (but see article 7).</p>
+                  </content>
+               </paragraph>
+            </article>
+            <article eId="article-7">
+               <heading>Duration of registration</heading>
+               <num>7.</num>
+               <paragraph eId="article-7-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>A convicted person to whom article 4(1) applies who is registered in the register of local government electors by virtue of this Order is entitled to remain so registered only for so long as necessary for the purposes of voting as an elector at the Shetland Islands by-election.(1)</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-7-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Where the entitlement of such a person to remain so registered terminates by virtue of paragraph (1), the registration officer concerned must remove the person’s entry from the register, unless the person is entitled to remain registered otherwise than by virtue of this Order.</p>
+                  </content>
+               </paragraph>
+            </article>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="crossheading-method-of-voting">
+            <heading>Method of voting</heading>
+            <article eId="article-8">
+               <heading>Method of voting by convicted persons</heading>
+               <num>8.</num>
+               <paragraph eId="article-8-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>In relation to the Shetland Islands by-election, nothing in article 7(1) to (5) of the 2015 Order (manner of voting) applies to a convicted person to whom article 4(1) applies.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-8-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>Such a person may only vote as an elector at the Shetland Islands by-election by post (where the person is entitled as an elector to vote by post at the election).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="article-8-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>A person is not capable of voting as proxy at the Shetland Islands by-election if, on the date of the election, the person is a convicted person to whom article 4(1) applies.</p>
+                  </content>
+               </paragraph>
+            </article>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MICHAEL RUSSELL</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-08-01">At 11.15 a.m. on 1st August 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order removes the restriction on certain convicted persons detained in a penal institution from voting at the Shetland Islands by-election on 29 August 2019.</p>
+            <p>Section 3(1) of the Representation of the People Act 1983 (“the 1983 Act”) provides that a convicted person detained in a penal institution is legally incapable of voting at any parliamentary or local government election. In <i>Hirst v United Kingdom (No. 2), Application no. 74025/01, 6 October 2005</i>, the European Court of Human Rights concluded that the incapacity of convicted prisoners to vote in the United Kingdom, provided in section 3 of the 1983 Act is incompatible with Article 3 of Protocol 1 to the European Convention on Human Rights (“the Convention”).</p>
+            <p>The Scotland Act 2016 amended schedule 5 of the Scotland Act 1998 (which sets out the reserved matters) in relation to elections. Competence for the conduct of local government and Scottish Parliament elections, including the franchise at such elections (subject to some reservations set out in the amended Section B3 of Part 2 of that schedule 5) was devolved to the Scottish Parliament on 18 May 2017. As a result of the Scottish Parliament having competence over the franchise in Scottish Parliament and Scottish local government elections, the Parliament, and the Scottish Government, are required to ensure that the exercise of that franchise is compatible with the Convention.</p>
+            <p>The Scottish Elections (Franchise and Representation) Bill was introduced on 20 June 2019. Section 4 of the Bill provides that convicted persons in penal institutions sentenced to a term not exceeding 12 months will be eligible to register to vote as a local government elector in Scotland. Section 11 of the Scotland Act 1998 provides that those entitled to vote in Scottish Parliament elections are those who are entitled to vote, and registered, as local government electors. Therefore, the changes made to the local government franchise by the Bill will also affect Scottish Parliament elections.</p>
+            <p>The resignation of the constituency MSP for the Shetland Islands has triggered a by-election that will take place on 29 August 2019. To comply with Article 3 of Protocol 1 to the Convention, article 4 of this Order provides that a convicted person detained in a penal institution sentenced to a term not exceeding 12 months will be eligible to vote at the Shetland Islands by-election.</p>
+            <p>Article 5 and 6 make provision regarding where a convicted person is treated as residing. Article 8 provides that a convicted person is only entitled to vote at the Shetlands by-election by post. Article 7 provides that a convicted person who is registered to vote by virtue of this Order is only entitled to remain registered as long as is necessary for the purposes of voting as an elector at the Shetland Islands by-election.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

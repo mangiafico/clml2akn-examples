@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/126"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/126"/>
+               <FRBRdate date="2019-03-28" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="126"/>
+               <FRBRname value="S.S.I. 2019/126"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/126/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/126/made"/>
+               <FRBRdate date="2019-03-28" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/126/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/126/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-28" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2018/8">2018 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2016/20">2016 asp 20</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1989/29">1989 c.29</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1984/54">1984 c.54</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2002/3">2002 asp 3</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1986/44">1986 c.44</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1967/10">1967 c.10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1997/8">1997 c.8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1989/29">1989 c.29</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/asp/2009/6">2009 asp 6</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>The National Grid is the map reference system used on all Ordnance Survey maps identify the position of a feature. Further information may be found at <a href="http://www.ordnancesurvey.co.uk">www.ordnancesurvey.co.uk</a>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041826"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 126</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Forestry</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Forestry (Exemptions) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-28">28th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 24(1) and (2) and 76(3) of the Forestry and Land Management (Scotland) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 76(2)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Forestry (Exemptions) (Scotland) Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Interpretation</heading>
+            <num>2.</num>
+            <intro>
+               <p>In these Regulations—</p>
+            </intro>
+            <hcontainer name="definition">
+               <content>
+                  <p>“aerodrome” means any area of land or water designed, equipped, set apart or commonly used for affording facilities for the landing and departure of aircraft but does not include any area of land or water designed, equipped, set apart or commonly used for affording facilities only for the landing and departure of any unmanned aerial vehicle,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“burial ground” has the same meaning as in section 1 of the Burial and Cremation (Scotland) Act 2016<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“Caledonian Pinewood” means a woodland specified in schedule 2,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“churchyard” means an enclosed piece of ground in which a church stands,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“electric line” has the same meaning as in Part I of the Electricity Act 1989<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“electrical plant” has the same meaning as in Part I of the Electricity Act 1989,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“electricity operator” means a holder of a licence under Part I of the Electricity Act 1989,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“public open space” is an area which is designed and maintained for use by the public and includes, but is not limited to—</p>
+                  <blockList>
+                     <item>
+                        <num>(a)</num>
+                        <p>a park,</p>
+                     </item>
+                     <item>
+                        <num>(b)</num>
+                        <p>a public garden,</p>
+                     </item>
+                     <item>
+                        <num>(c)</num>
+                        <p>an area of grass maintained for sport or recreation, or</p>
+                     </item>
+                     <item>
+                        <num>(d)</num>
+                        <p>a footway or footpath (within the meaning of section 151(2) of the Roads (Scotland) Act 1984<noteRef href="#f00004" class="footnote" marker="4"/>),</p>
+                     </item>
+                  </blockList>
+                  <p>but does not include any stands of trees which have a canopy cover of more than 20% within an area of 0.1ha or greater,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“quarter” means the period of three months beginning with 1 January, 1 April, 1<sup/>July or 1 October in any year,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“relevant person” means the owner of the land on which the tree is situated or the occupier of such land who is carrying out the felling with the written permission of the owner,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“Scottish Water” means the body corporate established by section 20(1) of the Water Industry (Scotland) Act 2002<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“statutory undertaker” means a person authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, power, lighthouse undertaking, or any undertaking for the supply of hydraulic power or of water, or a holder of a licence under section 7A of the Gas Act 1986<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the Act” means the Forestry and Land Management (Scotland) Act 2018,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the Forestry Commissioners” means the Forestry Commissioners referred to in section 1(1) of the 1967 Act, and</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1967 Act” means the Forestry Act 1967<noteRef href="#f00007" class="footnote" marker="7"/>.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Exemption from offence of unauthorised felling</heading>
+            <num>3.</num>
+            <content>
+               <p>Section 23(1) of the Act (offence of unauthorised felling) does not apply where felling is of a type specified in regulation 4.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Specified types of felling</heading>
+            <num>4.</num>
+            <intro>
+               <p>The types of felling specified for the purposes of regulation 3 are—</p>
+            </intro>
+            <subparagraph eId="regulation-4-a">
+               <num>(a)</num>
+               <content>
+                  <p>the felling, by a relevant person, of a tree with a diameter not exceeding 10 centimetres measured over the bark at a point 1.3 metres from the base,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-b">
+               <num>(b)</num>
+               <intro>
+                  <p>the felling, by a relevant person, of a tree situated in—</p>
+               </intro>
+               <clause eId="regulation-4-b-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>an orchard,</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-b-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>a garden,</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-b-iii">
+                  <num>(iii)</num>
+                  <content>
+                     <p>a churchyard,</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-b-iv">
+                  <num>(iv)</num>
+                  <content>
+                     <p>a burial ground, or</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-b-v">
+                  <num>(v)</num>
+                  <content>
+                     <p>a public open space,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-c">
+               <num>(c)</num>
+               <intro>
+                  <p>the felling, by a relevant person, of trees where the aggregate cubic content of the trees felled does not exceed 5 cubic metres in any quarter and for the purposes of that calculation—</p>
+               </intro>
+               <clause eId="regulation-4-c-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>trees felled in accordance with paragraphs (a) and (b) and paragraphs (d) to (p) of this regulation are disregarded, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-c-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>the aggregate cubic content per quarter is calculated by reference to all land owned by the relevant person,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-d">
+               <num>(d)</num>
+               <content>
+                  <p>the felling of a tree where necessary for the prevention of immediate danger to persons or to property,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-e">
+               <num>(e)</num>
+               <content>
+                  <p>the felling of a tree where immediately required for the purposes of carrying out development authorised by planning permission granted or deemed to be granted under the Town and Country Planning (Scotland) Act 1997<noteRef href="#f00008" class="footnote" marker="8"/>,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-f">
+               <num>(f)</num>
+               <content>
+                  <p>the felling of a tree which may obstruct the approach of aircraft to, or the departure of aircraft from, any aerodrome, or which may hinder the safe and efficient use of air navigational or aircraft landing equipment,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-g">
+               <num>(g)</num>
+               <intro>
+                  <p>the felling of a tree by, or at the request of, an electricity operator, where—</p>
+               </intro>
+               <clause eId="regulation-4-g-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>the tree is in close proximity to an electric line or electrical plant which is, is being, or is to be, installed by the operator, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-g-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>the presence of the tree has the effect mentioned in paragraph 9(1)(a) or (b) of schedule 4 of the Electricity Act 1989<noteRef href="#f00009" class="footnote" marker="9"/>,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-h">
+               <num>(h)</num>
+               <content>
+                  <p>the felling of a tree by, or at the request of, a statutory undertaker, on land occupied by the statutory undertaker which would otherwise obstruct the construction of any works required for the undertaker’s purposes or which is interfering with the maintenance of any works vested in that undertaker,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-i">
+               <num>(i)</num>
+               <intro>
+                  <p>the felling of a tree by or at the request of—</p>
+               </intro>
+               <clause eId="regulation-4-i-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>Scottish Water, where the tree is interfering, or may interfere, with the exercise of any functions of Scottish Water, or</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-i-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>a local authority, where done in accordance with the local authority’s functions under section 56(1) and (2)(a) to (d) of the Flood Risk Management (Scotland) Act 2009<noteRef href="#f00010" class="footnote" marker="10"/>,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-j">
+               <num>(j)</num>
+               <content>
+                  <p>the felling of a tree of the genus Ulmus (commonly known as Elm) which is affected by disease caused by the fungus Ceratocystis ulmi (commonly known as Dutch Elm disease) to such an extent that the greater part of the crown of the tree is dead,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-k">
+               <num>(k)</num>
+               <intro>
+                  <p>the felling of a tree on land which is subject to an agreement entered into with the Forestry Commissioners under section 5(1) of the 1967 Act (forestry dedication agreements) and which is being managed in accordance with a plan of operations approved by the Forestry Commissioners or the Scottish Ministers (“the plan”), where—</p>
+               </intro>
+               <clause eId="regulation-4-k-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>the agreement is a forestry dedication agreement registered in the General Register of Sasines or the Land Register of Scotland,</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-k-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>any obligations in the forestry dedication agreement stated to be binding on the owner of the land are, at the time of felling, binding on the person who is then the owner of the land, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-k-iii">
+                  <num>(iii)</num>
+                  <content>
+                     <p>the felling is in accordance with the plan,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-l">
+               <num>(l)</num>
+               <intro>
+                  <p>the felling of a tree on land which is subject to an agreement entered into with the Forestry Commissioners under section 5(1) of the 1967 Act (forestry dedication agreements <abbr title="et cetera" xml:lang="la">etc.</abbr>) and which is being managed in accordance with a plan of operations approved by the Forestry Commissioners or the Scottish Ministers (“the plan”), where—</p>
+               </intro>
+               <clause eId="regulation-4-l-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>the agreement is a forestry dedication agreement which is not registered in the General Register of Sasines or the Land Register of Scotland,</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-l-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>the land is, at the time of the felling, owned by the person or persons who entered into the agreement with the Forestry Commissioners or by the survivor or survivors of such person or persons, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-l-iii">
+                  <num>(iii)</num>
+                  <content>
+                     <p>the felling is in accordance with the plan.</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-m">
+               <num>(m)</num>
+               <content>
+                  <p>the felling of dead trees,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-n">
+               <num>(n)</num>
+               <content>
+                  <p>the felling of a tree where required by order of a court or tribunal or by any enactment,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-o">
+               <num>(o)</num>
+               <intro>
+                  <p>the felling of a tree to which a tree preservation order relates where the felling—</p>
+               </intro>
+               <clause eId="regulation-4-o-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>occurs after 1 April 2019, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-4-o-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>is carried out in accordance with the consent of the authority which made the order or the Scottish Ministers, as the case may be, following a referral under section 15(1)(b) or 15(2)(a) of the 1967 Act,</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-4-p">
+               <num>(p)</num>
+               <content>
+                  <p>the felling of a tree that is covered by a tree preservation order where the felling is carried out in accordance with the consent of the planning authority following a referral to the authority under section 33(1)(b) of the Act.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Circumstances where regulation 4(c) does not apply</heading>
+            <num>5.</num>
+            <intro>
+               <p>The exemption in regulation 4(c) does not apply to the felling of trees—</p>
+            </intro>
+            <subparagraph eId="regulation-5-a">
+               <num>(a)</num>
+               <intro>
+                  <p>in woodlands—</p>
+               </intro>
+               <clause eId="regulation-5-a-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>which are between 0.1ha and 0.5ha in size, and</p>
+                  </content>
+               </clause>
+               <clause eId="regulation-5-a-ii">
+                  <num>(ii)</num>
+                  <content>
+                     <p>where at least 50% of the woodland canopy is comprised of any of the species of trees listed in schedule 1, or</p>
+                  </content>
+               </clause>
+            </subparagraph>
+            <subparagraph eId="regulation-5-b">
+               <num>(b)</num>
+               <content>
+                  <p>in Caledonian Pinewoods.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">FERGUS EWING</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-28">28th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Regulation 5(a)(ii)</p>
+                  </authorialNote>
+               </num>
+               <heading>SPECIES OF TREE</heading>
+               <content>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.2pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">(1) Common name</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">(2) Scientific name</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Ash</td>
+                                 <td rowspan="1" colspan="1">Fraxinus Excelsior</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Aspen</td>
+                                 <td rowspan="1" colspan="1">Populus Tremula</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Bay Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Pentandra</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Bird Cherry</td>
+                                 <td rowspan="1" colspan="1">Pranus Padus</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Blackthorn</td>
+                                 <td rowspan="1" colspan="1">Prunus Spinosa</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Common Alder</td>
+                                 <td rowspan="1" colspan="1">Alnus Glutinosa</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Common Hawthorn</td>
+                                 <td rowspan="1" colspan="1">Crataegus Monogyna</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Crab Apple</td>
+                                 <td rowspan="1" colspan="1">Malus Sylvestris</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Dark–Leaved Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Myrsinifolia</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Downy Birch</td>
+                                 <td rowspan="1" colspan="1">Betula Pubescens</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Eared Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Aurita</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Elder</td>
+                                 <td rowspan="1" colspan="1">Sambucus Nigra</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Goat Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Caprea</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Grey Willow (sallow)</td>
+                                 <td rowspan="1" colspan="1">Salix Cinerea</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Hazel</td>
+                                 <td rowspan="1" colspan="1">Corylus Avellana</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Holly</td>
+                                 <td rowspan="1" colspan="1">Ilex Aquifolium</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Juniper</td>
+                                 <td rowspan="1" colspan="1">Juniperus Communis</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Pedunculate Oak</td>
+                                 <td rowspan="1" colspan="1">Quercus Robur</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Purple Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Purpurea</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Rowan</td>
+                                 <td rowspan="1" colspan="1">Sorbus Aucuparia</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Sessile Oak</td>
+                                 <td rowspan="1" colspan="1">Quercus Petraea</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Silver Birch</td>
+                                 <td rowspan="1" colspan="1">Betula Pendula</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Spindle</td>
+                                 <td rowspan="1" colspan="1">Euonymus Europaeus</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Tea-Leaved Willow</td>
+                                 <td rowspan="1" colspan="1">Salix Phylicifolia</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Wild Cherry</td>
+                                 <td rowspan="1" colspan="1">Pranus Avium Gean</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Wych Elm</td>
+                                 <td rowspan="1" colspan="1">Ulmus Glabra</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">Yew</td>
+                                 <td rowspan="1" colspan="1">Taxus Baccata</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Regulations 2 and 5(b)</p>
+                  </authorialNote>
+               </num>
+               <heading>CALEDONIAN PINEWOODS</heading>
+               <paragraph eId="schedule-2-paragraph-1">
+                  <num>1.</num>
+                  <content>
+                     <p>In this Schedule “grid reference” means Ordnance Survey National Grid reference<noteRef href="#f00011" class="footnote" marker="11"/>.</p>
+                     <tblock class="tabular" ukl:Orientation="portrait">
+                        <foreign>
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                              <colgroup>
+                                 <col width="213.2pt"/>
+                                 <col width="213.2pt"/>
+                              </colgroup>
+                              <thead>
+                                 <tr>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Name of Caledonian Pinewood</th>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Grid reference</th>
+                                 </tr>
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Abernethy</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Abernethy (grid references: NH91, NH92, NJ01,and NJ02).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Achlain</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Achlain (grid reference NH21).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Achnaconeran</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Achnaconeran (grid reference NH41).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Achnasaul</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Achnasaul (grid references NN18 and NN19).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Achnashellach</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Achnashellach (grid references NH04 and NH05).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Allt Broighleachan</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Allt Broighleachan (grid reference NN23).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Allt Chaorunn</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Allt Chaorunn (grid reference NN25).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Allt Coire Bhiochair</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Allt Coire Bhiochair (grid reference NN23).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Allt Cul</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Allt Cul (grid reference NO19).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Allt Mheuran</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Allt Mheuran (grid reference NN14).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Amat</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Amat (grid references: NH38, NH48, and NH49.</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">An Slochd</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as An Slochd (grid reference NM97).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Ard Trilleachan</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Ard Trilleachan (grid reference NN04).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Ardessie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Ardessie (grid reference NH08).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Attadale</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Attadale (grid reference NG93).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Baddengorm</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Baddengorm (grid reference NH82).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Ballochbuie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Ballochbuie (grid references: NO18, NO19, NO28, and NO29).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Beinn Eighe</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Beinn Eighe (grid references NG96 and NH06).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Black Wood of Rannoch</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Black Wood of Rannoch (grid reference NN55).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Breda</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Breda (grid reference NJ51).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Bunloyne</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Bunloyne (grid references NH20 and NH21).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Callop River</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Callop River (grid reference NM97).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Carn Na Loinne</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Carn Na Loinne (grid reference NJ02).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Ceannacroc</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Ceannacroc (grid reference NH21).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Coille Coire Chuilc</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Coille Coire Chuilc (grid reference NN32).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Coir a’ Ghamhna</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Coir a’ Ghamhna (grid reference NH08).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Conaglen</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Conaglen (grid reference NM97).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Cougie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Cougie (grid references NH21 and NH22).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Crannach</td>
+                                    <td rowspan="1" colspan="1">
+                                       <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">The Caledonian Pinewood known as Crannach</p>
+                                       <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">(grid reference NN34).</p>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Crathie</td>
+                                    <td rowspan="1" colspan="1">
+                                       <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">The Caledonian Pinewood known as Crathie</p>
+                                       <p xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">(grid reference NO29).</p>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Creag Ghiubhais</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Creag Ghiubhais (grid reference NO39).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Dark Mile</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Dark Mile (grid reference NN18).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Doire Darach</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Doire Darach (grid reference NN24).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Dubh Uisge</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Dubh Uisge (grid reference NM97).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Dundreggan</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Dundreggan (grid reference NH31).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Easan Dorcha</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Easan Dorcha (grid reference NH05).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Gleann Fuar</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Gleann Fuar (grid reference NN23)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Gleann Sron a Chreagain</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Gleann Sron a Chreagain (grid reference NN07)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Affric</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Affric (grid references: NH12, NH22, and NH32).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Avon</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Avon (grid reference NJ10).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Barisdale</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Barisdale (grid reference NG80 and NG90).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Brown</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Brown (grid references NJ01 and NJ11).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Buck</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Buck (grid reference NH30)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Cannich</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Cannich (grid references: NH12, NH13, NH22, NH23, and NH33</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Derry</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Derry (grid reference NO09).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Einig</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Einig (grid reference NH39).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Falloch</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Falloch (grid reference NN32).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Ferrick</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Ferrick (grid reference NO59).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Feshie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Feshie (grid references: NH80, NH90, NN88, and NN89.</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Garry</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Garry (grid reference NH10, NH20, NN19, and NN29.</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Gour</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Gour (grid reference NM96).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Kinglass</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Kinglass (grid reference NN13).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Loy</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Loy (grid reference NN08 and NN18)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Loyne</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Loyne (grid reference NH00 and NH10).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Lui</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Lui (grid reference NO08 and NO09).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Mallie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Mallie (grid references NN08 and NN18).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Nevis</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Nevis (grid reference NN16).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Quoich</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Quoich (grid references NO09 and NO19).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Scaddle</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Scaddle (grid reference NM96).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Strae</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Strae (grid reference NN13).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Strathfarrar</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Strathfarrar (grid references: NH13, NH14, NH23,NH33, and NH34)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Tanar</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Tanar (grid references: NO48, NO49, and NO59.</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Tromie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Tromie (grid reference NN79).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glen Ure</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glen Ure (grid reference NN04).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Glenmore</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Glenmore (grid references: NH90, NH91, NJ00, and NJ01).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Guisachan</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Guisachan (grid references NH22 and NH32).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Kinveachy</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Kinveachy (grid references: NH81, NH82, NH91, and NH92).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Clair</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Clair (grid references: NG95, NH05, and NH06)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Dochard</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Dochard (grid reference NN24).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Hourn</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Hourn (grid reference NG80 and NG90).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Leven</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Leven (grid reference NN16).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Maree Islands</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Maree Islands (grid references: NG87, NG96, and NG97)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Loch Shiel</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Loch Shiel (grid references NM87, NM97, and NM98.</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Lochindorb</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Lochindorb (grid reference NH93).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Lochourn River</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Lochourn River (grid reference NG90).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Meggernie</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Meggernie (grid reference NN54).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Rhidorroch</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Rhidorroch (grid references NH19 and NH29).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Rothiemurchus</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Rothiemurchus (grid references: NH80, NH90 and NH91).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Shieldaig</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Shieldaig (grid reference NG85).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">South Loch Arkaig</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as South Loch Arkaig (grid references: NN08, NN09, NN18, and NN19)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Strath Oykel</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Strath Oykel (grid reference NC40)</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Strath Vaich</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Strath Vaich (grid reference NH37).</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">Taodail</td>
+                                    <td rowspan="1" colspan="1">The Caledonian Pinewood known as Taodail (grid reference NG94).</td>
+                                 </tr>
+                                 <tr>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Torphantrick</td>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The Caledonian Pinewood known as Torphantrick (grid references NO39 and NO49)</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </foreign>
+                     </tblock>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision about the exemptions to the offence of unauthorised felling under Part 4 of the Forestry and Land Management (Scotland) Act 2018 (“the Act”).</p>
+            <p>Regulation 3 provides that section 23(1) of the Act (offence of unauthorised felling) does not apply to felling of a type mentioned in regulation 4. The exemption includes, for example, the felling of a tree situated in an orchard, garden, churchyard, burial ground or public open space.</p>
+            <p>Regulation 5 makes provision about the circumstances in which regulation 4(c) does not apply. The effect of which is that, for example, the exemption in regulation 4(c) does not apply to the felling of trees where at least 50% of the woodland canopy is comprised with a species of tree listed in schedule 1, or to the felling of trees in Caledonian Pinewoods as specified in schedule 2.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/283"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/283"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="283"/>
+               <FRBRname value="S.S.I. 2019/283"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/283/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/283/made"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/283/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/283/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-10" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-09-12" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-11-25" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/asp/2014/1">2014 asp 1</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042755"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 283 (C. 11)</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Criminal Law</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-10">10th September 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-11-25">25th November 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 34(2) of the Victims and Witnesses (Scotland) Act 2014<noteRef href="#f00001" class="footnote" marker="1"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019 and comes into force on 25 November 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Day appointed</heading>
+            <num>2.</num>
+            <intro>
+               <p>25 November 2019 is the day appointed for the coming into force of section 26 of the Victims and Witnesses (Scotland) Act 2014 (victim surcharge), so far as not already in force, only in so far as it inserts the following provisions into the Criminal Procedure (Scotland) Act 1995—</p>
+            </intro>
+            <subparagraph eId="article-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>section 253F,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>section 253G, with the exception of subsection (4)(a) and (b),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>section 253H,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-d">
+               <num>(d)</num>
+               <content>
+                  <p>section 253J.</p>
+               </content>
+            </subparagraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">HUMZA YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-10">10th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order partly commences section 26 (victim surcharge) of the Victims and Witnesses (Scotland) Act 2014 (“the 2014 Act”). It commences section 26, so far as not already in force, for the limited purposes of inserting sections 253F to 253J into the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”), with the exception of section 253G(4)(a) and (b).</p>
+            <p>Section 26 of the 2014 Act inserts sections 253F to 253J into the 1995 Act and those sections make provision for the introduction of the victim surcharge and the creation of the victim surcharge fund (“the Fund”). Section 253G(4) provides that any payment out of the Fund may be made to a victim, a prescribed relative of a victim or a person who provides or secures the provision of support services for victims. Payments may also be made to the operator of the Fund in respect of administrative expenses. This Order does not insert paragraphs (a) and (b) of section 253G(4) into the 1995 Act and these paragraphs provide that payments may be made out of the Fund to victims of crime and the prescribed relatives of victims respectively.</p>
+            <p>This restricted commencement of section 26 of the 2014 Act means that only paragraphs (c) and (d) of section 253G(4) will be inserted into the 1995 Act. Accordingly, until the full commencement of section 26, payments from the Fund may only be made to (1) persons who provide or secure the provision of support services for victims; or (2) the operator of the Fund in respect of administrative expenses. Payments from the Fund cannot be made directly to victims of crime or the prescribed relatives of victims until the remainder of section 26 is brought into force.</p>
+            <p>The Bill for the 2014 Act received Royal Assent on 17 January 2014. The following sections of the 2014 Act came into force on the following day: sections 30 (in part), 31 (in part), 32, 33, 34 and 35.</p>
+         </blockContainer>
+         <blockContainer class="earlierOrders">
+            <heading>NOTE AS TO EARLIER COMMENCEMENT ORDERS</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>The following provisions of the 2014 Act have been brought into force by commencement order made before the date of this Order.</p>
+            <tblock class="tabular" ukl:Orientation="portrait">
+               <foreign>
+                  <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                     <colgroup>
+                        <col width="198.9pt"/>
+                        <col width="112.5pt"/>
+                        <col width="99pt"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Provision</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Date of Commencement</th>
+                           <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">S.S.I. No.</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 1</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">30 January 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2014/359">2014/359</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 2 (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 2 (in so far as not already in force)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">30 January 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2014/359">2014/359</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 3</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">30 January 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2014/359">2014/359</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 4</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">1 July 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2015/200">2015/200</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 6 (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 6 (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">30 January 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2014/359">2014/359</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 7</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">1 September 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2015/200">2015/200</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 8</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Sections 10 to 22</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">1 September 2015</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2015/200">2015/200</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 23 (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 26 (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Sections 27 to 29</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">13 August 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2014/210">2014/210</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 30 (in so far as not already in force)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">1 July 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2014/117">2014/117</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Section 31(2) (in part)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">16 May 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2014/117">2014/117</ref>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Section 31 (in so far as not already in force)</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">1 July 2014</td>
+                           <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                              <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2014/117">2014/117</ref>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </foreign>
+            </tblock>
+            <p>Sections 1A, 3A to 3J, 9A to 9E, 27A, 29A and 29B were added to the 2014 Act by the Victims Rights (Scotland) Regulations 2015 (<ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2015/444">S.S.I. 2015/444</ref>) which came into force on 23 December 2015.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

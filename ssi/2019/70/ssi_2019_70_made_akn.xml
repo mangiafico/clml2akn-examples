@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/70"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/70"/>
+               <FRBRdate date="2019-02-21" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="70"/>
+               <FRBRname value="S.S.I. 2019/70"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/70/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/70/made"/>
+               <FRBRdate date="2019-02-21" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/70/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/70/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-21" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-25" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-06" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1980/44">1980 c.44</ref>. Section 73(f) was amended by the Teaching and Higher Education Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/30">1998 (c.30)</ref> (“the 1998 Act”), section 29(1) and by the Education (Graduate Endowment and Student Support) (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2001/6">2001 (asp 6)</ref> (“the 2001 Act”), section 3(2). Section 73B was inserted by the 1998 Act, section 29(2) and was amended by the 2001 Act, section 3(3); by the Income Tax (Earnings and Pensions) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/2003/1">2003 (c.1)</ref>, schedule 6, Part 2, paragraph 149; by the Bankruptcy and Diligence etc. (Scotland) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2007/3">2007 (asp 3)</ref>, section 34(1); and by the Bankruptcy (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/asp/2016/21">2016 (asp 21)</ref>, schedule 8, paragraph 8. Section 74(1) was amended by the Self-Governing Schools etc. (Scotland) Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1989/39">1989 (c.39)</ref>, section 82(1) and schedule 10, paragraph 8(17). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1983/40">1983 c.40</ref>. Section 1 was amended by the Education Reform Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1988/40">1988 (c.40)</ref>, section 237(1) and schedule 12, paragraph 91; by the Further and Higher Education Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1992/13">1992 (c.13)</ref>, section 93(1) and schedule 8, paragraph 19; and by the Further and Higher Education (Scotland) Act <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1992/37">1992 (c.37)</ref>, section 62(2) and schedule 9, paragraph 8. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2000/110">S.S.I. 2000/110</ref>, amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2000/200">S.S.I. 2000/200</ref>, <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2001/227">S.S.I. 2001/227</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2005/314">S.S.I. 2005/314</ref>, <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2006/326">S.S.I. 2006/326</ref>, <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2007/159">S.S.I. 2007/159</ref>, <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2009/102">S.S.I. 2009/102</ref>, <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2012/22">S.S.I. 2012/22</ref>, <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2013/65">S.S.I. 2013/65</ref>, <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2013/142">S.S.I. 2013/142</ref>, <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2018/307">S.S.I. 2018/307</ref> and <ref eId="c00028" href="http://www.legislation.gov.uk/id/uksi/2008/1879">S.I. 2008/1879</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2006/333">S.S.I. 2006/333</ref>, amended by <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2007/158">S.S.I. 2007/158</ref>, <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2009/189">S.S.I. 2009/189</ref>, <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2010/300">S.S.I. 2010/300</ref>, <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2015/212">S.S.I. 2015/212</ref>, <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S.I. 2017/180</ref>, <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref> and <ref eId="c00042" href="http://www.legislation.gov.uk/id/uksi/2010/1010">S.I. 2010/1010</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2007/149">S.S.I. 2007/149</ref>, amended by <ref eId="c00044" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00045" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00046" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00047" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00048" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00049" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00050" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S.I. 2017/180</ref> and <ref eId="c00051" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00052" href="http://www.legislation.gov.uk/id/ssi/2007/151">S.S.I. 2007/151</ref>, amended by <ref eId="c00053" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00054" href="http://www.legislation.gov.uk/id/ssi/2008/206">S.S.I. 2008/206</ref>, <ref eId="c00055" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00056" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00057" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00058" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00059" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00060" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S.I. 2017/180</ref> and <ref eId="c00061" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00062" href="http://www.legislation.gov.uk/id/ssi/2007/153">S.S.I. 2007/153</ref>, amended by <ref eId="c00063" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00064" href="http://www.legislation.gov.uk/id/ssi/2008/206">S.S.I. 2008/206</ref>, <ref eId="c00065" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00066" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00067" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00068" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00069" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00070" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S.I. 2017/180</ref> and <ref eId="c00071" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00072" href="http://www.legislation.gov.uk/id/ssi/2007/154">S.S.I. 2007/154</ref>, amended by <ref eId="c00073" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00074" href="http://www.legislation.gov.uk/id/ssi/2008/205">S.S.I. 2008/205</ref>, <ref eId="c00075" href="http://www.legislation.gov.uk/id/ssi/2008/206">S.S.I. 2008/206</ref>, <ref eId="c00076" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00077" href="http://www.legislation.gov.uk/id/ssi/2009/189">S.S.I. 2009/189</ref>, <ref eId="c00078" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00079" href="http://www.legislation.gov.uk/id/ssi/2010/300">S.S.I. 2010/300</ref>, <ref eId="c00080" href="http://www.legislation.gov.uk/id/ssi/2012/272">S.S.I. 2012/272</ref>, <ref eId="c00081" href="http://www.legislation.gov.uk/id/ssi/2013/380">S.S.I. 2013/380</ref>, <ref eId="c00082" href="http://www.legislation.gov.uk/id/ssi/2015/212">S.S.I. 2015/212</ref>, <ref eId="c00083" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00084" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S..I. 2017/180</ref> and <ref eId="c00085" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>United Kingdom Research and Innovation is a body corporate established under section 91 of the Higher Education and Research Act <ref eId="c00086" href="http://www.legislation.gov.uk/id/ukpga/2017/29">2017 (c.29)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00087" href="http://www.legislation.gov.uk/id/ssi/2007/156">S.S.I. 2007/156</ref>, amended by <ref eId="c00088" href="http://www.legislation.gov.uk/id/ssi/2007/503">S.S.I. 2007/503</ref>, <ref eId="c00089" href="http://www.legislation.gov.uk/id/ssi/2009/188">S.S.I. 2009/188</ref>, <ref eId="c00090" href="http://www.legislation.gov.uk/id/ssi/2009/309">S.S.I. 2009/309</ref>, <ref eId="c00091" href="http://www.legislation.gov.uk/id/ssi/2011/261">S.S.I. 2011/261</ref>, <ref eId="c00092" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00093" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00094" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref>, <ref eId="c00095" href="http://www.legislation.gov.uk/id/ssi/2017/180">S.S.I. 2017/180</ref> and <ref eId="c00096" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00097" href="http://www.legislation.gov.uk/id/ssi/2011/389">S.S.I. 2011/389</ref>, amended by <ref eId="c00098" href="http://www.legislation.gov.uk/id/ssi/2012/72">S.S.I. 2012/72</ref>, <ref eId="c00099" href="http://www.legislation.gov.uk/id/ssi/2013/80">S.S.I. 2013/80</ref>, <ref eId="c00100" href="http://www.legislation.gov.uk/id/ssi/2016/82">S.S.I. 2016/82</ref> and <ref eId="c00101" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041253"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 70</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Education</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Education (Fees and Student Support) (Miscellaneous Amendments) (EU Exit) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-21">21st February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-25">25th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-06">6th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 49(3), 73(f), 73B and 74(1) of the Education (Scotland) Act 1980<noteRef href="#f00001" class="footnote" marker="1"/>, section 1 of the Education (Fees and Awards) Act 1983<noteRef href="#f00002" class="footnote" marker="2"/>, and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Education (Fees and Student Support) (Miscellaneous Amendments) (EU Exit) (Scotland) Regulations 2019 and come into force on 6 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Repayment of Student Loans (Scotland) Regulations 2000</heading>
+            <num>2.</num>
+            <intro>
+               <p>In the Repayment of Student Loans (Scotland) Regulations 2000<noteRef href="#f00003" class="footnote" marker="3"/>, regulation 9 (refunds) is amended as follows—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>at the end of paragraph (5)(b) delete “and”,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>in paragraph (5)(c) after “Part 4 of the Collection Regulations” insert “in respect of the year of assessment ending on 5 April 2019 or any previous year of assessment”, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>after paragraph (5)(c) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <p>; and</p>
+                           <paragraph>
+                              <num>(d)</num>
+                              <intro>
+                                 <p>where an amount is deducted by an employer under Part 4 of the Collection Regulations in respect of the year of assessment beginning on 6 April 2019 or any subsequent year of assessment, a repayment of that amount is considered to have been received by the Scottish Ministers on—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(i)</num>
+                                 <content>
+                                    <p>the day on which it was deducted by the employer, or</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(ii)</num>
+                                 <content>
+                                    <p>where an adjustment is made in relation to the deduction, on such other day as HMRC specifies in order to take account of that adjustment.</p>
+                                 </content>
+                              </subparagraph>
+                           </paragraph>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006</heading>
+            <num>3.</num>
+            <intro>
+               <p>In schedule 1 (eligible students) of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006<noteRef href="#f00004" class="footnote" marker="4"/>—</p>
+            </intro>
+            <subparagraph eId="regulation-3-a">
+               <num>(a)</num>
+               <content>
+                  <p>after paragraph 6D insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>6E.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A person who—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>is ordinarily resident in Scotland on the first day of the first academic year of the course.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">, and</inline>
+                  </p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-3-b">
+               <num>(b)</num>
+               <content>
+                  <p>after paragraph 11 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>12.</num>
+                              <content>
+                                 <p>A person who would have fallen within one or more of paragraphs 1 to 11 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Education Authority Bursaries (Scotland) Regulations 2007</heading>
+            <num>4.</num>
+            <intro>
+               <p>In schedule 1 (persons eligible for bursaries) of the Education Authority Bursaries (Scotland) Regulations 2007<noteRef href="#f00005" class="footnote" marker="5"/>—</p>
+            </intro>
+            <subparagraph eId="regulation-4-a">
+               <num>(a)</num>
+               <content>
+                  <p>After paragraph 6D insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>6E.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A person who—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>has been ordinarily resident in the British Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>is ordinarily resident in the area of the education authority on the qualifying day, or seeks a bursary in respect of a course of education at an educational establishment in the area of the education authority.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">, and</inline>
+                  </p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-4-b">
+               <num>(b)</num>
+               <content>
+                  <p>after paragraph 12 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>13.</num>
+                              <content>
+                                 <p>A person who would have fallen within one or more of paragraphs 1 to 12 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007</heading>
+            <num>5.</num>
+            <intro>
+               <p>In schedule 1 (persons eligible for allowances) of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007<noteRef href="#f00006" class="footnote" marker="6"/>—</p>
+            </intro>
+            <subparagraph eId="regulation-5-a">
+               <num>(a)</num>
+               <content>
+                  <p>after paragraph 6D insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>6E.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>A person who—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>is ordinarily resident in Scotland on the relevant date.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">, and</inline>
+                  </p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-5-b">
+               <num>(b)</num>
+               <content>
+                  <p>after paragraph 12 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>13.</num>
+                              <content>
+                                 <p>A person who would have fallen within one or more of paragraphs 1 to 12 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Students’ Allowances (Scotland) Regulations 2007</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Students’ Allowances (Scotland) Regulations 2007<noteRef href="#f00007" class="footnote" marker="7"/> are amended in accordance with paragraphs (2) and (3).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2—</p>
+               </intro>
+               <subparagraph eId="regulation-6-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (3) after “6B(a)(iii) and (b)” insert “, 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (4) after “6B(a)(iii) and (b)” insert “, 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In schedule 1 (persons eligible for allowances)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph 6D insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>6E.</num>
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>A person who—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery;</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom; and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>is ordinarily resident in Scotland on the relevant date.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                    </content>
+                                 </subsection>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph 12 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>13.</num>
+                                 <content>
+                                    <p>A person who would have fallen within one or more of paragraphs 1 to 12 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                                 </content>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Amendment of the Education (Student Loans) (Scotland) Regulations 2007</heading>
+            <num>7.</num>
+            <paragraph eId="regulation-7-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Education (Student Loans) (Scotland) Regulations 2007<noteRef href="#f00008" class="footnote" marker="8"/> are amended in accordance with paragraphs (2) to (6).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2(1) (interpretation), in the definition of “loan”—</p>
+               </intro>
+               <subparagraph eId="regulation-7-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in sub-paragraph (a) after “Postgraduate masters degree,” insert “or undertaking a full-time or part-time research course leading to a Postgraduate masters degree,”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in sub-paragraph (aa) after “Postgraduate masters degree,” insert “or undertaking a full-time (but not a part-time) research course leading to a Postgraduate masters degree,”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In regulation 3(2)(d) (eligible students)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of head (iii), omit “or”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after head (iv) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <p>or</p>
+                              <subparagraph>
+                                 <num>(v)</num>
+                                 <content>
+                                    <p>any allowance, bursary or award of a similar description paid by United Kingdom Research and Innovation<noteRef href="#f00009" class="footnote" marker="9"/>, where that person is undertaking a research course leading to a Postgraduate masters degree,</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 4 (designated courses)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(b)(i) after “Postgraduate masters degree,” insert “or in relation to a research course leading to a Postgraduate masters degree,”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (1)(d) after “Postgraduate masters degree,” insert “or to a research course leading to a Postgraduate masters degree,”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after paragraph (4A) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(4AA)</num>
+                                 <content>
+                                    <p>For the purposes of these Regulations, a research course means a course where the primary manner of study and assessment is based on independent research conducted by the student.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In schedule 1 (eligible students)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph 6D insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>6E.</num>
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>A person who—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>is ordinarily resident in Scotland on the first day of the first academic year of the course.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                    </content>
+                                 </subsection>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph 8A(1)(c) after “Postgraduate masters degree” insert “, or a research course leading to a Postgraduate masters degree,”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-5-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>after paragraph 11 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>12.</num>
+                                 <content>
+                                    <p>A person who would have fallen within one or more of paragraphs 1 to 11 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                                 </content>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-6">
+               <num>(6)</num>
+               <content>
+                  <p>In schedule 2 (designated courses) after paragraph 9 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>9A.</num>
+                              <content>
+                                 <p>A research course leading to a Postgraduate masters degree.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-8">
+            <heading>Amendment of the Education Maintenance Allowances (Scotland) Regulations 2007</heading>
+            <num>8.</num>
+            <paragraph eId="regulation-8-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Education Maintenance Allowances (Scotland) Regulations 2007<noteRef href="#f00010" class="footnote" marker="10"/> are amended in accordance with paragraphs (2) and (3).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-8-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2—</p>
+               </intro>
+               <subparagraph eId="regulation-8-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (2) after “6B(a)(iii) and (b)” insert “, 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3) after “6B(a)(iii) and (b)” insert “, 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-8-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In schedule 1 (persons eligible for education maintenance allowances)—</p>
+               </intro>
+               <subparagraph eId="regulation-8-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph 6D insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>6E.</num>
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>A person who—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>is ordinarily resident in Scotland on the qualifying date.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                    </content>
+                                 </subsection>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph 11 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>12.</num>
+                                 <content>
+                                    <p>A person who would have fallen within one or more of paragraphs 1 to 11 immediately before exit day is to be treated as falling within the same paragraph or paragraphs on and after exit day.</p>
+                                 </content>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-9">
+            <heading>Amendment of the Education (Fees) Scotland Regulations 2011</heading>
+            <num>9.</num>
+            <paragraph eId="regulation-9-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Education (Fees) (Scotland) Regulations 2011<noteRef href="#f00011" class="footnote" marker="11"/> are amended in accordance with paragraphs (2) and (3).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-9-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2—</p>
+               </intro>
+               <subparagraph eId="regulation-9-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (3) after “6A(a)(iii) and (b)” insert “, 6B(a)(iii) and (b), 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (4) after “6A(a)(iii) and (b)” insert “, 6B(a)(iii) and (b), 6C(a)(iii) and (b), 6D(a)(iii) and (b), 6E(1)(c)”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-9-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In schedule 1 (fees-excepted students)—</p>
+               </intro>
+               <subparagraph eId="regulation-9-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after paragraph 6C insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>6D.</num>
+                                 <subsection>
+                                    <num>(1)</num>
+                                    <intro>
+                                       <p>A post 2011/12 student is an excepted student if that post 2011/12 student—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>has been granted discretionary leave to remain in the United Kingdom due to being identified as a victim of modern slavery,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>has been ordinarily resident in the United Kingdom and Islands at all times since that person was first granted such discretionary leave to remain in the United Kingdom, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>is ordinarily resident in Scotland on the relevant date.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>For the purposes of this paragraph, “modern slavery” includes human trafficking, slavery, servitude and forced or compulsory labour.</p>
+                                    </content>
+                                 </subsection>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after paragraph 13 insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <section>
+                                 <num>14.</num>
+                                 <content>
+                                    <p>A post 2011/12 student is an excepted student on or after exit day if that post 2011/12 student would have been an excepted student immediately before exit day by virtue of falling within one or more of paragraphs 1 to 13.</p>
+                                 </content>
+                              </section>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">RICHARD LOCHHEAD</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-21">21st February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Repayment of Student Loans (Scotland) Regulations 2000 (“the Repayment Regulations”), the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006 (“the SLTF Regulations”), the Education Authority Bursaries (Scotland) Regulations 2007 (“the Bursaries Regulations”), the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007 (“the Nursing Regulations”), the Students’ Allowances (Scotland) Regulations 2007 (“the Allowances Regulations”), the Education (Student Loans) (Scotland) Regulations 2007 (“the Loans Regulations”), the Education Maintenance Allowances (Scotland) Regulations 2007 (“the EMA Regulations”) and the Education (Fees) (Scotland) Regulations 2011 (“the Fees Regulations”).</p>
+            <blockContainer class="P1group">
+               <heading>Amendments relating to student loan repayments</heading>
+               <p>Regulation 2 amends the Repayment Regulations to make provision for when the amount of a student loan paid by a borrower via deductions by their employer under Part 4 of the Education (Student Loans) (Repayment) Regulations 2009 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/uksi/2009/470">S.I. 2009/470</ref>) is to be considered to have been paid by the borrower and received by the Scottish Ministers.</p>
+            </blockContainer>
+            <blockContainer class="P1group">
+               <heading>Amendments relating to student support eligibility for victims of modern slavery</heading>
+               <p>Regulations 3(a), 4(a), 5(a), 6(3)(a), 7(5)(a), 8(3)(a) and 9(3)(a) extend to victims of modern slavery access to student funding and restrictions on the level of fees that may be charged under the SLTF Regulations, the Bursaries Regulations, the Nursing Regulations, the Allowances Regulations, the Loans Regulations, the EMA Regulations and the Fees Regulations. To be eligible, individuals must have been granted discretionary leave to remain in the UK as a result of being recognised as a victim of modern slavery; have been ordinarily resident in the UK and Islands at all times since they were first granted such discretionary leave to remain; and be ordinarily resident in Scotland at the commencement of their course.</p>
+            </blockContainer>
+            <blockContainer class="P1group">
+               <heading>Amendments relating to tuition fee loans for postgraduate research masters courses</heading>
+               <p>Regulation 7(2), (3), (4), (5)(b) and (6) extend the eligibility criteria in the Loans Regulations to make student loans for tuition fees and maintenance available to students undertaking research masters courses on the same basis as students undertaking taught courses leading to a Postgraduate Diploma or Postgraduate masters degree. A research course is defined as one where the main method of study and assessment is based on a student’s own research. Research masters students will be ineligible for student loans if they are in receipt of any allowance, bursary or award of a similar description from United Kingdom Research and Innovation, the national funding agency for science and research in the UK.</p>
+            </blockContainer>
+            <blockContainer class="P1group">
+               <heading>Amendments relating to the UK’s withdrawal from the EU</heading>
+               <p>Regulations 3(b), 4(b), 5(b), 6(3)(b), 7(5)(c), 8(3)(b) and 9(3)(b) ensure that the eligibility criteria relating to student funding and tuition fees under the SLTF Regulations, the Bursaries Regulations, the Nursing Regulations, the Allowances Regulations, the Loans Regulations, the EMA Regulations and the Fees Regulations continue to apply to the same categories of persons after the UK’s withdrawal from the European Union.</p>
+            </blockContainer>
+            <blockContainer class="P1group">
+               <heading>Consequential amendments</heading>
+               <p>Regulations 6(2), 8(2) and 9(2) make consequential amendments to the Allowances Regulations, the Loans Regulations and the EMA Regulations to apply the meaning of ordinary residence in Scotland in relation to the new residence categories inserted into those regulations by these Regulations and by the Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2018/171">S.S.I. 2018/171</ref>).</p>
+            </blockContainer>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

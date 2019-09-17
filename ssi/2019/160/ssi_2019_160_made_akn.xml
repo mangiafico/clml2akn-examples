@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/160"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/160"/>
+               <FRBRdate date="2019-04-30" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="160"/>
+               <FRBRname value="S.S.I. 2019/160"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/160/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/160/made"/>
+               <FRBRdate date="2019-04-30" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/160/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/160/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-30" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-02" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2004/8">2004 asp 8</ref>. Section 83 was amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2005/650">S.S.I. 2005/650</ref>, section 176(3)(b) and paragraph 1 of schedule 7 of the Housing (Scotland) Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 (asp 1)</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2009/33">S.S.I. 2009/33</ref>, <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2011/211">S.S.I. 2011/211</ref> and paragraph 8(2) of schedule 2 of the Land Reform (Scotland) Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/asp/2016/18">2016 (asp 18)</ref>. Section 88(2C) was inserted by section 4(a) of the Private Rented Housing (Scotland) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/asp/2011/14">2011 (asp 14)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/asp/2006/1">2006 asp 1</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref href="http://landlordregistrationscotland.gov.uk">landlordregistrationscotland.gov.uk</ref>
+               </p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2005/557">S.S.I. 2005/557</ref> amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2008/402">S.S.I. 2008/402</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref> was amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2006/28">S.S.I. 2006/28</ref>, <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2008/403">S.S.I. 2008/403</ref>, <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2012/38">S.S.I. 2012/38</ref>, <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref> and <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2018/292">S.S.I. 2018/292</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00023" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 asp 10</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/asp/2014/14">2014 asp 14</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref> was amended by <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2006/28">S.S.I. 2006/28</ref>, <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2008/403">S.S.I. 2008/403</ref>, <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2012/38">S.S.I. 2012/38</ref>, <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref> and <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2018/292">S.S.I. 2018/292</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042038"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="number">
+            <docNumber>2019 No. 160</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Housing</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Private Landlord Registration (Fees) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-30">30th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-02">2nd May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1(1)</span>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 83(3), 87(4), 88(2C), 99 and 141(2) of the Antisocial Behaviour etc. (Scotland) Act 2004<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Private Landlord Registration (Fees) (Scotland) Regulations 2019 and come into force at 0900 hours on 11 June 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 2004 Act” means the Antisocial Behaviour etc. (Scotland) Act 2004,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“agent” means a person appointed to act for the registered person under section 88(1) of the 2004 Act,”</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“HMO licence” has the meaning given in section 124(2) of the Housing (Scotland) Act 2006<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“internet-based application system” means the system known as the Scottish Landlord Register<noteRef href="#f00003" class="footnote" marker="3"/>, and</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“lead owner” means the person, where applicable, who is designated as such in the application for registration made under section 83(1) of the 2004 Act.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Registration - how fees are to be arrived at</heading>
+            <num>2.</num>
+            <intro>
+               <p>The schedule prescribes the method of establishing the fee to accompany—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>an application for registration under section 83(1),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>a notice of a change to information under section 87(2), or</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-c">
+               <num>(c)</num>
+               <content>
+                  <p>a notice of appointment of an agent under section 88(2),</p>
+               </content>
+            </subparagraph>
+            <wrapUp>
+               <p>of the 2004 Act.</p>
+            </wrapUp>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Applications made and notices given on or after 1 April 2020</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to paragraph (2), the fees payable in respect of applications made and notices given which are set out in paragraphs 1 and 2 of Part 1 of the schedule are to be varied with effect from 0900 hours on 1 April each year, beginning on 1 April 2020, and are to be determined in accordance with paragraph (3).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>Where 1 April in any year falls on a Saturday or Sunday, the fees are varied from 0900 hours on the Monday following 1 April.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>The fee payable is to be determined in accordance with the formula—</p>
+                  <tblock class="figure" ukl:Orientation="portrait" ukl:ImageLayout="vertical">
+                     <p>
+                        <img src="http://www.legislation.gov.uk/ssi/2019/160/images/ssi_20190160_en_001" width="204" ukl:Width="153pt" height="48" ukl:Height="36pt"/>
+                     </p>
+                  </tblock>
+                  <tblock class="formula">
+                     <foreign>
+                        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                           <semantics>
+                              <mrow>
+                                 <mi>F</mi>
+                                 <mi>e</mi>
+                                 <mi>e</mi>
+                                 <mi>i</mi>
+                                 <mo>,</mo>
+                                 <mi>t</mi>
+                                 <mo>=</mo>
+                                 <mrow>
+                                    <mo>[</mo>
+                                    <mrow>
+                                       <mtable>
+                                          <mtr>
+                                             <mtd>
+                                                <mrow>
+                                                   <mrow>
+                                                      <mo>(</mo>
+                                                      <mrow>
+                                                         <mfrac>
+                                                            <mrow>
+                                                               <mi>C</mi>
+                                                               <mi>P</mi>
+                                                               <mi>I</mi>
+                                                               <mi>y</mi>
+                                                            </mrow>
+                                                            <mrow>
+                                                               <mi>C</mi>
+                                                               <mi>P</mi>
+                                                               <mi>I</mi>
+                                                               <mi>y</mi>
+                                                               <mo>−</mo>
+                                                               <mn>1</mn>
+                                                            </mrow>
+                                                         </mfrac>
+                                                      </mrow>
+                                                      <mo>)</mo>
+                                                   </mrow>
+                                                </mrow>
+                                             </mtd>
+                                             <mtd>
+                                                <mrow>
+                                                   <mo>*</mo>
+                                                   <mi>F</mi>
+                                                   <mi>e</mi>
+                                                   <mi>e</mi>
+                                                   <mi>i</mi>
+                                                   <mo>,</mo>
+                                                   <mi>t</mi>
+                                                   <mo>−</mo>
+                                                   <mn>1</mn>
+                                                </mrow>
+                                             </mtd>
+                                          </mtr>
+                                       </mtable>
+                                    </mrow>
+                                    <mo>]</mo>
+                                 </mrow>
+                              </mrow>
+                              <annotation encoding="MathType-MTEF"/>
+                           </semantics>
+                        </math>
+                     </foreign>
+                  </tblock>
+               </content>
+            </paragraph>
+            <wrapUp>
+               <p>Explanation:</p>
+               <blockList>
+                  <item>
+                     <p>
+                        <i>Fee<sub>i,t</sub>
+                        </i> is the value of the fee <i>i</i> (where i refers to the principal, property, agent and late fee) to be applied in the financial year <i>t</i>.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <i>CPI<sub>y</sub>
+                        </i> is the value of the Consumer Prices Index (All Items) for the calendar year <i>y</i>, where the calendar year <i>y</i> is the calendar year which precedes the financial year <i>t</i>.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <i>CPI<sub>y-1</sub>
+                        </i> is the value of the Consumer Prices Index (All Items) for the calendar year which precedes the calendar year <i>y</i>.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <i>Fee<sub>i</sub>,<sub>t-1</sub>
+                        </i> is the value of the fee that was applied in the preceding financial year, <i>t – 1.</i>
+                     </p>
+                  </item>
+                  <item>
+                     <p>The unrounded value of the fee will be used in the formula, and the value of the fee applied in year <i>t</i> will be rounded to the nearest pound.</p>
+                  </item>
+               </blockList>
+            </wrapUp>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Private Landlord Registration (Advice and Assistance) (Scotland) Regulations 2005</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Private Landlord Registration (Advice and Assistance) (Scotland) Regulations 2005<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>After regulation 3 (advice and assistance – landlords) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>3A.</num>
+                              <content>
+                                 <p>A local authority will take such steps as they consider appropriate to publish on their website as soon as possible any fee determined in accordance with the Private Landlord Registration (Fees) (Scotland) Regulations 2019.</p>
+                              </content>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Revocations</heading>
+            <num>5.</num>
+            <content>
+               <p>Subject to regulation 6, the instruments specified in column 1 of the table in Part 2 of the schedule are revoked to the extent set out in the corresponding entry in column 3 of that table.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Saving provision</heading>
+            <num>6.</num>
+            <intro>
+               <p>The Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005<noteRef href="#f00005" class="footnote" marker="5"/> continue to have effect on and after 11 June 2019 as they had effect immediately before that date in relation to—</p>
+            </intro>
+            <subparagraph eId="regulation-6-a">
+               <num>(a)</num>
+               <content>
+                  <p>an application under section 83(1),</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-6-b">
+               <num>(b)</num>
+               <content>
+                  <p>a notice of a change to information under section 87(2), or</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-6-c">
+               <num>(c)</num>
+               <content>
+                  <p>a notice of appointment of an agent under section 88(2),</p>
+               </content>
+            </subparagraph>
+            <wrapUp>
+               <p>of the 2004 Act, received by a local authority before 0900 hours on 11 June 2019.</p>
+            </wrapUp>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-30">30th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulations 2 and 5</p>
+                  </authorialNote>
+               </num>
+               <part eId="schedule-part-1">
+                  <num>PART 1<authorialNote class="referenceNote">
+                        <p>Regulation 2</p>
+                     </authorialNote>
+                  </num>
+                  <heading>Fees</heading>
+                  <paragraph eId="schedule-paragraph-1">
+                     <num>1.</num>
+                     <intro>
+                        <p>Unless any exemptions or discounts apply, the fee charged<span ukl:Name="NonBreakingSpace"> </span>for registration under section 83(1) of the 2004 Act comprises—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-1-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>a principal fee of £65 (“the principal fee”),</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-1-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>a property fee of £15 for each house in terms of section 83(1)(b) of the 2004 Act (“the property fee”), and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-1-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>where the applicant has specified another person under section 83(1)(c) of the 2004 Act, a fee of £65 (“the agent fee”) in addition to the principal fee.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-2">
+                     <num>2.</num>
+                     <intro>
+                        <p>An additional fee up to a maximum of £130 is charged where the local authority has issued 2 separate requests for—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-paragraph-2-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>an application for registration to be made under section 83(1),</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-2-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>a notice of change of information under section 87(2), or</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-paragraph-2-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>a notice of the appointment of an agent under section 88(2),</p>
+                           <p>of the 2004 Act.</p>
+                        </content>
+                     </paragraph>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-3">
+                     <num>3.</num>
+                     <content>
+                        <p>Where a registered person gives notice of a change of information under section 87(2) of the 2004 Act which includes information in terms of section 83(1)(b) relating to a house which is not already entered in the register maintained under section 82(1) of the 2004 Act, the fee charged is the property fee.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-4">
+                     <num>4.</num>
+                     <content>
+                        <p>Subject to paragraph 8, where a registered person gives notice under section 88(2) of the 2004 Act of the appointment of an agent then, unless no fee is payable in terms of subsection (2B) of that section, the fee charged is the agent fee.</p>
+                     </content>
+                  </paragraph>
+                  <chapter eId="schedule-part-1-chapter-1">
+                     <heading>Exemptions</heading>
+                     <paragraph eId="schedule-paragraph-5">
+                        <num>5.</num>
+                        <content>
+                           <p>Where the application is submitted by a body entered in the Scottish Charity Register kept under section 3 of the Charities and Trustee Investment (Scotland) Act 2005<noteRef href="#f00006" class="footnote" marker="6"/>, no principal fee or property fee is due.</p>
+                        </content>
+                     </paragraph>
+                     <paragraph eId="schedule-paragraph-6">
+                        <num>6.</num>
+                        <content>
+                           <p>Where the application is submitted by a person who is the holder of a current HMO licence issued by the authority to which the application is submitted, no principal fee is due and no property fee is due in respect of any house which is included in that licence.</p>
+                        </content>
+                     </paragraph>
+                     <paragraph eId="schedule-paragraph-7">
+                        <num>7.</num>
+                        <content>
+                           <p>Where the application is submitted by a joint owner of the house, who is not the lead owner of it, no principal fee or property fee is due.</p>
+                        </content>
+                     </paragraph>
+                     <paragraph eId="schedule-paragraph-8">
+                        <num>8.</num>
+                        <intro>
+                           <p>The agent fee is not due if the agent—</p>
+                        </intro>
+                        <paragraph class="para1" eId="schedule-paragraph-8-a">
+                           <num>(a)</num>
+                           <content>
+                              <p>is already registered under section 84 of the 2004 Act by the local authority to which the application is submitted,</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-8-b">
+                           <num>(b)</num>
+                           <content>
+                              <p>has made a valid application under section 83(1) of the 2004 Act to be registered by that authority,</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-8-c">
+                           <num>(c)</num>
+                           <content>
+                              <p>would be exempt, as provided by paragraph 5 or 6, from payment of a principal fee if that person were the applicant,</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-8-d">
+                           <num>(d)</num>
+                           <content>
+                              <p>is a local authority or a body registered as a social landlord in terms of section 20(1) of the Housing (Scotland) Act 2010,</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-8-e">
+                           <num>(e)</num>
+                           <content>
+                              <p>is entered in the register of letting agents kept under section 29 of the Housing (Scotland) Act 2014<noteRef href="#f00007" class="footnote" marker="7"/>, or</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-8-f">
+                           <num>(f)</num>
+                           <content>
+                              <p>has made a valid application under section 29 of the Housing (Scotland) Act 2014.</p>
+                           </content>
+                        </paragraph>
+                     </paragraph>
+                     <paragraph eId="schedule-paragraph-9">
+                        <num>9.</num>
+                        <content>
+                           <p>Where a registered person gives notice of a change in information under section 87(2) of the 2004 Act which is not information to which paragraph 3 applies, no principal fee is due.</p>
+                        </content>
+                     </paragraph>
+                  </chapter>
+                  <chapter eId="schedule-part-1-chapter-2">
+                     <heading>Discounts</heading>
+                     <paragraph eId="schedule-paragraph-10">
+                        <num>10.</num>
+                        <intro>
+                           <p>An applicant who requires to pay the principal fee may claim either (but not both) of the following discounts—</p>
+                        </intro>
+                        <paragraph class="para1" eId="schedule-paragraph-10-a">
+                           <num>(a)</num>
+                           <content>
+                              <p>where an application is made to more than one local authority at the same time, using the internet-based application system, 50% of the principal fee in each case, or</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-10-b">
+                           <num>(b)</num>
+                           <content>
+                              <p>where an application is made to a local authority, using the internet-based application system and the applicant is currently registered by another local authority or has submitted an application to another local authority and has not been notified of a decision on it, 50% of the principal fee.</p>
+                           </content>
+                        </paragraph>
+                     </paragraph>
+                     <paragraph eId="schedule-paragraph-11">
+                        <num>11.</num>
+                        <intro>
+                           <p>An applicant who requires to pay the agent fee may claim either (but not both) of the following discounts—</p>
+                        </intro>
+                        <paragraph class="para1" eId="schedule-paragraph-11-a">
+                           <num>(a)</num>
+                           <content>
+                              <p>where the specified person acts for the applicant in respect of houses in more than one local authority area and the application is made to more than one local authority at the same time using the internet-based application system, 50% of the agent fee in each case, or</p>
+                           </content>
+                        </paragraph>
+                        <paragraph class="para1" eId="schedule-paragraph-11-b">
+                           <num>(b)</num>
+                           <content>
+                              <p>where the specified person is registered by a local authority other than that to which the application is submitted, or has submitted an application to such a local authority and has not been notified of a decision on it, 50% of the agent fee.</p>
+                           </content>
+                        </paragraph>
+                     </paragraph>
+                  </chapter>
+               </part>
+               <part eId="schedule-part-2">
+                  <num>PART 2<authorialNote class="referenceNote">
+                        <p>Regulation 5</p>
+                     </authorialNote>
+                  </num>
+                  <heading>Revocations</heading>
+                  <content>
+                     <tblock class="tabular" ukl:Orientation="portrait">
+                        <foreign>
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                              <colgroup>
+                                 <col width="142.15pt"/>
+                                 <col width="142.15pt"/>
+                                 <col width="142.15pt"/>
+                              </colgroup>
+                              <thead>
+                                 <tr>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 1</th>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 2</th>
+                                    <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Column 3</th>
+                                 </tr>
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2005/558">S.S.I. 2005/558</ref>
+                                       <noteRef xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" href="#f00008" class="footnote" marker="8"/>
+                                    </td>
+                                    <td rowspan="1" colspan="1">Regulations 3 to 5 and schedule 2</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2006</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2006/28">S.S.I. 2006/28</ref>
+                                    </td>
+                                    <td rowspan="1" colspan="1">The whole instrument</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2008</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2008/403">S.S.I. 2008/403</ref>
+                                    </td>
+                                    <td rowspan="1" colspan="1">The whole instrument</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Housing (Scotland) Act 2010 (Consequential Modifications) Order 2012</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2012/38">S.S.I. 2012/38</ref>
+                                    </td>
+                                    <td rowspan="1" colspan="1">Schedule, Part 2 , paragraph 7</td>
+                                 </tr>
+                                 <tr>
+                                    <td rowspan="1" colspan="1">The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2012</td>
+                                    <td rowspan="1" colspan="1">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2012/151">S.S.I. 2012/151</ref>
+                                    </td>
+                                    <td rowspan="1" colspan="1">Regulations 2 and 3</td>
+                                 </tr>
+                                 <tr>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2018</td>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                       <ref xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2018/292">S.S.I. 2018/292</ref>
+                                    </td>
+                                    <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">The whole instrument</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </foreign>
+                     </tblock>
+                  </content>
+               </part>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for the fees that a person must pay in order to make a valid application for registration as a landlord or for details of a person’s registration to be amended.</p>
+            <p>Regulation 2 and Part 1 of the schedule set out how the prescribed fees are arrived at.</p>
+            <p>Regulation 3 provides for the annual revision of fees as at 1st April (or the first working day after that date) by reference to changes in Consumer Prices Index figures.</p>
+            <p>Regulation 4 amends the Private Landlord Registration (Advice and Assistance) (Scotland) Regulations 2005 to add a duty for a local authority to publish the fees on their website.</p>
+            <p>Regulation 5 revokes the instruments set out in Part 2 of the schedule. Regulation 6 makes saving provision in relation to applications and notices received by a local authority before 0900 hours on 11 June 2019.</p>
+            <p>A Business and Regulatory Impact Assessment has been prepared for this instrument and will be placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Directorate for Housing and Social Justice, Victoria Quay, Edinburgh EH6 6QQ.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/39"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/39"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="39"/>
+               <FRBRname value="S.S.I. 2019/39"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/39/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/39/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/39/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/39/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref>. Section 153 was amended by section 67 of the Climate Change (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2009/12">2009 (asp 12)</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1962/9">1962 c.9</ref> (10 &amp; 11 <abbr title="Elizabeth">Eliz.</abbr> 2).</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1966/51">1966 c.51</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1975/30">1975 c.30</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 c.29</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1854/91">1854 c.91</ref> (17 &amp; 18 <abbr title="Victoria">Vict.</abbr>). Section 42 was amended by the Statute Law Revision Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1892/19">1892 (c.19)</ref> and section 152(2) of the Local Government etc. (Scotland) Act 1994.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 c.14</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 7B was inserted by section 110(2) of the Local Government Finance Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 (c.14)</ref> and amended by paragraph 100(4) of schedule 13 of the Local Government etc. (Scotland) Act 1994.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Section 1 was amended by section 34 and schedule 6 of the Abolition of Domestic Rates etc. (Scotland) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1987/47">1987 (c.47)</ref>, paragraph 1 of schedule 14 of the Local Government etc. (Scotland) Act 1994 and paragraph 1 of schedule 4 of the Local Government and Rating Act <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 (c.29)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Section 4(2) was amended by sections 5(a)(i) and 13 and schedule 4 of the Local Government (Miscellaneous Provisions) (Scotland) Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/ukpga/1981/23">1981 (c.23)</ref>, section 5(1)(a) of the Local Government and Planning (Scotland) Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/1982/43">1982 (c.43)</ref>, section 137 and paragraph 7 of schedule 12 of the Local Government Finance Act <ref eId="c00017" href="http://www.legislation.gov.uk/id/ukpga/1988/41">1988 (c.41)</ref> and section 98(2) of the Charities and Trustee Investment (Scotland) Act <ref eId="c00018" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Section 4(5) was amended by paragraph 57 of schedule 13 of the Local Government etc. (Scotland) Act 1994, paragraph 2(a) of schedule 3 of the Local Government and Rating Act <ref eId="c00019" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 (c.29)</ref> and section 98(3) of the Charities and Trustee Investment (Scotland) Act <ref eId="c00020" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Section 24(3) was substituted by section 154 of the Local Government etc. (Scotland) Act 1994 and amended by section 1(2)(a), (b) and (c) of the Local Government Finance (Unoccupied Properties etc.) (Scotland) Act <ref eId="c00021" href="http://www.legislation.gov.uk/id/asp/2012/11">2012 (asp 11)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>Section 24A was inserted by section 155 of the Local Government etc. (Scotland) Act 1994 and amended by section 1(3) of the Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00022" href="http://www.legislation.gov.uk/id/ukpga/1978/40">1978 c.40</ref>. Section 4 was amended by section 86(1) and paragraph 49(c) of schedule 10 of the Social Security Act <ref eId="c00023" href="http://www.legislation.gov.uk/id/ukpga/1986/50">1986 (c.50)</ref> and paragraph 48 of schedule 2 of the Social Security (Consequential Provisions) Act <ref eId="c00024" href="http://www.legislation.gov.uk/id/ukpga/1992/6">1992 (c.6)</ref>. Section 5 was amended by section 5(1)(a), (b) and (c) of the Rating and Valuation (Amendment) (Scotland) Act <ref eId="c00025" href="http://www.legislation.gov.uk/id/ukpga/1984/31">1984 (c.31)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Paragraph 3 was amended by section 29 of the Local Government in Scotland Act <ref eId="c00026" href="http://www.legislation.gov.uk/id/asp/2003/1">2003 (asp 1)</ref> and paragraph 25 of schedule 8 of the Postal Services Act <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/2000/26">2000 (c.26)</ref> and paragraph 148 of schedule 12 of the Postal Services Act <ref eId="c00028" href="http://www.legislation.gov.uk/id/ukpga/2011/5">2011 (c.5)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>
+                  <ref eId="c00029" href="http://www.legislation.gov.uk/id/ukpga/1956/60">1956 c.60</ref>. Section 6(1) was repealed in part by section 34 and schedule 6 of the Abolition of Domestic Rates Etc. (Scotland) Act <ref eId="c00030" href="http://www.legislation.gov.uk/id/ukpga/1987/47">1987 (c.47)</ref> and amended by section 145 and paragraph 3 of schedule 6 of the Local Government and Housing Act <ref eId="c00031" href="http://www.legislation.gov.uk/id/ukpga/1989/42">1989 (c.42)</ref>. Section 7B(2) was inserted by section 145 and paragraph 4 of schedule 6 of the Local Government and Housing Act 1989.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2017/85">S.S.I. 2017/85</ref> is amended by <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2018/76">S.S.I. 2018/76</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2019/40">S.S.I. 2019/40</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>Section 3A was inserted by section 140(1) of the Community Empowerment (Scotland) Act <ref eId="c00035" href="http://www.legislation.gov.uk/id/asp/2015/6">2015 (asp 6)</ref>. Section 4(5) was amended by paragraph 57 of schedule 13 of the Local Government etc. (Scotland) Act <ref eId="c00036" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>, paragraph 2(a) of schedule 3 of the Local Government and Rating Act <ref eId="c00037" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 (c.29)</ref> and section 98(3) of the Charities and Trustee Investment (Scotland) Act <ref eId="c00038" href="http://www.legislation.gov.uk/id/asp/2005/10">2005 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>Paragraph 4 was amended by section 28(4) of the Local Government in Scotland Act <ref eId="c00039" href="http://www.legislation.gov.uk/id/asp/2003/1">2003 (asp 1)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>
+                  <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2018/74">S.S.I. 2018/74</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040980"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 39</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rates (Levying) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Non-Domestic Rates (Levying) (Scotland) Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Interpretation</heading>
+            <num>2.</num>
+            <intro>
+               <p>In these Regulations—</p>
+            </intro>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1962 Act” means the Local Government (Financial Provisions etc.) (Scotland) Act 1962<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1966 Act” means the Local Government (Scotland) Act 1966<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1975 Act” means the Local Government (Scotland) Act 1975<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1997 Act” means the Local Government and Rating Act 1997<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“cumulative rateable value” means the total rateable value of all lands and heritages which an individual ratepayer is either—</p>
+                  <blockList>
+                     <item>
+                        <num>(a)</num>
+                        <p>entitled to occupy, whether they are occupied or not, or</p>
+                     </item>
+                     <item>
+                        <num>(b)</num>
+                        <p>actually in occupation of, whether entitled to or not,</p>
+                     </item>
+                  </blockList>
+                  <p>or both,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“lands and heritages” has the meaning prescribed by and under section 42 of the Lands Valuation (Scotland) Act 1854<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“part residential subjects” has the meaning prescribed by and under section 99(1) of the Local Government Finance Act 1992<noteRef href="#f00007" class="footnote" marker="7"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“payday lending” means, in the course of a business involving lending, the making of, or advertising the availability of, loan agreements in relation to which the credit provided is to be repaid or substantially repaid over a period that does not exceed 12 months and being loan agreements with an annual percentage rate of interest equal to or exceeding 100%,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“rateable value”, in relation to lands and heritages and a particular date, means—</p>
+                  <blockList>
+                     <item>
+                        <num>(a)</num>
+                        <p>in the case of part residential subjects, the rateable value entered in the roll for that date and apportioned to the non-residential use of those subjects, and</p>
+                     </item>
+                     <item>
+                        <num>(b)</num>
+                        <p>in any other case, the rateable value entered in the roll for that date in respect of those lands and heritages,</p>
+                     </item>
+                  </blockList>
+                  <p>and includes a rateable value so entered with retrospective effect,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“rates” means non-domestic rates levied under section 7B of the 1975 Act<noteRef href="#f00008" class="footnote" marker="8"/>, and</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the roll” means a valuation roll made up under section 1 of the 1975 Act<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amount payable as rates – lands and heritages with rateable value of £18,000 or less</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Subject to paragraph (5), this regulation grants relief to a person who is liable to pay rates in respect of lands and heritages on a day in the relevant year where they have—</p>
+               </intro>
+               <subparagraph eId="regulation-3-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a rateable value of £18,000 or less, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>a cumulative rateable value not exceeding £35,000.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>The relevant year for the purposes of this regulation is the financial year 2019-2020.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>Subject to paragraph (4), where the cumulative rateable value of lands and heritages falls within one of the ranges specified in column 1 (cumulative rateable value range) of the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in column 2 (percentage of rate relief).</p>
+                  <tblock class="tabular" ukl:Orientation="portrait">
+                     <foreign>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                           <colgroup>
+                              <col width="213.2pt"/>
+                              <col width="213.2pt"/>
+                           </colgroup>
+                           <thead>
+                              <tr>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Cumulative rateable value range</th>
+                                 <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">Percentage of rate relief</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td rowspan="1" colspan="1">£15,000 or less</td>
+                                 <td rowspan="1" colspan="1">100%</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="1" colspan="1">£15,001 to £18,000</td>
+                                 <td rowspan="1" colspan="1">25%</td>
+                              </tr>
+                              <tr>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£18,001 to £35,000</td>
+                                 <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">25% on each individual property with a rateable value of £18,000 or less</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </foreign>
+                  </tblock>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The amount of rate relief calculated under paragraph (3) is to be reduced by the amount of any—</p>
+               </intro>
+               <subparagraph eId="regulation-3-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>reduction by virtue of one or more of the following enactments—</p>
+                  </intro>
+                  <clause eId="regulation-3-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>section 4(2) of the 1962 Act<noteRef href="#f00010" class="footnote" marker="10"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>section 4(5)(c) of the 1962 Act<noteRef href="#f00011" class="footnote" marker="11"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-4-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>section 24(3) of the 1966 Act<noteRef href="#f00012" class="footnote" marker="12"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-4-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>section 24A of the 1966 Act<noteRef href="#f00013" class="footnote" marker="13"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-4-a-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>section 4 or 5 of the Rating (Disabled Persons) Act 1978<noteRef href="#f00014" class="footnote" marker="14"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-4-a-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>paragraph 3(1) of schedule 2 of the 1997 Act<noteRef href="#f00015" class="footnote" marker="15"/>, or</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>determination in accordance with sections 6(1) and 7B(2) of the Valuation and Rating (Scotland) Act 1956<noteRef href="#f00016" class="footnote" marker="16"/>,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>but only to the extent that the amount of such rate relief is reduced to nil.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-3-5">
+               <num>(5)</num>
+               <content>
+                  <p>No rate relief is granted in consequence of paragraph (1) in respect of lands and heritages used for payday lending.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amount payable as rates – lands and heritages with rateable value more than £51,000</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>This regulation applies to lands and heritages on any day in the relevant year when they have a rateable value exceeding £51,000.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>The relevant year for the purposes of this regulation is the financial year 2019-2020.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>The additional amount payable as rates under these Regulations in respect of lands and heritages for a day in the relevant year on which this regulation applies to them is to be calculated in accordance with the formula—</p>
+                  <tblock class="formula">
+                     <foreign>
+                        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" altimg="http://www.legislation.gov.uk/ssi/2019/39/images/ssi_20190039_en_001">
+                           <mrow>
+                              <mtext>AARP</mtext>
+                              <mo>=</mo>
+                              <mfrac>
+                                 <mrow>
+                                    <mtext>(RV</mtext>
+                                    <mo>×</mo>
+                                    <mtext>S)</mtext>
+                                 </mrow>
+                                 <mtext>D</mtext>
+                              </mfrac>
+                           </mrow>
+                        </math>
+                     </foreign>
+                     <blockContainer class="where">
+                        <p>Where—</p>
+                        <tblock class="definition">
+                           <p>
+                              <abbr class="acronym" title="Additional Amount of Rates Payable">AARP</abbr> is the additional amount of rates payable,</p>
+                        </tblock>
+                        <tblock class="definition">
+                           <p>
+                              <abbr class="acronym" title="Rateable Value">RV</abbr> is the rateable value of the lands and heritages on that day,</p>
+                        </tblock>
+                        <tblock class="definition">
+                           <p>S is the additional factor of 0.026, and</p>
+                        </tblock>
+                        <tblock class="definition">
+                           <p>D is the number of days in the relevant year.</p>
+                        </tblock>
+                     </blockContainer>
+                  </tblock>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-4">
+               <num>(4)</num>
+               <intro>
+                  <p>No additional amount is payable under paragraph (3) for—</p>
+               </intro>
+               <subparagraph eId="regulation-4-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>a day on which relief under regulation 7 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017<noteRef href="#f00017" class="footnote" marker="17"/> has effect in respect of the lands and heritages in question, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>a day on which—</p>
+                  </intro>
+                  <clause eId="regulation-4-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>regulation 10 of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019<noteRef href="#f00018" class="footnote" marker="18"/> grants relief in respect of the lands and heritages in question, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-4-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the rateable value of those lands and heritages, minus the reference amount within the meaning of paragraph (2)(b) of that regulation, does not exceed £51,000.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Exemptions and discretionary reductions and remissions</heading>
+            <num>5.</num>
+            <intro>
+               <p>Nothing in these Regulations—</p>
+            </intro>
+            <subparagraph eId="regulation-5-a">
+               <num>(a)</num>
+               <content>
+                  <p>requires rates to be paid in respect of lands and heritages for any day where those lands and heritages are under any enactment entirely exempt from rates for that day, or</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-5-b">
+               <num>(b)</num>
+               <content>
+                  <p>prejudices the power of a rating authority to grant a reduction or remission of rates under section 3A or 4(5) of the 1962 Act<noteRef href="#f00019" class="footnote" marker="19"/> or paragraph 4 of schedule 2 of the 1997 Act<noteRef href="#f00020" class="footnote" marker="20"/>.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Revocation and saving</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>Subject to paragraph (2), the Non-Domestic Rates (Levying) (Scotland) Regulations 2018<noteRef href="#f00021" class="footnote" marker="21"/> are revoked.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <content>
+                  <p>Nothing in paragraph (1) affects the continuing operation of the Non-Domestic Rates (Levying) (Scotland) Regulations 2018 as regards the financial year 2018-2019.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for the amount payable in certain circumstances as non-domestic rates in respect of non-domestic subjects in Scotland. The non-domestic rate for subjects not covered by these Regulations is fixed by Order made under the Local Government (Scotland) Act 1975. For the financial year 2019-2020, the rate is fixed by the Non-Domestic Rate (Scotland) Order 2019 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2019/35">S.S.I. 2019/35</ref>).</p>
+            <p>Regulation 3 provides for the general reduction in rates for a ratepayer of non-domestic subjects with a rateable value of £18,000 or less. Regulation 3(3) sets out the reduction of either 25% or 100% depending on the value of the subjects. This regulation applies to the financial year 2019-2020.</p>
+            <p>Regulation 3(4) provides for a reduction in rate relief (calculated in accordance with regulation 3(3)) if the enactments listed in regulation 3(4)(a) or (b) already provide for a reduction or determination. Regulation 3(5) provides that no rate relief may be granted in respect of lands and heritages used for payday lending.</p>
+            <p>Regulation 4 provides a formula for the additional amount payable as rates for lands and heritages with a rateable value exceeding £51,000. This regulation applies to the financial year 2019-2020.</p>
+            <p>Regulation 5 allows for exemptions and discretionary reductions.</p>
+            <p>The Non-Domestic Rates (Levying) (Scotland) Regulations 2018 are revoked by regulation 6.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

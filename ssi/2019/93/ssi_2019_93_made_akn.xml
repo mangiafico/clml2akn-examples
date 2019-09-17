@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/93"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/93"/>
+               <FRBRdate date="2019-03-13" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="93"/>
+               <FRBRname value="S.S.I. 2019/93"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/93/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/93/made"/>
+               <FRBRdate date="2019-03-13" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/93/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/93/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-13" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-15" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 c.5</ref>. Section 179 is to be amended by <ref eId="c00003" href="http://www.legislation.gov.uk/id/uksi/2019/128">S.I. 2019/128</ref> with effect from exit day and there are other amendments that are not relevant to this Order. Legislative competence for some welfare benefits was devolved to the Scottish Parliament by Part 3 of the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref>, which inserted exceptions into the Scotland Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>, schedule 5, Part 2, Section F1. This devolution is subject to transitional arrangements set out in <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2017/444">S.I. 2017/444</ref>. By virtue of section 27(2) of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>, the function of Her Majesty of making an Order in Council, so far as the function is exercisable within devolved competence, is exercisable by a Scottish Statutory Instrument.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>2019 Cm 49.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>Covering the territories of the United Kingdom, the Channel Islands, the Isle of Man and the Republic of Ireland.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/uksi/2019/128">S.I. 2019/128</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>The date on which the Convention enters into force for the United Kingdom will be published on the relevant page on UK Treaties Online which can be found at this link: <a href="https://www.gov.uk/guidance/uk-treaties">https://www.gov.uk/guidance/uk-treaties</a>
+               </p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/2019/622">S.I. 2019/622</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041536"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 93</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Security</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Social Security (Ireland) (Further provision in respect of Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-13">13th March 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-15">15th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with article 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <container name="royalPresence">
+            <p>At the Court at Buckingham Palace, the 13th day of March 2019</p>
+            <p>Present,</p>
+            <p>The Queen’s Most Excellent Majesty in Council</p>
+         </container>
+         <p>This Order is made under the powers in section 179(1) and (2) of the Social Security Administration Act 1992<noteRef href="#f00001" class="footnote" marker="1"/>, which provide that, for the purpose of giving effect to any agreement with the government of a country outside the United Kingdom providing for reciprocity in specified matters, Her Majesty may by Order in Council make provision for modifying and adapting specified legislation in its application to cases affected by such agreement or proposed alterations.</p>
+         <p>At Dublin, on 1 February 2019, a Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland<noteRef href="#f00002" class="footnote" marker="2"/> was signed on behalf of those Governments. This Convention, which is referred to in this Order as “the Convention”, provides for existing reciprocal rights in the field of social security, enjoyed by British and Irish citizens (and certain family members and survivors) under the “Common Travel Area” arrangements<noteRef href="#f00003" class="footnote" marker="3"/> and the law of the European Union, to be protected following the withdrawal of the United Kingdom from the European Union.</p>
+         <p>Article 65 of the Convention provides that the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland shall notify each other in writing when the necessary internal procedures for entry into force have been completed. The Convention shall enter into force on the date of the later of such notifications.</p>
+         <formula name="enactingText">
+            <p>In order to give effect to the Convention, therefore, Her Majesty, in exercise of the powers conferred on Her by section 179(1) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <intro>
+                  <p>This Order may be cited as the Social Security (Ireland) (Further provision in respect of Scotland) Order 2019 and comes into force on the later of the following—</p>
+               </intro>
+               <subparagraph eId="article-1-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>immediately after the coming into force of the Social Security (Amendment) (EU Exit) Regulations 2019<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-1-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the date of the later of the notifications referred to in Article 65 of the Convention as set out in the schedule of the 2019 Order<noteRef href="#f00005" class="footnote" marker="5"/>.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order “the 2019 Order” means the Social Security (Ireland) Order 2019<noteRef href="#f00006" class="footnote" marker="6"/>.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Application of article 2 of the 2019 Order</heading>
+            <num>2.</num>
+            <intro>
+               <p>Paragraphs (1) and (2) of article 2 of the 2019 Order (modification of legislation) apply insofar as—</p>
+            </intro>
+            <subparagraph eId="article-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>it is within the legislative competence of the Scottish Parliament to make the modification paragraph (1) describes, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>the 2019 Order does not make that modification.</p>
+               </content>
+            </subparagraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">Richard Tilbrook</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Clerk of the Privy Council</role>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order makes provision for the modification of social security legislation, so far as it relates to devolved matters, so as to give effect to the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland in Dublin signed on 1 February 2019 (“the Convention”). It does so by applying the modification provided for by article 2(1) of the Social Security (Ireland) Order 2019 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/uksi/2019/622">S.I. 2019/622</ref>) (“the 2019 Order”), where the legislation being modified relates to a matter which falls within the legislative competence of the Scottish Parliament, and in relation to which competence for the exercise of functions has transferred to the Scottish Ministers.</p>
+            <p>The Convention is set out in the schedule of the 2019 Order and provides for existing reciprocal rights in the field of social security, provided under the Common Travel Area arrangements and the law of the European Union, to be protected in respect of British and Irish citizens (and certain family members and survivors) moving between the United Kingdom and the Republic of Ireland, following the withdrawal of the United Kingdom from the European Union (“EU Withdrawal”).</p>
+            <p>The Order does not impose any costs on business, charities or the voluntary sector. Accordingly, no Business and Regulatory Impact Assessment has been prepared.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

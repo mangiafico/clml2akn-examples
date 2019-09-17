@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/104"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/104"/>
+               <FRBRdate date="2019-03-19" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="104"/>
+               <FRBRname value="S.S.I. 2019/104"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/104/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/104/made"/>
+               <FRBRdate date="2019-03-19" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/104/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/104/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-19" eId="date-made" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2005/629">S.S.I. 2005/629</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2014/362">S.S.I. 2014/362</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1973/45">1973 c.45</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Section 7 was amended by the Presumption of Death (Scotland) Act 1977, (c.27), section 19 and schedule 2, the Family Law (Scotland) Act 2006, (asp 2), section 37(2) and schedule 2, paragraph 1, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref> and <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Section 8 was amended by the Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1983/12">1983 (c.12)</ref>, sections 6(1), 7(4) and schedule 1, paragraph 18, the Family Law (Scotland) Act 2006, (asp 2), section 37(3), the Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011, (asp 15), section 15, the Marriage and Civil Partnership (Scotland) Act 2014, (asp 5), section 23, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref> and <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Section 10 was amended by the Children (Scotland) Act 1995, (c.36), schedule 4, paragraph 20(2), <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2011/1484">S.I. 2011/1484</ref> and is amended by the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019, <abbr class="acronym" title="Statutory Instrument">SI</abbr> 2019/<span ukl:Name="EmSpace"> </span>
+                  <span ukl:Name="EmSpace"> </span>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Subsection (1B) was added by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref> and amended by <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>Subsection (1BA) was added by the Marriage and Civil Partnership (Scotland) Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/asp/2014/5">2014 (asp 5)</ref>, schedule 1, paragraph 1(3).</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Section 11 was amended by <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>Section 12 was amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref> and <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Schedule 1B was inserted by the Marriage and Civil Partnership (Scotland) Act 2014, (asp 5), schedule 1, paragraph 1(4).</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00019" href="http://www.legislation.gov.uk/id/ukpga/1986/55">1986 c.55</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>Section 14 was amended by the Children Act <ref eId="c00020" href="http://www.legislation.gov.uk/id/ukpga/1989/41">1989 (c.41)</ref>, schedule 13, paragraph 62(2)(a), <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref> and <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2010/213">S.S.I. 2010/213</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Section 15 was amended by the Children Act <ref eId="c00023" href="http://www.legislation.gov.uk/id/ukpga/1989/41">1989 (c.41)</ref>, schedule 13, paragraph 62(2)(a), the Children (Scotland) Act <ref eId="c00024" href="http://www.legislation.gov.uk/id/ukpga/1995/36">1995 (c.36)</ref>, schedule 4, paragraph 41(4) and schedule 5, paragraph 1 and <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Section 17A was inserted by <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref> and amended by <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2010/213">S.S.I. 2010/213</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>Section 26(2) was inserted by <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2001/36">S.S.I. 2001/36</ref> and amended by <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>Section 42 was amended by <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2005/623">S.S.I. 2005/623</ref> and <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2010/213">S.S.I. 2010/213</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00019">
+               <p>Section 45 was amended by <ref eId="c00032" href="http://www.legislation.gov.uk/id/uksi/2001/310">S.I. 2001/310</ref> and <ref eId="c00033" href="http://www.legislation.gov.uk/id/uksi/2005/265">S.I. 2005/265</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00020">
+               <p>The definition in section 54(1) was inserted by <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00021">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/ukpga/1995/36">1995 c.36</ref>, section 14(5) was added by <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00022">
+               <p>
+                  <ref eId="c00037" href="http://www.legislation.gov.uk/id/ukpga/2004/33">2004 c.33</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00023">
+               <p>Section 227 was amended by <ref eId="c00038" href="http://www.legislation.gov.uk/id/uksi/2011/1484">S.I. 2011/1484</ref> and is amended by the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 <abbr class="acronym" title="Statutory Instrument">S.I.</abbr> 2019/<span ukl:Name="EmSpace"> </span>
+                  <span ukl:Name="EmSpace"> </span>.</p>
+            </note>
+            <note class="footnote" eId="f00024">
+               <p>
+                  <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2005/42">S.S.I. 2005/42</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00025">
+               <p>
+                  <ref eId="c00040" href="http://www.legislation.gov.uk/id/ssi/2005/629">S.S.I. 2005/629</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00026">
+               <p>
+                  <ref eId="c00041" href="http://www.legislation.gov.uk/id/ssi/2010/213">S.S.I. 2010/213</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00027">
+               <p>Regulation 2 was amended by <ref eId="c00042" href="http://www.legislation.gov.uk/id/ssi/2013/147">S.S.I. 2013/147</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00028">
+               <p>Regulation 10 was amended by <ref eId="c00043" href="http://www.legislation.gov.uk/id/ssi/2013/147">S.S.I. 2013/147</ref> and <ref eId="c00044" href="http://www.legislation.gov.uk/id/ssi/2011/211">S.S.I. 2011/211</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00029">
+               <p>Regulation 12 was amended by <ref eId="c00045" href="http://www.legislation.gov.uk/id/ssi/2013/147">S.S.I. 2013/147</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00030">
+               <p>
+                  <ref eId="c00046" href="http://www.legislation.gov.uk/id/ssi/2014/362">S.S.I. 2014/362</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041666"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 104</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Family Law</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Judgments</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Children And Young Persons</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Amendment <abbr title="et cetera" xml:lang="la">etc.</abbr>) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-19">19th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraphs 1(1) and (3) of schedule 2, and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with paragraph 4(b) of schedule 2 of that Act, they have consulted with the Secretary of State.</p>
+         <formula name="enactingText">
+            <p>In accordance with paragraph 1(7) of schedule 7 of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introduction</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 and come into force on exit day.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Interpretation</heading>
+               <num>2.</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“Council Regulation <abbr title="Number">No.</abbr> 2201/2003” means Council Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2003/2201">(EC) No. 2201/2003</ref> of 27<span ukl:Name="NonBreakingSpace"> </span>November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (<abbr class="acronym" title="European Community">EC</abbr>) No.<span ukl:Name="NonBreakingSpace"> </span>1347/2000, and</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“competent authority” means the Court of Session or the sheriff court as appropriate.</p>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>Revocation of retained direct EU legislation</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Revocation of Council Regulation No. 2201/2003</heading>
+               <num>3.</num>
+               <content>
+                  <p>Council Regulation No. 2201/2003 is revoked.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Amendment of primary legislation</heading>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Amendment of primary legislation</heading>
+               <num>4.</num>
+               <content>
+                  <p>Schedule 1 has effect.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Revocation and amendment of secondary legislation</heading>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Revocation and amendment of secondary legislation</heading>
+               <num>5.</num>
+               <content>
+                  <p>Schedule 2 has effect.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-5">
+            <num>PART 5</num>
+            <heading>Saving and transitional provisions</heading>
+            <hcontainer name="regulation" eId="regulation-6">
+               <heading>Saving and transitional provisions</heading>
+               <num>6.</num>
+               <paragraph eId="regulation-6-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>The amendments and revocations made by these Regulations do not apply in relation to—</p>
+                  </intro>
+                  <subparagraph eId="regulation-6-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>proceedings before a court in a Member State seised before these Regulations come into force in reliance upon the provisions of Chapter <abbr class="acronym" title="2">II</abbr> (jurisdiction) of Council Regulation No. 2201/2003,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>applications, requests for assistance or specific measures, where the application or request is received by the Scottish Ministers as the relevant Central Authority or where the competent authority is seised before these Regulations come into force, in accordance with Chapter <abbr class="acronym" title="3">III</abbr> (recognition and enforcement) or Chapter <abbr class="acronym" title="4">IV</abbr> (cooperation between Central Authorities in matters of parental responsibility) of Council Regulation No. 2201/2003,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-1-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>proceedings commenced before these Regulations come into force pursuant to the jurisdiction provisions of Part 1 of—</p>
+                     </intro>
+                     <clause eId="regulation-6-1-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005<noteRef href="#f00002" class="footnote" marker="2"/>, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-6-1-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-1-d">
+                     <num>(d)</num>
+                     <intro>
+                        <p>proceedings commenced before these Regulations come into force in accordance with the recognition and refusal of recognition provisions of Part 2 of—</p>
+                     </intro>
+                     <clause eId="regulation-6-1-d-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-6-1-d-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-6-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>For the purposes of sub-paragraphs (1)(a) and (b) of this regulation—</p>
+                  </intro>
+                  <subparagraph eId="regulation-6-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>a court is seised—</p>
+                     </intro>
+                     <clause eId="regulation-6-2-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the applicant has not subsequently failed to take the steps the applicant was required to take to have service effected on the respondent, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-6-2-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the applicant has not subsequently failed to take the steps the applicant was required to take to have the document lodged with the court, and</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-6-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>references to “Member State” in Council Regulation No.<span ukl:Name="NonBreakingSpace"> </span>2201/2003 and any implementing legislation are to be read as including the United Kingdom.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">Ash Denham</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-19">19th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule-1">
+               <num>SCHEDULE 1<authorialNote class="referenceNote">
+                     <p>Regulation 4</p>
+                  </authorialNote>
+               </num>
+               <heading>Amendment of primary legislation</heading>
+               <paragraph eId="schedule-1-paragraph-1">
+                  <heading>Amendment of the Domicile and Matrimonial Proceedings Act 1973</heading>
+                  <num>1.</num>
+                  <subparagraph eId="schedule-1-paragraph-1-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>The Domicile and Matrimonial Proceedings Act 1973<noteRef href="#f00004" class="footnote" marker="4"/> is amended as follows.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-2">
+                     <num>(2)</num>
+                     <intro>
+                        <p>In section 7<noteRef href="#f00005" class="footnote" marker="5"/> (jurisdiction of Court of Session)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-2-a">
+                        <num>(a)</num>
+                        <intro>
+                           <p>in subsection (2A)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-2-a-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>after “if (and only if)”, insert “either of the parties to the marriage”, and</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-2-a-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for paragraphs (a) and (b) substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>is domiciled in Scotland on the date when the action is begun, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph>
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>was habitually resident in Scotland throughout the period of one year ending with that date.</p>
+                                          </content>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">,</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-2-b">
+                        <num>(b)</num>
+                        <intro>
+                           <p>in subsection (3A)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-2-b-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>after “if (and only if)” insert “either of the parties to the marriage”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-2-b-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>omit the first paragraphs (a) and (b),</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-2-b-iii">
+                           <num>(iii)</num>
+                           <content>
+                              <p>for the second paragraphs (a) and (b) substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>is domiciled in Scotland on the date when the action is begun,</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph>
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>was habitually resident in Scotland throughout the period of one year ending with that date, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph>
+                                          <num>(c)</num>
+                                          <intro>
+                                             <p>died before that date and either—</p>
+                                          </intro>
+                                          <subparagraph>
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>was at death domiciled in Scotland, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph>
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>had been habitually resident in Scotland throughout the period of one year ending with the date of death.</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">,</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-2-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>omit subsection (3B),</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-2-d">
+                        <num>(d)</num>
+                        <content>
+                           <p>omit subsection (5A), and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-2-e">
+                        <num>(e)</num>
+                        <content>
+                           <p>in subsection (9) for “a member state of the European Union” substitute “the United Kingdom, the Channel Islands and the Isle of Man”.</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-3">
+                     <num>(3)</num>
+                     <intro>
+                        <p>In section 8<noteRef href="#f00006" class="footnote" marker="6"/> (jurisdiction of sheriff court in respect of actions for separation)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-3-a">
+                        <num>(a)</num>
+                        <intro>
+                           <p>in subsection (2)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-3-a-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>omit “or for declarator of recognition, or non-recognition, of a relevant foreign decree”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-3-a-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for paragraph (a) substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <intro>
+                                             <p>either of the parties to the marriage—</p>
+                                          </intro>
+                                          <subparagraph>
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>is domiciled in Scotland on the date when the action is begun, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph>
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>was habitually resident in Scotland throughout the period of one year ending with that date, and</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">,</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-3-b">
+                        <num>(b)</num>
+                        <intro>
+                           <p>in subsection (2A)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-3-b-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>after “marriage” where it first occurs insert “or for declarator of recognition, or non-recognition, of a relevant foreign decree”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-3-b-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for paragraph (b) substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(b)</num>
+                                          <intro>
+                                             <p>either party to the marriage—</p>
+                                          </intro>
+                                          <subparagraph>
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>is domiciled in Scotland on the date when the action is begun,</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph>
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>was habitually resident in Scotland throughout the period of one year ending with that date, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph>
+                                             <num>(ii)</num>
+                                             <intro>
+                                                <p>died before that date and either–</p>
+                                             </intro>
+                                             <clause>
+                                                <num>(A)</num>
+                                                <content>
+                                                   <p>was at death domiciled in Scotland, or</p>
+                                                </content>
+                                             </clause>
+                                             <clause>
+                                                <num>(B)</num>
+                                                <content>
+                                                   <p>had been habitually resident in Scotland throughout the period of one year ending with the date of death.</p>
+                                                </content>
+                                             </clause>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">,</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-3-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>omit subsections (2B), (2C) and (2D),</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-3-d">
+                        <num>(d)</num>
+                        <content>
+                           <p>omit subsection (3A), and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-3-e">
+                        <num>(e)</num>
+                        <content>
+                           <p>in subsection (4) omit “, provided that entertaining the action would not contravene Article 6 of the Council Regulation”.</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-4">
+                     <num>(4)</num>
+                     <content>
+                        <p>In section 10<noteRef href="#f00007" class="footnote" marker="7"/> (ancillary and collateral orders) omit subsections (1B)<noteRef href="#f00008" class="footnote" marker="8"/> and (1BA)<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-5">
+                     <num>(5)</num>
+                     <content>
+                        <p>In section 11<noteRef href="#f00010" class="footnote" marker="10"/> (sisting of certain actions) omit subsection (2).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-6">
+                     <num>(6)</num>
+                     <content>
+                        <p>In section 12<noteRef href="#f00011" class="footnote" marker="11"/> (supplementary), in subsection (5) omit paragraphs (b) to (d).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-1-7">
+                     <num>(7)</num>
+                     <intro>
+                        <p>In schedule 1B (jurisdiction in relation to same sex marriages (Scotland))<noteRef href="#f00012" class="footnote" marker="12"/>—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>in paragraph 1(3), in the definition of “relevant foreign decree” for “a member State” substitute “the United Kingdom, the Channel Islands and the Isle of Man”,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>omit paragraph 2 (power to make provision corresponding to EC Regulation 2201/2003),</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-c">
+                        <num>(c)</num>
+                        <intro>
+                           <p>in paragraph 3 (divorce or separation)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-c-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>in sub-paragraph (1), after “if (and only if)” insert “either of the parties to the marriage”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-c-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for sub-paragraph (1)(a) and (b), substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>is domiciled in Scotland on the date when the proceedings are begun, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph>
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>was habitually resident in Scotland throughout the period of one year ending with that date.</p>
+                                          </content>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">, and</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-c-iii">
+                           <num>(iii)</num>
+                           <content>
+                              <p>in sub-paragraph (3)(b), omit “under regulations under paragraph 2”,</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-d">
+                        <num>(d)</num>
+                        <intro>
+                           <p>in paragraph 5 (nullity of marriage)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-d-i">
+                           <num>(i)</num>
+                           <intro>
+                              <p>in sub-paragraph (1)—</p>
+                           </intro>
+                           <clause eId="schedule-1-paragraph-1-7-d-i-aa">
+                              <num>(aa)</num>
+                              <content>
+                                 <p>omit from beginning of head (a) to “those regulations and”,</p>
+                              </content>
+                           </clause>
+                           <clause eId="schedule-1-paragraph-1-7-d-i-bb">
+                              <num>(bb)</num>
+                              <content>
+                                 <p>in sub-head (i), after “proceedings are begun”, insert “, or was habitually resident in Scotland throughout the period of one year ending with that date”,</p>
+                              </content>
+                           </clause>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-d-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>in sub-paragraph (2), in head (a), omit “paragraph (a) or (b) of”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-d-iii">
+                           <num>(iii)</num>
+                           <content>
+                              <p>in sub-paragraph (3), in head (b), omit “under regulations under paragraph 2”,</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-e">
+                        <num>(e)</num>
+                        <intro>
+                           <p>in paragraph 6 (recognition, or non-recognition, of foreign decrees)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-e-i">
+                           <num>(i)</num>
+                           <intro>
+                              <p>in sub-paragraph (1)—</p>
+                           </intro>
+                           <clause eId="schedule-1-paragraph-1-7-e-i-aa">
+                              <num>(aa)</num>
+                              <content>
+                                 <p>omit from beginning of head (a) to “those regulations and”,</p>
+                              </content>
+                           </clause>
+                           <clause eId="schedule-1-paragraph-1-7-e-i-bb">
+                              <num>(bb)</num>
+                              <content>
+                                 <p>in sub-head (i), after “proceedings are begun”, insert “, or was habitually resident in Scotland throughout the period of one year ending with that date”,</p>
+                              </content>
+                           </clause>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-1-7-e-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>in sub-paragraph (2), in head (a), omit “paragraph (a) or (b) of”, and</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-1-7-f">
+                        <num>(f)</num>
+                        <content>
+                           <p>in paragraph 7 (supplementary provision), in sub-paragraph (2), omit “, if entertaining the proceedings would not contravene regulations under paragraph 2”.</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-2">
+                  <heading>Amendment of the Family Law Act 1986</heading>
+                  <num>2.</num>
+                  <subparagraph eId="schedule-1-paragraph-2-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>The Family Law Act 1986<noteRef href="#f00013" class="footnote" marker="13"/> is amended as follows.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-2">
+                     <num>(2)</num>
+                     <intro>
+                        <p>In section 14<noteRef href="#f00014" class="footnote" marker="14"/> (power of court to refuse application or sist proceedings) in subsection (2)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-2-2-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>at the end of paragraph (b) insert “or”,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-2-2-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>omit paragraph (c), and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-2-2-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>in the words following paragraph (d), omit “Article 15 of the Council Regulation or” and “of the Council Regulation”.</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-3">
+                     <num>(3)</num>
+                     <content>
+                        <p>In section 15<noteRef href="#f00015" class="footnote" marker="15"/> (duration, variation and recall of orders) in subsection (1)(b) omit “or by virtue of the Council Regulation”.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-4">
+                     <num>(4)</num>
+                     <content>
+                        <p>In section 17A<noteRef href="#f00016" class="footnote" marker="16"/>, omit “Sections 2 and 3 of Chapter II of the Council Regulation and are subject to”.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-5">
+                     <num>(5)</num>
+                     <content>
+                        <p>In section 26<noteRef href="#f00017" class="footnote" marker="17"/> (recognition: special Scottish rule), omit subsection (2).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-6">
+                     <num>(6)</num>
+                     <content>
+                        <p>In section 42<noteRef href="#f00018" class="footnote" marker="18"/> (general interpretation of Part 1), in subsection (1), omit the definition of “the Council Regulation”.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-7">
+                     <num>(7)</num>
+                     <intro>
+                        <p>In section 45<noteRef href="#f00019" class="footnote" marker="19"/> (recognition in the United Kingdom of overseas divorces, annulments and legal separations)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-2-7-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>in subsection (1) omit “subsection (2) of this section and to”, and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-2-7-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>omit subsection (2).</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-2-8">
+                     <num>(8)</num>
+                     <content>
+                        <p>In section 54<noteRef href="#f00020" class="footnote" marker="20"/> (interpretation of Part 2), in subsection (1), omit the definition of “the Council Regulation”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-3">
+                  <heading>Amendment of the Children (Scotland) Act 1995</heading>
+                  <num>3.</num>
+                  <content>
+                     <p>In section 14 of the Children (Scotland) Act 1995<noteRef href="#f00021" class="footnote" marker="21"/> (jurisdiction and choice of law in relation to certain matters), omit subsection (5).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-1-paragraph-4">
+                  <heading>Amendment of the Civil Partnership Act 2004</heading>
+                  <num>4.</num>
+                  <subparagraph eId="schedule-1-paragraph-4-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>The Civil Partnership Act 2004<noteRef href="#f00022" class="footnote" marker="22"/> is amended as follows.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-4-2">
+                     <num>(2)</num>
+                     <content>
+                        <p>Omit section 219 (power to make provision corresponding to EC Regulation 2201/2003).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-4-3">
+                     <num>(3)</num>
+                     <intro>
+                        <p>In section 225 (jurisdiction of Scottish courts)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-3-a">
+                        <num>(a)</num>
+                        <intro>
+                           <p>in subsection (1)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-3-a-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>after “if (and only if)” insert “either civil partner”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-3-a-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for paragraphs (a) and (b), substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <content>
+                                             <p>is domiciled in Scotland on the date when proceedings are begun, or</p>
+                                          </content>
+                                       </paragraph>
+                                       <paragraph>
+                                          <num>(b)</num>
+                                          <content>
+                                             <p>was habitually resident in Scotland throughout the period of one year ending with that date, or</p>
+                                          </content>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">, and</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-3-a-iii">
+                           <num>(iii)</num>
+                           <content>
+                              <p>in paragraph (c)(ii) omit “under section 219 regulations”,</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-3-b">
+                        <num>(b)</num>
+                        <intro>
+                           <p>in subsection (3)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-3-b-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>for paragraphs (a) and (b) substitute—<mod>
+                                    <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                       <paragraph>
+                                          <num>(a)</num>
+                                          <intro>
+                                             <p>either of the ostensible civil partners—</p>
+                                          </intro>
+                                          <subparagraph>
+                                             <num>(i)</num>
+                                             <content>
+                                                <p>is domiciled in Scotland on the date when the proceedings are begun or was habitually resident in Scotland throughout the period of one year ending with that date, or</p>
+                                             </content>
+                                          </subparagraph>
+                                          <subparagraph>
+                                             <num>(ii)</num>
+                                             <content>
+                                                <p>died before that date and either was at death domiciled in Scotland or had been habitually resident in Scotland throughout the period of one year ending with the date of death, or</p>
+                                             </content>
+                                          </subparagraph>
+                                       </paragraph>
+                                    </quotedStructure>
+                                 </mod>
+                                 <inline name="AppendText">,</inline>
+                              </p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-3-b-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>in paragraph (c)(ii) omit “under section 219 regulations”.</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-4-4">
+                     <num>(4)</num>
+                     <intro>
+                        <p>In section 227<noteRef href="#f00023" class="footnote" marker="23"/> (Scottish ancillary and collateral orders)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-4-a">
+                        <num>(a)</num>
+                        <content>
+                           <p>in subsection (3), for “Subject to subsection (3A) if”, substitute “If”,</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-4-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>omit subsection (3A).</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+                  <subparagraph eId="schedule-1-paragraph-4-5">
+                     <num>(5)</num>
+                     <intro>
+                        <p>In section 234 (recognition in the <abbr class="acronym" title="United Kingdom">UK</abbr> of overseas dissolution, annulment or separation)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-5-a">
+                        <num>(a)</num>
+                        <intro>
+                           <p>in subsection (1)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-5-a-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>for “Subject to subsection (2), the”, substitute “The”, and</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-1-paragraph-4-5-a-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>for “the United Kingdom” substitute “Scotland”,</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-5-b">
+                        <num>(b)</num>
+                        <content>
+                           <p>omit subsection (2), and</p>
+                        </content>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-1-paragraph-4-5-c">
+                        <num>(c)</num>
+                        <content>
+                           <p>in subsection (3), for “subsections (1) and (2)”, substitute “subsection (1)”.</p>
+                        </content>
+                     </paragraph>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="schedule" eId="schedule-2">
+               <num>SCHEDULE 2<authorialNote class="referenceNote">
+                     <p>Regulation 5</p>
+                  </authorialNote>
+               </num>
+               <heading>Revocation and amendment of secondary legislation</heading>
+               <paragraph eId="schedule-2-paragraph-1">
+                  <heading>Revocation of the European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005</heading>
+                  <num>1.</num>
+                  <content>
+                     <p>The European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005<noteRef href="#f00024" class="footnote" marker="24"/> are revoked.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-2-paragraph-2">
+                  <heading>Revocation of the Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005</heading>
+                  <num>2.</num>
+                  <content>
+                     <p>The Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005<noteRef href="#f00025" class="footnote" marker="25"/> are revoked.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="schedule-2-paragraph-3">
+                  <heading>Amendment of the Parental Responsibility and Measures for the Protection of Children (International Obligations) (Scotland) Regulations 2010</heading>
+                  <num>3.</num>
+                  <subparagraph eId="schedule-2-paragraph-3-1">
+                     <num>(1)</num>
+                     <content>
+                        <p>The Parental Responsibility and Measures for the Protection of Children (International Obligations) (Scotland) Regulations 2010<noteRef href="#f00026" class="footnote" marker="26"/> are amended as follows.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-2-paragraph-3-2">
+                     <num>(2)</num>
+                     <content>
+                        <p>In regulation 2<noteRef href="#f00027" class="footnote" marker="27"/> (interpretation), omit the definitions of “the Council Regulation” and “member State”.</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-2-paragraph-3-3">
+                     <num>(3)</num>
+                     <content>
+                        <p>Omit regulation 6 (application of Article 15).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-2-paragraph-3-4">
+                     <num>(4)</num>
+                     <content>
+                        <p>Omit regulation 10<noteRef href="#f00028" class="footnote" marker="28"/> (requests for information under Council Regulation).</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="schedule-2-paragraph-3-5">
+                     <num>(5)</num>
+                     <intro>
+                        <p>In regulation 12<noteRef href="#f00029" class="footnote" marker="29"/> (local authorities and Children’s Hearings: placement of child in another Contracting State)—</p>
+                     </intro>
+                     <paragraph class="para1" eId="schedule-2-paragraph-3-5-a">
+                        <num>(a)</num>
+                        <intro>
+                           <p>in paragraph (1)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-a-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>in sub-paragraph (a), omit “, or”, and</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-a-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>omit sub-paragraph (b),</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-2-paragraph-3-5-b">
+                        <num>(b)</num>
+                        <intro>
+                           <p>in paragraph (2)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-b-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>in sub-paragraph (a), omit “, or”, and</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-b-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>omit sub-paragraph (b), and</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                     <paragraph class="para1" eId="schedule-2-paragraph-3-5-c">
+                        <num>(c)</num>
+                        <intro>
+                           <p>in paragraph (3)—</p>
+                        </intro>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-c-i">
+                           <num>(i)</num>
+                           <content>
+                              <p>omit “or Articles 8 to 14 of the Council Regulation, as the case may be”,</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-c-ii">
+                           <num>(ii)</num>
+                           <content>
+                              <p>in sub-paragraph (a) omit “, or”, and</p>
+                           </content>
+                        </subparagraph>
+                        <subparagraph class="para2" eId="schedule-2-paragraph-3-5-c-iii">
+                           <num>(iii)</num>
+                           <content>
+                              <p>omit sub-paragraph (b).</p>
+                           </content>
+                        </subparagraph>
+                     </paragraph>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="schedule-2-paragraph-4">
+                  <heading>Revocation of the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014</heading>
+                  <num>4.</num>
+                  <content>
+                     <p>The Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014<noteRef href="#f00030" class="footnote" marker="30"/> are revoked.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraphs 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018 in order to address failures of retained EU law to operate effectively and other deficiencies in retained EU law (in particular to address reciprocal arrangements which no longer exist and are no longer appropriate) arising from the withdrawal of the UK from the European Union.</p>
+            <p>Regulation 3 revokes Council Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2003/2201">(EC) No. 2201/2003</ref> concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility which is retained direct EU legislation in terms of the 2018 Act. Regulation 4 and schedule 1 amend primary legislation and regulation 5 and schedule 2 revoke and amend secondary legislation, in both cases to reflect the revocation of the Council Regulation. The legislation amended relates to jurisdiction and recognition of judgments in matrimonial matters for opposite and same sex couples and for civil partners. Regulation 6 makes saving and transitional provision for matters arising before exit day.</p>
+            <p>The Scottish Government has prepared for these Regulations and is publishing on its website, a Business and Regulatory Impact Assessment, an Equality Impact Assessment and a Child Rights and Wellbeing Impact Assessment.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

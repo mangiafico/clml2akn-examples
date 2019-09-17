@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/55"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/55"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="55"/>
+               <FRBRname value="S.S.I. 2019/55"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/55/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/55/made"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/55/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/55/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-18" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-20" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2010/5">2010 asp 5</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>Section 79 has been amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2017/1013">S.I. 2017/1013</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1978/30">1978 c.30</ref>; schedule 1 was relevantly amended by paragraph 22 of schedule 8 of the European Union (Withdrawal) Act 2018.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>Section 132 has been amended by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2012/215">S.S.I. 2012/215</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2011/57">S.S.I. 2011/57</ref> amended by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2012/25">S.S.I. 2012/25</ref>, <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2015/438">2015/438</ref> and <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2017/1013">2017/1013</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1990/43">1990 c.43</ref>; relevant amending instrument <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2011/226">S.S.I. 2011/226</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 75A is prospectively inserted by the Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/1996/972">S.I. 1996/972</ref>; regulation 2 is substituted by <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2019/26">S.S.I. 2019/26</ref> having effect on exit day.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2011/204">S.S.I. 2011/204</ref> amended by <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2012/25">S.S.I. 2012/25</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/ssi/2015/438">2015/438</ref> and <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2017/1013">2017/1013</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ukpga/1990/43">1990 c.43</ref>; relevant amending instrument <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2011/226">S.S.I. 2011/226</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Section 75A is prospectively inserted by the Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00022" href="http://www.legislation.gov.uk/id/uksi/1996/972">S.I. 1996/972</ref>; regulation 2 is substituted by <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2019/26">S.S.I. 2019/26</ref> having effect on exit day.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2017/115">S.S.I. 2017/115</ref> amended by <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2017/168">S.S.I. 2017/168</ref> and <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2017/1013">S.S.I. 2017/1013</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/2008/32">2008 c.32</ref>; Chapter 3 was relevantly amended by the Marine and Coastal Access Act <ref eId="c00028" href="http://www.legislation.gov.uk/id/ukpga/2009/23">2009 (c.23)</ref>, the Energy Act 2011(c.16), the Energy Act <ref eId="c00029" href="http://www.legislation.gov.uk/id/ukpga/2016/20">2016 (c.20)</ref> and <ref eId="c00030" href="http://www.legislation.gov.uk/id/uksi/2011/2453">S.I. 2011/2453</ref> and <ref eId="c00031" href="http://www.legislation.gov.uk/id/uksi/2017/524">2017/524</ref> and <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2011/224">S.S.I. 2011/224</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041116"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 55</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Environmental Protection</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Licensing (marine)</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Marine Environment (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-20">20th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introduction</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the as the Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+               </content>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>Amendments to primary legislation</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Amendment of the Marine (Scotland) Act 2010</heading>
+               <num>2.</num>
+               <paragraph eId="regulation-2-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Marine (Scotland) Act 2010<noteRef href="#f00002" class="footnote" marker="2"/> is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In section 79(5)<noteRef href="#f00003" class="footnote" marker="3"/>, for “obligations under EU or” substitute “retained EU obligations (within the meaning of schedule 1 of the Interpretation Act 1978<noteRef href="#f00004" class="footnote" marker="4"/> or obligations under”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Section 105 is repealed.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-2-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>In section 132(7)<noteRef href="#f00005" class="footnote" marker="5"/>—</p>
+                  </intro>
+                  <subparagraph eId="regulation-2-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (a), for “(other than Gibraltar) which is not a member State” substitute “other than the United Kingdom”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-2-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (b), for “a member State” substitute “the United Kingdom”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Amendments to subordinate legislation</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Amendment of the Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011</heading>
+               <num>3.</num>
+               <paragraph eId="regulation-3-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011<noteRef href="#f00006" class="footnote" marker="6"/> is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In article 3(1), for the definition of “waste” substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“waste” has the same meaning as in section 75(2) of the Environmental Protection Act 1990<noteRef href="#f00007" class="footnote" marker="7"/> as read with section 75A<noteRef href="#f00008" class="footnote" marker="8"/> of that Act;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>For article 5(3) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>Condition 2 is that the type and quantity of waste involved and the method of disposal or recovery are consistent with the objective that waste management is carried out without endangering human health, without harming the environment and, in particular:</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>without risk to water, air, soil, plants or animals;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>without causing nuisance through noise or odour; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>without adversely affecting the countryside or places of special interest.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>For article 5(7)(c) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>“non-hazardous waste” means any waste which is not special waste within the meaning of regulation 2 of the Special Waste Regulations 1996<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>In article 24(2)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (a), for “(other than Gibraltar) which is not a member State” substitute “other than the United Kingdom”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (b), for “a member State” substitute “the United Kingdom”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Amendment of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011</heading>
+               <num>4.</num>
+               <paragraph eId="regulation-4-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011<noteRef href="#f00010" class="footnote" marker="10"/> is amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>In article 2(2), for the definition of “waste” substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“waste” has the same meaning as in section 75(2) of the Environmental Protection Act 1990<noteRef href="#f00011" class="footnote" marker="11"/> as read with section 75A<noteRef href="#f00012" class="footnote" marker="12"/> of that Act;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>For article 4(3) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>Condition 2 is that the type and quantity of waste involved and the method of disposal or recovery are consistent with the objective that waste management is carried out without endangering human health, without harming the environment and, in particular:</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>without risk to water, air, soil, plants or animals;</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>without causing nuisance through noise or odour; and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>without adversely affecting the countryside or places of special interest.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>For article 4(7)(c) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>“non-hazardous waste” means any waste which is not special waste within the meaning of regulation 2 of the Special Waste Regulations 1996<noteRef href="#f00013" class="footnote" marker="13"/>.</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>In article 34(2)—</p>
+                  </intro>
+                  <subparagraph eId="regulation-4-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (a), for “(other than Gibraltar) which is not a member State” substitute “other than the United Kingdom”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-4-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (b), for “a member State” substitute “the United Kingdom”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Amendment of the Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017</heading>
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017<noteRef href="#f00014" class="footnote" marker="14"/> are amended as follows.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In regulation 2—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-2-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in paragraph (1)—</p>
+                     </intro>
+                     <clause eId="regulation-5-2-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>after the definition of “multi-stage regulatory approval” insert—<mod>
+                                 <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“public” means one or more natural or legal persons and, in accordance with the law of any part of the United Kingdom or practice, their associations, organisations or groups;</p>
+                                       </content>
+                                    </hcontainer>
+                                    <hcontainer name="definition">
+                                       <content>
+                                          <p>“public concerned” means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition non-governmental organisations promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom are deemed to have an interest);</p>
+                                       </content>
+                                    </hcontainer>
+                                 </quotedStructure>
+                              </mod>
+                              <inline name="AppendText">,</inline>
+                           </p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-2-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>omit the definition of “Union legislation”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>for paragraph 2(2) substitute—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>Unless the context otherwise requires, expressions not defined in paragraph (1) which are used in these Regulations and also in the Directive (whether or not also used in the 2010 Act) have the same meaning as in the Directive.</p>
+                                    </content>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>In regulation 8—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraphs (1) and (5), omit “(but without prejudice to Article 7 of the Directive)”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph (4)(b), after “requirements of” insert “any law of any part of the United Kingdom that implemented”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>after paragraph (5), insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(6)</num>
+                                    <intro>
+                                       <p>For the purpose of paragraph (1), Article 2(4) of the Directive is to be read as if—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>in the first sub-paragraph—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>“Without prejudice to Article 7,” were omitted;</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>for “Member States” there were substituted “the Scottish Ministers”;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>in the second sub-paragraph—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>for “Member States”, there were substituted “Scottish Ministers”;</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>point (c) were omitted;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>the third and fourth sub-paragraphs (each beginning “The Commission”) were omitted.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                                 <subsection>
+                                    <num>(7)</num>
+                                    <intro>
+                                       <p>For the purpose of paragraph (5), Article 2(5) of the Directive is to be read as if—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <intro>
+                                          <p>in the first sub-paragraph—</p>
+                                       </intro>
+                                       <subparagraph>
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>“Without prejudice to Article 7,” were omitted;</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph>
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>for “Member States” there were substituted “The Scottish Ministers”;</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the second sub-paragraph were omitted.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>In regulations 16(2)(b) and 22(3)(b), for “another” substitute “an”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>In regulation 24(2)(b), for “Union legislation” substitute “retained EU law (within the meaning of schedule 1 of the Interpretation Act 1978)”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-6">
+                  <num>(6)</num>
+                  <intro>
+                     <p>In regulation 30—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-6-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph (1)(a), omit “other than the United Kingdom”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>in paragraph (1)(b) omit—</p>
+                     </intro>
+                     <clause eId="regulation-5-6-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>“other than the United Kingdom”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-6-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>“under Article 7 of the Directive”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>in paragraph (3)(a), for “another” substitute “the”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-6-d">
+                     <num>(d)</num>
+                     <intro>
+                        <p>in paragraph (6) —</p>
+                     </intro>
+                     <clause eId="regulation-5-6-d-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>omit “, in accordance with Article 7 of the Directive,”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-6-d-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>for “the other <abbr class="acronym" title="European Economic Area">EEA</abbr> State” substitute “that EEA State”.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-7">
+                  <num>(7)</num>
+                  <intro>
+                     <p>In regulation 31(1) omit—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-7-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>“other than the United Kingdom pursuant to Article 7(2) of the Directive”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>“, in accordance with Article 7(4) of the Directive”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-7-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>“pursuant to Article 7(3)(b) of the Directive”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-8">
+                  <num>(8)</num>
+                  <intro>
+                     <p>In regulation 37—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-8-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>renumber the existing paragraph as paragraph (1),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-8-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>after paragraph (1), insert—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <subsection>
+                                    <num>(2)</num>
+                                    <intro>
+                                       <p>For the purpose of paragraph (1), Article 11(1) of the Directive is to be read as if the reference to—</p>
+                                    </intro>
+                                    <paragraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>“Member States” were a reference to “The Scottish Ministers”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>“a Member State” were a reference to “Scotland”.</p>
+                                       </content>
+                                    </paragraph>
+                                 </subsection>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-9">
+                  <num>(9)</num>
+                  <intro>
+                     <p>In schedule 1—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-9-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in paragraph 19, after “pursuant to” insert “chapter 3 of Part 1 of the Energy Act 2008<noteRef href="#f00015" class="footnote" marker="15"/> and any law of any part of the United Kingdom that implemented”,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-9-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in paragraph 20, after “pursuant to” insert “chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented”.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-10">
+                  <num>(10)</num>
+                  <content>
+                     <p>In Schedule 3, in paragraph 2(c)(vi) for “Union legislation” substitute “retained EU law”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-11">
+                  <num>(11)</num>
+                  <intro>
+                     <p>In Schedule 4—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-11-a">
+                     <num>(a)</num>
+                     <intro>
+                        <p>in paragraph 6—</p>
+                     </intro>
+                     <clause eId="regulation-5-11-a-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>for “established at Union or Member State level” substitute “in retained EU law or under the law of any part of the United Kingdom”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-11-a-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>omit the words from “including” to “birds”,</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-11-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>in paragraph 9—</p>
+                     </intro>
+                     <clause eId="regulation-5-11-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>for “legislation of the European Union such as” substitute “retained EU law such as any law that implemented”,</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-5-11-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>after “requirements of” insert “any law that implemented”.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">ROSEANNA CUNNINGHAM</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-18">18th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref>. The Regulations make amendments to legislation relating to the marine environment, marine licensing and environmental impact assessments for marine works. The amendments address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>Regulation 2 amends deficiencies arising from the withdrawal of the United Kingdom from the European Union which are contained within the Marine (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2010/5">2010 (asp 5)</ref>.</p>
+            <p>Regulation 3 makes amendments to remedy deficiencies in the Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011.</p>
+            <p>Regulation 4 makes amendments to remedy deficiencies in the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011.</p>
+            <p>Regulation 5 makes amendments to remedy deficiencies in the Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017.</p>
+            <p>A Business and Regulatory Impact Assessment has not been produced for this instrument as no significant impact on the private or voluntary sectors is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/180"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/180"/>
+               <FRBRdate date="2019-05-21" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="180"/>
+               <FRBRname value="S.S.I. 2019/180"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/180/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/180/made"/>
+               <FRBRdate date="2019-05-21" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/180/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/180/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-21" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-05-24" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2006/46">2006 c.46</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042267"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 180</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Companies</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-21">21st May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-05-24">24th May 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 483(1) to (3) of the Companies Act 2006<noteRef href="#f00001" class="footnote" marker="1"/> and of all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 483(5) of that Act, a draft of the Order has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2019 and comes into force on 24 May 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>ILF Scotland: audit by the Auditor General for Scotland</heading>
+            <num>2.</num>
+            <content>
+               <p>The accounts of ILF Scotland, being a private limited company bearing company number SC500075 and having its registered office at Denholm House, Ground Floor Almondvale Business Park, Almondvale Way, Livingston, West Lothian, EH54 6GA, are to be audited by the Auditor General for Scotland.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-21">21st May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order provides that ILF Scotland, being a company with a registered office in Scotland, is to have its accounts audited by the Auditor General for Scotland. This means that in terms of section 475 of the Companies Act 2006 this company will be exempt from the auditing of company accounts requirements of Part 16 of that Act. ILF Scotland is a non-profit making public sector company, which appears to Scottish Ministers in terms of section 483(2) of that Act to carry out functions of a public nature and is funded by bodies audited by the Auditor General for Scotland.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

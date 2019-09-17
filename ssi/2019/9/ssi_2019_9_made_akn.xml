@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/9"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/9"/>
+               <FRBRdate date="2019-01-17" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="9"/>
+               <FRBRname value="S.S.I. 2019/9"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/9/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/9/made"/>
+               <FRBRdate date="2019-01-17" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/9/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/9/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-17" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-01-21" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00030" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2009/85">S.S.I. 2009/85</ref> as amended by <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2011/259">S.S.I. 2011/259</ref>. There are other amending instruments but none is relevant.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2015/103">S.S.I. 2015/103</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040553"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 9</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Aquaculture</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Aquatic Animal Health and Alien Species in Aquaculture (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-17">17th January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-01-21">21st January 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Aquatic Animal Health and Alien Species in Aquaculture (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Aquatic Animal Health (Scotland) Regulations 2009</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Aquatic Animal Health (Scotland) Regulations 2009<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 3(1) (interpretation), in the definition of “listed disease” for “Part II of Annex <abbr class="acronym" title="4">IV</abbr> of <ref eId="c00001" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>” substitute “Annex 1A of Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>After regulation 13(6) (public record of aquaculture production businesses and processing establishments) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(7)</num>
+                              <intro>
+                                 <p>For the purposes of paragraph (2), Part I of Annex <abbr class="acronym" title="2">II</abbr> to <ref eId="c00003" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref> is to be read as if—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>in point 1, the reference to “Article 6” were to “regulation 13(1)(a) of the Aquatic Animal Health (Scotland) Regulations 2009”,</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>in point 1(f) the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00004" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”,</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <intro>
+                                    <p>in point 1(g)—</p>
+                                 </intro>
+                                 <subparagraph>
+                                    <num>(i)</num>
+                                    <content>
+                                       <p>the reference to “a Member State, zone or compartment” were to “Scotland, or any zone or compartment within Scotland”,</p>
+                                    </content>
+                                 </subparagraph>
+                                 <subparagraph>
+                                    <num>(ii)</num>
+                                    <content>
+                                       <p>the reference to “Annex IV” were to “Annex 1A of Regulation <ref eId="c00005" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                                    </content>
+                                 </subparagraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(d)</num>
+                                 <content>
+                                    <p>in point 2, the reference to “the second subparagraph of Article 4(1)” were to “regulation 5(2) of the Aquatic Animal Health (Scotland) Regulations 2009”.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                           <subsection>
+                              <num>(8)</num>
+                              <content>
+                                 <p>For the purposes of paragraph (3), Part II of Annex II of <ref eId="c00006" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref> is to be read as if the reference to “Article 6” were to “regulation 13(1)(b) of the Aquatic Animal Health (Scotland) Regulations 2009”.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 18 (additional certification provisions)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-2-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “Part II of Annex IV to <ref eId="c00007" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>” substitute “Annex 1A of Regulation <ref eId="c00008" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “that Directive” substitute “<ref eId="c00009" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (4)(a)—</p>
+                  </intro>
+                  <clause eId="regulation-2-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “Part II of Annex IV to <ref eId="c00010" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>” substitute “Annex 1A of Regulation <ref eId="c00011" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “that Part”, in both places where it appears, substitute “that Annex”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>in paragraph (5)(b)(i)—</p>
+                  </intro>
+                  <clause eId="regulation-2-4-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “Part II of Annex IV to <ref eId="c00012" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>” substitute “Annex 1A of Regulation <ref eId="c00013" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-4-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “that Part” substitute “that Annex”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>after paragraph (6) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(7)</num>
+                                 <intro>
+                                    <p>For the purposes of paragraph (1) and paragraphs 1(c)(iii) and 4(d) of schedule 1E of these Regulations, Part A of Annex <abbr class="acronym" title="3">III</abbr> of <ref eId="c00014" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref> is to be read as if, in relation to Category 1 disease free health status—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>the reference to Article 49 were a reference to Article 49 read as if—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <intro>
+                                          <p>in paragraph 1—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>the reference to “A Member State” were to “Scotland”,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00015" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(cc)</num>
+                                          <content>
+                                             <p>the words “in accordance with the procedure referred to in Article 62(2)” were omitted,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(dd)</num>
+                                          <content>
+                                             <p>the references to “the Member State” were to “Scotland”, and</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(ee)</num>
+                                          <content>
+                                             <p>the reference to “Part I of Annex V” were to “Part I of Annex V read in accordance with regulation 18(8) of the Aquatic Animal Health (Scotland) Regulations 2009”,</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <intro>
+                                          <p>in paragraph 2—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>the references to “neighbouring Member States” were references to “neighbouring constituent <abbr class="acronym" title="United Kingdom">UK</abbr> territories (as defined by Regulation <ref eId="c00016" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>) in relation to Scotland”,</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>for the words “the Member State shall establish appropriate buffer zones in its territory” there were substituted “the competent authority shall establish appropriate buffer zones in the territory for which it is responsible”, and</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(cc)</num>
+                                          <content>
+                                             <p>the reference to “the disease-free Member State” were to “Scotland”, and</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>paragraph 3 were omitted, and</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the reference to “Article 50” were a reference to “Article 50 read in accordance with regulation 18(9) of the Aquatic Animal Health (Scotland) Regulations 2009”.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(8)</num>
+                                 <intro>
+                                    <p>For the purposes of paragraphs (7)(a)(i)(ee) and (10)(b), Part I of Annex V is to be read as if—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>in Part I.1—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>in point 1.1, the words “On historical grounds” to “After this date,” were omitted,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in point 1.2, the reference to “the Member State” were to “Scotland”, and</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>in Part I.2—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <intro>
+                                          <p>in the text before point 2(a)—</p>
+                                       </intro>
+                                       <clause>
+                                          <num>(aa)</num>
+                                          <content>
+                                             <p>the reference to “A Member State” were omitted, and</p>
+                                          </content>
+                                       </clause>
+                                       <clause>
+                                          <num>(bb)</num>
+                                          <content>
+                                             <p>after “clinical expression,” insert “Scotland”,</p>
+                                          </content>
+                                       </clause>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in point 2, the reference to “the Member State”, in both places where it appears, were a reference to “Scotland”, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>in point 2(b), the reference to “methods adopted pursuant to Article 49(3)” were a reference to “the methods established by Decision 2015/1554”.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(9)</num>
+                                 <intro>
+                                    <p>For the purposes of paragraph (7)(b), and regulation 45(3), Article 50 is to be read as if—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>in the text before paragraph 1(a)—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>the reference to “A Member State” were to “The competent authority”,</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>the reference to “its territory” were to “Scotland”, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(iii)</num>
+                                       <content>
+                                          <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00017" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”,</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in paragraph 1(c), the reference to “Part II of Annex V” were to “Part II of Annex V read in accordance with regulation 18(10) of the Aquatic Animal Health (Scotland) Regulations 2009”, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>paragraphs 2, 3 and 4 were omitted.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(10)</num>
+                                 <intro>
+                                    <p>For the purposes of paragraph (9)(b), Part II of Annex V is to be read as if—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>points 1.2, 1.3 and 2.2 were omitted,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in points 1.4, 2.3 and 3.5, the reference to “Part I.2” were to “Part I.2 read in accordance with regulation 18(8) of the Aquatic Animal Health (Scotland) Regulations 2009”,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>point 3.7 were omitted, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>in point 4.2(b), the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00018" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>After regulation 24(3) (initial designation) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(4)</num>
+                              <intro>
+                                 <p>References in paragraph (2) to Articles 29 and 57 of <ref eId="c00019" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref> are to be read in accordance with Part 1 of schedule 1E, and for that purpose—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>references in Article 29 to Article 26 or 28, and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>references in Article 57 to Part III of Annex <abbr class="acronym" title="6">VI</abbr>,</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                           <p>are to be read in accordance with Part 2 of schedule 1E.</p>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-6">
+               <num>(6)</num>
+               <content>
+                  <p>In regulation 35 (entry and inspection of land and premises), for paragraph (2) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(2)</num>
+                              <content>
+                                 <p>An inspector may be accompanied by such persons, equipment and vehicles as the inspector considers necessary.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-7">
+               <num>(7)</num>
+               <content>
+                  <p>After regulation 45(2) (public register of disease-free zones and compartments) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(3)</num>
+                              <content>
+                                 <p>For the purposes of paragraph (1), Article 50 of <ref eId="c00020" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref> is to be read in accordance with regulation 18(9).</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-8">
+               <num>(8)</num>
+               <intro>
+                  <p>In regulation 46 (disclosure of information)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-8-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), omit “ or <ref eId="c00021" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-8-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2), omit “, or for the purposes of <ref eId="c00022" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-9">
+               <num>(9)</num>
+               <content>
+                  <p>After schedule 1D, insert schedule 1E as set out in the schedule.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Alien and Locally Absent Species in Aquaculture (Scotland) Regulations 2015</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Alien and Locally Absent Species in Aquaculture (Scotland) Regulations 2015<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 20 (entry and inspection of land and premises), for paragraph (5) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(5)</num>
+                              <content>
+                                 <p>An inspector entering any land or premises may be accompanied by such persons, vehicles, equipment or materials as the inspector considers necessary.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">FERGUS EWING</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-17">17th January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation 2(9)</p>
+                  </authorialNote>
+               </num>
+               <content>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE 1E<authorialNote class="referenceNote">
+                                    <p>Regulation 24(4)</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Modifications to, and for the purposes of, Articles 29 and 57 of <ref eId="c00023" href="http://www.legislation.gov.uk/european/directive/2006/0088">Directive 2006/88/EC</ref>
+                              </heading>
+                              <part>
+                                 <num>Part 1</num>
+                                 <heading>Modifications to Articles 29 and 57</heading>
+                                 <paragraph>
+                                    <heading>Modifications to Article 29</heading>
+                                    <num>1.</num>
+                                    <intro>
+                                       <p>Article 29 is to be read as if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>in paragraph 1, the reference to “Member States” were to “The competent authority”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <intro>
+                                          <p>in paragraph 1(a)—</p>
+                                       </intro>
+                                       <subparagraph class="para2">
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00024" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>the reference to “any Member State” were to “Scotland”,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <intro>
+                                          <p>in paragraph 1(b)—</p>
+                                       </intro>
+                                       <subparagraph class="para2">
+                                          <num>(i)</num>
+                                          <content>
+                                             <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00025" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”,</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(ii)</num>
+                                          <content>
+                                             <p>the reference to “Member States, zones or compartments” were to “Scotland, or any zone or compartment within Scotland”, and</p>
+                                          </content>
+                                       </subparagraph>
+                                       <subparagraph class="para2">
+                                          <num>(iii)</num>
+                                          <content>
+                                             <p>the reference to “category I, as referred to in Part A of Annex III” were to a reference to “category I, as referred to in Part A of Annex III read in accordance with regulation 18(7) of the Aquatic Animal Health (Scotland) Regulations 2009”,</p>
+                                          </content>
+                                       </subparagraph>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>in paragraph 3, the reference to “the Member State concerned” were to “the competent authority”, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(e)</num>
+                                       <content>
+                                          <p>paragraph 4 were omitted.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Modifications to Article 57</heading>
+                                    <num>2.</num>
+                                    <intro>
+                                       <p>Article 57 is to be read as if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the reference to “Member States” were to “The competent authority”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the reference to “this Directive” were to “retained EU law relating to animal health requirements for aquaculture animals and products, and the prevention and control of diseases in aquatic animals”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00026" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>the reference to “diagnostic methods to be established in accordance with the procedure referred to in Article 62(2)” were to “diagnostic methods established by Decision 2015/1554”.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                              </part>
+                              <part>
+                                 <num>Part 2</num>
+                                 <heading>Modifications to other Provisions</heading>
+                                 <paragraph>
+                                    <heading>Modifications to Article 26</heading>
+                                    <num>3.</num>
+                                    <intro>
+                                       <p>Article 26(1) is to be read as if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the reference to “Member States”, in both places where it appears, were to “The competent authority”, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the reference to “Part II of Annex IV” were to “Annex 1A of Regulation <ref eId="c00027" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Modifications to Article 28</heading>
+                                    <num>4.</num>
+                                    <intro>
+                                       <p>Article 28 is to be read as if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the reference to “Member States”, in the first place where it appears, were to “The competent authority”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the reference to “Part II of Annex IV”, in both places where it appears, were to “Annex 1A of Regulation <ref eId="c00028" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>the reference to “Member States, zones or compartments” were to “Scotland, or any zone or compartment within Scotland”, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(d)</num>
+                                       <content>
+                                          <p>the reference to “Part A of Annex III” were a reference to “Part A of Annex III read in accordance with regulation 18(7) of the Aquatic Animal Health (Scotland) Regulations 2009.”.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <heading>Modifications to Part III of Annex VI</heading>
+                                    <num>5.</num>
+                                    <intro>
+                                       <p>Part III of Annex VI is to be read as if—</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the text before point 1(a), “of a Member State” were omitted,</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>in point 1(a), the reference to “Annex IV” were to “Annex 1A of Regulation <ref eId="c00029" href="http://www.legislation.gov.uk/european/regulation/2008/1251">(EC) No. 1251/2008</ref>”, and</p>
+                                       </content>
+                                    </paragraph>
+                                    <paragraph class="para1">
+                                       <num>(c)</num>
+                                       <content>
+                                          <p>in point 3, the reference to “Member States” were to “competent authority”.</p>
+                                       </content>
+                                    </paragraph>
+                                 </paragraph>
+                              </part>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers in the European Union (Withdrawal) Act 2018 to address deficiencies in EU-derived domestic legislation in Scotland arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the fields of aquatic animal health and alien and locally absent species in aquaculture in relation to Scotland.</p>
+            <p>A Business and Regulatory Impact Assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

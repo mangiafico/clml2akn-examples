@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/25"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/25"/>
+               <FRBRdate date="2019-01-31" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="25"/>
+               <FRBRname value="S.S.I. 2019/25"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/25/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/25/made"/>
+               <FRBRdate date="2019-01-31" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/25/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/25/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-31" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-04" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2006/543">S.S.I. 2006/543</ref>, as relevantly amended by <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2018/391">S.S.I. 2018/391</ref>. The amendments made by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2018/391">S.S.I. 2018/391</ref> come into force on 28 February 2019.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2008/342">S.S.I. 2008/342</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040720"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 25</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Agriculture</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Pesticides</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Fertilisers and Pesticides (<abbr class="acronym" title="European Union">EU</abbr> Exit) (Scotland) (Miscellaneous Amendments <abbr title="et cetera" xml:lang="la">etc.</abbr>) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-31">31st January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-04">4th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2, and paragraph 21(b) of schedule 7, of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 and come into force on exit day.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the <abbr class="acronym" title="European Community">EC</abbr> Fertilisers (Scotland) Regulations 2006</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The EC Fertilisers (Scotland) Regulations 2006<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 3—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading, for “EC” substitute “<abbr class="acronym" title="United Kingdom">UK</abbr>”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for paragraph (1) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>No manufacturer shall place on the market a fertiliser designated as a UK fertiliser unless—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>it is of a type listed in Annex 1 (list of types of UK fertilisers), and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the manufacturer is established in accordance with Article 4 (establishment within the United Kingdom).</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 4(a), for “an EC” substitute “a UK”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 5—</p>
+               </intro>
+               <subparagraph eId="regulation-2-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading, for “EC” substitute “UK”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraphs (1), (2) and (3), for “an EC” substitute “a UK”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulations 6(a), 7(a) and 8(a), for “an EC” substitute “a UK”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In regulation 12(2)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit “and” after sub-paragraph (a),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit sub-paragraph (b).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-7">
+               <num>(7)</num>
+               <content>
+                  <p>Omit regulation 16.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-8">
+               <num>(8)</num>
+               <content>
+                  <p>In regulation 17(a)(ii) omit “(2) or (5)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-9">
+               <num>(9)</num>
+               <content>
+                  <p>In regulation 18(1), for “an EC” substitute “a UK”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>Omit regulation 4.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>Omit regulation 5.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 6—</p>
+               </intro>
+               <subparagraph eId="regulation-3-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for “covered by Annex I to Regulation 396/2005” substitute “listed in Part 1 of the MRLs register in relation to Scotland”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “that Regulation”, in the first place it occurs, substitute “Regulation 396/2005”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>The Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008: savings</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <intro>
+                  <p>The amendments made to regulation 6 of the Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008 by regulation 3 do not affect—</p>
+               </intro>
+               <subparagraph eId="regulation-4-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>any obligation or liability acquired, accrued or incurred immediately before exit day,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>any penalty, forfeiture or punishment incurred in respect of any offence committed before exit day, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-1-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>any investigation, legal proceeding or remedy in respect of sub-paragraph (a) or (b).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>Any penalty, forfeiture or punishment referred to in paragraph (1)(b) may be imposed as if regulation 3(4) had not come into force.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>Any investigation, legal proceeding or remedy referred to in paragraph (1)(c) may be instituted, continued or enforced as if regulation 3(4) had not come into force.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MAIRI GOUGEON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-01-31">31st January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref> in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the field of fertilisers and pesticides and, in particular, amend the EC Fertilisers (Scotland) Regulations 2006 and the Pesticides (Maximum Residue Levels) (Scotland) Regulations 2008.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

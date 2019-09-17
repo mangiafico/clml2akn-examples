@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/23"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/23"/>
+               <FRBRdate date="2019-01-30" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="23"/>
+               <FRBRname value="S.S.I. 2019/23"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/23/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/23/made"/>
+               <FRBRdate date="2019-01-30" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/23/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/23/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-01-30" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-01" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2004/9">2004 asp 9</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2007/183">S.S.I. 2007/183</ref>; relevant amending instruments are <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2008/415">S.S.I. 2008/415</ref>, <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2013/351">S.S.I. 2013/351</ref>, <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2015/7">S.S.I. 2015/7</ref>, <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2016/6">S.S.I. 2016/6</ref>, <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2017/66">S.S.I. 2017/66</ref> and <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2018/38">S.S.I. 2018/38</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040706"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 23</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Local Government</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Local Governance (Scotland) Act 2004 (Remuneration) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-01-30">30th January 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-01">1st February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 11 and 16(2) of the Local Governance (Scotland) Act 2004<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Local Governance (Scotland) Act 2004 (Remuneration) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>For the table in regulation 6(2) (remuneration of the Leader of the Council) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="29.7pt"/>
+                                       <col width="364.35pt"/>
+                                    </colgroup>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(a)</td>
+                                          <td rowspan="1" colspan="1">Band A – £29,119,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(b)</td>
+                                          <td rowspan="1" colspan="1">Band B – £34,944,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(c)</td>
+                                          <td rowspan="1" colspan="1">Band C – £40,765,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(d)</td>
+                                          <td rowspan="1" colspan="1">Band D – £52,414.</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>For the table in regulation 7(2) (remuneration of the Civic Head) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="regulation" ukl:Context="main">
+                           <tblock class="tabular" ukl:Orientation="portrait">
+                              <foreign>
+                                 <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                    <colgroup>
+                                       <col width="28.35pt"/>
+                                       <col width="364.35pt"/>
+                                    </colgroup>
+                                    <tbody>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(a)</td>
+                                          <td rowspan="1" colspan="1">Band A – £21,840,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(b)</td>
+                                          <td rowspan="1" colspan="1">Band B – £26,208,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(c)</td>
+                                          <td rowspan="1" colspan="1">Band C – £30,575,</td>
+                                       </tr>
+                                       <tr>
+                                          <td rowspan="1" colspan="1">(d)</td>
+                                          <td rowspan="1" colspan="1">Band D – £39,310.</td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </foreign>
+                           </tblock>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 10 (councillors’ remuneration) for “£16,994” substitute “£17,470”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <intro>
+                  <p>In regulation 12 (joint boards)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (8) (payment to conveners) for “£21,245” substitute “£21,840”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (9) (payment to vice-conveners) for “£20,183” substitute “£20,748”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KEVIN STEWART</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+               </content>
+            </hcontainer>
+            <hcontainer name="signature">
+               <content>
+                  <block name="date">
+                     <date date="2019-01-30">30th January 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007. They substitute increased annual amounts for different categories of local authority remuneration to their members. These changes are effective from 1 April 2019.</p>
+            <p>Regulation 2(2) makes provision for Council Leaders’ remuneration.</p>
+            <p>Regulation 2(3) provides new maximum levels for remuneration of Civic Heads. It is for each local authority to determine whether and to what extent such remuneration should be paid.</p>
+            <p>Regulation 2(4) sets new levels for councillors’ remuneration.</p>
+            <p>Regulation 2(5) sets new levels of remuneration for councillors who perform the role of convener or vice-convener of a joint board.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

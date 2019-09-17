@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/77"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/77"/>
+               <FRBRdate date="2019-02-27" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="77"/>
+               <FRBRname value="S.S.I. 2019/77"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/77/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/77/made"/>
+               <FRBRdate date="2019-02-27" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/77/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/77/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-27" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-03-01" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-31" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1956/60">1956 c.60</ref>. Section 6A was inserted by section 161 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref> and subsections (1)(aa) and (1B) were inserted by section 32(1) of the Local Government in Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2003/1">2003 (asp 1)</ref> (“the 2003 Act). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 6A(1D) was inserted by section 32(1)(b) of the 2003 Act.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2019/45">S.S.I. 2019/45</ref>, which is not yet in force.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041345"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 77</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (<abbr title="Number">No.</abbr> 2) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-27">27th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-03-01">1st March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-31">31st March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 6A(1)(aa) and (1B) of the Valuation and Rating (Scotland) Act 1956<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 6A(1D) that Act<noteRef href="#f00002" class="footnote" marker="2"/> they have consulted such associations of local authorities and such other persons as they think appropriate.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 and comes into force on 31 March 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019<noteRef href="#f00003" class="footnote" marker="3"/> is amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In the table in article 6 (company names and registration numbers for fixed line telecommunications operators)—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the entry for “Centurylink Communications <abbr class="acronym" title="United Kingdom">UK</abbr> Limited”, for the registration number substitute “02495998”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit the entry for “Orange Limited” and the corresponding registration number,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit the entry for “Pipex Broadband Limited” and the corresponding registration number,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>for “Sky Telecommunications Services Ltd” substitute “Sky Telecommunications Services Limited”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>for “Talk Talk Communications Ltd” substitute “Talktalk Communications Limited”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-27">27th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order amends the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019 (“the 2019 Order”).</p>
+            <p>That Order replaces a table in the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2005/127">S.S.I. 2005/127</ref>). The table details companies to be regarded as “fixed line operators” for the purposes of entries in the valuation roll. The effect is that specified lands and heritages occupied by those operators are entered as a single entry in the valuation roll for Renfrewshire, despite being situated in different rating authority areas.</p>
+            <p>This Order updates entries in the table in the 2019 Order, so that when it comes into force on 1 April 2019 it states accurately the names and registration numbers of the companies it details. Two entries are omitted, as a result of dissolution of the companies to which they related.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

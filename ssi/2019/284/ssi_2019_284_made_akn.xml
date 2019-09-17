@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/284"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/284"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="284"/>
+               <FRBRname value="S.S.I. 2019/284"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/284/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/284/made"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/284/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/284/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-10" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-09-12" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-10-31" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1978/29">1978 c.29</ref>; section 17E was inserted by the National Health Service (Primary Care) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1997/46">1997 (c.46)</ref> (“the 1997 Act”), section 22(2) and amended by the Health Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1999/8">1999 (c.8)</ref> (“the 1999 Act”), paragraph 47 of schedule 4, and paragraph 1 of schedule 5, the Primary Medical Services (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2004/1">2004 (asp 1)</ref> (“the 2004 Act”), section 2(4) and <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/2003/1250">S.I. 2003/1250</ref>; section 17N was inserted by the 2004 Act, section 4; section 27 was amended by the Health Services Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1980/53">1980 (c.53)</ref> (“the 1980 Act”), section 20(2), the National Health Service (Amendment) Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1986/66">1986 (c.66)</ref> (“the 1986 Act”), section 3(3), the 1990 Act, section 66(1) and schedule 9, paragraph 19(7), the Medicinal Products: Prescription by Nurses etc. Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1992/28">1992 (c.28)</ref>, section 3, the 1997 Act, schedule 2, paragraph 44, the Health and Social Care Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/2001/15">2001 (c.15)</ref>, section 44(2) and (3), the Health and Social Care Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/2012/7">2012 (c.7)</ref>, section 213(7)(c) and section 220(2), and <ref eId="c00011" href="http://www.legislation.gov.uk/id/uksi/1987/2202">S.I. 1987/2202</ref>, <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/2003/1590">S.I. 2003/1590</ref>, <ref eId="c00013" href="http://www.legislation.gov.uk/id/uksi/2004/1771">S.I. 2004/1771</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/2005/2011">S.I. 2005/2011</ref>, <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/2007/289">S.I. 2007/289</ref> and <ref eId="c00016" href="http://www.legislation.gov.uk/id/uksi/2010/231">S.I. 2010/231</ref>; section 28(1) was amended by the 1986 Act, section 3(4) and the 2004 Act, paragraph 1(8) of schedule 1; section 105(7) was amended by the 1980 Act, schedule 6, paragraph 5 and schedule 7, the Health and Social Services and Social Security Adjudications Act <ref eId="c00017" href="http://www.legislation.gov.uk/id/ukpga/1983/41">1983 (c.41)</ref>, section 29(1) and schedule 9, paragraph 24, and the 1999 Act, schedule 4, paragraph 60. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00018" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00019" href="http://www.legislation.gov.uk/id/ssi/2009/183">S.S.I. 2009/183</ref>; relevant amending instruments are <ref eId="c00020" href="http://www.legislation.gov.uk/id/uksi/2010/231">S.I. 2010/231</ref>, <ref eId="c00021" href="http://www.legislation.gov.uk/id/uksi/2012/1479">S.I. 2012/1479</ref>, <ref eId="c00022" href="http://www.legislation.gov.uk/id/uksi/2012/1916">S.I. 2012/1916</ref> and <ref eId="c00023" href="http://www.legislation.gov.uk/id/uksi/2013/235">S.I. 2013/235</ref> and <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2009/209">S.S.I. 2009/209</ref>, <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2010/128">S.S.I. 2010/128</ref>, <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2011/32">S.S.I. 2011/32</ref>, <ref eId="c00027" href="http://www.legislation.gov.uk/id/ssi/2011/55">S.S.I. 2011/55</ref>, <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2014/73">S.S.I. 2014/73</ref>, <ref eId="c00029" href="http://www.legislation.gov.uk/id/ssi/2014/148">S.S.I. 2014/148</ref>, <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2015/968">S.S.I. 2015/968</ref>, <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2016/393">S.S.I. 2016/393</ref>, <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2018/66">S.S.I. 2018/66</ref>, <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2018/67">S.S.I. 2018/67</ref> and <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2018/68">S.S.I. 2018/68</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/uksi/2012/1916">S.I. 2012/1916</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00036" href="http://www.legislation.gov.uk/id/uksi/2012/1916">S.I. 2012/1916</ref>; regulation 226A was inserted by <ref eId="c00037" href="http://www.legislation.gov.uk/id/uksi/2019/62">S.I. 2019/62</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00038" href="http://www.legislation.gov.uk/id/ukpga/1968/67">1968 c.67</ref>; section 69 was amended by the Statute Law (Repeals) Act <ref eId="c00039" href="http://www.legislation.gov.uk/id/ukpga/1993/50">1993 (c.50)</ref>, schedule 1, part XII, paragraph 1, <ref eId="c00040" href="http://www.legislation.gov.uk/id/uksi/2007/289">S.I. 2007/289</ref>, <ref eId="c00041" href="http://www.legislation.gov.uk/id/uksi/2007/3101">S.I. 2007/3101</ref> and <ref eId="c00042" href="http://www.legislation.gov.uk/id/uksi/2010/231">S.I. 2010/231</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00043" href="http://www.legislation.gov.uk/id/uksi/2012/1916">S.I. 2012/1916</ref>; regulation 226A was inserted by <ref eId="c00044" href="http://www.legislation.gov.uk/id/uksi/2019/62">S.I. 2019/62</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00045" href="http://www.legislation.gov.uk/id/ukpga/1968/67">1968 c.67</ref>; section 69 was amended by the Statute Law (Repeals) Act <ref eId="c00046" href="http://www.legislation.gov.uk/id/ukpga/1993/50">1993 (c.50)</ref>, schedule 1, part XII, paragraph 1, <ref eId="c00047" href="http://www.legislation.gov.uk/id/uksi/2007/289">S.I. 2007/289</ref>, <ref eId="c00048" href="http://www.legislation.gov.uk/id/uksi/2007/3101">S.I. 2007/3101</ref> and <ref eId="c00049" href="http://www.legislation.gov.uk/id/uksi/2010/231">S.I. 2010/231</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00050" href="http://www.legislation.gov.uk/id/ssi/2018/66">S.S.I. 2018/66</ref>; relevantly amended by the Data Protection Act <ref eId="c00051" href="http://www.legislation.gov.uk/id/ukpga/2018/12">2018 (c.12)</ref>, paragraph 424 of schedule 19 and <ref eId="c00052" href="http://www.legislation.gov.uk/id/ssi/2018/94">S.S.I. 2018/94</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00053" href="http://www.legislation.gov.uk/id/ssi/2009/183">S.S.I. 2009/183</ref>; relevantly amended by <ref eId="c00054" href="http://www.legislation.gov.uk/id/ssi/2019/284">S.S.I. 2019/284</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00055" href="http://www.legislation.gov.uk/id/ssi/2018/67">S.S.I. 2018/67</ref>; relevantly amended by the Data Protection Act <ref eId="c00056" href="http://www.legislation.gov.uk/id/ukpga/2018/12">2018 (c.12)</ref>, paragraph 428 of schedule 19 and <ref eId="c00057" href="http://www.legislation.gov.uk/id/ssi/2018/94">S.S.I. 2018/94</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042779"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 284</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">National Health Service</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-10">10th September 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-10-31">31st October 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17E, 17N, 27, 28(1) and 105(7) of the National Health Service (Scotland) Act 1978<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d22189e185">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 and come into force on 31 October 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d22189e203">
+            <heading>Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009<noteRef href="#f00002" class="footnote" marker="2"/> are amended in accordance with regulations 3 and 4.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <intro>
+                  <p>In regulation 2(1) (interpretation and application)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>after the definition of “prescription form” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“prescription only medicine” has the meaning given in regulation 5 of the Human Medicines Regulations 2012<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after the definition of “scheduled drug” insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“Scottish SSP” means a Scottish serious shortage protocol which is a written protocol in respect of any drug or appliance which is not a prescription only medicine that—</p>
+                                    <blockList>
+                                       <item>
+                                          <num>(a)</num>
+                                          <p>is issued by the Scottish Ministers in circumstances where Scotland or any part of Scotland is, in the opinion of the Scottish Ministers, experiencing or may experience a serious shortage of—</p>
+                                          <blockList>
+                                             <item>
+                                                <num>(i)</num>
+                                                <p>a specified drug or appliance, or</p>
+                                             </item>
+                                             <item>
+                                                <num>(ii)</num>
+                                                <p>drugs or appliances of a specified description,</p>
+                                             </item>
+                                          </blockList>
+                                       </item>
+                                       <item>
+                                          <num>(b)</num>
+                                          <p>provides for the supply by a pharmacist or dispensing doctor, where there is an order on a prescription form or serial prescription for—</p>
+                                          <blockList>
+                                             <item>
+                                                <num>(i)</num>
+                                                <p>the specified drug or appliance, or</p>
+                                             </item>
+                                             <item>
+                                                <num>(ii)</num>
+                                                <p>a drug or appliance of the specified description,</p>
+                                             </item>
+                                          </blockList>
+                                          <p>of a different drug or appliance or quantity or strength of a drug or appliance to that ordered by the prescriber or dentist, subject to such conditions as may be specified in the Scottish SSP, and</p>
+                                       </item>
+                                       <item>
+                                          <num>(c)</num>
+                                          <p>specifies the period for which, and the parts of Scotland (which may be all of Scotland) for which the Scottish SSP is to have effect,</p>
+                                       </item>
+                                    </blockList>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“serious shortage protocol” means, in respect of a prescription only medicine, a serious shortage protocol for the purposes of regulation 226A of the Human Medicines Regulations 2012<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                                 </content>
+                              </hcontainer>
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“SSP” means a serious shortage protocol,</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <intro>
+                  <p>In paragraph 4 (provision of pharmaceutical services) of schedule 1 (terms of service for pharmacists and pharmacy contractors)—</p>
+               </intro>
+               <subparagraph eId="regulation-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in sub-paragraph (23) after “and (29)” insert “to (33)”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after sub-paragraph (29) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(30)</num>
+                                 <intro>
+                                    <p>This sub-paragraph applies where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>a person requests a prescription only medicine—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>from a person lawfully conducting a retail pharmacy business in accordance with section 69 of the 1968 Act<noteRef href="#f00005" class="footnote" marker="5"/>, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in accordance with a prescription form or serial prescription, and</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>a SSP has effect in respect of—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>the requested prescription only medicine, or</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>prescription only medicines of a specified description, and the requested prescription only medicine is of that description.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(31)</num>
+                                 <intro>
+                                    <p>Where sub-paragraph (30) applies, a pharmacist may supply a prescription only medicine in accordance with a SSP where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the conditions specified in regulation 226A of the Human Medicines Regulations 2012<noteRef href="#f00006" class="footnote" marker="6"/> are satisfied, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the pharmacist is able to do so with reasonable promptness.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(32)</num>
+                                 <intro>
+                                    <p>This sub-paragraph applies where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <intro>
+                                       <p>a person requests a drug or appliance—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>from a person lawfully conducting a retail pharmacy business in accordance with section 69 of the 1968 Act<noteRef href="#f00007" class="footnote" marker="7"/>, and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>in accordance with a prescription form or serial prescription, and</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <intro>
+                                       <p>a Scottish SSP has effect in respect of—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(i)</num>
+                                       <content>
+                                          <p>the requested drug or appliance, or</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(ii)</num>
+                                       <content>
+                                          <p>drugs or appliances of a specified description, and the requested drug or appliance is of that description.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(33)</num>
+                                 <intro>
+                                    <p>Where sub-paragraph (32) applies, a pharmacist may supply a different drug or appliance or quantity or strength of a drug or appliance to that ordered on the prescription form or serial prescription where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the pharmacist is able to do so with reasonable promptness,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>to do so is in accordance with the Scottish SSP, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the pharmacist is of the opinion, in the exercise of their professional skill and judgement, that the supply of a different drug or appliance or quantity or strength of a drug or appliance to that ordered by the prescriber or dentist is reasonable and appropriate.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(34)</num>
+                                 <intro>
+                                    <p>Where sub-paragraph (30) or (32) applies—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>a pharmacist is of the opinion, in the exercise of their professional skill and judgement, that it is unreasonable or inappropriate to supply in accordance with the SSP or the Scottish SSP, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the pharmacist is able to supply the prescription only medicine or other drug or appliance ordered by the prescriber or dentist within a reasonable timescale, but not with reasonable promptness,</p>
+                                    </content>
+                                 </paragraph>
+                                 <wrapUp>
+                                    <p>the requirements to act with reasonable promptness in sub-paragraphs (1), (1A)(a) and (3) are to be read as requirements to act within a reasonable timescale.</p>
+                                 </wrapUp>
+                              </subsection>
+                              <subsection>
+                                 <num>(35)</num>
+                                 <intro>
+                                    <p>A pharmacist must refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>sub-paragraph (30) or (32) applies, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>alternative supply has already taken place in accordance with the SSP or the Scottish SSP.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(36)</num>
+                                 <intro>
+                                    <p>A pharmacist may refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription where—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>sub-paragraph (30) or (32) applies,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the pharmacist is of the opinion, in the exercise of their professional skill and judgement, that it is unreasonable or inappropriate to supply in accordance with the SSP or the Scottish SSP, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the pharmacist is unable to provide the prescription only medicine or other drug or appliance ordered by the prescriber or dentist within a reasonable timescale.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(37)</num>
+                                 <content>
+                                    <p>Where a pharmacist refuses to supply a prescription only medicine or other drug or appliance under sub-paragraph (36), the pharmacist must contact the prescriber or dentist to discuss alternative arrangements.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(38)</num>
+                                 <intro>
+                                    <p>Where a pharmacist supplies a prescription only medicine in accordance with a SSP or other drug or appliance in accordance with a Scottish SSP the pharmacist must—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>include in the dispensing label on the packaging of the prescription only medicine or other drug or appliance, for the patient’s benefit, information to the effect that the prescription only medicine or other drug or appliance is being supplied in accordance with a SSP or a Scottish SSP, identifying the particular SSP or Scottish SSP, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>supply the prescription only medicine or other drug or appliance in a suitable container.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d22189e864">
+            <heading>Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018</heading>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <content>
+                  <p>The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018<noteRef href="#f00008" class="footnote" marker="8"/> are amended in accordance with regulations 6 and 7.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <num>6.</num>
+               <content>
+                  <p>In regulation 3(1) (interpretation) after the definition of “Scheduled drug” insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“Scottish SSP” has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009<noteRef href="#f00009" class="footnote" marker="9"/>,</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <num>7.</num>
+               <content>
+                  <p>In paragraph 44 (provision of dispensing services) of schedule 6 (other contractual terms) after sub-paragraph (10) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(11)</num>
+                              <content>
+                                 <p>A contractor who is required or authorised by the Health Board to supply drugs, medicines and appliances under sub-paragraph (2) may do so in accordance with a Scottish SSP.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d22189e946">
+            <heading>Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018</heading>
+            <hcontainer name="regulation" eId="regulation-8">
+               <num>8.</num>
+               <content>
+                  <p>The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018<noteRef href="#f00010" class="footnote" marker="10"/> are amended in accordance with regulations 9 and 10.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <num>9.</num>
+               <content>
+                  <p>In regulation 3(1) (interpretation) after the definition of “Scheduled drug” insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“Scottish SSP” has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009,</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <num>10.</num>
+               <content>
+                  <p>In paragraph 16 (provision of dispensing services) of schedule 1 (content of agreements) after sub-paragraph (10) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(11)</num>
+                              <content>
+                                 <p>A provider who is required or authorised by the Health Board to supply drugs, medicines and appliances under sub-paragraph (2) may do so in accordance with a Scottish SSP.</p>
+                              </content>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-10">10th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 (“the 2009 Regulations”), the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (“the GMS Contracts Regulations”) and the National Health Services (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (“the Section 17C Agreements Regulations”).</p>
+            <p>These Regulations amend the 2009 Regulations to allow pharmacists to supply prescription only medicines in accordance with a serious shortage protocol (“SSP”) issued in accordance with regulation 226A of the Human Medicines Regulations 2012. These Regulations also amend the 2009 Regulations, the GMS Contracts Regulations and the Section 17C Agreements Regulations to allow pharmacists and dispensing doctors to supply drugs and appliances, which are not prescription only medicines, in accordance with a Scottish serious shortage protocol (“Scottish SSP”). Similar provisions have been included for England in the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013, as amended by the National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019.</p>
+            <p>Regulations 3 and 4 amend the 2009 Regulations.</p>
+            <p>Regulation 3 inserts new definitions into regulation 2(1) of the 2009 Regulations for “prescription only medicine”, “Scottish SSP”, “serious shortage protocol”, and “SSP”.</p>
+            <p>Regulation 4(b) inserts new sub-paragraphs (30) to (38) into paragraph 4 of schedule 1 of the 2009 Regulations which provide as follows—</p>
+            <blockList>
+               <item>
+                  <p>Sub-paragraphs (30) to (33) allow pharmacists to supply prescription only medicines in accordance with a SSP and other drugs and appliances in accordance with a Scottish SSP provided certain conditions are satisfied.</p>
+               </item>
+               <item>
+                  <p>Sub-paragraph (34) provides that where a pharmacist is of the opinion, in the exercise of their reasonable skill and judgement, that it is unreasonable or inappropriate to supply in accordance with a SSP or Scottish SSP, and they are able to supply the prescription only medicine or other drug or appliance ordered by the prescriber or dentist within a reasonable timescale, the requirements to act with reasonable promptness in paragraph 4(1), (1A)(a) and (3) of schedule 1 of the 2009 Regulations are to be read as requirements to act within a reasonable timescale.</p>
+               </item>
+               <item>
+                  <p>Sub-paragraph (35) makes provision for when a pharmacist is required to refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription.</p>
+               </item>
+               <item>
+                  <p>Sub-paragraph (36) makes provision for when a pharmacist may refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription.</p>
+               </item>
+               <item>
+                  <p>Sub-paragraph (37) provides that where a pharmacist refuses to supply a prescription only medicine or other drug or appliance under sub-paragraph (36), the pharmacist must contact the prescriber or dentist to discuss alternative arrangements.</p>
+               </item>
+               <item>
+                  <p>Sub-paragraph (38) requires a pharmacist who supplies a prescription only medicine in accordance with a SSP, or other drug or appliance in accordance with a Scottish SSP, to include in the dispensing label on the packaging of the prescription only medicine or other drug or appliance, information to the effect that it is being supplied in accordance with a SSP or a Scottish SSP. The pharmacist is also required to supply the prescription only medicine or other drug or appliance in a suitable container.</p>
+               </item>
+            </blockList>
+            <p>Regulation 4(a) makes a minor and consequential amendment to paragraph 4(23) of schedule 1 of the 2009 Regulations.</p>
+            <p>Regulations 6 and 7 amend the GMS Contracts Regulations.</p>
+            <p>Regulation 6 inserts a new definition into regulation 3(1) of the GMS Contracts Regulations for “Scottish SSP”.</p>
+            <p>Regulation 7 inserts new sub-paragraph (11) into paragraph 44 of schedule 6 of the GMS Contracts Regulations. Sub-paragraph (11) allows a contractor who is required or authorised by the Health Board to supply drugs, medicines and appliances to do so in accordance with a Scottish SSP.</p>
+            <p>Regulations 9 and 10 amend the Section 17C Agreements Regulations.</p>
+            <p>Regulation 9 inserts a new definition into regulation 3(1) of the Section 17C Agreements Regulations for “Scottish SSP”.</p>
+            <p>Regulation 10 inserts new sub-paragraph (11) into paragraph 16 of schedule 1 of the Section 17C Agreements Regulations. Sub-paragraph (11) allows a provider who is required or authorised by the Health Board to supply drugs, medicines and appliances to do so in accordance with a Scottish SSP.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

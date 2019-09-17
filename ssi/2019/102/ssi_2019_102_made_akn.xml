@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/102"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/102"/>
+               <FRBRdate date="2019-03-20" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="102"/>
+               <FRBRname value="S.S.I. 2019/102"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/102/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/102/made"/>
+               <FRBRdate date="2019-03-20" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/102/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/102/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-20" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-08" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 c.5</ref>. The function of making an order to up-rate Carer’s Allowance was transferred to the Scottish Ministers on commencement of section 81 of the Social Security (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2018/9">2018 (asp 9)</ref>, dealing with Carer’s Allowance Supplement. This is in terms of regulation 4 of the Scotland Act 2016 (Transitional) Regulations 2017 (<ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/2017/444">S.I 2017/444</ref>), which causes section 53(1) and (2) of the Scotland Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> to have effect on commencement of a provision which relies on the exception in relation to carer’s benefits in Section F1 of Part 2 of schedule 5 of the Scotland Act 1998. Section 81 was commenced on 3 September 2018 by article 3 of <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2018/250">S.S.I. 2018/250</ref>. Accordingly, responsibility for the exercise of the functions exercisable by the Secretary of State for Work and Pensions in relation to Carer’s Allowance as provided for under section 70 of the Social Security Contributions and Benefits Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 (c.4)</ref> has transferred to the Scottish Ministers as regards provision of Carer’s Allowance to people residing in Scotland. The up-rating of Carer’s Allowance, and the additional payments of Adult Dependency Increase and Child Dependency Increase, falls within that responsibility. Given the transfer is via section 53 of the Scotland Act 1998, the need to obtain Treasury Consent to the making of the Order is removed, by section 55 of that Act. Section 189(1) of the Social Security Administration Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 (c.5)</ref> was amended by paragraph 109 of schedule 7, and schedule 8, of the Social Security Act <ref eId="c00012" href="http://www.legislation.gov.uk/id/ukpga/1998/14">1998 (c.14)</ref> (“the 1998 Act”), paragraph 57 of schedule 3 of the Social Security Contributions (Transfer of Functions, etc.) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/1999/2">1999 (c.2)</ref> and schedule 6 of the Tax Credits Act <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 (c.21)</ref>. Section 189(4) was amended by section 86 of, and paragraph 109(c) of schedule 7 of, and schedule 8 of, the 1998 Act and article 4 and Part 1 of the schedule of <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/2013/252">S.I. 2013/252</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>A new section 150(1)(a)(i) was substituted by section 6(1) and (2)(a) of the Pensions Act <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/2007/22">2007 (c.22)</ref>. The function, under section 150(1)(a)(i), of reviewing the sums referred to in article 2 falls within the responsibility for Carer’s Allowance which has transferred to the Scottish Ministers.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ukpga/1992/4">1992 c.4</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Paragraph 4 was relevantly amended by <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2002/1457">S.I. 2002/1457</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041642"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 102</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Security</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Carer’s Allowance Up-rating (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-20">20th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-08">8th April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Order in exercise of the powers conferred by sections 150(9) and 189(1) and (4) of the Social Security Administration Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>As required by section 150(1)(a)(i)<noteRef href="#f00002" class="footnote" marker="2"/> of that Act, the Scottish Ministers have made a review and it appeared to the Scottish Ministers that the general level of prices was greater at the end of the period under review than it was at the beginning of the period.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 150(2) of that Act a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Order may be cited as the Carer’s Allowance Up-rating (Scotland) Order 2019 and comes into force on 8 April 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>In this Order “the 1992 Act” means the Social Security Contributions and Benefits Act 1992<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Rates of Carer’s Allowance and Adult Dependency Increase</heading>
+            <num>2.</num>
+            <intro>
+               <p>Schedule 4 of the 1992 Act (non-contributory periodical benefits, increases for dependants) is amended, from the dates specified in article 4, as follows—</p>
+            </intro>
+            <subparagraph eId="article-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>in paragraph 4<noteRef href="#f00004" class="footnote" marker="4"/> of the table in Part III (which specifies the weekly rate of Carer’s Allowance), for “£64.60” substitute “£66.15”,</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="article-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>in column (3) of paragraph 9 of the table in Part IV (which specifies the weekly rate of Adult Dependency Increase), for “38.00” substitute “38.90”.</p>
+               </content>
+            </subparagraph>
+         </article>
+         <article eId="article-3">
+            <heading>Rate of Child Dependency Increase</heading>
+            <num>3.</num>
+            <content>
+               <p>In column (2) of paragraph 9 of the table in Part IV of schedule 4 of the 1992 Act (which specifies the weekly rate of Child Dependency Increase), the weekly rate remains at £11.35.</p>
+            </content>
+         </article>
+         <article eId="article-4">
+            <heading>Dates on which changes specified in article 2 take effect</heading>
+            <num>4.</num>
+            <paragraph eId="article-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The amendments made by article 2 take effect on 8 April 2019, subject to paragraph (2).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>Where arrangements have been made by the Scottish Ministers for Carer’s Allowance to be paid on a Wednesday, the amendments take effect on 10 April 2019.</p>
+               </content>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">SHIRLEY-ANNE SOMERVILLE</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-20">20th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>Article 2 of this Order provides for an increase in the weekly rate of payment of Carer’s Allowance, along with an increase in what is payable by way of an additional weekly payment where the person receiving Carer’s Allowance has living with them a dependant who is an adult. This additional payment is known as Adult Dependency Increase and is payable only to those with transitional protection. The payment of increases for adult dependants was abolished by section 15(1) of the Welfare Reform Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2009/24">2009 (c.24)</ref> but was simultaneously preserved by section 15(2)(b) of that Act for cases involving claims made before 6 April 2010. The preservation has effect until whichever is the earlier of the date when the person providing care ceases to be entitled to the Adult Dependency Increase, and 6 April 2020.</p>
+            <p>Article 3 makes clear that the weekly rate of Child Dependency Increase remains unaltered. This gives effect to the requirement in section 150(2)(c) of the Social Security Administration Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1992/5">1992 (c.5)</ref> to re-state amounts that are not being increased. Child Dependency Increase is an additional payment payable to a recipient of Carer’s Allowance who is entitled to receive Child Benefit in relation to a child or children. It is again payable only to those with transitional protection. Child Dependency Increase was abolished by section 1(3)(e) and schedule 6 of the Tax Credits Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/2002/21">2002 (c.21)</ref> but saved for transitional cases by article 3 of the Tax Credits Act 2002 (Commencement No. 3 and Transitional Provisions and Savings) Order 2003 (<ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/2003/938">S.I. 2003/938</ref>).</p>
+            <p>No business and regulatory impact assessment has been prepared for this Order as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

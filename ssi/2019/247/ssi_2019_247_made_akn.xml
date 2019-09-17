@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/247"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/247"/>
+               <FRBRdate date="2019-07-17" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="rule"/>
+               <FRBRnumber value="247"/>
+               <FRBRname value="S.S.I. 2019/247"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/247/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/247/made"/>
+               <FRBRdate date="2019-07-17" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/247/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/247/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-07-17" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-07-19" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-08-16" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2013/3">2013 asp 3</ref>. Section 4 was amended by the Courts Reform (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2016/2">2016 (asp 2)</ref>, schedule 1, paragraph 1(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 (<ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/1994/1443">S.I. 1994/1443</ref>), last amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2019/227">S.S.I. 2019/227</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Rule 74.30A was inserted by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2003/385">S.S.I. 2003/385</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/1986/2297">S.I. 1986/2297</ref>, last amended by <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2019/81">S.S.I. 2019/81</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Rule 26 was amended by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2019/81">S.S.I. 2019/81</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Rule 31A was inserted by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2003/388">S.S.I. 2003/388</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042625"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 247</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Court Of Session</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-07-17">17th July 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-07-19">19th July 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-08-16">16th August 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<noteRef href="#f00001" class="footnote" marker="1"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.</p>
+         <formula name="enactingText">
+            <p>The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections<span ukl:Name="NonBreakingSpace"> </span>103(1) and 104(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling it to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <rule eId="article-1">
+            <heading>Citation and commencement, etc.</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Company Insolvency Rules Amendment) (Insolvency) 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>It comes into force on 16th August 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>A certified copy is to be inserted in the Books of Sederunt.</p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-2">
+            <heading>Amendment of the Rules of the Court of Session 1994</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>Chapter 74 (companies) of the Rules of the Court of Session 1994<noteRef href="#f00003" class="footnote" marker="3"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In rule 74.30A (applications under section 176A of the Act of 1986)<noteRef href="#f00004" class="footnote" marker="4"/>, after paragraph (1) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(1A)</num>
+                              <intro>
+                                 <p>The petition or note, as the case may be, must include averments in relation to—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>the type of insolvency proceedings in which the application arises;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>the financial position of the company;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>the basis for the applicant’s view that the cost of making a distribution to unsecured creditors would be disproportionate to the benefits; and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(d)</num>
+                                 <content>
+                                    <p>whether any other insolvency practitioner is acting in relation to the company and, if so, that insolvency practitioner’s name and address.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <rule eId="article-3">
+            <heading>Amendment of Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986</heading>
+            <num>3.</num>
+            <paragraph eId="article-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986<noteRef href="#f00005" class="footnote" marker="5"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In rule 26(2) (appointment of liquidator by the court)<noteRef href="#f00006" class="footnote" marker="6"/>, for “108 or 138(5)” substitute “108, 138(1), 138(5), 139(4) or 140(1) or (2)”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>In rule 31A (applications under section 176A of the Act of 1986)<noteRef href="#f00007" class="footnote" marker="7"/>, after paragraph (1) insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(1A)</num>
+                              <intro>
+                                 <p>The petition or note, as the case may be, must include averments in relation to—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>the type of insolvency proceedings in which the application arises;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>the financial position of the company;</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(c)</num>
+                                 <content>
+                                    <p>the basis for the applicant’s view that the cost of making a distribution to unsecured creditors would be disproportionate to the benefits; and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(d)</num>
+                                 <content>
+                                    <p>whether any other insolvency practitioner is acting in relation to the company and, if so, that insolvency practitioner’s name and address.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </rule>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">CJM SUTHERLAND</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Lord President</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="department">
+                     <organization refersTo="#">I.P.D.</organization>
+                  </block>
+                  <block name="date">
+                     <date date="2019-07-17">17th July 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Act of Sederunt)</block>
+            <p>This Act of Sederunt makes three amendments to the court rules on corporate insolvency.</p>
+            <p>Paragraph 2(2) inserts a new paragraph (1A) into rule 74.30A of the Rules of the Court of Session 1994 to set out what must be contained in an application under section 176A of the Insolvency Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1986/45">1986 (c.45)</ref>. This was previously prescribed by rule 7.13A of the Insolvency (Scotland) Rules 1986 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/uksi/1986/1915">S.I. 1986/1915</ref>) but was omitted when those Rules were replaced.</p>
+            <p>Paragraph 3(2) inserts into the Sheriff Court Company Insolvency Rules 1986 references to additional sections in the Insolvency Act 1986 so as to impose an obligation on the sheriff clerk to send to the liquidator a certified copy of the interlocutor appointing the liquidator in those cases. Paragraph 3(3) inserts equivalent provision into Rule 31A of those Rules to that inserted by paragraph 2(2) of this Act of Sederunt into the Rules of the Court of Session 1994.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

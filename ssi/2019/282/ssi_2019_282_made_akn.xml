@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/282"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/282"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="282"/>
+               <FRBRname value="S.S.I. 2019/282"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/282/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/282/made"/>
+               <FRBRdate date="2019-09-10" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/282/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/282/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-09-10" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-09-12" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-11-25" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1995/46">1995 c.46</ref>. Section 253G was inserted by section 26 of the Victims and Witnesses (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2014/1">2014 (asp 1)</ref> and section 253G(8) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2010/8">2010 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1995/36">1995 c.36</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2000/4">2000 asp 4</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2007/14">2007 asp 14</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2009/210">S.S.I. 2009/210</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042748"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 282</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Criminal Law</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Victim Surcharge Fund (Prescribed Relatives) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-09-10">10th September 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-09-12">12th September 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-11-25">25th November 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 253G(3) and (8) of the Criminal Procedure (Scotland) Act 1995<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and interpretation</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Victim Surcharge Fund (Prescribed Relatives) (Scotland) Regulations 2019 and come into force on 25 November 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the Act” means the Criminal Procedure (Scotland) Act 1995,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“victim” means a person who is, or appears to be, the victim of crime.</p>
+                  </content>
+               </hcontainer>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Prescribed relatives</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Subject to paragraph (2), the following persons are prescribed relatives for the purposes of section 253G(3) and (8) of the Act—</p>
+               </intro>
+               <subparagraph eId="regulation-2-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>any person who is married to, or in a civil partnership with, the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>any person who is living together with the victim as if they are married and have been so living together for a minimum period of 6 months,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>children or step-children of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>parents or step-parents of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-e">
+                  <num>(e)</num>
+                  <content>
+                     <p>grandparents or great-grandparents of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>grandchildren or great-grandchildren of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-g">
+                  <num>(g)</num>
+                  <content>
+                     <p>siblings of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-h">
+                  <num>(h)</num>
+                  <content>
+                     <p>aunts or uncles of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-i">
+                  <num>(i)</num>
+                  <content>
+                     <p>nephews or nieces of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-j">
+                  <num>(j)</num>
+                  <content>
+                     <p>cousins of the victim,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-k">
+                  <num>(k)</num>
+                  <content>
+                     <p>a person who cares for the victim within the meaning of paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-l">
+                  <num>(l)</num>
+                  <content>
+                     <p>where the victim cares for a person within the meaning of paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010, that person,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-m">
+                  <num>(m)</num>
+                  <content>
+                     <p>a person who is a guardian of the victim, or someone for whom the victim is a guardian, appointed under the Children (Scotland) Act 1995<noteRef href="#f00003" class="footnote" marker="3"/> or the Adults with Incapacity (Scotland) Act 2000<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-n">
+                  <num>(n)</num>
+                  <content>
+                     <p>a person who is a foster carer of the victim, or someone for whom the victim is a foster carer, within the meaning of section 96(1)(c) of the Protection of Vulnerable Groups (Scotland) Act 2007<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-o">
+                  <num>(o)</num>
+                  <content>
+                     <p>a person who is a foster carer or kinship carer of the victim, or someone for whom the victim is a foster carer or kinship carer, within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-p">
+                  <num>(p)</num>
+                  <content>
+                     <p>a continuing attorney of the victim, or someone for whom the victim is a continuing attorney, within the meaning of section 15(2) of the Adults with Incapacity (Scotland) Act 2000, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-1-q">
+                  <num>(q)</num>
+                  <content>
+                     <p>a welfare attorney of the victim, or someone for whom the victim is a welfare attorney within the meaning of section 16(2) of the Adults with Incapacity (Scotland) Act 2000.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>Where the victim is deceased and any person would have been a prescribed relative of the victim under paragraph (1) but for the victim’s death, that person is a prescribed relative for the purposes of section 253G(3) and (8) of the Act.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">HUMZA YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-09-10">10th September 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations provide a list of persons who are to be prescribed relatives for the purposes of section 253G(3) and (8) of the Criminal Procedure (Scotland) Act 1995.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

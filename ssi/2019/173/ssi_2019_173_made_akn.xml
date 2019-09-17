@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/173"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/173"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="173"/>
+               <FRBRname value="S.S.I. 2019/173"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/173/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/173/made"/>
+               <FRBRdate date="2019-05-16" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/173/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/173/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-16" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-20" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-07-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 c.68</ref>. Section 2(2) was amended by the Scotland Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/2006/51">2006 (c.51)</ref> (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/2008/7">2008 (c.7)</ref>, section 3(3) and schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2016/49">S.S.I. 2016/49</ref>, as relevantly amended by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2019/112">S.S.I. 2019/112</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2016/65">S.S.I. 2016/65</ref>, as relevantly amended by <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2016/125">S.S.I. 2016/125</ref> and <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2019/112">S.S.I. 2019/112</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2019/112">S.S.I. 2019/112</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042199"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 173</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Public Procurement</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Public Procurement <abbr title="et cetera" xml:lang="la">etc.</abbr> (Miscellaneous Amendments) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-16">16th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-20">20th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-07-01">1st July 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement,</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Public Procurement etc. (Miscellaneous Amendments) (Scotland) Regulations 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations come into force on 1 July 2019.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Utilities Contracts (Scotland) Regulations 2016</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Utilities Contracts (Scotland) Regulations 2016<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 2(1) (interpretation), in the definition of “contract”, for “supplies or services” substitute “supply or service”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 3(1) (subject-matter and application of these regulations), for “to the organisation” substitute “for the organisation”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 35(3)(c) (economic operators), for “services” substitute “service”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 61(1)(a) (communication of technical specifications), for “services” substitute “service”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-6">
+               <num>(6)</num>
+               <content>
+                  <p>In regulation 77(10) (reliance on capacity of other entities), for “services” substitute “service”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-7">
+               <num>(7)</num>
+               <intro>
+                  <p>In regulation 85 (subcontracting)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (4)(b), for “services contract” substitute “service contract”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (8)(a) and (b), for “services contracts” substitute “service contracts”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Concession Contracts (Scotland) Regulations 2016</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Concession Contracts (Scotland) Regulations 2016<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 9(1)(a) (exclusions: concession contracts awarded on the basis of an exclusive right), for “a concession contract” substitute “a services concession contract”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 52(5)(a) (enforcement of duties through the courts), for “form and matter of publication of notices” substitute “form and manner of publication of notices”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Public Procurement etc. (Scotland) (Amendment) (<abbr class="acronym" title="European Union">EU</abbr> Exit) Regulations 2019</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019<noteRef href="#f00004" class="footnote" marker="4"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 5 (amendments to the Utilities Contracts (Scotland) Regulations 2016 that are commenced on exit day), omit paragraphs (2)(a)(iii), (3)(a), (23)(b), (36), (45) and (50)(a) and (c).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 7 (amendments to the Concession Contracts (Scotland) Regulations 2016 that are commenced on exit day), omit paragraphs (7)(a) and (29)(c).</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-16">16th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by section 2(2) of the European Communities Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1972/68">1972 (c.68)</ref>. They make a series of minor amendments to the Utilities Contracts (Scotland) Regulations 2016 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2016/49">S.S.I. 2016/49</ref>) and the Concession Contracts (Scotland) Regulations 2016 (<ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2016/65">S.S.I. 2016/65</ref>) (together “the principal regulations”).</p>
+            <p>The principal regulations were amended by the Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019 (<ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2019/112">S.S.I. 2019/112</ref>) (the “EU Exit Regulations”). The EU Exit Regulations are not yet in force. They were drafted to come into force on Exit Day (as defined in section 20 of the European Union (Withdrawal) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref>, as amended by <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/2019/718">S.I. 2019/718</ref> and <ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/2019/859">S.I. 2019/859</ref>). The <abbr class="acronym" title="United Kingdom">UK</abbr>’s departure from the EU has been delayed but the amendments to the principal Regulations still require to be effected because they do not depend on Exit Day. These Regulations effect these amendments.</p>
+            <p>These Regulations also make the necessary consequential amendments to the EU Exit Regulations by removing the reference to the changes now made by these regulations.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

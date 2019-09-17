@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/35"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/35"/>
+               <FRBRdate date="2019-02-06" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="35"/>
+               <FRBRname value="S.S.I. 2019/35"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/35/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/35/made"/>
+               <FRBRdate date="2019-02-06" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/35/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/35/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-06" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-08" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1975/30">1975 c.30</ref>. Section 7B was inserted by section 110(2) of the Local Government Finance Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 (c.14)</ref> (“the 1992 Act”) and amended by paragraph 100(4) of schedule 13 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>. Section 37(1) of the Local Government (Scotland) Act 1975 contains a definition of “prescribed” which is relevant to the exercise of the powers under which this Order is made and which was amended by paragraph 43(c) of schedule 13 of the 1992 Act and by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2016/123">S.S.I. 2016/123</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040867"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 35</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rate (Scotland) Order 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-06">6th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-08">8th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Order in exercise of the powers conferred by section 7B(1) of the Local Government (Scotland) Act 1975<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>This Order may be cited as the Non-Domestic Rate (Scotland) Order 2019 and comes into force on 1 April 2019.</p>
+            </content>
+         </article>
+         <article eId="article-2">
+            <heading>Non-domestic rate for 2019-2020</heading>
+            <num>2.</num>
+            <content>
+               <p>For the purposes of section 7B of the Local Government (Scotland) Act 1975, the Scottish Ministers prescribe a rate of 49 pence per pound as the non-domestic rate to be levied throughout Scotland in respect of financial year 2019-2020.</p>
+            </content>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-06">6th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Order)</block>
+            <p>This Order prescribes a rate of 49 pence in the pound as the non-domestic rate to be levied throughout Scotland in respect of the financial year 2019-2020. A rate of 48 pence in the pound was prescribed by the Scottish Ministers as the non-domestic rate to be levied throughout Scotland for the financial year 2018-2019 (<ref eId="c00001" href="http://www.legislation.gov.uk/id/ssi/2018/46">S.S.I. 2018/46</ref>).</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/82"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/82"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="82"/>
+               <FRBRname value="S.S.I. 2019/82"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/82/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/82/made"/>
+               <FRBRdate date="2019-03-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/82/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/82/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-03-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2002/5">2002 asp 5</ref>. Section 1 was relevantly amended by <ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2011/211">S.S.I. 2011/211</ref>. Schedule 1 was amended by <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2009/137">S.S.I. 2009/137</ref>. Section 2 was amended by section 28(2) of the Mental Health (Care and Treatment) (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2003/13">2003 (asp 13)</ref> and section 65(2) of the Adult Support and Protection (Scotland) Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2007/10">2007 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 23(3)(a) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/asp/2010/10">2010 (asp 10)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2002/303">S.S.I. 2002/303</ref> as amended by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2018/111">S.S.I. 2018/111</ref> and most recently by <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2018/200">S.S.I 2018/200</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2018/111">S.S.I. 2018/111</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041413"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 82</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Social Care</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-03-05">5th March 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1(2)(a), 2 and 23(4) of the Community Care and Health (Scotland) Act 2002<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 23(3)(a) of that Act<noteRef href="#f00002" class="footnote" marker="2"/>, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (accommodation provided under the Social Work (Scotland) Act 1968 or section 25 of the Mental Health (Care and Treatment) (Scotland) Act 2003)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (a), for “£174” substitute “£177”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (b), for “£79” substitute “£80”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Revocation</heading>
+            <num>3.</num>
+            <content>
+               <p>The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2018<noteRef href="#f00004" class="footnote" marker="4"/> are revoked.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JEANE FREEMAN</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-03-05">5th March 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made under the Community Care and Health (Scotland) Act 2002 (“the 2002 Act”) which, together with the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002 (“the principal Regulations”), provides that local authorities are not to charge for certain types of social care provided or secured by them. Regulation 2 of the principal Regulations modifies, for the purpose of charging, the meaning of accommodation provided under the Social Work (Scotland) Act 1968 or section 25 of the Mental Health (Care and Treatment) (Scotland) Act 2003.</p>
+            <p>These Regulations amend regulation 2 of the principal Regulations to increase the thresholds below which certain care is not to be charged for (regulation 2).</p>
+            <p>In respect of personal care, personal support and care of a kind mentioned in schedule 1 of the 2002 Act, the first £177 is not to be charged for (up from £174). For these purposes, “personal care” and “personal support” have the same meaning as in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010.</p>
+            <p>In respect of nursing care, the first £80 is not to be charged for (up from £79).</p>
+            <p>No Business and Regulatory Impact Assessment has been prepared in respect of these Regulations on the basis that there is no foreseeable impact on business, charities or voluntary bodies.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

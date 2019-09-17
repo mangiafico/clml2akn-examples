@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/44"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/44"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="44"/>
+               <FRBRname value="S.S.I. 2019/44"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/44/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/44/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/44/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/44/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref>. Section 153 was amended by section 67 of the Climate Change (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2009/12">2009 (asp 12)</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ssi/2017/85">S.S.I. 2017/85</ref>, which was amended by <ref eId="c00005" href="http://www.legislation.gov.uk/id/ssi/2018/76">S.S.I. 2018/76</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2019/39">S.S.I. 2019/39</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2019/40">S.S.I. 2019/40</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041031"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 44</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017<noteRef href="#f00002" class="footnote" marker="2"/> are amended in accordance with paragraphs (2) to (8).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation - general)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for the definition of “the 2018 Regulations” substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“the 2019 Regulations” means the Non-Domestic Rates (Levying) (Scotland) Regulations 2019<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the definition of “the relevant year”, for “2018” substitute “2019”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In regulation 8 (notional liability)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the formula, for “365” substitute “366”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for “0.506” substitute “0.516”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>for “0.48” substitute “0.49”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-4">
+               <num>(4)</num>
+               <intro>
+                  <p>In regulation 9 (transitional limit)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-4-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in each formula in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-2-4-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “1.329” substitute “1.527”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-4-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “365” substitute “366”,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="regulation-2-4-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “0.506” substitute “0.516”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-4-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “0.48” substitute “0.49”, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-2-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>for paragraph (3) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>Where regulation 10 of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019<noteRef href="#f00004" class="footnote" marker="4"/> grants relief, the transitional limit is calculated in accordance with paragraph (5) of that regulation.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-5">
+               <num>(5)</num>
+               <content>
+                  <p>In regulation 10 (base liability), in the formula in paragraph (1)(a), for “365” substitute “366”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In regulation 11 (changes in rateable value)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the heading, paragraph (1) and paragraph (2), for “2018” substitute “2019”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-6-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-2-6-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>in the formula, for “365” substitute “366”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-6-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>for “0.506” substitute “0.516”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-2-6-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>for “0.48” substitute “0.49”.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-7">
+               <num>(7)</num>
+               <intro>
+                  <p>In regulation 12 (charitable and other reductions)—</p>
+               </intro>
+               <subparagraph eId="regulation-2-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(a)(v), for “2018” substitute “2019”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-2-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for paragraph (1)(a)(vi) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subparagraph>
+                                 <num>(vi)</num>
+                                 <content>
+                                    <p>regulation 4(1), 6(1) or 11(1) of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019,</p>
+                                 </content>
+                              </subparagraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-2-8">
+               <num>(8)</num>
+               <content>
+                  <p>In regulation 17 (applications for relief), at the end of each of sub-paragraphs (i) to (iii) of paragraph (1)(a) insert “or any other person authorised by it”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 (“the principal Regulations”).</p>
+            <p>Regulation 2(2) updates a reference to other Regulations and to the “relevant year” for the purposes of the principal Regulations, which becomes the 2019-20 financial year.</p>
+            <p>Other paragraphs of regulation 2 uprate various figures used in the principal Regulations to calculate entitlement to transitional relief and its maximum amount. These are based on an inflation figure of 2.1% which is the percentage increase in the poundage in 2019-20 compared with 2018-19. Adjustments are also made to reflect that the 2019-20 financial year is a leap year, so all daily-based calculations that relate to that year take account of its extra day.</p>
+            <p>Paragraphs (4)(c) and (7)(b) of regulation 2 update references to another set of Regulations that are relevant to the operation of the principal Regulations. Paragraph (8) adds provision for persons authorised by partnerships, trusts and bodies corporate to sign applications for relief under the principal Regulations, in addition to partners, trustees and directors of those bodies.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

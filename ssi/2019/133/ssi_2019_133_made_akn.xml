@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/133"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/133"/>
+               <FRBRdate date="2019-04-04" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="133"/>
+               <FRBRname value="S.S.I. 2019/133"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/133/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/133/made"/>
+               <FRBRdate date="2019-04-04" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/133/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/133/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-04" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-04-08" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 c.14</ref>. Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 (c.39)</ref>. There are other amendments to section 80 and amendments to section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ssi/2012/303">S.S.I. 2012/303</ref>, relevantly amended by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2017/326">S.S.I. 2017/326</ref>, <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2018/211">S.S.I. 2018/211</ref> and <ref eId="c00009" href="http://www.legislation.gov.uk/id/ssi/2019/29">S.S.I. 2019/29</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/2001/1167">S.I. 2001/1167</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2012/319">S.S.I. 2012/319</ref>, relevantly amended by <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2013/142">S.S.I. 2013/142</ref>, <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2015/46">S.S.I. 2015/46</ref>, <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2016/81">S.S.I. 2016/81</ref>, <ref eId="c00015" href="http://www.legislation.gov.uk/id/ssi/2017/326">S.S.I. 2017/326</ref>, <ref eId="c00016" href="http://www.legislation.gov.uk/id/ssi/2018/211">S.S.I. 2018/211</ref> and <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2019/29">S.S.I. 2019/29</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2001/1167">S.I. 2001/1167</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041871"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 133</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Council Tax</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Council Tax Reduction (Scotland) Amendment (<abbr title="Number">No.</abbr> 2) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-04">4th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-04-08">8th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-01">1st June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 80 and 113(1) and paragraph 1 of schedule 2 of the Local Government Finance Act 1992<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2019 and come into force on 1 June 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the Council Tax Reduction (Scotland) Regulations 2012</heading>
+            <num>2.</num>
+            <intro>
+               <p>The Council Tax Reduction (Scotland) Regulations 2012<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows—</p>
+            </intro>
+            <subparagraph eId="regulation-2-a">
+               <num>(a)</num>
+               <content>
+                  <p>in schedule 4 (sums to be disregarded in the calculation of income other than earnings), in paragraph 62 after “to” insert “regulation 2(1) of the Discretionary Financial Assistance Regulations 2001<noteRef href="#f00003" class="footnote" marker="3"/> or”, and</p>
+               </content>
+            </subparagraph>
+            <subparagraph eId="regulation-2-b">
+               <num>(b)</num>
+               <content>
+                  <p>in schedule 5 (capital to be disregarded), in paragraph 11(1)(d) after “to” insert “regulation 2(1) of the Discretionary Financial Assistance Regulations 2001 or”.</p>
+               </content>
+            </subparagraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012</heading>
+            <num>3.</num>
+            <content>
+               <p>In schedule 4 (capital disregards) of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012<noteRef href="#f00004" class="footnote" marker="4"/>, in paragraph 21(2)(n) after “to” insert “regulation 2(1) of the Discretionary Financial Assistance Regulations 2001<noteRef href="#f00005" class="footnote" marker="5"/> or”.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">KATE FORBES</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-04">4th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Council Tax Reduction (Scotland) Regulations 2012 and the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 (“the principal Regulations”).</p>
+            <p>The amendments add references to payments under the Discretionary Financial Assistance Regulations 2001 (“the 2001 Regulations”) to lists of payments that local authorities must disregard in the calculation of income and capital for the purposes of the principal Regulations.</p>
+            <p>The Social Security (Scotland) Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2018/9">2018 (asp 9)</ref> provides for local authorities to have the power to make discretionary housing payments under provisions in that Act, once they are commenced. The principal Regulations were amended by the Council Tax Reduction (Scotland) Amendment Regulations 2019 (<ref eId="c00002" href="http://www.legislation.gov.uk/id/ssi/2019/29">S.S.I. 2019/29</ref>) to ensure that any such payments are disregarded in council tax calculations. The amendments made by these Regulations will ensure that any payments made under the 2001 Regulations will also be disregarded in such calculations.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

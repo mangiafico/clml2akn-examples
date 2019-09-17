@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/40"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/40"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="40"/>
+               <FRBRname value="S.S.I. 2019/40"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/40/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/40/made"/>
+               <FRBRdate date="2019-02-14" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/40/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/40/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-14" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-04-01" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1994/39">1994 c.39</ref> (“the 1994 Act”). Section 153 was amended by section 67 of the Climate Change (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2009/12">2009 (asp 12)</ref>. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/1966/51">1966 c.51</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1975/30">1975 c.30</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1854/91">1854 c.91</ref>. Section 42 was amended by the Statute Law Revision Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1892/19">1892 (c.19)</ref> and section 152 of the 1994 Act.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/ukpga/1992/14">1992 c.14</ref> (“the 1992 Act”). There are amendments to section 99(1) that are not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>Section 7B was inserted by section 110(2) of the 1992 Act and amended by paragraph 100(4) of schedule 13 of the 1994 Act.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>Section 1 was amended by section 34 and schedule 6 of the Abolition of Domestic Rates etc. (Scotland) Act <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1987/47">1987 (c.47)</ref>, schedule 14 of the 1994 Act and paragraph 1 of schedule 4 of the Local Government and Rating Act <ref eId="c00010" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 (c.29)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Section 2(1)(d) was amended by <ref eId="c00011" href="http://www.legislation.gov.uk/id/ssi/2000/285">S.S.I. 2000/285</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/ssi/2017/85">S.S.I. 2017/85</ref>, which was amended by <ref eId="c00013" href="http://www.legislation.gov.uk/id/ssi/2018/76">S.S.I. 2018/76</ref> and will be amended by <ref eId="c00014" href="http://www.legislation.gov.uk/id/ssi/2019/44">S.S.I. 2019/44</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Section 24(3) was substituted by section 154 of the 1994 Act and amended by section 1(2)(a), (b) and (c) of the Local Government Finance (Unoccupied Properties etc.) (Scotland) Act <ref eId="c00015" href="http://www.legislation.gov.uk/id/asp/2012/11">2012 (asp 11)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00016" href="http://www.legislation.gov.uk/id/ukpga/1997/29">1997 c.29</ref>. Paragraph 3 was amended by section 29 of the Local Government in Scotland Act <ref eId="c00017" href="http://www.legislation.gov.uk/id/asp/2003/1">2003 (asp 1)</ref> and paragraph 25 of schedule 8 of the Postal Services Act <ref eId="c00018" href="http://www.legislation.gov.uk/id/ukpga/2000/26">2000 (c.26)</ref> and paragraph 148 of schedule 12 of the Postal Services Act <ref eId="c00019" href="http://www.legislation.gov.uk/id/ukpga/2011/5">2011 (c.5)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2010/44">S.S.I. 2010/44</ref> as amended by <ref eId="c00021" href="http://www.legislation.gov.uk/id/ssi/2010/440">S.S.I. 2010/440</ref>, <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2016/121">S.S.I. 2016/121</ref>, <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2017/60">S.S.I. 2017/60</ref> and <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2018/64">S.S.I. 2018/64</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00025" href="http://www.legislation.gov.uk/id/ssi/2016/119">S.S.I. 2016/119</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2019/39">S.S.I. 2019/39</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>
+                  <ref eId="c00027" href="http://www.legislation.gov.uk/id/ukpga/2000/7">2000 c.7</ref>. Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act <ref eId="c00028" href="http://www.legislation.gov.uk/id/ukpga/2003/21">2003 (c.21)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>Section 7(2) was amended by <ref eId="c00029" href="http://www.legislation.gov.uk/id/uksi/2016/696">S.I. 2016/696</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040997"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 40</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Rating And Valuation</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-14">14th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-04-01">1st April 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government <abbr title="et cetera" xml:lang="la">etc.</abbr> (Scotland) Act 1994<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <part eId="part-1">
+            <num>PART 1</num>
+            <heading>Introduction and interpretation</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <heading>Citation and commencement</heading>
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019 and come into force on 1 April 2019.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-2">
+               <heading>Interpretation</heading>
+               <num>2.</num>
+               <intro>
+                  <p>In these Regulations—</p>
+               </intro>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1966 Act” means the Local Government (Scotland) Act 1966<noteRef href="#f00002" class="footnote" marker="2"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the 1975 Act” means the Local Government (Scotland) Act 1975<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“lands and heritages” has the meaning prescribed by and under section 42 of the Lands Valuation (Scotland) Act 1854<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“rateable value” in relation to lands and heritages and a particular date, means—</p>
+                     <blockList>
+                        <item>
+                           <num>(a)</num>
+                           <p>in the case of part residential subjects, as defined by section 99(1) of the Local Government Finance Act 1992<noteRef href="#f00005" class="footnote" marker="5"/>, the rateable value entered in the roll for that date and apportioned to the non-residential use of those subjects, and</p>
+                        </item>
+                        <item>
+                           <num>(b)</num>
+                           <p>in any other case, the rateable value entered in the roll for that date in respect of those lands and heritages,</p>
+                        </item>
+                     </blockList>
+                     <p>and includes a rateable value so entered with retrospective effect,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“rates” means non-domestic rates levied under section 7B of the 1975 Act<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the relevant year” is the financial year 2019-20,</p>
+                  </content>
+               </hcontainer>
+               <hcontainer name="definition">
+                  <content>
+                     <p>“the roll” means a valuation roll made up under section 1 of the 1975 Act<noteRef href="#f00007" class="footnote" marker="7"/>.</p>
+                  </content>
+               </hcontainer>
+            </hcontainer>
+         </part>
+         <part eId="part-2">
+            <num>PART 2</num>
+            <heading>New property</heading>
+            <hcontainer name="regulation" eId="regulation-3">
+               <heading>Availability of relief - new building entered in the roll under section 2(1)(b) of the 1975 Act</heading>
+               <num>3.</num>
+               <paragraph eId="regulation-3-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Regulation 4 grants relief to a person who is liable to pay rates in respect of lands and heritages on a day in the relevant year if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>they are shown in an entry in the roll which is made in pursuance of section 2(1)(b) of the 1975 Act (new entry),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>that entry takes effect from a day on or after 1 April 2018, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>one or more buildings or parts of a building are shown in that entry, none of which were shown in any entry in the roll for the day prior to the day that entry takes effect.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No relief is granted by regulation 4 unless the lands and heritages satisfy one of the conditions in paragraph (3).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-3-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>The conditions are that the entry in the roll in respect of the lands and heritages took effect—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>within the previous 12 months,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>more than 12 months previously, but the lands and heritages have been continuously unoccupied since that day,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>more than 12 months previously, but less than 12 months have elapsed since the property first became occupied.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-3-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>Where relief has been granted under regulation 4 and as a result of division of the lands and heritages separate entries are made in the roll for parts of the lands and heritages, relief is to continue to be available for the lands and heritages in each entry—</p>
+                  </intro>
+                  <subparagraph eId="regulation-3-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>where no building or any part of a building shown in any separate entry has been occupied since that relief was granted, for 12 months in respect of each of the later entries from the date a building or any part of a building shown in that individual entry first becomes occupied (regardless of whether there is such occupation in respect of other entries), or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-3-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>where any building or part of a building shown in any separate entry has been occupied at any time since that relief was granted, for the remainder of the period of 12 months from the date that building or part of a building first became occupied.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <heading>Relief granted - new building entered in the roll under section 2(1)(b) of the 1975 Act</heading>
+               <num>4.</num>
+               <paragraph eId="regulation-4-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The relief granted is that the amount of rates payable is to be reduced by 100%.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No relief is granted if, immediately prior to the entry referred to in regulation 3(1)(a) the lands and heritages were a dwelling as defined by section 72(2) of the Local Government Finance Act 1992 (dwellings chargeable to council tax).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-4-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>No relief is granted unless an application is made in accordance with regulation 12.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <heading>Availability of relief – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act</heading>
+               <num>5.</num>
+               <paragraph eId="regulation-5-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Regulation 6 grants relief to a person who is liable to pay rates in respect of lands and heritages on a day in the relevant year—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>if they are shown in an entry in the roll which is altered in pursuance of section 2(1)(d) of the 1975 Act<noteRef href="#f00008" class="footnote" marker="8"/> (alteration due to a material change in circumstances),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if that alteration takes effect on a day on or after 1 April 2018,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-1-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>for which there is an increase in rateable value on the day that alteration takes effect, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-1-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>if one or more buildings or parts of a building are shown in that entry none of which were shown in any entry in the roll for the day immediately prior to the day that alteration takes effect.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No relief is granted by regulation 6 unless the lands and heritages satisfy one of the conditions in paragraph (3).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-5-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>The conditions are that the alteration to the roll in respect of the lands and heritages took effect—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>within the previous 12 months,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>more than 12 months previously, but the lands and heritages have been continuously unoccupied since that day,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>more than 12 months previously, but less than 12 months have elapsed since the property first became occupied.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-5-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>Where relief has been granted under regulation 6 and as a result of division of the lands and heritages separate entries are made in the roll for parts of the lands and heritages, relief is to continue to be available for the lands and heritages in each entry—</p>
+                  </intro>
+                  <subparagraph eId="regulation-5-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>where no building or any part of a building shown in any separate entry has been occupied since that relief was granted, for 12 months in respect of each of the later entries from the date a building or any part of a building shown in that individual entry first becomes occupied (regardless of whether there is such occupation in respect of other entries), or</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-5-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>where any building or part of a building shown in any separate entry has been occupied at any time since that relief was granted, for the remainder of the period of 12 months from the date that building or part of a building first became occupied.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <heading>Relief granted – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act</heading>
+               <num>6.</num>
+               <paragraph eId="regulation-6-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The relief granted is that the amount of rates payable is to be reduced by 100%.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-6-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>No relief is granted unless an application is made in accordance with regulation 12.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <heading>Availability of relief – further works to lands and heritages granted relief under regulation 4 or 6</heading>
+               <num>7.</num>
+               <intro>
+                  <p>Regulation 8 grants relief to a person who is liable to pay rates in respect of lands and heritages on a day in the relevant year if—</p>
+               </intro>
+               <subparagraph eId="regulation-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>the person has been awarded relief under regulation 4 or 6,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>the entry in the roll for the lands and heritages is altered in pursuance of section 2(1)(d) (alteration due to a material change in circumstances) of the 1975 Act,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>that alteration takes effect on a day on or after 1 April 2019,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>there is an increase in rateable value on the day that alteration takes effect which is caused (in whole or in part) by—</p>
+                  </intro>
+                  <clause eId="regulation-7-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the refurbishment or expansion of one or more buildings or parts of a building which form part of the lands and heritages, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the erection or construction of one or more buildings or parts of a building which form part of the lands and heritages, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-7-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>that increase in the rateable value is not caused (in whole or in part) by—</p>
+                  </intro>
+                  <clause eId="regulation-7-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the combination, division or reorganisation of lands and heritages which were shown, in whole or in part, in different entries in the roll for the day immediately prior to the day the alteration to the roll takes effect, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>a change in the way the lands and heritages are being used.</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <heading>Relief granted – further works to lands and heritages granted relief under regulation 4 or 6</heading>
+               <num>8.</num>
+               <paragraph eId="regulation-8-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The relief granted is the amount of rates payable that has resulted from the increase in rateable value referred to in regulation 7(d).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-2">
+                  <num>(2)</num>
+                  <content>
+                     <p>The relief granted is in addition to any relief that is payable under regulation 4 or 6, and is granted to 31 March 2020 (whether or not relief under regulation 4 or 6 ceases).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-8-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>No relief is granted unless an application is made in accordance with regulation 12.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-3">
+            <num>PART 3</num>
+            <heading>Improved property</heading>
+            <hcontainer name="regulation" eId="regulation-9">
+               <heading>Availability of relief – lands and heritages in respect of which a relevant increase has been made within the previous 12 months</heading>
+               <num>9.</num>
+               <paragraph eId="regulation-9-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>Regulations 10 and 11 grant relief to a person who is liable to pay rates in respect of lands and heritages on a day in the relevant year if—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>they are lands and heritages in respect of which one or more relevant increases have been made with effect from a date within the previous 12 months,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-1-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>they are not lands and heritages which are eligible for relief under regulation 4, 6 or 8.</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In this regulation and regulation 10 a “relevant increase” is an increase in the rateable value of the lands and heritages which—</p>
+                  </intro>
+                  <subparagraph eId="regulation-9-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>results from the entry in the roll for the lands and heritages being altered in pursuance of section 2(1)(d) of the 1975 Act (alteration due to material change in circumstances),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>takes effect on or after 1 April 2018,</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-c">
+                     <num>(c)</num>
+                     <intro>
+                        <p>is caused (in whole or in part) by—</p>
+                     </intro>
+                     <clause eId="regulation-9-2-c-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the refurbishment or expansion of one or more buildings or parts of a building which form part of the lands and heritages, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-2-c-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>the erection or construction of one or more buildings or parts of a building which form part of the lands and heritages, and</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+                  <subparagraph eId="regulation-9-2-d">
+                     <num>(d)</num>
+                     <intro>
+                        <p>is not caused (in whole or in part) by—</p>
+                     </intro>
+                     <clause eId="regulation-9-2-d-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>the combination, division or reorganisation of lands and heritages which were shown, in whole or in part, in different entries in the roll for the day immediately prior to the day the alteration to the roll takes effect, or</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-9-2-d-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>a change in the way the lands and heritages are being used.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-9-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>Where the rateable value of the lands and heritages is reduced during the period of the works referred to in paragraph (2)(c), the relevant increase is the increase in the rateable value between that when the works commenced, and that when the entry is altered due to the material change in circumstances as a result of the completion of the works.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <heading>Relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months</heading>
+               <num>10.</num>
+               <paragraph eId="regulation-10-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>The relief granted is that the amount of rates payable is to be reduced as set out in paragraph (4) or, as the case may be, paragraph (5).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-10-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>The amount of relief granted depends on—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>whether regulation 7 (transitional relief in the amount of rates payable) of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017<noteRef href="#f00009" class="footnote" marker="9"/> (“the 2017 Regulations”) applies, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>the total amount of any relevant increases made in respect of the lands and heritages taking effect on a day within the previous 12 months (“the reference amount”).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-3">
+                  <num>(3)</num>
+                  <content>
+                     <p>No relief is granted unless an application is made in accordance with regulation 12.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-10-4">
+                  <num>(4)</num>
+                  <intro>
+                     <p>Where regulation 7 of the 2017 Regulations does not apply to the lands and heritages—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-4-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>the amount of rates payable is to be calculated on the rateable value minus the reference amount, but</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-4-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>if the rateable value minus the reference amount is a negative figure, then no relief is granted (and the amount of rates payable is to be calculated on the rateable value).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-10-5">
+                  <num>(5)</num>
+                  <intro>
+                     <p>Where regulation 7 of the 2017 Regulations applies to the lands and heritages, the amount of rates payable is the transitional limit described in that regulation, and for these purposes the transitional limit is to be calculated—</p>
+                  </intro>
+                  <subparagraph eId="regulation-10-5-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>in respect of lands and heritages for which the rateable value exceeds the sum of the rateable value on 1 April 2017 and the reference amount, in accordance with the formula—</p>
+                        <tblock class="formula">
+                           <foreign>
+                              <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll" altimg="http://www.legislation.gov.uk/ssi/2019/40/images/ssi_20190040_en_001">
+                                 <mfrac linethickness="1" denomalign="center" numalign="center">
+                                    <mrow>
+                                       <mo>(</mo>
+                                       <mrow>
+                                          <mi mathvariant="normal">BL</mi>
+                                          <mo>×</mo>
+                                          <mn>1.527</mn>
+                                          <mo>)</mo>
+                                          <mo>+</mo>
+                                          <mo>(</mo>
+                                          <mo>(</mo>
+                                          <mi mathvariant="normal">ARV</mi>
+                                          <mo>−</mo>
+                                          <mi mathvariant="normal">RV</mi>
+                                       </mrow>
+                                       <mo>)</mo>
+                                       <mo>×</mo>
+                                       <mi mathvariant="normal">PF</mi>
+                                       <mo>)</mo>
+                                    </mrow>
+                                    <mrow>
+                                       <mrow>
+                                          <mrow>
+                                             <mn>366</mn>
+                                          </mrow>
+                                       </mrow>
+                                    </mrow>
+                                 </mfrac>
+                              </math>
+                           </foreign>
+                           <blockContainer class="where">
+                              <p>where—</p>
+                              <tblock class="definition">
+                                 <p>
+                                    <abbr class="acronym" title="Applicable Rateable Value">ARV</abbr> is the adjusted rateable value, found by subtracting the reference amount from the rateable value of the lands and heritages,</p>
+                              </tblock>
+                              <tblock class="definition">
+                                 <p>BL is the base liability of the lands and heritages ascertained in accordance with regulation 10 of the 2017 Regulations,</p>
+                              </tblock>
+                              <tblock class="definition">
+                                 <p>
+                                    <abbr class="acronym" title="Rateable Value">RV</abbr> is the rateable value of the lands and heritages on 1 April 2017, and</p>
+                              </tblock>
+                              <tblock class="definition">
+                                 <p>PF is the poundage figure of—</p>
+                                 <blockList>
+                                    <item>
+                                       <num>(i)</num>
+                                       <p>0.516 where ARV exceeds £51,000, or</p>
+                                    </item>
+                                    <item>
+                                       <num>(ii)</num>
+                                       <p>0.49 in any other case, or</p>
+                                    </item>
+                                 </blockList>
+                              </tblock>
+                           </blockContainer>
+                        </tblock>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-10-5-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>in any other case, in accordance with the formula—</p>
+                        <tblock class="formula">
+                           <foreign>
+                              <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll" altimg="http://www.legislation.gov.uk/ssi/2019/40/images/ssi_20190040_en_002">
+                                 <mfrac linethickness="1" denomalign="center" numalign="center">
+                                    <mrow>
+                                       <mi mathvariant="normal">BL</mi>
+                                       <mo>×</mo>
+                                       <mn>1.527</mn>
+                                       <mo>×</mo>
+                                       <mi mathvariant="normal">ARV</mi>
+                                    </mrow>
+                                    <mrow>
+                                       <mrow>
+                                          <mrow>
+                                             <mn>366</mn>
+                                          </mrow>
+                                       </mrow>
+                                    </mrow>
+                                 </mfrac>
+                              </math>
+                           </foreign>
+                           <blockContainer class="where">
+                              <p>where—</p>
+                              <tblock class="definition">
+                                 <p>BL, ARV and RV have the same meanings as in sub-paragraph (a).</p>
+                              </tblock>
+                           </blockContainer>
+                        </tblock>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <heading>Additional relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months</heading>
+               <num>11.</num>
+               <paragraph eId="regulation-11-1">
+                  <num>(1)</num>
+                  <content>
+                     <p>Relief is granted in addition to that granted by regulation 10 where “reduction X” is less than “reduction Z”.</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>In this regulation—</p>
+                  </intro>
+                  <subparagraph eId="regulation-11-2-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>“reduction X” is the reduction applied by the provisions listed in paragraph (3), and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-2-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>“reduction Z” is the reduction that would have been applied by those provisions if the rateable value of the lands and heritages were lowered by the reference amount described in regulation 10(2)(b).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-11-3">
+                  <num>(3)</num>
+                  <intro>
+                     <p>The provisions are—</p>
+                  </intro>
+                  <subparagraph eId="regulation-11-3-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>section 24(3) of the 1966 Act<noteRef href="#f00010" class="footnote" marker="10"/> (empty buildings relief),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-b">
+                     <num>(b)</num>
+                     <content>
+                        <p>paragraph 3 of schedule 2 of the Local Government and Rating Act 1997<noteRef href="#f00011" class="footnote" marker="11"/> (rural rate relief),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-c">
+                     <num>(c)</num>
+                     <content>
+                        <p>regulations 3 and 3B of the Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Regulations 2010<noteRef href="#f00012" class="footnote" marker="12"/> (renewable energy generation relief),</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-d">
+                     <num>(d)</num>
+                     <content>
+                        <p>regulation 5 of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016<noteRef href="#f00013" class="footnote" marker="13"/> (enterprise areas relief), and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-11-3-e">
+                     <num>(e)</num>
+                     <content>
+                        <p>regulation 3 of the Non-Domestic Rates (Levying) (Scotland) Regulations 2019<noteRef href="#f00014" class="footnote" marker="14"/> (the Small Business Bonus Scheme).</p>
+                     </content>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-11-4">
+                  <num>(4)</num>
+                  <content>
+                     <p>The additional relief granted is the amount by which reduction Z exceeds reduction X (but the amount payable is not to be reduced to less than nil).</p>
+                  </content>
+               </paragraph>
+               <paragraph eId="regulation-11-5">
+                  <num>(5)</num>
+                  <content>
+                     <p>For the avoidance of doubt, relief under this regulation ceases, in respect of a relevant increase, 12 months after the date from which it had effect.</p>
+                  </content>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <part eId="part-4">
+            <num>PART 4</num>
+            <heading>Applications for relief</heading>
+            <hcontainer name="regulation" eId="regulation-12">
+               <heading>Applications for relief</heading>
+               <num>12.</num>
+               <paragraph eId="regulation-12-1">
+                  <num>(1)</num>
+                  <intro>
+                     <p>An application for relief under these Regulations must—</p>
+                  </intro>
+                  <subparagraph eId="regulation-12-1-a">
+                     <num>(a)</num>
+                     <content>
+                        <p>be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer, and</p>
+                     </content>
+                  </subparagraph>
+                  <subparagraph eId="regulation-12-1-b">
+                     <num>(b)</num>
+                     <intro>
+                        <p>be made to the rating authority in whose roll the entry for the lands and heritages appears by—</p>
+                     </intro>
+                     <clause eId="regulation-12-1-b-i">
+                        <num>(i)</num>
+                        <content>
+                           <p>addressing it to that authority, and</p>
+                        </content>
+                     </clause>
+                     <clause eId="regulation-12-1-b-ii">
+                        <num>(ii)</num>
+                        <content>
+                           <p>delivering it or sending it to that authority’s office by post or electronic communication.</p>
+                        </content>
+                     </clause>
+                  </subparagraph>
+               </paragraph>
+               <paragraph eId="regulation-12-2">
+                  <num>(2)</num>
+                  <intro>
+                     <p>For the purposes of paragraph (1)—</p>
+                  </intro>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000 (“the 2000 Act”)<noteRef href="#f00015" class="footnote" marker="15"/>,</p>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“person authorised to sign on behalf of the ratepayer” means, where the ratepayer is—</p>
+                        <blockList>
+                           <item>
+                              <num>(a)</num>
+                              <p>a partnership, a partner of that partnership or any other person authorised by it,</p>
+                           </item>
+                           <item>
+                              <num>(b)</num>
+                              <p>a trust, a trustee of that trust or any other person authorised by it,</p>
+                           </item>
+                           <item>
+                              <num>(c)</num>
+                              <p>a body corporate, a director of that body or any other person authorised by it, and</p>
+                           </item>
+                        </blockList>
+                     </content>
+                  </hcontainer>
+                  <hcontainer name="definition">
+                     <content>
+                        <p>“sign” or “signed”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) of the 2000 Act<noteRef href="#f00016" class="footnote" marker="16"/>.</p>
+                     </content>
+                  </hcontainer>
+               </paragraph>
+            </hcontainer>
+         </part>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">DEREK MACKAY</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-14">14th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for reliefs to be granted to the amount payable in non-domestic rates in respect of certain lands and heritages for the 2019-20 financial year.</p>
+            <p>Part 2 provides for new property and Part 3 for improvement of existing property.</p>
+            <p>In Part 2, regulation 3 provides that where a new entry is made in the valuation roll that includes a building, and that entry shows no building that has previously been shown in the valuation roll, the lands and heritages are eligible for 100% relief. That relief is available for one year from the date the building is first occupied.</p>
+            <p>Regulation 3(4) provides that if a building is occupied in stages, which result in separate valuation roll entries being made for parts of the building, the relief will continue to be available for each part. The effect is that the occupation of a separate part will not prevent continued availability of relief for an unoccupied part, except where the relief started before the parts were separated (when it will continue for any balance of the 12 month period).</p>
+            <p>Regulation 4 sets out the relief which is available and provides that it is not available where the new entry in the valuation roll is the result of a property that was subject to council tax (broadly, a dwellinghouse) becoming subject to non-domestic rates.</p>
+            <p>Regulations 5 and 6 make similar provision for situations where an existing entry in the valuation roll is altered, rather than a new entry made.</p>
+            <p>Part 3, regulations 9 to 11, makes provision for lands and heritages that do not qualify for new property relief, but where existing property has been improved by refurbishment, expansion or construction. Paragraph (3) provides that the relief is granted on the extent by which the works result in the rateable value increasing, ignoring any intermediate reduction in the rateable value (for example as a result of partial demolition of a building to be expanded).</p>
+            <p>Regulation 10(4) sets out the amount of rates payable for those lands and heritages which are not subject to transitional relief in terms of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 and regulation 10(5) sets the transitional limit for those lands and heritages which are subject to transitional relief. Relief is available for one year (see regulation 9(1)(a)).</p>
+            <p>Relief under regulations 9 to 11 is not available for properties that qualify for relief under Part 2. Regulations 7 and 8 make provision for relief where a property that qualifies for new property relief is improved during the period for which relief under Part 2 has been granted.</p>
+            <p>An application must be made to obtain any relief under these Regulations. Regulation 12 sets out how an application is to be made.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

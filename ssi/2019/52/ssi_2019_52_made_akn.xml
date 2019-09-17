@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/52"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/52"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="52"/>
+               <FRBRname value="S.S.I. 2019/52"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/52/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/52/made"/>
+               <FRBRdate date="2019-02-18" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/52/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/52/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-18" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-19" eId="date-laid-1" source="#scottish-parliament"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 c.16</ref>. Section 20 defines “devolved authority” as the Scottish Ministers.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00015" href="http://www.legislation.gov.uk/id/uksi/2004/3279">S.I. 2004/3279</ref>, relevant amending instruments are <ref eId="c00016" href="http://www.legislation.gov.uk/id/uksi/2005/3254">S.I. 2005/3254</ref>, <ref eId="c00017" href="http://www.legislation.gov.uk/id/ssi/2005/616">S.S.I. 2005/616</ref>, <ref eId="c00018" href="http://www.legislation.gov.uk/id/uksi/2005/2626">S.I. 2005/2626</ref>, <ref eId="c00019" href="http://www.legislation.gov.uk/id/uksi/2013/2996">S.I. 2013/2996</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00020" href="http://www.legislation.gov.uk/id/ssi/2004/432">S.S.I. 2004/432</ref>, relevantly amended by <ref eId="c00021" href="http://www.legislation.gov.uk/id/uksi/2013/2996">S.I. 2013/2996</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00022" href="http://www.legislation.gov.uk/id/ssi/2004/433">S.S.I. 2004/433</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00023" href="http://www.legislation.gov.uk/id/ssi/2006/3">S.S.I. 2006/3</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00024" href="http://www.legislation.gov.uk/id/ssi/2009/261">S.S.I. 2009/261</ref>, relevant amending instruments are <ref eId="c00025" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>, <ref eId="c00026" href="http://www.legislation.gov.uk/id/ssi/2010/328">S.S.I. 2010/328</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>The definition of “import” was amended by article 4(1) of part 2 of the Treaty of Lisbon (Changes in Terminology) Order <ref eId="c00027" href="http://www.legislation.gov.uk/id/uksi/2011/1043">2011/1043</ref> (“the 2011 Order”).</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>Regulation 5 was amended by article 4(1) of part 2 of the 2011 Order.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00028" href="http://www.legislation.gov.uk/id/ssi/2009/446">S.S.I. 2009/446</ref>, relevant amendment <ref eId="c00029" href="http://www.legislation.gov.uk/id/uksi/2011/1043">S.I. 2011/1043</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>Regulation 4 was amended by article 6(2)(b) of part 2 of the 2011 Order.</p>
+            </note>
+            <note class="footnote" eId="f00011">
+               <p>
+                  <ref eId="c00030" href="http://www.legislation.gov.uk/id/ssi/2010/373">S.S.I. 2010/373</ref>, relevant amending instruments are <ref eId="c00031" href="http://www.legislation.gov.uk/id/ssi/2013/340">S.S.I. 2013/340</ref>, <ref eId="c00032" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00012">
+               <p>Regulation 5 was amended by <ref eId="c00033" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>, article 2.</p>
+            </note>
+            <note class="footnote" eId="f00013">
+               <p>
+                  <ref eId="c00034" href="http://www.legislation.gov.uk/id/ssi/2011/282">S.S.I. 2011/282</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00014">
+               <p>
+                  <ref eId="c00035" href="http://www.legislation.gov.uk/id/ssi/2012/318">S.S.I. 2012/318</ref>, relevant amending instrument <ref eId="c00036" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00015">
+               <p>Regulation 6(1)(a) was amended by <ref eId="c00037" href="http://www.legislation.gov.uk/id/ssi/2015/100">S.S.I. 2015/100</ref>, regulation 2.</p>
+            </note>
+            <note class="footnote" eId="f00016">
+               <p>
+                  <ref eId="c00038" href="http://www.legislation.gov.uk/id/ssi/2013/84">S.S.I. 2013/84</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00017">
+               <p>
+                  <ref eId="c00039" href="http://www.legislation.gov.uk/id/ssi/2013/217">S.S.I. 2013/217</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00018">
+               <p>
+                  <ref eId="c00040" href="http://www.legislation.gov.uk/id/ukpga/1990/16">1990 c.16</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041086"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 52</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Exiting The European Union</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Agriculture</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Environmental Protection</concept>
+               </block>
+            </container>
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-18">18th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-19">19th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force in accordance with regulation 1</span>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>There has been consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation, commencement and extent</heading>
+            <num>1.</num>
+            <paragraph eId="regulation-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>These Regulations may be cited as the Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>These Regulations extend to Scotland only.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Amendment of the General Food Regulations 2004</heading>
+            <num>2.</num>
+            <paragraph eId="regulation-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The General Food Regulations 2004<noteRef href="#f00002" class="footnote" marker="2"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 4 (requirements under Regulation <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No. 178/2002</ref>: offences), in paragraph (a), for “Community” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-2-3">
+               <num>(3)</num>
+               <content>
+                  <p>For regulation 6A (defence for exports) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <subsection>
+                              <num>(6A)</num>
+                              <intro>
+                                 <p>In any proceedings for an offence of contravening or failing to comply with food law it is a defence for the accused to prove that the item in respect of which the offence is alleged to have been committed—</p>
+                              </intro>
+                              <paragraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>was intended for export to a third country; and</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>could lawfully be exported there under Article 12 of Regulation <ref eId="c00003" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No. 178/2002</ref>.</p>
+                                 </content>
+                              </paragraph>
+                           </subsection>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the Genetically Modified Food (Scotland) Regulations 2004</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Genetically Modified Food (Scotland) Regulations 2004<noteRef href="#f00003" class="footnote" marker="3"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 2 (interpretation), in paragraph (a)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit “and” at the end of the definition of “food”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after that definition insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“third country” means a country other than the United Kingdom; and</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In the schedule (specified community provisions), in the table in Part II—</p>
+               </intro>
+               <subparagraph eId="regulation-3-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit the entry relating to Article 8.6 of Regulation <ref eId="c00004" href="http://www.legislation.gov.uk/european/regulation/2003/1829">(EC) No. 1829/2003</ref>, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-3-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the entry relating to Article 9.3 of that Regulation, for “Commission” substitute “Food Safety Authority”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Amendment of the Genetically Modified Animal Feed (Scotland) Regulations 2004</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Genetically Modified Animal Feed (Scotland) Regulations 2004<noteRef href="#f00004" class="footnote" marker="4"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>In the schedule (specified community provisions), in the table in Part II, omit the entry relating to Article 20.6 of Regulation <ref eId="c00005" href="http://www.legislation.gov.uk/european/regulation/2003/1829">(EC) No. 1829/2003</ref>.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Amendment of the Food Hygiene (Scotland) Regulations 2006</heading>
+            <num>5.</num>
+            <paragraph eId="regulation-5-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Hygiene (Scotland) Regulations 2006<noteRef href="#f00005" class="footnote" marker="5"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-5-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In the table in schedule 2 (specified community provisions)—</p>
+               </intro>
+               <subparagraph eId="regulation-5-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the entry relating to Article 6(1) of Regulation <ref eId="c00006" href="http://www.legislation.gov.uk/european/regulation/2004/0852">(EC) No. 852/2004</ref>, for “Community legislation or national law ” substitute “retained EU law or other national law”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in the entry relating to Article 4(1) of Regulation <ref eId="c00007" href="http://www.legislation.gov.uk/european/regulation/2004/0853">(EC) No. 853/2004</ref> omit “manufactured in the Community”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>omit the entry relating to Article 8 of Regulation <ref eId="c00008" href="http://www.legislation.gov.uk/european/regulation/2004/0853">(EC) No. 853/2004</ref>.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-5-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In schedule 6 (restrictions on the placing on the market of raw milk and raw cream intended for direct human consumption), in paragraph 3(a), omit—</p>
+               </intro>
+               <subparagraph eId="regulation-5-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>“or to a member state other than the United Kingdom”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-5-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>“or to that member state”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Amendment of the Food Irradiation (Scotland) Regulations 2009</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Irradiation (Scotland) Regulations 2009<noteRef href="#f00006" class="footnote" marker="6"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 3 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for the definition of “import”<noteRef href="#f00007" class="footnote" marker="7"/>, substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“import” means to introduce from a country outside the United Kingdom;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">, and</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for the definition of “official reference number”, substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <hcontainer name="definition">
+                                 <content>
+                                    <p>“official reference number” in relation to a facility means the reference number allocated and listed for approved irradiation facilities in schedules 3 and 4;</p>
+                                 </content>
+                              </hcontainer>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In regulation 5 (restrictions on importation)<noteRef href="#f00008" class="footnote" marker="8"/>—</p>
+               </intro>
+               <subparagraph eId="regulation-6-3-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for sub-paragraph (b) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <paragraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>it has been irradiated in one of the facilities listed in the table in schedule 3 or the table in schedule 4;</p>
+                                 </content>
+                              </paragraph>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">,</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2), for “another member state” substitute “an approved irradiation facility listed in schedule 3”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-3-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (3), for “outside the European Union” substitute “in an approved irradiation facility listed in schedule 4”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-4">
+               <num>(4)</num>
+               <content>
+                  <p>In the heading to schedule 3 (list of approved facilities in member states), for “in member states” substitute “within the United Kingdom and European Union”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-5">
+               <num>(5)</num>
+               <content>
+                  <p>In the heading to schedule 4 (list of facilities in a country outside the European Union), insert “approved” before “facilities” and insert “ United Kingdom and” before “European Union”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Amendment of the Official Feed and Food Controls (Scotland) Regulations 2009</heading>
+            <num>7.</num>
+            <paragraph eId="regulation-7-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Official Feed and Food Controls (Scotland) Regulations 2009<b/>
+                     <noteRef href="#f00009" class="footnote" marker="9"/>
+                     <b/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 4 (exchanging and providing information)<noteRef href="#f00010" class="footnote" marker="10"/>—</p>
+               </intro>
+               <subparagraph eId="regulation-7-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1), for “member States” substitute “appropriate authorities”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (4), for “EU legislation” substitute “retained EU law”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 5 (obtaining information), in paragraph (1), for “member States” substitute “appropriate authorities”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 10 (meaning of “enforcement authority” and related expressions), in paragraph (2), omit “but does not include the European Commission”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-5">
+               <num>(5)</num>
+               <content>
+                  <p>Omit regulations 14 (staff of competent authority of another member state), 15 (commission experts) and 16 (prohibition on disclosure of trade secrets).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-6">
+               <num>(6)</num>
+               <intro>
+                  <p>In regulation 17 (execution and enforcement)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit paragraph (3),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (5), omit sub-paragraphs (a) and (b).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-7">
+               <num>(7)</num>
+               <content>
+                  <p>In regulation 19 (obstruction etc. of officers), in paragraph (1), omit “14, 15 or” in both places where it appears.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-8">
+               <num>(8)</num>
+               <content>
+                  <p>In regulation 20 (penalties), in paragraph (2), for “, 11 or 16” substitute “or 11”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-9">
+               <num>(9)</num>
+               <content>
+                  <p>In regulation 22 (interpretation of this part of these regulations) omit the definition of “the relevant territories”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-10">
+               <num>(10)</num>
+               <intro>
+                  <p>In regulation 28 (prohibition on introduction of certain feed and food)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>at the end of paragraph (1)(a) insert “and”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>omit paragraph (1)(b),</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-10-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>at the end of paragraph (1)(c) omit “and”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-10-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>omit paragraph (1)(d).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-11">
+               <num>(11)</num>
+               <content>
+                  <p>Omit regulation 44 (expenses arising in respect of co-ordinated assistance and follow-up by the Commission).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-7-12">
+               <num>(12)</num>
+               <intro>
+                  <p>In the table in schedule 4 (competent authorities for the purposes of certain provisions of Regulation 882/2004 in so far as they apply in relation to relevant feed law)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-12-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in the first entry, in column 2, omit the references to the following provisions of Regulation <ref eId="c00009" href="http://www.legislation.gov.uk/european/regulation/2004/0882">(EC) No. 882/2004</ref>—</p>
+                  </intro>
+                  <clause eId="regulation-7-12-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>Article 19(3),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>Article 34,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>Article 35(3) and (4),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>Article 36,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>Article 37(1),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>Article 38,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-vii">
+                     <num>(vii)</num>
+                     <content>
+                        <p>Article 39,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-viii">
+                     <num>(viii)</num>
+                     <content>
+                        <p>Article 40(2) and (4), and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-a-ix">
+                     <num>(ix)</num>
+                     <content>
+                        <p>Article 52(1), and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-7-12-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in the second entry, in column 2, omit the references to the following provisions of that Regulation—</p>
+                  </intro>
+                  <clause eId="regulation-7-12-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>Article 34,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>Article 35(3),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>Article 36,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>Article 37(1),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>Article 38,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>Article 39, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-12-b-vii">
+                     <num>(vii)</num>
+                     <content>
+                        <p>Article 40(2) and (4).</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-13">
+               <num>(13)</num>
+               <intro>
+                  <p>In the table in schedule 5 (competent authorities for the purposes of certain provisions of Regulation 882/2004 in so far as they apply in relation to relevant food law)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-13-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in the first entry, in column 2, omit the references to the following provisions of Regulation <ref eId="c00010" href="http://www.legislation.gov.uk/european/regulation/2004/0882">(EC) No. 882/2004</ref>—</p>
+                  </intro>
+                  <clause eId="regulation-7-13-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>Article 19(3),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>Article 34,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>Article 35(3) and (4),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>Article 36,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>Article 37(1),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>Article 38,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-vii">
+                     <num>(vii)</num>
+                     <content>
+                        <p>Article 39,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-viii">
+                     <num>(viii)</num>
+                     <content>
+                        <p>Article 40(2) and (4), and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-a-ix">
+                     <num>(ix)</num>
+                     <content>
+                        <p>Article 52(1), and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-7-13-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in the second entry, in column 2, omit the references to the following provisions of that Regulation—</p>
+                  </intro>
+                  <clause eId="regulation-7-13-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>Article 34,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>Article 35(3),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>Article 36,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>Article 37(1),</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>Article 38,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>Article 39, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-13-b-vii">
+                     <num>(vii)</num>
+                     <content>
+                        <p>Article 40(2) and (4).</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-7-14">
+               <num>(14)</num>
+               <content>
+                  <p>In schedule 6 (specified import provisions), in the first entry in column 2 of the table, for “in the official language of the member State), although the member State may consent to common entry documents being drawn up in another official language of the European Union” substitute “in English, or in English and Welsh).”</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-8">
+            <heading>Amendment of the Animal Feed (Scotland) Regulations 2010</heading>
+            <num>8.</num>
+            <paragraph eId="regulation-8-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Animal Feed (Scotland) Regulations 2010<noteRef href="#f00011" class="footnote" marker="11"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-8-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In regulation 5 (competent authorities for the purpose of Regulation 767/2009)<noteRef href="#f00012" class="footnote" marker="12"/>—</p>
+               </intro>
+               <subparagraph eId="regulation-8-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>omit paragraph (2)(a), and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-8-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2)(b) for “Commission” substitute “appropriate authority”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-8-3">
+               <num>(3)</num>
+               <content>
+                  <p>In the table in schedule 1, omit the entry in relation to Article 25(4) of Regulation <ref eId="c00011" href="http://www.legislation.gov.uk/european/regulation/2009/0767">(EC) No. 767/2009</ref>.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-9">
+            <heading>Amendment of the Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011</heading>
+            <num>9.</num>
+            <paragraph eId="regulation-9-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011<noteRef href="#f00013" class="footnote" marker="13"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-9-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 3 (breach of conditions on import of plastic kitchenware from China) in paragraph (1) for “European Union” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-9-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 8 (notices and actions in the case of non-compliance) in paragraph (3)(a)(i) for “European Union” substitute “United Kingdom”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-10">
+            <heading>Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012</heading>
+            <num>10.</num>
+            <paragraph eId="regulation-10-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Materials and Articles in Contact with Food (Scotland) Regulations 2012<noteRef href="#f00014" class="footnote" marker="14"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 4 (offences of contravening specified provisions of Regulation 1935/2004) in paragraph (3) omit “Community”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-3">
+               <num>(3)</num>
+               <intro>
+                  <p>In regulation 6 (competent authorities for the purposes of Regulation 1935/2004 and Regulation 2023/2006)—</p>
+               </intro>
+               <subparagraph eId="regulation-10-3-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)(a)—</p>
+                  </intro>
+                  <clause eId="regulation-10-3-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>for “Articles” substitute “Article”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-10-3-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>omit “and 13 (competent authorities of Member States)”<noteRef href="#f00015" class="footnote" marker="15"/>, and</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-10-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (1)(b) for “16(1)” substitute “16”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-10-4">
+               <num>(4)</num>
+               <content>
+                  <p>In regulation 9 (interpretation of this part) omit paragraph (b).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-5">
+               <num>(5)</num>
+               <content>
+                  <p>For regulation 10 (limits for lead and cadmium and declaration of compliance) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>10.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>The quantities of lead and cadmium transferred from a ceramic article must not exceed the limits set out in paragraph (5) as read with paragraphs (4) and (6).</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Unless it is demonstrated that the materials used to make the ceramic article did not contain lead or cadmium, the quantities of lead and cadmium transferred from a ceramic article must be determined by means of a test, the conditions of which are specified in Schedule 3, using the method of analysis described in Schedule 4.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(3)</num>
+                                 <content>
+                                    <p>No person may place on the market a ceramic article that does not comply with the requirements of paragraph (1) as read with paragraph (2).</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>Where a ceramic article consists of a vessel fitted with a ceramic lid, the lead or cadmium limits (or both) which may not be exceeded (mg/dm<sup>2</sup> or mg/litre) must be that which applies to the vessel alone. The vessel alone and the inner surface of the lid must be tested separately and under the same conditions. The sum of the two lead or cadmium extraction levels obtained by this method must be related as appropriate to the surface area or the volume of the vessel alone.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>A ceramic article is to be recognised as satisfying the requirements of these Regulations relating to such articles if the quantities of lead or cadmium (or both) extracted during the test carried out under the conditions laid down in Schedule 3 and Schedule 4 do not exceed the following limits—</p>
+                                    <tblock class="tabular" ukl:Orientation="portrait">
+                                       <foreign>
+                                          <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                                             <colgroup>
+                                                <col width="246.4pt"/>
+                                                <col width="77.95pt"/>
+                                                <col width="73.75pt"/>
+                                             </colgroup>
+                                             <thead>
+                                                <tr>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black"/>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Pb</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Cd</th>
+                                                </tr>
+                                             </thead>
+                                             <tbody>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Category 1— Articles which cannot be filled and articles which can be filled, the internal depth of which, measured from the lowest point to the horizontal plane passing through the upper rim, does not exceed 25 mm.</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">0,8 mg/dm<sup xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">2</sup>
+                                                   </td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">0,07 mg/dm<sup xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">2</sup>
+                                                   </td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Category 2— All other articles which can be filled.</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">4,0 mg/l</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">0,3 mg/l</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Category 3— Cooking ware; packaging and storage vessels having a capacity of more than three litres.</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">1,5 mg/l</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">0,1 mg/l</td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </foreign>
+                                    </tblock>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(6)</num>
+                                 <content>
+                                    <p>However, where a ceramic article does not exceed the above quantities by more than 50%, that article is nevertheless to be recognised as satisfying the requirements of these Regulations relating to such articles if at least three other articles with the same shape, dimensions, decoration and glaze are subjected to a test carried out under the conditions laid down in Schedule 3 and Schedule 4 and the average quantities of lead or cadmium (or both) extracted from those articles do not exceed the limits set, with none of those articles exceeding those limits by more than 50%.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-6">
+               <num>(6)</num>
+               <content>
+                  <p>After regulation 10 insert—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>10A.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <content>
+                                    <p>A person who places on the market a ceramic article which is not yet in contact with foodstuffs must provide a written declaration in accordance with Article 16 of Regulation 1935/2004 to accompany the article at the marketing stages up to and including the retail stage.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>The declaration must be issued by the manufacturer or by a seller in the United Kingdom and must contain the information laid down in Schedule 5.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>A person who manufactures or, in the course of a business, imports into the United Kingdom a ceramic article must on request make available to an authorised officer appropriate documentation to demonstrate that the ceramic article complies with the migration limits for lead and cadmium set out in regulation 10 including—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the results of the analysis carried out,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the test conditions, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the name and the address of the laboratory that performed the testing.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>Paragraphs (1), (2) and (3) do not apply in relation to a ceramic article which is second-hand.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(5)</num>
+                                 <content>
+                                    <p>The documentation specified in paragraph (3)(a), (b) and (c) is not required where documentary evidence is provided to show that the materials used to make the ceramic article did not contain lead or cadmium.</p>
+                                 </content>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-7">
+               <num>(7)</num>
+               <content>
+                  <p>In regulation 20 (execution and enforcement) in paragraph (2)(a) for “16(1)” substitute “16”.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-8">
+               <num>(8)</num>
+               <content>
+                  <p>After schedule 2 (revocations) insert schedules 3, 4 and 5:<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE 3<authorialNote class="referenceNote">
+                                    <p>Regulation 10</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>BASIC RULES FOR DETERMINING THE MIGRATION OF LEAD AND CADMIUM</heading>
+                              <paragraph>
+                                 <num>1.</num>
+                                 <content>
+                                    <p>
+                                       <b>Test liquid (‘simulant’)</b>
+                                    </p>
+                                    <p>4 % (v/v) acetic acid, in a freshly prepared aqueous solution.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <num>2.</num>
+                                 <intro>
+                                    <p>
+                                       <b>Test conditions</b>
+                                    </p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>Carry out the test at a temperature of 22 ± 2 °C for a duration of 24 ± 0,5 hours</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>When the migration of lead is to be determined, cover the sample by an appropriate means of protection and expose it to the usual lighting conditions in a laboratory. When the migration of cadmium or of lead and cadmium is to be determined, cover the sample so as to ensure that the surface to be tested is kept in total darkness.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>3.</num>
+                                 <intro>
+                                    <p>
+                                       <b>Filling</b>
+                                    </p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>Samples which can be filled—</p>
+                                       <p>Fill the article with a 4 % (v/v) acetic acid solution to a level no more than 1 mm from the overflow point; the distance is measured from the upper rim of the sample. Samples with a flat or slightly sloping rim should be filled so that the distance between the surface of the liquid and the overflow point is no more than 6 mm measured along the sloping rim.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>Samples which cannot be filled—</p>
+                                       <p>The surface of the sample which is not intended to come into contact with foodstuffs is first covered with a suitable protective layer able to resist the action of the 4 % (v/v) acetic acid solution. The sample is then immersed in a recipient containing a known volume of acetic acid solution in such a way that the surface intended to come into contact with foodstuffs is completely covered by the test liquid.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>4.</num>
+                                 <content>
+                                    <p>
+                                       <b>Determination of the surface area</b>
+                                    </p>
+                                    <p>The surface area of the articles in category 1 in regulation 10(5) is equal to the surface area of the meniscus formed by the free liquid surface obtained by complying with the filling requirements set out in paragraph 3.</p>
+                                 </content>
+                              </paragraph>
+                           </hcontainer>
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE 4<authorialNote class="referenceNote">
+                                    <p>Regulation 10</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>METHODS OF ANALYSIS FOR DETERMINATION OF THE MIGRATION OF LEAD AND CADMIUM</heading>
+                              <paragraph>
+                                 <heading>Object and field of application</heading>
+                                 <num>1.</num>
+                                 <content>
+                                    <p>The method allows the specific migration of lead or cadmium (or both) to be determined.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <heading>Principle</heading>
+                                 <num>2.</num>
+                                 <content>
+                                    <p>The determination of the specific migration of lead or cadmium (or both) is carried out by an instrumental method of analysis that fulfils the performance criteria of paragraph 4.</p>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <heading>Reagents</heading>
+                                 <num>3.</num>
+                                 <hcontainer name="wrapper1">
+                                    <content>
+                                       <p>All reagents must be of analytical quality, unless otherwise specified.</p>
+                                    </content>
+                                 </hcontainer>
+                                 <hcontainer name="wrapper1">
+                                    <intro>
+                                       <p>Where reference is made to water, it shall always mean distilled water or water of equivalent quality.</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>4 % (v/v) acetic acid, in aqueous solution.</p>
+                                       </content>
+                                    </paragraph>
+                                 </hcontainer>
+                                 <hcontainer name="wrapper1">
+                                    <intro>
+                                       <p>Add 40 ml of glacial acetic acid to water and make up to 1 000 ml.</p>
+                                    </intro>
+                                    <paragraph class="para1">
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>Stock solutions.</p>
+                                       </content>
+                                    </paragraph>
+                                 </hcontainer>
+                                 <hcontainer name="wrapper1">
+                                    <content>
+                                       <p>Prepare stock solutions containing 1 000 mg/litre of lead and at least 500 mg/litre of cadmium respectively in a 4 % acetic acid solution, as referred to in paragraph 3(a).</p>
+                                    </content>
+                                 </hcontainer>
+                              </paragraph>
+                              <paragraph>
+                                 <num>4.</num>
+                                 <intro>
+                                    <p>
+                                       <b>Performance criteria of the instrumental method of analysis</b>
+                                    </p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>The detection limit for lead and cadmium must be equal to or lower than—</p>
+                                       <p>0,1 mg/litre for lead,</p>
+                                       <p>0,01 mg/litre for cadmium.</p>
+                                       <p>The detection limit is defined as the concentration of the element in the 4 % acetic acid solution, as referred to in paragraph 3(a) which gives a signal equal to twice the background noise of the instrument.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>The limit of quantification for lead and cadmium must be equal to or lower than—</p>
+                                       <p>0,2 mg/litre for lead,</p>
+                                       <p>0,02 mg/litre for cadmium.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>Recovery - the recovery of lead and cadmium added to the 4 % acetic acid solution, as referred to in paragraph 3(a) must lie within 80-120 % of the added amount.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>Specificity - the instrumental method of analysis used must be free from matrix and spectral interferences.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>5.</num>
+                                 <intro>
+                                    <p>
+                                       <b>Method</b>
+                                    </p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>Preparation of the sample</p>
+                                       <p>The sample must be clean and free from grease or other matter likely to affect the test.</p>
+                                       <p>Wash the sample in a solution containing a household liquid detergent at a temperature of approximately 40 °C. Rinse the sample first in tap-water and then in distilled water or water of equivalent quality. Drain and dry so as to avoid any stain. The surface to be tested is not to be handled after it has been cleaned.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>Determination of lead or cadmium (or both)</p>
+                                       <p>The sample prepared in accordance with paragraph 5(a) is tested under the conditions laid down in schedule 3.</p>
+                                       <p>Before taking the test solution for determining lead or cadmium (or both), homogenise the content of the sample by an appropriate method, which avoids any loss of solution or abrasion of the surface being tested.</p>
+                                       <p>Carry out a blank test on the reagent used for each series of determinations.</p>
+                                       <p>Carry out determinations for lead or cadmium (or both) under appropriate conditions.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                           </hcontainer>
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE 5<authorialNote class="referenceNote">
+                                    <p>Regulation 10</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>DECLARATION OF COMPLIANCE</heading>
+                              <paragraph>
+                                 <num>1.</num>
+                                 <intro>
+                                    <p>The declaration referred to in regulation 10A must contain the following information—</p>
+                                 </intro>
+                                 <paragraph class="para1">
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the identity and address of the company which manufactures the finished ceramic article and of the importer who imports it into the United Kingdom,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the identity of the ceramic article,</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>the date of the declaration, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph class="para1">
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>the confirmation that the ceramic article meets relevant requirements in these Regulations and Regulation <ref eId="c00012" href="http://www.legislation.gov.uk/european/regulation/2004/1935">(EC) No 1935/2004</ref>.</p>
+                                    </content>
+                                 </paragraph>
+                              </paragraph>
+                              <paragraph>
+                                 <num>2.</num>
+                                 <content>
+                                    <p>The declaration must permit an easy identification of the goods for which it is issued and shall be renewed when substantial changes in the production bring about changes in the migration of lead and cadmium.</p>
+                                 </content>
+                              </paragraph>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-11">
+            <heading>Amendment of the Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013</heading>
+            <num>11.</num>
+            <paragraph eId="regulation-11-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013<noteRef href="#f00016" class="footnote" marker="16"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-11-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In schedule 2 (qualifications of food examiners)—</p>
+               </intro>
+               <subparagraph eId="regulation-11-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in Part 1, paragraph 7, for “another Member State”, substitute “the European Union”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in Part 2, paragraph 2, for “of another Member State” substitute “in the European Union”.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-11-3">
+               <num>(3)</num>
+               <content>
+                  <p>In Part 2, paragraph 4, for “of another Member State” substitute “in a Member State of the European Union”.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-12">
+            <heading>Amendment of the Contaminants in Food (Scotland) Regulations 2013</heading>
+            <num>12.</num>
+            <paragraph eId="regulation-12-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Contaminants in Food (Scotland) Regulations 2013<noteRef href="#f00017" class="footnote" marker="17"/> are amended as follows.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-12-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 5 (controls on contaminants in food) omit “EU” in each place where it appears.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-12-3">
+               <num>(3)</num>
+               <content>
+                  <p>In regulation 8 (application of various sections of the Food Safety Act 1990), in paragraph (2), in the text of section 9 of the Food Safety Act 1990<noteRef href="#f00018" class="footnote" marker="18"/> as it applies for the purposes of the Contaminants in Food (Scotland) Regulations 2013, omit “EU” in each place where it appears.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-18">18th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act <ref eId="c00013" href="http://www.legislation.gov.uk/id/ukpga/2018/16">2018 (c.16)</ref> to address failures of retained EU law to operate effectively, and other deficiencies, arising from the withdrawal of the UK from the European Union.</p>
+            <p>These Regulations make amendments to subordinate legislation in the field of Food and Feed Safety and Hygiene in relation to Scotland.</p>
+            <p>An impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

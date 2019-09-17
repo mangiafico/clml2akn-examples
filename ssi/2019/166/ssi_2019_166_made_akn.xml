@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/166"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/166"/>
+               <FRBRdate date="2019-05-15" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="166"/>
+               <FRBRname value="S.S.I. 2019/166"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/166/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/166/made"/>
+               <FRBRdate date="2019-05-15" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/166/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/166/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-05-15" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-05-17" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-06-30" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/1984/27">1984 c.27</ref>. Section 17(2) was amended by the New Roads and Street Works Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/ukpga/1991/22">1991 (c.22)</ref>, schedule 8, paragraph 28, by the Road Traffic Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1991/40">1991 (c.40)</ref>, schedule 4, paragraph 25 and schedule 8, paragraph 1, and by the Scotland Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/ukpga/2012/11">2012 (c.11)</ref>, section 21(3). Section 17(3ZA) was inserted by the Scotland Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/2012/11">2012 (c.11)</ref>, section 21(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 134(8) was inserted by the Scotland Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/2016/11">2016 (c.11)</ref> schedule 2, Part 1, paragraph 12(5).</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2010/82">S.S.I. 2010/82</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00008" href="http://www.legislation.gov.uk/id/asp/2012/8">2012 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00009" href="http://www.legislation.gov.uk/id/ukpga/1984/54">1984 c.54</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/uksi/2016/362">S.I. 2016/362</ref> to which there are amendments not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00007">
+               <p>
+                  <ref eId="c00011" href="http://www.legislation.gov.uk/id/ukpga/1984/54">1984 c.54</ref>. Section 151 has been amended for purposes not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00008">
+               <p>
+                  <ref eId="c00012" href="http://www.legislation.gov.uk/id/uksi/1999/686">S.I. 1999/686</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00009">
+               <p>
+                  <ref eId="c00013" href="http://www.legislation.gov.uk/id/asp/2012/8">2012 asp 8</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00010">
+               <p>
+                  <ref eId="c00014" href="http://www.legislation.gov.uk/id/uksi/2011/935">S.I. 2011/935</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042113"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 166</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Road Traffic</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The A90 Trunk Road (Aberdeen Western Peripheral Route) (Stonehaven to Blackdog) (Prohibitions and Restrictions) Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-05-15">15th May 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-05-17">17th May 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-06-30">30th June 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 17(2), (3) and (3ZA) of the Road Traffic Regulation Act 1984<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <formula name="enactingText">
+            <p>In accordance with section 134(8)<noteRef href="#f00002" class="footnote" marker="2"/> of that Act they have consulted with such representative organisations as they think fit.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the A90 Trunk Road (Aberdeen Western Peripheral Route) (Stonehaven to Blackdog) (Prohibitions and Restrictions) Regulations 2019 and come into force on 30 June 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Interpretation</heading>
+            <num>2.</num>
+            <intro>
+               <p>In these Regulations—</p>
+            </intro>
+            <hcontainer name="definition">
+               <content>
+                  <p>“AWPR” means, unless the context otherwise requires, the lengths of carriageway specified in Part 1 of the schedule and includes any central reservations, emergency laybys and verges,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“A96 Trunk Road” means the lengths of the A96 Craibstone – Inverness Trunk Road constructed under the A96 (Aberdeen Western Peripheral Route) Trunk Road Order 2010<noteRef href="#f00003" class="footnote" marker="3"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“carriageway” means a part of a road which is provided for the regular passage of vehicular motor traffic, including slip roads,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“central reservation” means a part of a road which separates the carriageway to be used by vehicles travelling in one direction from the carriageway to be used by vehicles travelling in the opposite direction,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“constable” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012<noteRef href="#f00004" class="footnote" marker="4"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“emergency layby” means a part of a road which is designed to take the weight of a vehicle, is adjacent to and situated on the left hand side of the carriageway when facing in the direction in which vehicles may be driven in accordance with regulation 4, and which is marked with traffic signs of the type described as blank diagram 1 in Part 1, and item 9 (stopping prohibited in a layby except in emergency) of the sign table in Part 3 of schedule 4 of TSRGD 2016,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“excluded traffic” means traffic which is not traffic of classes I or <abbr class="acronym" title="2">II</abbr> of the classes of traffic specified in schedule 3 of the 1984 Act,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“the 1984 Act” means the Roads (Scotland) Act 1984<noteRef href="#f00005" class="footnote" marker="5"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“TSRGD 2016” means the Traffic Signs Regulations and General Directions 2016<noteRef href="#f00006" class="footnote" marker="6"/>,</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="definition">
+               <content>
+                  <p>“verge” means any part of a road which is not a carriageway, an emergency layby or a central reservation.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>No entry</heading>
+            <num>3.</num>
+            <content>
+               <p>A person must not by vehicle enter any length of the AWPR specified in Part 2 of the schedule at a point where a prohibition against entry is identified as applying to that length of the AWPR, or a part or parts of that length of the AWPR, by means of a traffic sign of the type described in item 10 (diagram 616 – no entry for vehicular traffic) of the sign table in Part 2 of schedule 3 of the TSRGD 2016.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Direction of driving</heading>
+            <num>4.</num>
+            <paragraph eId="regulation-4-1">
+               <num>(1)</num>
+               <intro>
+                  <p>On any length of the carriageway of the AWPR which—</p>
+               </intro>
+               <subparagraph eId="regulation-4-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>is not adjacent to a central reservation, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-4-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>can be entered at one end only,</p>
+                  </content>
+               </subparagraph>
+               <wrapUp>
+                  <p>a person may drive or move a vehicle only from the point of entry of that length of carriageway of the AWPR towards the other end.</p>
+               </wrapUp>
+            </paragraph>
+            <paragraph eId="regulation-4-2">
+               <num>(2)</num>
+               <content>
+                  <p>On any length of the carriageway of the AWPR that is adjacent to a central reservation a person must not drive or move a vehicle such that the central reservation is on the left-hand side of the vehicle.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-4-3">
+               <num>(3)</num>
+               <content>
+                  <p>A person must not drive or move a vehicle on any length of the AWPR so as to cause it to turn and proceed in or face the opposite direction.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-5">
+            <heading>Prohibition on use of the central reservation or verge</heading>
+            <num>5.</num>
+            <content>
+               <p>A person must not drive, move or stop a vehicle, or allow it to remain at rest, on a central reservation or verge on any length of the AWPR.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-6">
+            <heading>Restriction on stopping</heading>
+            <num>6.</num>
+            <paragraph eId="regulation-6-1">
+               <num>(1)</num>
+               <content>
+                  <p>A person must not stop a vehicle, or allow it to remain at rest, on any length of the carriageway of the AWPR.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Paragraph (1) does not apply where it is necessary for a person to stop a vehicle on the carriageway—</p>
+               </intro>
+               <subparagraph eId="regulation-6-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>because of a breakdown or mechanical defect or lack of fuel, oil or water, required for the vehicle,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>because of any accident, illness or other emergency,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>to permit any person carried in or on the vehicle to recover or move any object which has fallen on the road, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-2-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>to permit any person carried in or on the vehicle to give help which is required by any other person in any of the circumstances specified in the provisions of this paragraph.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-3">
+               <num>(3)</num>
+               <content>
+                  <p>As soon as it is reasonably practicable and safe to do so, a person who has stopped a vehicle in accordance with paragraph (2) must drive or move that vehicle on to an emergency layby.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-6-4">
+               <num>(4)</num>
+               <intro>
+                  <p>A person must not allow a vehicle or its load which is at rest in an emergency layby—</p>
+               </intro>
+               <subparagraph eId="regulation-6-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>to obstruct or be a cause of danger to vehicles using the carriageway, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>to remain at rest for longer than is necessary in the circumstances or for the purposes specified in paragraph (2).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-6-5">
+               <num>(5)</num>
+               <intro>
+                  <p>This regulation does not prohibit a vehicle from being stopped, or allowed to remain at rest, on the carriageway—</p>
+               </intro>
+               <subparagraph eId="regulation-6-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>while it is prevented from proceeding along the carriageway by the presence of any other vehicle, person or object, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in order to allow pedestrians or pedal cyclists to cross the carriageway at a place on the carriageway where provision is made for them to do so.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-7">
+            <heading>Restriction on reversing</heading>
+            <num>7.</num>
+            <content>
+               <p>A person must not drive or move a vehicle backwards on any length of the AWPR except to the extent that it is necessary to enable that vehicle to proceed forwards or to be connected to any other vehicle.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-8">
+            <heading>Restriction on the use of emergency laybys</heading>
+            <num>8.</num>
+            <content>
+               <p>A person must not drive, move or stop a vehicle, or allow it to remain at rest, in an emergency layby on any length of the AWPR, except in accordance with regulation 6(3) and (4).</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-9">
+            <heading>Restrictions affecting animals carried in vehicles</heading>
+            <num>9.</num>
+            <paragraph eId="regulation-9-1">
+               <num>(1)</num>
+               <intro>
+                  <p>A person in charge of an animal which is carried in a vehicle must not, so far as is practicable while the vehicle is on any length of the AWPR—</p>
+               </intro>
+               <subparagraph eId="regulation-9-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>remove the animal from the vehicle, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>permit the animal to leave the vehicle.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-9-2">
+               <num>(2)</num>
+               <intro>
+                  <p>If an animal escapes from, or it is necessary for it to be removed from, or to be permitted to leave a vehicle on any length of the AWPR, any person in charge of that animal must not, so far as is practicable—</p>
+               </intro>
+               <subparagraph eId="regulation-9-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>permit the animal to go onto or remain on any length of the AWPR other than an emergency layby or a verge, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-9-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>permit the animal not to be held on a lead or otherwise kept under control while on any length of the AWPR.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-10">
+            <heading>Use of road by excluded traffic</heading>
+            <num>10.</num>
+            <paragraph eId="regulation-10-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Pedestrians may use the AWPR—</p>
+               </intro>
+               <subparagraph eId="regulation-10-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>to cross the carriageway at a place on the carriageway where provision is made for them to do so,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>to use a footway within the meaning of section 151(2)(a)(i) of the 1984 Act<noteRef href="#f00007" class="footnote" marker="7"/>, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-1-c">
+                  <num>(c)</num>
+                  <intro>
+                     <p>when it is necessary for them to do so—</p>
+                  </intro>
+                  <clause eId="regulation-10-1-c-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>as a result of an accident or emergency or as a result of a vehicle that is stopped on the AWPR in any of the circumstances specified in regulation 6(2), or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-10-1-c-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in any other circumstances specified in regulation 11(1)(a), (c), (e), or (f).</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-10-2">
+               <num>(2)</num>
+               <content>
+                  <p>Pedal cyclists may use the AWPR to cross the carriageway of the AWPR at a place where provision is made for them to do so.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-3">
+               <num>(3)</num>
+               <content>
+                  <p>Classes <abbr class="acronym" title="3">III</abbr> and <abbr class="acronym" title="4">IV</abbr> of the classes of traffic specified in schedule 3 of the 1984 Act may use any length of the AWPR for the maintenance, repair, cleaning or clearance of any part of the AWPR or for the erection, laying, placing, maintenance, testing, alteration, repair or removal of any structure, works or apparatus in, on, under or over any part of the AWPR.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-10-4">
+               <num>(4)</num>
+               <intro>
+                  <p>The Scottish Ministers may authorise the use of excluded traffic by any person on any length of the AWPR—</p>
+               </intro>
+               <subparagraph eId="regulation-10-4-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in an emergency,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for the purpose of enabling that traffic to cross the AWPR,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>to secure access to premises abutting on or adjacent to that length of the AWPR,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-4-d">
+                  <num>(d)</num>
+                  <content>
+                     <p>when they otherwise consider it necessary or appropriate to do so.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-10-5">
+               <num>(5)</num>
+               <intro>
+                  <p>Where in an emergency the use of any road, other than a length of the AWPR, by excluded traffic is impossible or unsuitable, the chief constable of the Police Service of Scotland or any constable of, or above, the rank of superintendent authorised by the chief constable may—</p>
+               </intro>
+               <subparagraph eId="regulation-10-5-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>authorise the use of excluded traffic by any person on any such length of the AWPR for the period during which use of the other road by such traffic continues to be impossible or unsuitable,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-5-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>relax any prohibition or restriction imposed by regulations 3 to 9 so far as is necessary.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-11">
+            <heading>Exceptions and relaxations</heading>
+            <num>11.</num>
+            <paragraph eId="regulation-11-1">
+               <num>(1)</num>
+               <intro>
+                  <p>Regulations 4 to 9 do not apply to any person being present on or using any length of the AWPR, by vehicle or otherwise—</p>
+               </intro>
+               <subparagraph eId="regulation-11-1-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>for the purposes of—</p>
+                  </intro>
+                  <clause eId="regulation-11-1-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the exercise of their duty as a constable,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the exercise of the functions of the Scottish Ambulance Service Board under article 4(1)(a) of the Scottish Ambulance Service Board Order 1999<noteRef href="#f00008" class="footnote" marker="8"/>,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-a-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>providing a response to an emergency at the request of the Scottish Ambulance Service Board,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-a-iv">
+                     <num>(iv)</num>
+                     <content>
+                        <p>the Scottish Fire and Rescue Service,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-a-v">
+                     <num>(v)</num>
+                     <content>
+                        <p>Her Majesty’s Coastguard in an emergency,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-a-vi">
+                     <num>(vi)</num>
+                     <content>
+                        <p>the exercise of the functions of the National Crime Agency,</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in accordance with any direction given by a constable in uniform or in accordance with the indication given by a traffic sign,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-1-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>where, in accordance with any permission given by a constable or the traffic authority, they do so for the purpose of investigating any accident or incident which has occurred on or near the AWPR,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-1-d">
+                  <num>(d)</num>
+                  <intro>
+                     <p>where it is necessary for that person to do so to—</p>
+                  </intro>
+                  <clause eId="regulation-11-1-d-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>avoid or prevent an accident, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-d-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>obtain or give help required as a result of an accident or emergency or as a result of a vehicle that is stopped in any of the circumstances specified in regulation 6(2),</p>
+                     </content>
+                  </clause>
+                  <wrapUp>
+                     <p>and they do so in such manner as to cause as little danger and inconvenience as possible to other traffic on the AWPR,</p>
+                  </wrapUp>
+               </subparagraph>
+               <subparagraph eId="regulation-11-1-e">
+                  <num>(e)</num>
+                  <intro>
+                     <p>where it is necessary for them to do so to carry out in an efficient manner—</p>
+                  </intro>
+                  <clause eId="regulation-11-1-e-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>the maintenance, inspection, repair, cleaning, clearance, alteration or improvement of any length of the AWPR,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-e-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>the recovery and removal of any vehicle from any part of the AWPR, or</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-11-1-e-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>the erection, laying, placing, maintenance, testing, alteration, repair or removal of any structure, works or apparatus in, on, under or over any part of the AWPR, or</p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-11-1-f">
+                  <num>(f)</num>
+                  <content>
+                     <p>where it is necessary for them to do so in connection with any inspection, survey, investigation or census which is carried out in accordance with any authority granted by the Scottish Ministers.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-11-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Regulation 3 does not apply to any person being present on or using any length of the AWPR specified in Part 2 of the schedule—</p>
+               </intro>
+               <subparagraph eId="regulation-11-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>for the purposes of Her Majesty’s Coastguard in an emergency, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-11-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in any of the circumstances specified in paragraph (1)(b) to (f).</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-11-3">
+               <num>(3)</num>
+               <content>
+                  <p>Regulation 8 does not apply to any person being present on or using any emergency layby on the AWPR, by vehicle or otherwise, in the exercise of their duties as a member of police staff.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-11-4">
+               <num>(4)</num>
+               <content>
+                  <p>The Scottish Ministers may relax any prohibition or restriction imposed by these Regulations.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-11-5">
+               <num>(5)</num>
+               <content>
+                  <p>In paragraph (3), “police staff” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012<noteRef href="#f00009" class="footnote" marker="9"/>.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-12">
+            <heading>Speed limits</heading>
+            <num>12.</num>
+            <paragraph eId="regulation-12-1">
+               <num>(1)</num>
+               <intro>
+                  <p>A person may not drive any motor vehicle at a speed exceeding—</p>
+               </intro>
+               <subparagraph eId="regulation-12-1-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>70 miles per hour on the lengths of the AWPR specified in Part 3 of the schedule, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-1-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>40 miles per hour on the lengths of the AWPR specified in Part 4 of the schedule.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+            <paragraph eId="regulation-12-2">
+               <num>(2)</num>
+               <intro>
+                  <p>Paragraph (1) does not apply to any person using any—</p>
+               </intro>
+               <subparagraph eId="regulation-12-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>vehicle falling within regulation 3(4) of the Road Traffic Exemptions (Special Forces) (Variation and Amendment) Regulations 2011<noteRef href="#f00010" class="footnote" marker="10"/> when used in accordance with regulation 3(5) of those Regulations, or</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-12-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>vehicle for the purposes of Her Majesty’s Coastguard in an emergency.</p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">MICHAEL MATHESON</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-05-15">15th May 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulations 2, 3 and 12</p>
+                  </authorialNote>
+               </num>
+               <intro>
+                  <p>In this schedule “the road” means the M90/A90/A9000 Edinburgh – Fraserburgh Trunk Road.</p>
+               </intro>
+               <part eId="schedule-part-1">
+                  <num>PART 1</num>
+                  <heading>SPECIFIED LENGTHS OF ROAD CONSTITUTING THE AWPR</heading>
+                  <paragraph eId="schedule-paragraph-1">
+                     <num>1.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway from its junction with the circulatory carriageway of the roundabout at Stonehaven North Junction to its junction with the circulatory carriageway of Cleanhill Roundabout, a distance of 11.45 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-2">
+                     <num>2.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway from its junction with the circulatory carriageway of Cleanhill Roundabout to its junction with the circulatory carriageway of the roundabout at Stonehaven North Junction, a distance of 11.45 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-3">
+                     <num>3.</num>
+                     <content>
+                        <p>That length of the road being the entire circulatory carriageway of Cleanhill Roundabout, a distance of 250 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-4">
+                     <num>4.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway from its junction with the circulatory carriageway of Cleanhill Roundabout to a point 10 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at Blackdog Junction, a distance of 27.33 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-5">
+                     <num>5.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway from a point 10 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at Blackdog Junction to its junction with the circulatory carriageway of Cleanhill Roundabout, a distance of 27.33 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-6">
+                     <num>6.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Deeside Junction from its commencement at its junction with the northbound carriageway to its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 593 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-7">
+                     <num>7.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Deeside Junction from its junction with the circulatory carriageway of the roundabout at that Deeside Junction to its junction with the northbound carriageway, a distance of 670 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-8">
+                     <num>8.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Deeside Junction from its commencement at its junction with the southbound carriageway to its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 809 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-9">
+                     <num>9.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Deeside Junction from its junction with the circulatory carriageway of the roundabout at that Deeside Junction to its junction with the southbound carriageway, a distance of 878 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-10">
+                     <num>10.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Kingswells South Junction from its commencement at its junction with the northbound carriageway to its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction, a distance of 772 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-11">
+                     <num>11.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells South Junction from its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the northbound carriageway, a distance of 839 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-12">
+                     <num>12.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells South Junction from its commencement at its junction with the southbound carriageway to its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction, a distance of 673 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-13">
+                     <num>13.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Kingswells South Junction from its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the southbound carriageway, a distance of 775 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-14">
+                     <num>14.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells North Junction from its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road to its junction with the northbound carriageway, a distance of 555 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-15">
+                     <num>15.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells North Junction from its commencement at its junction with the southbound carriageway to its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road, a distance of 576 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-16">
+                     <num>16.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Craibstone Junction from its commencement at its junction with the northbound carriageway to its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 741 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-17">
+                     <num>17.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Craibstone Junction from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the northbound carriageway, a distance of 584 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-18">
+                     <num>18.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Craibstone Junction from its commencement at its junction with the southbound carriageway to its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 615 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-19">
+                     <num>19.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Craibstone Junction from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the southbound carriageway, a distance of 798 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-20">
+                     <num>20.</num>
+                     <content>
+                        <p>That length of the road being the eastbound off slip road at Parkhill (Goval) Junction from its commencement at its junction with the eastbound carriageway to its junction with the circulatory carriageway of the roundabout at the A947 Aberdeen to Oldmeldrum to Turriff Road at that Parkhill (Goval) Junction, a distance of 494 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-21">
+                     <num>21.</num>
+                     <content>
+                        <p>That length of the road being the eastbound on slip road at Parkhill (Goval) Junction from its junction with the circulatory carriageway of the roundabout at the A947 Aberdeen to Oldmeldrum to Turriff Road at that Parkhill (Goval) Junction to its junction with the eastbound carriageway, a distance of 624 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-22">
+                     <num>22.</num>
+                     <content>
+                        <p>That length of the road being the westbound off slip road at Parkhill (Goval) Junction from its commencement at its junction with the westbound carriageway to its junction with the circulatory carriageway of the roundabout at the B977 Echt to Balmedie Road at that Parkhill (Goval) Junction, a distance of 677 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-23">
+                     <num>23.</num>
+                     <content>
+                        <p>That length of the road being the westbound on slip road at Parkhill (Goval) Junction from its junction with the circulatory carriageway of the roundabout at the B977 Echt to Balmedie Road at that Parkhill (Goval) Junction to its junction with the westbound carriageway, a distance of 674 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+               </part>
+               <part eId="schedule-part-2">
+                  <num>PART 2</num>
+                  <heading>SPECIFIED LENGTHS OF ROAD – NO ENTRY</heading>
+                  <paragraph eId="schedule-paragraph-24">
+                     <num>24.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Kingswells South Junction from its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the northbound carriageway, a distance of 772 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-25">
+                     <num>25.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells South Junction from its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the southbound carriageway, a distance of 673 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-26">
+                     <num>26.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells North Junction from its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road to its junction with the southbound carriageway, a distance of 576 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-27">
+                     <num>27.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Craibstone Junction from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the northbound carriageway, a distance of 741 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-28">
+                     <num>28.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Craibstone Junction from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the southbound carriageway, a distance of 615 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-29">
+                     <num>29.</num>
+                     <content>
+                        <p>That length of the road being the eastbound off slip road at Parkhill (Goval) Junction from its junction with the circulatory carriageway of the roundabout at the A947 Aberdeen to Oldmeldrum to Turriff Road at that Parkhill (Goval) Junction to its junction with the eastbound carriageway, a distance of 494 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-30">
+                     <num>30.</num>
+                     <content>
+                        <p>That length of the road being the westbound off slip road at Parkhill (Goval) Junction from its junction with the circulatory carriageway of the roundabout at the B977 Echt to Balmedie Road at that Parkhill (Goval) Junction to its junction with the westbound carriageway, a distance of 677 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+               </part>
+               <part eId="schedule-part-3">
+                  <num>PART 3</num>
+                  <heading>SPECIFIED LENGTHS OF ROAD – 70 <abbr class="acronym" title="Miles Per Hour">MPH</abbr> SPEED RESTRICTION</heading>
+                  <paragraph eId="schedule-paragraph-31">
+                     <num>31.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway from a point 42 metres or thereby north of its junction with the circulatory carriageway of the roundabout at Stonehaven North Junction to its junction with the circulatory carriageway of Cleanhill Roundabout, a distance of 11.41 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-32">
+                     <num>32.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway from its junction with the circulatory carriageway of Cleanhill Roundabout to a point 42 metres or thereby north of its junction with the circulatory carriageway of the roundabout at Stonehaven North Junction, a distance of 11.41 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-33">
+                     <num>33.</num>
+                     <content>
+                        <p>That length of the road being the entire circulatory carriageway of Cleanhill Roundabout, a distance of 250 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-34">
+                     <num>34.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway from its junction with the circulatory carriageway of Cleanhill Roundabout to a point 32 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at Blackdog Junction, a distance of 27.31 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-35">
+                     <num>35.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway from a point 32 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at Blackdog Junction to its junction with the circulatory carriageway of Cleanhill Roundabout, a distance of 27.31 kilometres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-36">
+                     <num>36.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Deeside Junction from its commencement at its junction with the northbound carriageway to a point 36 metres or thereby north of its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 557 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-37">
+                     <num>37.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Deeside Junction from a point 36 metres or thereby north of its junction with the circulatory carriageway of the roundabout at that Deeside Junction to its junction with the northbound carriageway, a distance of 634 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-38">
+                     <num>38.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Deeside Junction from its commencement at its junction with the southbound carriageway to a point 26 metres or thereby east of its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 783 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-39">
+                     <num>39.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Deeside Junction from a point 26 metres or thereby east of its junction with the circulatory carriageway of the roundabout at that Deeside Junction to its junction with the southbound carriageway, a distance of 852 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-40">
+                     <num>40.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Kingswells South Junction from its commencement at its junction with the northbound carriageway to a point 200 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction, a distance of 572 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-41">
+                     <num>41.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells South Junction from a point 50 metres or thereby north-east of its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the northbound carriageway, a distance of 789 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-42">
+                     <num>42.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells South Junction from its commencement at its junction with the southbound carriageway to a point 319 metres or thereby north of its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction, a distance of 354 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-43">
+                     <num>43.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Kingswells South Junction from a point 50 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at the A944 Aberdeen to Alford to Strathdon Road at that Kingswells South Junction to its junction with the southbound carriageway, a distance of 725 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-44">
+                     <num>44.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells North Junction from a point 46 metres or thereby north-east of its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road to its junction with the northbound carriageway, a distance of 509 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-45">
+                     <num>45.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells North Junction from its commencement at its junction with the southbound carriageway to a point 52 metres or thereby north-east of its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road, a distance of 524 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-46">
+                     <num>46.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Craibstone Junction from its commencement at its junction with the northbound carriageway to a point 179 metres or thereby south of its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 562 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-47">
+                     <num>47.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Craibstone Junction from a point 22 metres or thereby north of its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the northbound carriageway, a distance of 562 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-48">
+                     <num>48.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Craibstone Junction from its commencement at its junction with the southbound carriageway to a point 188 metres or thereby north of its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 427 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-49">
+                     <num>49.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Craibstone Junction from a point 41 metres or thereby south of its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road to its junction with the southbound carriageway, a distance of 757 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-50">
+                     <num>50.</num>
+                     <content>
+                        <p>That length of the road being the eastbound off slip road at Parkhill (Goval) Junction from its commencement at its junction with the eastbound carriageway to a point 52 metres or thereby west of its junction with the circulatory carriageway of the roundabout at the A947 Aberdeen to Oldmeldrum to Turriff Road at that Parkhill (Goval) Junction, a distance of 442 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-51">
+                     <num>51.</num>
+                     <content>
+                        <p>That length of the road being the eastbound on slip road at Parkhill (Goval) Junction from a point 20 metres or thereby east of its junction with the circulatory carriageway of the roundabout at the A947 Aberdeen to Oldmeldrum to Turriff Road at that Parkhill (Goval) Junction to its junction with the eastbound carriageway, a distance of 604 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-52">
+                     <num>52.</num>
+                     <content>
+                        <p>That length of the road being the westbound off slip road at Parkhill (Goval) Junction from its commencement at its junction with the westbound carriageway to a point 44 metres or thereby north-east of its junction with the circulatory carriageway of the roundabout at the B977 Echt to Balmedie Road at that Parkhill (Goval) Junction, a distance of 633 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-53">
+                     <num>53.</num>
+                     <content>
+                        <p>That length of the road being the westbound on slip road at Parkhill (Goval) Junction from a point 50 metres or thereby west of its junction with the circulatory carriageway of the roundabout at the B977 Echt to Balmedie Road at that Parkhill (Goval) Junction to its junction with the westbound carriageway, a distance of 624 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+               </part>
+               <part eId="schedule-part-4">
+                  <num>PART 4</num>
+                  <heading>SPECIFIED LENGTHS OF ROAD – 40 MPH SPEED RESTRICTION</heading>
+                  <paragraph eId="schedule-paragraph-54">
+                     <num>54.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway at Stonehaven North Junction leading from its junction with the circulatory carriageway of the roundabout at that Stonehaven North Junction, a distance of 42 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-55">
+                     <num>55.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway at Stonehaven North Junction leading to its junction with the circulatory carriageway of the roundabout at that Stonehaven North Junction, a distance of 42 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-56">
+                     <num>56.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Deeside Junction leading to its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 36 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-57">
+                     <num>57.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Deeside Junction leading from its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 36 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-58">
+                     <num>58.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Deeside Junction leading to its junction with the circulatory carriageway of the roundabout at that Deeside Junction, a distance of 26 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-59">
+                     <num>59.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Deeside Junction leading from its junction with circulatory carriageway of the roundabout at that Deeside Junction, a distance of 26 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-60">
+                     <num>60.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Kingswells South Junction leading to its junction with the circulatory carriageway of the roundabout at that Kingswells South Junction, a distance of 200 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-61">
+                     <num>61.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells South Junction leading from its junction with the circulatory carriageway of the roundabout at that Kingswells South Junction, a distance of 50 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-62">
+                     <num>62.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells South Junction leading to its junction with the circulatory carriageway of the roundabout at that Kingswells South Junction, a distance of 319 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-63">
+                     <num>63.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Kingswells South Junction leading from its junction with the circulatory carriageway of the roundabout at that Kingswells South Junction, a distance of 50 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-64">
+                     <num>64.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Kingswells North Junction leading from its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road, a distance of 46 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-65">
+                     <num>65.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Kingswells North Junction leading to its junction with the road that connects that Kingswells North Junction and the C89C Chapel of Stoneywood to Fairley Road, a distance of 52 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-66">
+                     <num>66.</num>
+                     <content>
+                        <p>That length of the road being the northbound off slip road at Craibstone Junction leading to its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 179 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-67">
+                     <num>67.</num>
+                     <content>
+                        <p>That length of the road being the northbound on slip road at Craibstone Junction leading from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 22 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-68">
+                     <num>68.</num>
+                     <content>
+                        <p>That length of the road being the southbound off slip road at Craibstone Junction leading to its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 188 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-69">
+                     <num>69.</num>
+                     <content>
+                        <p>That length of the road being the southbound on slip road at Craibstone Junction leading from its junction with the A96 Trunk Road being the road that connects the C89C Chapel of Stoneywood to Fairley Road and the roundabout at the A96 Trunk Road, a distance of 41 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-70">
+                     <num>70.</num>
+                     <content>
+                        <p>That length of the road being the eastbound off slip road at Parkhill (Goval) Junction leading to its junction with the circulatory carriageway of the west roundabout at that Parkhill (Goval) Junction, a distance of 52 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-71">
+                     <num>71.</num>
+                     <content>
+                        <p>That length of the road being the eastbound on slip road at Parkhill (Goval) Junction leading from its junction with the circulatory carriageway of the west roundabout at that Parkhill (Goval) Junction, a distance of 20 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-72">
+                     <num>72.</num>
+                     <content>
+                        <p>That length of the road being the westbound off slip road at Parkhill (Goval) Junction leading to its junction with the circulatory carriageway of the east roundabout at that Parkhill (Goval) Junction, a distance of 44 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-73">
+                     <num>73.</num>
+                     <content>
+                        <p>That length of the road being the westbound on slip road at Parkhill (Goval) Junction leading from its junction with the circulatory carriageway of the east roundabout at that Parkhill (Goval) Junction, a distance of 50 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-74">
+                     <num>74.</num>
+                     <content>
+                        <p>That length of the road being the northbound carriageway at Blackdog Junction leading to a point 10 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at that Blackdog Junction, a distance of 22 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+                  <paragraph eId="schedule-paragraph-75">
+                     <num>75.</num>
+                     <content>
+                        <p>That length of the road being the southbound carriageway at Blackdog Junction leading from a point 10 metres or thereby south-west of its junction with the circulatory carriageway of the roundabout at that Blackdog Junction, a distance of 22 metres or thereby.</p>
+                     </content>
+                  </paragraph>
+               </part>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations make provision for the regulation of traffic using that part of the M90/A90/A9000 Edinburgh – Fraserburgh Trunk Road being the special road section of the A90 known as the Aberdeen Western Peripheral Route (“AWPR”).</p>
+            <p>The Regulations provide that except in the circumstances referred to in regulation 11—</p>
+            <blockList>
+               <item>
+                  <num>a)</num>
+                  <p>no entry signs must be complied with (regulation 3),</p>
+               </item>
+               <item>
+                  <num>b)</num>
+                  <p>vehicles using the carriageways must observe one-way driving (regulation 4),</p>
+               </item>
+               <item>
+                  <num>c)</num>
+                  <p>vehicles are prohibited from being on the central reservations or verges (regulation 5),</p>
+               </item>
+               <item>
+                  <num>d)</num>
+                  <p>vehicles are not to stop on the carriageways (regulation 6),</p>
+               </item>
+               <item>
+                  <num>e)</num>
+                  <p>reversing is prohibited (regulation 7),</p>
+               </item>
+               <item>
+                  <num>f)</num>
+                  <p>emergency laybys are not to be used by vehicles (regulation 8),</p>
+               </item>
+               <item>
+                  <num>g)</num>
+                  <p>animals carried in a vehicle are as far as practicable to be kept in the vehicle or, if they are not in the vehicle, are not to go or remain on the AWPR other than in an emergency layby or on a verge and are to be kept under proper control (regulation 9).</p>
+               </item>
+            </blockList>
+            <p>Regulation 10 provides that certain classes of traffic not ordinarily authorised to use the AWPR may do so in the circumstances specified in the Regulation.</p>
+            <p>Regulation 11 provides for certain general exceptions from the provisions of the Regulations and authorises the Scottish Ministers to relax any prohibition or restriction imposed by the Regulations.</p>
+            <p>Regulation 12 makes provision for a 70 mph speed limit or a 40 mph speed limit on the sections of the AWPR which are described in Parts 3 and 4 of the schedule, respectively.</p>
+            <p>No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

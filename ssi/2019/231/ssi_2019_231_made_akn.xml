@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/231"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/231"/>
+               <FRBRdate date="2019-06-25" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="231"/>
+               <FRBRname value="S.S.I. 2019/231"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/231/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/231/made"/>
+               <FRBRdate date="2019-06-25" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/231/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/231/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-06-25" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-06-26" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-10-10" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00001" href="http://www.legislation.gov.uk/id/asp/2004/8">2004 asp 8</ref>; section 141 was amended by section 1 of the Private Rented Housing (Scotland) Act <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2011/14">2011 (asp 14)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ssi/2005/80">S.S.I. 2005/80</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/1986/1078">S.I. 1986/1078</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/uksi/1999/2864">S.I. 1999/2864</ref>, to which there are amendments not relevant to these Regulations.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1984/54">1984 c.54</ref>. Section 151 was amended by section 168(1) and schedule 8, paragraph 94(b) of the New Roads and Street Works Act <ref eId="c00007" href="http://www.legislation.gov.uk/id/ukpga/1991/22">1991 (c.22)</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111042540"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 231</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Police</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-06-25">25th June 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-06-26">26th June 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-10-10">10th October 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <formula name="enactingText">
+            <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 127 and 141 of the Antisocial Behaviour etc. (Scotland) Act 2004<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="regulation" eId="regulation-1">
+            <heading>Citation and commencement</heading>
+            <num>1.</num>
+            <content>
+               <p>These Regulations may be cited as the Police (Retention and Disposal of Motor Vehicles) (Scotland) Amendment Regulations 2019 and come into force on 10 October 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-2">
+            <heading>Interpretation</heading>
+            <num>2.</num>
+            <content>
+               <p>In these Regulations, “the 2005 Regulations” means the Police (Retention and Disposal of Motor Vehicles) (Scotland) Regulations 2005<noteRef href="#f00002" class="footnote" marker="2"/>.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-3">
+            <heading>Amendment of the 2005 Regulations</heading>
+            <num>3.</num>
+            <paragraph eId="regulation-3-1">
+               <num>(1)</num>
+               <content>
+                  <p>The 2005 Regulations are amended in accordance with paragraphs<span ukl:Name="NonBreakingSpace"> </span>(2) to (4).</p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-2">
+               <num>(2)</num>
+               <content>
+                  <p>In regulation 2 (interpretation), insert the following definitions at the appropriate places—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“laden” means that the vehicle is carrying a load;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“load” means anything which, in the reasonable opinion of a constable, complicates or impedes the removal of the vehicle other than—</p>
+                                 <blockList>
+                                    <item>
+                                       <num>(a)</num>
+                                       <p>the body and all parts of the vehicle which are necessary to or ordinarily used with the vehicle when working on a road;</p>
+                                    </item>
+                                    <item>
+                                       <num>(b)</num>
+                                       <p>any water, fuel or accumulators used for the purpose of the supply of power for the propulsion of the vehicle;</p>
+                                    </item>
+                                    <item>
+                                       <num>(c)</num>
+                                       <p>the driver, any passengers and their personal effects;</p>
+                                    </item>
+                                    <item>
+                                       <num>(d)</num>
+                                       <p>a crane, works truck as defined in regulation 3(2) of the Road Vehicles (Construction and Use) Regulations 1986<noteRef href="#f00003" class="footnote" marker="3"/>, or other special appliance or apparatus which is a permanent or essentially permanent fixture of the vehicle; and</p>
+                                    </item>
+                                    <item>
+                                       <num>(e)</num>
+                                       <p>any containers or other equipment intended or adapted for the purpose of holding or carrying a load by the vehicle;</p>
+                                    </item>
+                                 </blockList>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“MAM” means maximum authorised mass as defined in regulation 3(1) of the Motor Vehicles (Driving Licences) Regulations 1999<noteRef href="#f00004" class="footnote" marker="4"/> and, for the purposes of regulation 6, includes the MAM of any trailer attached to a vehicle;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“off road” means that no part of the vehicle is in contact with the road, or that, in the reasonable opinion of a constable, the vehicle’s location is such that removal of the vehicle is of comparable complexity to a vehicle that is not in contact with the road;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“on road” means that any part of the vehicle is in contact with the road, and that, in the reasonable opinion of a constable, the vehicle’s location is not such that removal of the vehicle is of comparable complexity to a vehicle that is not in contact with the road;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“operator” means any person lawfully removing the vehicle;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“road” has the same meaning as in section 151 of the Roads (Scotland) Act 1984<noteRef href="#f00005" class="footnote" marker="5"/>;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“significantly damaged” means that, in the reasonable opinion of a constable, there is significant damage to the vehicle such that it renders the removal of the vehicle complex;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“two wheeled vehicle” means a mechanically propelled vehicle constructed or adapted to have two wheels or fewer and the MAM of which does not exceed 3.5 tonnes;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“unladen” means that the vehicle is not carrying a load;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">,</inline>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“upright” means that, in the reasonable opinion of a constable, the vehicle is upright to such an extent that its removal is not complicated or impeded;</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <hcontainer name="definition">
+                              <content>
+                                 <p>“vehicle” means any motor vehicle and includes any chassis or body, with or without wheels, appearing to have formed part of such a vehicle and anything attached to such a vehicle.</p>
+                              </content>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-3">
+               <num>(3)</num>
+               <content>
+                  <p>For regulation 6 substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <section>
+                              <num>6.</num>
+                              <subsection>
+                                 <num>(1)</num>
+                                 <intro>
+                                    <p>The charge payable under regulation 5(1) is—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>in respect of the removal of the vehicle, the amount determined by reference to paragraphs<span ukl:Name="NonBreakingSpace"> </span>(2) and (3); and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>in respect of the retention of the vehicle, the amount determined under paragraph<span ukl:Name="NonBreakingSpace"> </span>(4).</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Subject to paragraph (3), the amount for removal of a vehicle of the type and in the position and condition described in column 1 of the table in Part 1 of the schedule, is the applicable amount specified in the corresponding entry in columns 2 to 5 of that table.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(3)</num>
+                                 <intro>
+                                    <p>There is added to the amount determined under paragraph (2)—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>a charge of £1.10 for every mile that the operator is required to travel in excess of 40 miles (starting from, and ending at, its base of operations) in order to remove the vehicle and store, retain or hold it in custody, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>a charge of £125 for each journey the operator is required to make by ferry in order to remove the vehicle and store, retain or hold it in custody at its base of operations.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                              <subsection>
+                                 <num>(4)</num>
+                                 <content>
+                                    <p>The amount for each 24 hour period during which a vehicle of the type and MAM specified in column 1 of the table in Part 2 of the schedule is in the custody of the retaining authority, is the amount specified in the corresponding entry in column 2 of that table.</p>
+                                 </content>
+                              </subsection>
+                              <subsection>
+                                 <num>(5)</num>
+                                 <intro>
+                                    <p>For the purposes of paragraph (4)—</p>
+                                 </intro>
+                                 <paragraph>
+                                    <num>(a)</num>
+                                    <content>
+                                       <p>the first 24 hour period begins at noon on the first day that the vehicle is retained at a place where it can be claimed before noon of that day, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(b)</num>
+                                    <content>
+                                       <p>the amount is payable in respect of any part of a 24 hour period during which the vehicle is retained.</p>
+                                    </content>
+                                 </paragraph>
+                              </subsection>
+                           </section>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </paragraph>
+            <paragraph eId="regulation-3-4">
+               <num>(4)</num>
+               <content>
+                  <p>As the schedule of the 2005 Regulations, insert the schedule set out in the schedule of these Regulations.</p>
+               </content>
+            </paragraph>
+         </hcontainer>
+         <hcontainer name="regulation" eId="regulation-4">
+            <heading>Saving</heading>
+            <num>4.</num>
+            <content>
+               <p>The amendments made to the 2005 Regulations by these Regulations do not apply in relation to vehicles removed prior to 10 October 2019.</p>
+            </content>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">HUMZA YOUSAF</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">A member of the Scottish Government</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-06-25">25th June 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="schedules">
+            <hcontainer name="schedule" eId="schedule">
+               <num>SCHEDULE<authorialNote class="referenceNote">
+                     <p>Regulation<span ukl:Name="NonBreakingSpace"> </span>3(4)</p>
+                  </authorialNote>
+               </num>
+               <content>
+                  <p>
+                     <mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="schedule">
+                           <hcontainer name="schedule">
+                              <num>SCHEDULE<authorialNote class="referenceNote">
+                                    <p>Regulation<span ukl:Name="NonBreakingSpace"> </span>6</p>
+                                 </authorialNote>
+                              </num>
+                              <heading>Charges in relation to the removal and retention of a motor vehicle</heading>
+                              <part>
+                                 <num>PART 1</num>
+                                 <heading>Removal of a motor vehicle</heading>
+                                 <content>
+                                    <tblock class="tabular" ukl:Orientation="portrait">
+                                       <foreign>
+                                          <table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+                                             <colgroup>
+                                                <col width="85.3pt"/>
+                                                <col width="85.3pt"/>
+                                                <col width="85.3pt"/>
+                                                <col width="85.3pt"/>
+                                                <col width="85.3pt"/>
+                                             </colgroup>
+                                             <thead>
+                                                <tr>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 1</i>
+                                                      </b>
+                                                   </th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 2</i>
+                                                      </b>
+                                                   </th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 3</i>
+                                                      </b>
+                                                   </th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 4</i>
+                                                      </b>
+                                                   </th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 5</i>
+                                                      </b>
+                                                   </th>
+                                                </tr>
+                                                <tr>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vehicle type, position and condition</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vehicle equal to or less than 3.5 tonnes MAM</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vehicle exceeding 3.5 tonnes MAM and equal to or less than 7.5 tonnes MAM</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Vehicle exceeding 7.5 tonnes MAM and equal to or less than 18 tonnes MAM</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Vehicle exceeding 18 tonnes MAM</th>
+                                                </tr>
+                                             </thead>
+                                             <tbody>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any two-wheeled vehicle whatever its condition or position on or off road</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£190</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">–</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">–</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">–</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other vehicle, on road, which is upright and is not significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£190</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£250</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£440</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£440</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other unladen vehicle on road which is not upright or is significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£315</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£820</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£2525</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£3790</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other laden vehicle on road which is not upright or is significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£315</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£820</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£3790</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£5680</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other unladen vehicle off road, which is upright and is not significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£250</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£505</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£1260</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£1890</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other laden vehicle off road, which is upright and is not significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£250</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£505</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£1890</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£2525</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other unladen vehicle off road which is not upright or is significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£380</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£1075</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£3790</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£5680</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other laden vehicle off road which is not upright or is significantly damaged</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£380</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£1075</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£5680</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£7570</td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </foreign>
+                                    </tblock>
+                                 </content>
+                              </part>
+                              <part>
+                                 <num>PART 2</num>
+                                 <heading>Retention of a motor vehicle</heading>
+                                 <content>
+                                    <tblock class="tabular" ukl:Orientation="portrait">
+                                       <foreign>
+                                          <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                             <colgroup>
+                                                <col width="213.2pt"/>
+                                                <col width="213.2pt"/>
+                                             </colgroup>
+                                             <thead>
+                                                <tr>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 1</i>
+                                                      </b>
+                                                   </th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">
+                                                      <b xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+                                                         <i>Column 2</i>
+                                                      </b>
+                                                   </th>
+                                                </tr>
+                                                <tr>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Type and MAM of vehicle</th>
+                                                   <th xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">Charge payable for each 24 hour period</th>
+                                                </tr>
+                                             </thead>
+                                             <tbody>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any two wheeled vehicle</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£13</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other vehicle, equal to or less than 3.5 tonnes MAM</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£25</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other vehicle exceeding 3.5 tonnes MAM and equal to or less than 7.5 tonnes MAM</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£32</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other vehicle exceeding 7.5 tonnes MAM and equal to or less than 18 tonnes MAM</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£38</td>
+                                                </tr>
+                                                <tr>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">Any other vehicle exceeding 18 tonnes MAM</td>
+                                                   <td xmlns:fo="http://www.w3.org/1999/XSL/Format" rowspan="1" colspan="1" align="center" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£44</td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </foreign>
+                                    </tblock>
+                                 </content>
+                              </part>
+                           </hcontainer>
+                        </quotedStructure>
+                     </mod>
+                  </p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations are made under sections 127 and 141 of the Antisocial Behaviour etc. (Scotland) Act 2004 (“the 2004 Act”) and amend the Police (Retention and Disposal of Motor Vehicles) (Scotland) Regulations 2005 (“the 2005 Regulations”).</p>
+            <p>Under section 126 of the 2004 Act the police have certain powers to seize and remove motor vehicles. Section 127 of the 2004 Act allows for Regulations to make provision for charges in relation to the removal and retention of motor vehicles and applications for their release. Section 141 of the 2004 Act allows for Regulations to make different provision for different cases or descriptions of case or for different purposes.</p>
+            <p>These Regulations amend regulation 6 of the 2005 Regulations.</p>
+            <p>These Regulations provide for the amounts payable in respect of removal and retention of vehicles as set out in Parts 1 and 2 of the schedule. The amount of the charge payable in respect of those matters is now determined by the type or size of a vehicle, and by the circumstances under which it is removed. In terms of removal of a vehicle, the Regulations also make provision for additional charges in certain circumstances: a mileage charge of £1.10 per mile is applied where the operator is required to travel in excess of 40 miles to remove and retain a vehicle; and a ferry charge of £125 is applied for every single journey by ferry the operator is required to make to remove and retain a vehicle.</p>
+            <p>A Business and Regulatory Impact Assessment has been prepared for these Regulations and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Environment and Forestry Directorate, Zero Waste Delivery Team, Victoria Quay, Edinburgh EH6 6QQ.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

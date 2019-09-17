@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/140"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/140"/>
+               <FRBRdate date="2019-04-17" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="order"/>
+               <FRBRnumber value="140"/>
+               <FRBRname value="S.S.I. 2019/140"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/140/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/140/made"/>
+               <FRBRdate date="2019-04-17" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/140/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/140/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-04-17" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-04-18" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-05-18" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00002" href="http://www.legislation.gov.uk/id/asp/2013/3">2013 asp 3</ref>. Section 4 was amended by the Courts Reform (Scotland) Act <ref eId="c00003" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 (asp 18)</ref>, schedule 5, paragraph 31(3), and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act <ref eId="c00004" href="http://www.legislation.gov.uk/id/asp/2016/2">2016 (asp 2)</ref>, schedule 1, paragraph 1(4).</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>
+                  <ref eId="c00005" href="http://www.legislation.gov.uk/id/asp/2014/18">2014 asp 18</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>
+                  <ref eId="c00006" href="http://www.legislation.gov.uk/id/uksi/1999/929">S.I. 1999/929</ref>, last amended by <ref eId="c00007" href="http://www.legislation.gov.uk/id/ssi/2017/460">S.S.I. 2017/460</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>Part XLIX was inserted by <ref eId="c00008" href="http://www.legislation.gov.uk/id/ssi/2017/386">S.S.I. 2017/386</ref>.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111041925"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 140</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Sheriff Court</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>Act of Sederunt (Summary Applications, Statutory Applications and Appeals <abbr title="et cetera" xml:lang="la">etc.</abbr> Rules Amendment) (Labour Market Enforcement Orders) 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-04-17">17th April 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-04-18">18th April 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-05-18">18th May 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013<noteRef href="#f00001" class="footnote" marker="1"/>, the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate.</p>
+         <formula name="enactingText">
+            <p>The Court of Session therefore makes this Act of Sederunt under the powers conferred by section<span ukl:Name="NonBreakingSpace"> </span>104(1) of the Courts Reform (Scotland) Act 2014<noteRef href="#f00002" class="footnote" marker="2"/> and all other powers enabling it to do so.</p>
+         </formula>
+      </preamble>
+      <body>
+         <article eId="article-1">
+            <heading>Citation and commencement, etc.</heading>
+            <num>1.</num>
+            <paragraph eId="article-1-1">
+               <num>(1)</num>
+               <content>
+                  <p>This Act of Sederunt may be cited as the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Labour Market Enforcement Orders) 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-2">
+               <num>(2)</num>
+               <content>
+                  <p>It comes into force on 18th May 2019.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-1-3">
+               <num>(3)</num>
+               <content>
+                  <p>A certified copy is to be inserted in the Books of Sederunt.</p>
+               </content>
+            </paragraph>
+         </article>
+         <article eId="article-2">
+            <heading>Amendment of the Summary Application Rules 1999</heading>
+            <num>2.</num>
+            <paragraph eId="article-2-1">
+               <num>(1)</num>
+               <content>
+                  <p>The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999<noteRef href="#f00003" class="footnote" marker="3"/> is amended in accordance with this paragraph.</p>
+               </content>
+            </paragraph>
+            <paragraph eId="article-2-2">
+               <num>(2)</num>
+               <intro>
+                  <p>In Part XLIX (illegal working orders)<noteRef href="#f00004" class="footnote" marker="4"/>—</p>
+               </intro>
+               <subparagraph eId="article-2-2-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in the Part heading, after “WORKING” insert “AND LABOUR MARKET ENFORCEMENT”;</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="article-2-2-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>after rule 3.49.3 (applications for compensation) insert—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <article>
+                                 <num>3.49.4.</num>
+                                 <heading>Labour market enforcement orders</heading>
+                                 <paragraph>
+                                    <num>(1)</num>
+                                    <content>
+                                       <p>An application under section 19 of the Act is to contain details of any labour market enforcement order made under section 18 of the Act which is already in force in respect of the subject of the application.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(2)</num>
+                                    <content>
+                                       <p>An application under section 23 of the Act for variation or discharge of a labour market enforcement order made under section 18 of the Act is to be made by minute in the process relating to the order.</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(3)</num>
+                                    <intro>
+                                       <p>Where an application referred to in paragraph (2) is made in a sheriff court other than the sheriff court in which the process relating to the order is held—</p>
+                                    </intro>
+                                    <subparagraph>
+                                       <num>(a)</num>
+                                       <content>
+                                          <p>the sheriff clerk with whom the application is lodged is to notify the sheriff clerk of the sheriff court in which the process relating to the order is held; and</p>
+                                       </content>
+                                    </subparagraph>
+                                    <subparagraph>
+                                       <num>(b)</num>
+                                       <content>
+                                          <p>the sheriff clerk of the sheriff court in which the process relating to the order is held is, not later than 4 days after receipt of such notification, to transfer the process relating to the order to the sheriff clerk of the sheriff court in which the application is made.</p>
+                                       </content>
+                                    </subparagraph>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(4)</num>
+                                    <content>
+                                       <p>For the purposes of paragraph (3), the sheriff court in which the process relating to the order is held is the sheriff court in which the order was made or, where the process has been transferred under that paragraph, the last sheriff court to which the process has been transferred.</p>
+                                    </content>
+                                 </paragraph>
+                              </article>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </paragraph>
+         </article>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">CJM SUTHERLAND</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Lord President</role>
+                  </block>
+                  <block name="department">
+                     <organization refersTo="#">I.P.D.</organization>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-04-17">17th April 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Act of Sederunt)</block>
+            <p>This Act of Sederunt amends the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999. It makes provision for applications for labour market enforcement orders under section 19 of the Immigration Act <ref eId="c00001" href="http://www.legislation.gov.uk/id/ukpga/2016/19">2016 (c.19)</ref> to be made by summary application and for applications for their variation or discharge to be made by minute in the process of the original order.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>

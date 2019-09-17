@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:uk="https://www.legislation.gov.uk/namespaces/UK-AKN" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cos01/part2-specs/schemas/akomantoso30.xsd">
+   <act name="ssi">
+      <meta xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+         <identification source="#">
+            <FRBRWork>
+               <FRBRthis value="http://www.legislation.gov.uk/id/ssi/2019/32"/>
+               <FRBRuri value="http://www.legislation.gov.uk/id/ssi/2019/32"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="http://www.legislation.gov.uk/id/government/scotland"/>
+               <FRBRcountry value="GB-SCT"/>
+               <FRBRsubtype value="regulation"/>
+               <FRBRnumber value="32"/>
+               <FRBRname value="S.S.I. 2019/32"/>
+               <FRBRprescriptive value="true"/>
+            </FRBRWork>
+            <FRBRExpression>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/32/made"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/32/made"/>
+               <FRBRdate date="2019-02-05" name="made"/>
+               <FRBRauthor href="#"/>
+               <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+               <FRBRthis value="http://www.legislation.gov.uk/ssi/2019/32/made/data.akn"/>
+               <FRBRuri value="http://www.legislation.gov.uk/ssi/2019/32/made/data.akn"/>
+               <FRBRdate date="2019-09-16-04:00" name="transform"/>
+               <FRBRauthor href="http://www.legislation.gov.uk"/>
+               <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+         </identification>
+         <lifecycle source="#">
+            <eventRef refersTo="#made" date="2019-02-05" eId="date-made" source="#"/>
+            <eventRef refersTo="#laid" date="2019-02-07" eId="date-laid-1" source="#scottish-parliament"/>
+            <eventRef refersTo="#coming-into-force" date="2019-03-28" eId="date-cif-1" source="#"/>
+         </lifecycle>
+         <references source="#">
+            <TLCOrganization eId="scottish-parliament" href="" showAs="ScottishParliament"/>
+            <TLCEvent eId="made" href="" showAs="Made"/>
+            <TLCEvent eId="laid" href="" showAs="Laid"/>
+            <TLCEvent eId="cif" href="" showAs="ComingIntoForce"/>
+         </references>
+         <notes source="#">
+            <note class="footnote" eId="f00001">
+               <p>
+                  <ref eId="c00003" href="http://www.legislation.gov.uk/id/ukpga/1990/16">1990 c.16</ref>. Section 1(1) and (2) (definition of “food”) was substituted by <ref eId="c00004" href="http://www.legislation.gov.uk/id/uksi/2004/2990">S.I. 2004/2990</ref>. Sections 16(2), 17(1) and (2), and 48(1) were amended by paragraph 8 of schedule 5 of the Food Standards Act <ref eId="c00005" href="http://www.legislation.gov.uk/id/ukpga/1999/28">1999 (c.28)</ref> (“the 1999 Act”). Section 17(1) was also amended by paragraph 12(a) of schedule 5 of the 1999 Act. Section 26(3) was amended by paragraph 1 of schedule 6 of the 1999 Act. By virtue of section 40(2) of the 1999 Act, amendments made by schedule 5 of that Act are to be taken as pre-commencement enactments for the purposes of the Scotland Act <ref eId="c00006" href="http://www.legislation.gov.uk/id/ukpga/1998/46">1998 (c.46)</ref> (“the 1998 Act”). The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by <ref eId="c00007" href="http://www.legislation.gov.uk/id/uksi/2005/849">S.I. 2005/849</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00002">
+               <p>Section 48(4A) was inserted by paragraph 21 of schedule 5 of the 1999 Act. The reference in that subsection to the Food Standards Agency is, by virtue of section 48(6) of the 1990 Act, to be read as a reference to Food Standards Scotland. Section 48(6) was inserted by paragraph 3(11) of the Food (Scotland) Act <ref eId="c00008" href="http://www.legislation.gov.uk/id/asp/2015/1">2015 (asp 1)</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00003">
+               <p>OJ L 31, 1.2.2002, p.1. Section 48(4) is disapplied in respect of these Regulations by virtue of section 48(4C) which was inserted by regulation 5(b) of <ref eId="c00009" href="http://www.legislation.gov.uk/id/uksi/2004/2990">S.I. 2004/2990</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00004">
+               <p>
+                  <ref eId="c00010" href="http://www.legislation.gov.uk/id/ssi/2012/318">S.S.I. 2012/318</ref>.</p>
+            </note>
+            <note class="footnote" eId="f00005">
+               <p>OJ L 230, 25.8.2016, p.22.</p>
+            </note>
+            <note class="footnote" eId="f00006">
+               <p>OJ L 41, 14.2.2018, p.6.</p>
+            </note>
+         </notes>
+         <proprietary source="#">
+            <ukm:Year Value="2019"/>
+            <ukm:ISBN Value="9780111040782"/>
+         </proprietary>
+      </meta>
+      <preface>
+         <block name="banner">Scottish Statutory Instruments</block>
+         <block name="number">
+            <docNumber>2019 No. 32</docNumber>
+         </block>
+         <container name="subjects">
+            <container name="subject">
+               <block name="title">
+                  <concept refersTo="#">Food</concept>
+               </block>
+            </container>
+         </container>
+         <block name="title">
+            <shortTitle>The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019</shortTitle>
+         </block>
+         <block name="madeDate">
+            <span>Made</span>
+            <docDate date="2019-02-05">5th February 2019</docDate>
+         </block>
+         <block name="laidDate">
+            <span>Laid before the Scottish Parliament</span>
+            <docDate date="2019-02-07">7th February 2019</docDate>
+         </block>
+         <block name="comingIntoForce">
+            <span>Coming into force</span>
+            <docDate date="2019-03-28">28th March 2019</docDate>
+         </block>
+      </preface>
+      <preamble>
+         <p>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 16(2), 17(1) and (2), 26(1)(a), (2)(a) and (3) and 48(1) of the Food Safety Act 1990<noteRef href="#f00001" class="footnote" marker="1"/> and all other powers enabling them to do so.</p>
+         <p>In accordance with section 48(4A) of the Food Safety Act 1990<noteRef href="#f00002" class="footnote" marker="2"/>, the Scottish Ministers have had regard to relevant advice given by Food Standards Scotland.</p>
+         <formula name="enactingText">
+            <p>There has been consultation as required by Article 9 of Regulation <ref eId="c00001" href="http://www.legislation.gov.uk/european/regulation/2002/0178">(EC) No. 178/2002</ref> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety<noteRef href="#f00003" class="footnote" marker="3"/>.</p>
+         </formula>
+      </preamble>
+      <body>
+         <hcontainer name="crossheading" eId="d1963e221">
+            <heading>Citation and commencement</heading>
+            <hcontainer name="regulation" eId="regulation-1">
+               <num>1.</num>
+               <content>
+                  <p>These Regulations may be cited as the Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 and come into force on 28 March 2019.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="crossheading" eId="d1963e239">
+            <heading>Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012</heading>
+            <hcontainer name="regulation" eId="regulation-2">
+               <num>2.</num>
+               <content>
+                  <p>The Materials and Articles in Contact with Food (Scotland) Regulations 2012<noteRef href="#f00004" class="footnote" marker="4"/> are amended in accordance with regulations 3 to 11.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-3">
+               <num>3.</num>
+               <intro>
+                  <p>In regulation 2 (interpretation)—</p>
+               </intro>
+               <subparagraph eId="regulation-3-a">
+                  <num>(a)</num>
+                  <intro>
+                     <p>in paragraph (1)—</p>
+                  </intro>
+                  <clause eId="regulation-3-a-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>at the end of the definition of “Regulation 10/2011” add “, as amended by Commission Regulation (EU) 2016/1416<noteRef href="#f00005" class="footnote" marker="5"/>”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-3-a-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>after the definition of “Regulation 10/2011”, insert the following definition—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <hcontainer name="definition">
+                                    <content>
+                                       <p>“Regulation 2018/213” means <ref eId="c00002" href="http://www.legislation.gov.uk/european/regulation/1921/2018">Commission Regulation (EU) No. 2018/21</ref>3 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No. 10/2011 as regards the use of that substance in plastic food contact materials<noteRef href="#f00006" class="footnote" marker="6"/>;</p>
+                                    </content>
+                                 </hcontainer>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">, and</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+               <subparagraph eId="regulation-3-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>for paragraph (2) substitute—<mod>
+                           <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                              <subsection>
+                                 <num>(2)</num>
+                                 <content>
+                                    <p>Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011, or Regulation 2018/213 bear the same meaning in these Regulations as they bear in those Regulations.</p>
+                                 </content>
+                              </subsection>
+                           </quotedStructure>
+                        </mod>
+                        <inline name="AppendText">.</inline>
+                     </p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-4">
+               <num>4.</num>
+               <content>
+                  <p>For regulation 15 (competent authorities for the purposes of Regulation 10/2011) substitute—<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <article>
+                              <num>15.</num>
+                              <heading>Competent authorities for the purposes of Regulation 10/2011</heading>
+                              <intro>
+                                 <p>The competent authorities for the purposes of Regulation 10/2011—</p>
+                              </intro>
+                              <subparagraph>
+                                 <num>(a)</num>
+                                 <content>
+                                    <p>Article 8 (general requirement on substances), and</p>
+                                 </content>
+                              </subparagraph>
+                              <subparagraph>
+                                 <num>(b)</num>
+                                 <content>
+                                    <p>Article 16(1) (supporting documents),</p>
+                                 </content>
+                              </subparagraph>
+                              <wrapUp>
+                                 <p>are Food Standards Scotland and each food authority in its area.</p>
+                              </wrapUp>
+                           </article>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-5">
+               <num>5.</num>
+               <content>
+                  <p>After regulation 17 insert —<mod>
+                        <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="secondary" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                           <part>
+                              <num>PART 7A</num>
+                              <heading>Requirements for bisphenol A</heading>
+                              <article>
+                                 <num>17A.</num>
+                                 <heading>Interpretation of Part 7A</heading>
+                                 <content>
+                                    <p>In this Part any reference to a numbered Article is a reference to that Article so numbered in Regulation 2018/213.</p>
+                                 </content>
+                              </article>
+                              <article>
+                                 <num>17B.</num>
+                                 <heading>Offences of contravening specified provisions of Regulation 2018/213</heading>
+                                 <content>
+                                    <p>Subject to Article 6, no person shall place on the market any varnished or coated material or article that does not comply with the requirements of Article 2.</p>
+                                 </content>
+                              </article>
+                              <article>
+                                 <num>17C.</num>
+                                 <heading>Competent authorities for the purposes of Regulation 2018/213</heading>
+                                 <content>
+                                    <p>The national competent authority for the purposes of Article 4(3) is Food Standards Scotland and each food authority in its area.</p>
+                                 </content>
+                              </article>
+                           </part>
+                        </quotedStructure>
+                     </mod>
+                     <inline name="AppendText">.</inline>
+                  </p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-6">
+               <num>6.</num>
+               <intro>
+                  <p>In regulation 19 (offences and penalties)—</p>
+               </intro>
+               <subparagraph eId="regulation-6-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1) after “12(8)” insert “, 17B”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (2) after “Regulation 10/2011 “ insert “, Regulation 2018/213”,</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-6-c">
+                  <num>(c)</num>
+                  <content>
+                     <p>in paragraph (3) after “that” insert “a”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-7">
+               <num>7.</num>
+               <intro>
+                  <p>In regulation 20 (execution and enforcement)—</p>
+               </intro>
+               <subparagraph eId="regulation-7-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (1)(a) for “and Regulation 10/2011” substitute “, Regulation 10/2011 and Regulation 2018/213”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-7-b">
+                  <num>(b)</num>
+                  <intro>
+                     <p>in paragraph (2)—</p>
+                  </intro>
+                  <clause eId="regulation-7-b-i">
+                     <num>(i)</num>
+                     <content>
+                        <p>after sub-paragraph (a) omit “and”,</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-b-ii">
+                     <num>(ii)</num>
+                     <content>
+                        <p>in sub-paragraph (b) for “Regulation 450/2009.” substitute “Regulation 450/2009,”, and</p>
+                     </content>
+                  </clause>
+                  <clause eId="regulation-7-b-iii">
+                     <num>(iii)</num>
+                     <content>
+                        <p>after sub -paragraph (b) add—<mod>
+                              <quotedStructure startQuote="“" endQuote="”" ukl:TargetClass="unknown" ukl:TargetSubClass="unknown" ukl:Context="unknown">
+                                 <paragraph>
+                                    <num>(c)</num>
+                                    <content>
+                                       <p>Article 16(1) of Regulation 10/2011, and</p>
+                                    </content>
+                                 </paragraph>
+                                 <paragraph>
+                                    <num>(d)</num>
+                                    <content>
+                                       <p>Article 4(3) of Regulation 2018/213.</p>
+                                    </content>
+                                 </paragraph>
+                              </quotedStructure>
+                           </mod>
+                           <inline name="AppendText">.</inline>
+                        </p>
+                     </content>
+                  </clause>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-8">
+               <num>8.</num>
+               <content>
+                  <p>In regulation 23(2) (time limit for prosecutions) for “or 19(2) or (3)” substitute “, 19(2), (3) or (4)”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-9">
+               <num>9.</num>
+               <content>
+                  <p>In regulation 24(2) (general defences) after “16(4)” insert “, 17B”.</p>
+               </content>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-10">
+               <num>10.</num>
+               <intro>
+                  <p>In regulation 27 (application of various provisions of the Act)—</p>
+               </intro>
+               <subparagraph eId="regulation-10-a">
+                  <num>(a)</num>
+                  <content>
+                     <p>in paragraph (2) for “or Regulation 10/2011” substitute “, Regulation 10/2011 or Regulation 2018/213”, and</p>
+                  </content>
+               </subparagraph>
+               <subparagraph eId="regulation-10-b">
+                  <num>(b)</num>
+                  <content>
+                     <p>in paragraph (3) for “or Regulation 10/2011” substitute “, Regulation 10/2011 or Regulation 2018/213”.</p>
+                  </content>
+               </subparagraph>
+            </hcontainer>
+            <hcontainer name="regulation" eId="regulation-11">
+               <num>11.</num>
+               <content>
+                  <p>In the table in schedule 1 (specified provisions of regulation 10/2011) in the first column (specified provision) for “Article 11(1) and (2) and Annex I, as read with Article 11(3)” substitute “Article 11(1) and Annex I, as read with Article 11(3) and (4)”.</p>
+               </content>
+            </hcontainer>
+         </hcontainer>
+         <hcontainer name="signatures">
+            <hcontainer name="signature">
+               <content>
+                  <block name="signee">
+                     <person refersTo="#">JOE FITZPATRICK</person>
+                  </block>
+                  <block name="jobTitle">
+                     <role refersTo="#">Authorised to sign by the Scottish Ministers</role>
+                  </block>
+                  <blockContainer uk:name="address" class="address">
+                     <p>
+                        <location refersTo="#">St Andrew’s House,</location>
+                     </p>
+                     <p>
+                        <location refersTo="#">Edinburgh</location>
+                     </p>
+                  </blockContainer>
+                  <block name="date">
+                     <date date="2019-02-05">5th February 2019</date>
+                  </block>
+               </content>
+            </hcontainer>
+         </hcontainer>
+      </body>
+      <conclusions>
+         <blockContainer class="explanatoryNotes">
+            <heading>EXPLANATORY NOTE</heading>
+            <block name="comment">(This note is not part of the Regulations)</block>
+            <p>These Regulations amend the Materials and Articles in Contact with Food (Scotland) Regulations 2012 (“the 2012 Regulations”). These Regulations provide for the enforcement of Commission Regulation (EU) 2018/213 (“Regulation 2018/213”) on the use of bisphenol A (“BPA”) in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No 10/2011 as it applies to the use of that substance in plastic food contact materials (OJ L 41, 14.2.2018, p.6). These Regulations also make other minor amendments.</p>
+            <p>These Regulations amend the 2012 Regulations as follows—</p>
+            <blockList>
+               <item>
+                  <num>a)</num>
+                  <p>amendments in relation to definitions of EU legislation (regulation 3);</p>
+               </item>
+               <item>
+                  <num>b)</num>
+                  <p>amendment to regulation 15 in relation to competent authorities (regulation 4);</p>
+               </item>
+               <item>
+                  <num>c)</num>
+                  <p>inserting a new Part 7A, comprising regulations 17A to 17C, to provide for the enforcement of provisions of Regulation 2018/213 on the use of BPA in varnishes and coatings intended to come into contact with food for the purposes of Regulation 2018/213 (regulation 5);</p>
+               </item>
+               <item>
+                  <num>d)</num>
+                  <p>amendment to regulation 19 (offences and penalties) to make it an offence to obstruct a person acting in the execution of powers under Regulation 2018/213 and to provide for sentencing in relation to the offence created by inserted regulation 17B (regulation 6);</p>
+               </item>
+               <item>
+                  <num>e)</num>
+                  <p>amendment to regulation 20 (execution and enforcement) to include reference to Regulation 10/2011 and Regulation 2018/213 (regulation 7);</p>
+               </item>
+               <item>
+                  <num>f)</num>
+                  <p>amendment to regulation 23 (time limit for prosecutions) to cover provision in regulation 19(4) (regulation 8);</p>
+               </item>
+               <item>
+                  <num>g)</num>
+                  <p>amendment to regulation 24 (general defences) to include reference to the offence created by new regulation 17B (regulation 9);</p>
+               </item>
+               <item>
+                  <num>h)</num>
+                  <p>amendment to regulation 27 to include reference to Regulation 2018/213 (regulation 10);</p>
+               </item>
+               <item>
+                  <num>i)</num>
+                  <p>amendment to the schedule (regulation 11).</p>
+               </item>
+            </blockList>
+            <p>A full Business and Regulatory Impact Assessment of the effect these Regulations will have on the costs of business, the voluntary sector and the public sector has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from Food Standards Scotland, Pilgrim House, Old Ford Road, Aberdeen, AB11 5RL.</p>
+         </blockContainer>
+      </conclusions>
+   </act>
+</akomaNtoso>
